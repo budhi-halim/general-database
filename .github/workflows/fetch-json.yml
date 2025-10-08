@@ -1,0 +1,36 @@
+name: Fetch JSON Data
+
+on:
+  schedule:
+    - cron: '0 1 * * 1-6'   # 8 AM Jakarta (UTC+7) = 1 AM UTC, Mon–Sat only
+  workflow_dispatch:          # allow manual runs
+
+jobs:
+  fetch-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run JSON fetcher
+        run: |
+          python src/main.py
+
+      - name: Commit and push updated JSON files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/sample_requests.json data/stock_requests.json data/sales_orders.json
+          git commit -m "Update JSON data [skip ci]" || echo "No changes to commit"
+          git push

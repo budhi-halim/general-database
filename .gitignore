@@ -1,0 +1,13 @@
+*
+
+!/.gitignore
+!/requirements.txt
+!/.github/
+!/.github/workflows/
+!/.github/workflows/fetch-json.yml
+!/src/
+!/src/main.py
+!/data/
+!/data/sample_requests.json
+!/data/stock_requests.json
+!/data/sales_orders.json
