@@ -30,7 +30,7 @@ SAMPLE_REQUEST_FILE: Path = DATA_DIR / "sample_requests.json"
 STOCK_REQUEST_FILE: Path = DATA_DIR / "stock_requests.json"
 SALES_ORDER_FILE: Path = DATA_DIR / "sales_orders.json"
 
-HTTP_TIMEOUT: int = 15
+HTTP_TIMEOUT: int = 60
 JAKARTA_UTC_OFFSET_HOURS: int = 7
 
 # ----------------------------
