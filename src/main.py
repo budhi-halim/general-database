@@ -12,7 +12,7 @@ from __future__ import annotations
 from datetime import datetime, timedelta, timezone as dt_timezone
 from pathlib import Path
 from typing import Any
-
+import time
 import json
 import requests
 from urllib.parse import urlencode
@@ -30,7 +30,9 @@ SAMPLE_REQUEST_FILE: Path = DATA_DIR / "sample_requests.json"
 STOCK_REQUEST_FILE: Path = DATA_DIR / "stock_requests.json"
 SALES_ORDER_FILE: Path = DATA_DIR / "sales_orders.json"
 
-HTTP_TIMEOUT: int = 60
+HTTP_TIMEOUT: int = 90          # seconds
+RETRY_LIMIT: int = 3            # number of retry attempts
+RETRY_DELAY: int = 5            # seconds between retries
 JAKARTA_UTC_OFFSET_HOURS: int = 7
 
 # ----------------------------
@@ -102,20 +104,28 @@ def get_sales_order_url() -> str:
 # FETCHING
 # ----------------------------
 def fetch_json(url: str) -> Any | None:
-    try:
-        response = requests.get(url, timeout=HTTP_TIMEOUT)
-        response.raise_for_status()
-        return response.json()
-    except requests.exceptions.Timeout:
-        print(f"Timeout while fetching {url}")
-    except requests.exceptions.ConnectionError:
-        print(f"Connection error while fetching {url}")
-    except requests.exceptions.HTTPError as e:
-        print(f"HTTP error while fetching {url}: {e}")
-    except requests.exceptions.RequestException as e:
-        print(f"Request exception while fetching {url}: {e}")
-    except json.JSONDecodeError:
-        print(f"Invalid JSON returned from {url}")
+    for attempt in range(1, RETRY_LIMIT + 1):
+        try:
+            response = requests.get(url, timeout=HTTP_TIMEOUT)
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.Timeout:
+            print(f"Timeout while fetching {url} (attempt {attempt}/{RETRY_LIMIT})")
+        except requests.exceptions.ConnectionError:
+            print(f"Connection error while fetching {url} (attempt {attempt}/{RETRY_LIMIT})")
+        except requests.exceptions.HTTPError as e:
+            print(f"HTTP error while fetching {url}: {e}")
+            break
+        except requests.exceptions.RequestException as e:
+            print(f"Request exception while fetching {url}: {e}")
+            break
+        except json.JSONDecodeError:
+            print(f"Invalid JSON returned from {url}")
+            break
+
+        if attempt < RETRY_LIMIT:
+            time.sleep(RETRY_DELAY)
+
     return None
 
 
