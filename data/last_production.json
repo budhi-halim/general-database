@@ -1,0 +1,4182 @@
+[
+  {
+    "date": "2022-09-12",
+    "customer": "BUN SOKHEN",
+    "product_code": "*31301300"
+  },
+  {
+    "date": "2020-08-26",
+    "customer": "BUN SOKHEN",
+    "product_code": "*31405718"
+  },
+  {
+    "date": "2022-09-12",
+    "customer": "BUN SOKHEN",
+    "product_code": "*31405720"
+  },
+  {
+    "date": "2020-01-08",
+    "customer": "BUN SOKHEN",
+    "product_code": "*31602140"
+  },
+  {
+    "date": "2025-09-23",
+    "customer": "CITA RASA SUKSES,PT",
+    "product_code": "01"
+  },
+  {
+    "date": "2025-09-10",
+    "customer": "SINAR MATAHARI SEJAHTERA,CV",
+    "product_code": "01-0014"
+  },
+  {
+    "date": "2025-05-30",
+    "customer": "CV.SUMBER PANGAN NUSANTARA",
+    "product_code": "01-0078"
+  },
+  {
+    "date": "2022-01-18",
+    "customer": "GL MALANG ",
+    "product_code": "01-0139"
+  },
+  {
+    "date": "2021-10-04",
+    "customer": "SUPRAPTO, BP.",
+    "product_code": "02-0080"
+  },
+  {
+    "date": "2021-02-02",
+    "customer": "TIMUR REJEKI",
+    "product_code": "02-0080 B"
+  },
+  {
+    "date": "2025-07-25",
+    "customer": "CAHAYA ANUGERAH SENTOSA",
+    "product_code": "02-0163"
+  },
+  {
+    "date": "2020-02-21",
+    "customer": "CHIK-CHIK",
+    "product_code": "04-0025"
+  },
+  {
+    "date": "2025-09-15",
+    "customer": "MAMAT RAHMAT",
+    "product_code": "04-0122"
+  },
+  {
+    "date": "2025-08-20",
+    "customer": "BINTANG TOP INDUSTRY, CV",
+    "product_code": "04-0136"
+  },
+  {
+    "date": "2025-08-12",
+    "customer": "BASUKI",
+    "product_code": "04-0137"
+  },
+  {
+    "date": "2025-08-20",
+    "customer": "BINTANG TOP INDUSTRY, CV",
+    "product_code": "04-0137 G"
+  },
+  {
+    "date": "2025-08-19",
+    "customer": "RENDY HARMAWAN",
+    "product_code": "06-0037 A"
+  },
+  {
+    "date": "2025-09-30",
+    "customer": "PT.DUTA PANGAN NUSANTARA ",
+    "product_code": "06-0091"
+  },
+  {
+    "date": "2025-08-11",
+    "customer": "FRANSEN ARDIANTO",
+    "product_code": "06-0091 E"
+  },
+  {
+    "date": "2025-09-25",
+    "customer": "BJ, TOKO",
+    "product_code": "06-0091 F"
+  },
+  {
+    "date": "2025-09-11",
+    "customer": "CV Rejo Makmur Jaya",
+    "product_code": "08-0127"
+  },
+  {
+    "date": "2022-11-10",
+    "customer": "PANEN UTAMA JAYA, PD",
+    "product_code": "15.18255"
+  },
+  {
+    "date": "2025-02-04",
+    "customer": "MENACOCO SARI, PT.",
+    "product_code": "1815"
+  },
+  {
+    "date": "2022-05-20",
+    "customer": "INDOSARI SARANA PANGAN ABADI,PT",
+    "product_code": "200 B"
+  },
+  {
+    "date": "2023-05-23",
+    "customer": "INDOFOOD CBP SUKSES MAKMUR TBK, PT.",
+    "product_code": "22337 D"
+  },
+  {
+    "date": "2022-05-27",
+    "customer": "INDOFOOD CBP SUKSES MAKMUR TBK, PT.",
+    "product_code": "22538 R "
+  },
+  {
+    "date": "2025-10-06",
+    "customer": "DUNKINDO LESTARI, PT.",
+    "product_code": "2422"
+  },
+  {
+    "date": "2025-10-02",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "31102194"
+  },
+  {
+    "date": "2021-05-10",
+    "customer": "IRWAN, BP.",
+    "product_code": "31102336"
+  },
+  {
+    "date": "2020-07-10",
+    "customer": "SHABUGRAM",
+    "product_code": "31102389"
+  },
+  {
+    "date": "2025-07-07",
+    "customer": "CV. BOGA RINSET INDONESIA",
+    "product_code": "31102390"
+  },
+  {
+    "date": "2024-02-05",
+    "customer": "Pt Wisnu Dewa Anugerah",
+    "product_code": "31102391"
+  },
+  {
+    "date": "2025-02-10",
+    "customer": "YORKINDO BOGA UTAMA, PT.",
+    "product_code": "31102449"
+  },
+  {
+    "date": "2024-09-21",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "31102450"
+  },
+  {
+    "date": "2022-07-23",
+    "customer": "ARDIAN WIJAYA",
+    "product_code": "31102565"
+  },
+  {
+    "date": "2025-06-25",
+    "customer": "ADABI CONSUMER INDUSTRIES SDN. BHD.",
+    "product_code": "31102593"
+  },
+  {
+    "date": "2025-01-30",
+    "customer": "BAGOES PRANAJAYA",
+    "product_code": "31102618"
+  },
+  {
+    "date": "2025-05-27",
+    "customer": "IWAN TEGUH RIANTO",
+    "product_code": "31102645"
+  },
+  {
+    "date": "2025-09-19",
+    "customer": "NISSIN FOODS INDONESIA.PT",
+    "product_code": "31102691"
+  },
+  {
+    "date": "2022-08-03",
+    "customer": "ERNA LESTARI",
+    "product_code": "31102701"
+  },
+  {
+    "date": "2024-08-01",
+    "customer": "PT. TRIO MAHA JAYA",
+    "product_code": "31102707"
+  },
+  {
+    "date": "2025-09-16",
+    "customer": "INTI SARI INTERNATIONAL, PT",
+    "product_code": "31102720"
+  },
+  {
+    "date": "2020-10-13",
+    "customer": "ADYABOGA PRANATA INDUSTRIES",
+    "product_code": "31102724"
+  },
+  {
+    "date": "2021-09-17",
+    "customer": "SINAR JAYA ABADI, PT",
+    "product_code": "31102734"
+  },
+  {
+    "date": "2020-12-15",
+    "customer": "SINAR JAYA ABADI, PT",
+    "product_code": "31102735"
+  },
+  {
+    "date": "2021-05-28",
+    "customer": "INTI SARI BERKAH, CV",
+    "product_code": "31102741"
+  },
+  {
+    "date": "2021-10-21",
+    "customer": "SINAR PALEMBANG",
+    "product_code": "31102773"
+  },
+  {
+    "date": "2022-12-02",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "31102778 "
+  },
+  {
+    "date": "2022-04-05",
+    "customer": "KO JOHAN",
+    "product_code": "31102813"
+  },
+  {
+    "date": "2025-09-15",
+    "customer": "NISSIN FOODS INDONESIA.PT",
+    "product_code": "31102845"
+  },
+  {
+    "date": "2025-07-02",
+    "customer": "UNITECH SUKSES MULIA, PT",
+    "product_code": "31102873"
+  },
+  {
+    "date": "2025-04-08",
+    "customer": "Marketing",
+    "product_code": "31102879"
+  },
+  {
+    "date": "2023-11-22",
+    "customer": "PT. TRIO MAHA JAYA",
+    "product_code": "31102923"
+  },
+  {
+    "date": "2025-06-17",
+    "customer": "ELSON BERNARDI,PT",
+    "product_code": "31102942"
+  },
+  {
+    "date": "2024-04-01",
+    "customer": "Pt Wisnu Dewa Anugerah",
+    "product_code": "31102968"
+  },
+  {
+    "date": "2025-09-09",
+    "customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+    "product_code": "31102992"
+  },
+  {
+    "date": "2025-09-09",
+    "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
+    "product_code": "31102997"
+  },
+  {
+    "date": "2025-09-02",
+    "customer": "PT. Pangan Mahkota Emas",
+    "product_code": "31103033"
+  },
+  {
+    "date": "2025-06-03",
+    "customer": "RBTEKNO MITRA INDONESIA",
+    "product_code": "31103051"
+  },
+  {
+    "date": "2022-08-25",
+    "customer": "Lilis Suryani",
+    "product_code": "31201245"
+  },
+  {
+    "date": "2025-08-27",
+    "customer": "BERGIZI, UD.",
+    "product_code": "31201247"
+  },
+  {
+    "date": "2025-09-08",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "31201375"
+  },
+  {
+    "date": "2024-07-29",
+    "customer": "WIDYA SNACK",
+    "product_code": "31201382"
+  },
+  {
+    "date": "2022-10-03",
+    "customer": "SUGIJANTORO",
+    "product_code": "31201413"
+  },
+  {
+    "date": "2021-11-05",
+    "customer": "PANGGIH TRIATMOKO (KALIBRASI)",
+    "product_code": "31201426"
+  },
+  {
+    "date": "2025-08-14",
+    "customer": "KEPITING JUMBO/IBU NUR",
+    "product_code": "31201440"
+  },
+  {
+    "date": "2021-03-18",
+    "customer": "TIRTO RUSMAN, BP",
+    "product_code": "31201441"
+  },
+  {
+    "date": "2024-09-05",
+    "customer": "SUMBER URIP SNACK, CV",
+    "product_code": "31201478"
+  },
+  {
+    "date": "2022-08-30",
+    "customer": "KHOIRUL AMIN",
+    "product_code": "31201493"
+  },
+  {
+    "date": "2025-08-09",
+    "customer": "PELANGI SNACK",
+    "product_code": "31201497"
+  },
+  {
+    "date": "2025-10-02",
+    "customer": "Anton Sutanto",
+    "product_code": "31201499"
+  },
+  {
+    "date": "2025-05-22",
+    "customer": "CV.SURYA MANDIRI",
+    "product_code": "31201531"
+  },
+  {
+    "date": "2021-01-26",
+    "customer": "IVAN MACARONI & SNACK",
+    "product_code": "31201533"
+  },
+  {
+    "date": "2022-10-21",
+    "customer": "ARDIANSYAH",
+    "product_code": "31201535"
+  },
+  {
+    "date": "2025-05-14",
+    "customer": "CV.TIGA ANUGERAH PANGAN",
+    "product_code": "31201539"
+  },
+  {
+    "date": "2025-08-19",
+    "customer": "Lidya Sulistyo",
+    "product_code": "31201542"
+  },
+  {
+    "date": "2025-07-22",
+    "customer": "PT. Rukun Mitra Sentosa",
+    "product_code": "31201573"
+  },
+  {
+    "date": "2025-01-17",
+    "customer": "SUGIJANTORO",
+    "product_code": "31201589"
+  },
+  {
+    "date": "2025-05-14",
+    "customer": "CV.TIGA ANUGERAH PANGAN",
+    "product_code": "31201596"
+  },
+  {
+    "date": "2023-02-23",
+    "customer": "SUKIRMAN",
+    "product_code": "31201609"
+  },
+  {
+    "date": "2023-05-24",
+    "customer": "ZAENUL MUSTHOFA",
+    "product_code": "31201617"
+  },
+  {
+    "date": "2023-06-20",
+    "customer": "HARAPAN SENTOSA, TK (081226451281)",
+    "product_code": "31201618"
+  },
+  {
+    "date": "2023-06-20",
+    "customer": "HARAPAN SENTOSA, TK (081226451281)",
+    "product_code": "31201619"
+  },
+  {
+    "date": "2024-03-18",
+    "customer": "PT. BOGA INDOMAKMUR ABADI",
+    "product_code": "31201644"
+  },
+  {
+    "date": "2025-10-08",
+    "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
+    "product_code": "31201653"
+  },
+  {
+    "date": "2025-04-11",
+    "customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+    "product_code": "31201655"
+  },
+  {
+    "date": "2025-09-26",
+    "customer": "ANEKA SARIVITA, PT.",
+    "product_code": "31201682"
+  },
+  {
+    "date": "2025-04-22",
+    "customer": "PT. MITRAGUNA PANGAN SNACKINDO",
+    "product_code": "31201688"
+  },
+  {
+    "date": "2025-09-15",
+    "customer": "CHAROEN POKPHAND INDONESIA,PT",
+    "product_code": "31301034"
+  },
+  {
+    "date": "2022-09-02",
+    "customer": "HOKKIE SNACK",
+    "product_code": "31301041"
+  },
+  {
+    "date": "2025-09-30",
+    "customer": "JERRY KOSWARA",
+    "product_code": "31301043"
+  },
+  {
+    "date": "2025-07-16",
+    "customer": "SITI MAESAROH",
+    "product_code": "31301078"
+  },
+  {
+    "date": "2025-09-22",
+    "customer": "Lidya Sulistyo",
+    "product_code": "31301094"
+  },
+  {
+    "date": "2025-10-01",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "31301156"
+  },
+  {
+    "date": "2021-12-10",
+    "customer": "HOKKIE SNACK",
+    "product_code": "31301183"
+  },
+  {
+    "date": "2025-10-02",
+    "customer": "SINAR KENCANA AGUNG, PT",
+    "product_code": "31301250"
+  },
+  {
+    "date": "2020-02-03",
+    "customer": "YUSUF, BP",
+    "product_code": "31301252"
+  },
+  {
+    "date": "2019-01-17",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "31301277"
+  },
+  {
+    "date": "2023-08-16",
+    "customer": "JACKY TANUJAYA",
+    "product_code": "31301299"
+  },
+  {
+    "date": "2025-01-24",
+    "customer": "IMAM SUWAJI",
+    "product_code": "31301300"
+  },
+  {
+    "date": "2025-08-18",
+    "customer": "MARGA LUSJAHARI,BP.",
+    "product_code": "31301351"
+  },
+  {
+    "date": "2021-01-14",
+    "customer": "HOKKIE SNACK",
+    "product_code": "31301403"
+  },
+  {
+    "date": "2020-04-01",
+    "customer": "PACIFIC FOOD INDONESIA, PT.",
+    "product_code": "31301411"
+  },
+  {
+    "date": "2020-03-16",
+    "customer": "BP.GUNAWAN WINATA",
+    "product_code": "31301438"
+  },
+  {
+    "date": "2020-02-14",
+    "customer": "BP.GUNAWAN WINATA",
+    "product_code": "31301464"
+  },
+  {
+    "date": "2023-09-27",
+    "customer": "CV Wahana Pangan Lestari",
+    "product_code": "31301504"
+  },
+  {
+    "date": "2022-08-16",
+    "customer": "PELANGI SNACK",
+    "product_code": "31301506"
+  },
+  {
+    "date": "2021-05-27",
+    "customer": "PACIFIC FOOD INDONESIA, PT.",
+    "product_code": "31301508"
+  },
+  {
+    "date": "2025-01-14",
+    "customer": "PT.RATON SEMBILAN SEMBILAN SEMBILAN INDONESIA",
+    "product_code": "31301522"
+  },
+  {
+    "date": "2022-06-29",
+    "customer": "TRI NUSA FOOD JAYA ABADI, CV",
+    "product_code": "31301552"
+  },
+  {
+    "date": "2023-02-25",
+    "customer": "GLOBAL FOODS INTERNATIONAL, PT",
+    "product_code": "31301573"
+  },
+  {
+    "date": "2025-08-20",
+    "customer": "NISSIN FOODS INDONESIA.PT",
+    "product_code": "31301574"
+  },
+  {
+    "date": "2023-03-14",
+    "customer": "ZAENUL MUSTHOFA",
+    "product_code": "31301582"
+  },
+  {
+    "date": "2023-09-14",
+    "customer": "ZAENUL MUSTHOFA",
+    "product_code": "31301587"
+  },
+  {
+    "date": "2024-04-23",
+    "customer": "Pt Wisnu Dewa Anugerah",
+    "product_code": "31301637"
+  },
+  {
+    "date": "2024-05-13",
+    "customer": "PT. BOGA INDOMAKMUR ABADI",
+    "product_code": "31301639"
+  },
+  {
+    "date": "2025-09-08",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "31301655"
+  },
+  {
+    "date": "2025-07-17",
+    "customer": "ELSON BERNARDI,PT",
+    "product_code": "31301674"
+  },
+  {
+    "date": "2025-02-26",
+    "customer": "AGEL LANGGENG",
+    "product_code": "31301677"
+  },
+  {
+    "date": "2025-08-18",
+    "customer": "RBTEKNO MITRA INDONESIA",
+    "product_code": "31301696"
+  },
+  {
+    "date": "2020-09-23",
+    "customer": "PACIFIC FOOD INDONESIA, PT.",
+    "product_code": "31404406"
+  },
+  {
+    "date": "2021-01-25",
+    "customer": "IVAN MACARONI & SNACK",
+    "product_code": "31404484"
+  },
+  {
+    "date": "2021-07-22",
+    "customer": "PT.SENTRA PANGAN UTAMA",
+    "product_code": "31404490"
+  },
+  {
+    "date": "2025-08-15",
+    "customer": "PT Indo Makmur Foods",
+    "product_code": "31404491"
+  },
+  {
+    "date": "2025-10-02",
+    "customer": "Dewi Yunita",
+    "product_code": "31404495"
+  },
+  {
+    "date": "2025-09-04",
+    "customer": "UFI MASUYA NUSANTARA, PT.",
+    "product_code": "31404508"
+  },
+  {
+    "date": "2024-07-09",
+    "customer": "GITA, PT.",
+    "product_code": "31404603"
+  },
+  {
+    "date": "2019-11-01",
+    "customer": "INDOFOOD FRITOLAY MAKMUR",
+    "product_code": "31404650"
+  },
+  {
+    "date": "2022-07-20",
+    "customer": "INDOFOOD FORTUNA MAKMUR",
+    "product_code": "31404650 (IMPRO"
+  },
+  {
+    "date": "2024-06-11",
+    "customer": "MELIANTY",
+    "product_code": "31404666"
+  },
+  {
+    "date": "2025-01-24",
+    "customer": "IMAM SUWAJI",
+    "product_code": "31404667"
+  },
+  {
+    "date": "2022-05-20",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "31404857"
+  },
+  {
+    "date": "2020-11-12",
+    "customer": "MITRASATRYA PERKASAUTAMA,PT",
+    "product_code": "31404889"
+  },
+  {
+    "date": "2020-05-30",
+    "customer": "Marketing",
+    "product_code": "31404923"
+  },
+  {
+    "date": "2021-06-21",
+    "customer": "BPK.AGUS",
+    "product_code": "31404954"
+  },
+  {
+    "date": "2022-01-10",
+    "customer": "MAXINDO KARYA ANUGERAH, PT",
+    "product_code": "31405229"
+  },
+  {
+    "date": "2023-08-28",
+    "customer": "PT. SELERA INDONESIA SUKSES JAYA",
+    "product_code": "31405238"
+  },
+  {
+    "date": "2024-07-18",
+    "customer": "GITA, PT.",
+    "product_code": "31405239"
+  },
+  {
+    "date": "2025-09-01",
+    "customer": "ZAENUL MUSTHOFA",
+    "product_code": "31405240"
+  },
+  {
+    "date": "2021-10-28",
+    "customer": "PT. TRIO MAHA JAYA",
+    "product_code": "31405253"
+  },
+  {
+    "date": "2025-09-01",
+    "customer": "TKT BANA FOOD, CV",
+    "product_code": "31405259"
+  },
+  {
+    "date": "2025-10-02",
+    "customer": "Leoni Puspitasari Podoan",
+    "product_code": "31405270"
+  },
+  {
+    "date": "2020-01-27",
+    "customer": "SOFIE, IBU",
+    "product_code": "31405282"
+  },
+  {
+    "date": "2022-12-08",
+    "customer": "FADHOL, BP",
+    "product_code": "31405283"
+  },
+  {
+    "date": "2021-06-07",
+    "customer": "ENDRO, BU",
+    "product_code": "31405319"
+  },
+  {
+    "date": "2023-01-13",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "31405355"
+  },
+  {
+    "date": "2024-03-22",
+    "customer": "PERINA (0281-694298)",
+    "product_code": "31405370"
+  },
+  {
+    "date": "2024-01-30",
+    "customer": "GUMINDO BOGA MANIS,PT/T.5588898",
+    "product_code": "31405399"
+  },
+  {
+    "date": "2025-02-04",
+    "customer": "KADU MANIS UTAMA",
+    "product_code": "31405437"
+  },
+  {
+    "date": "2025-09-09",
+    "customer": "Singkong D-9",
+    "product_code": "31405439"
+  },
+  {
+    "date": "2020-09-21",
+    "customer": "CITA RASA SUKSES,PT",
+    "product_code": "31405496"
+  },
+  {
+    "date": "2022-10-21",
+    "customer": "ARDIANSYAH",
+    "product_code": "31405499"
+  },
+  {
+    "date": "2021-11-18",
+    "customer": "DAPUR NUSANTARA CEMERLANG, PT (RAJA RAWIT)",
+    "product_code": "31405508"
+  },
+  {
+    "date": "2025-02-10",
+    "customer": "YORKINDO BOGA UTAMA, PT.",
+    "product_code": "31405534"
+  },
+  {
+    "date": "2025-03-21",
+    "customer": "TIP JAN",
+    "product_code": "31405576"
+  },
+  {
+    "date": "2025-09-27",
+    "customer": "TAMAN SAFARI INDONESIA",
+    "product_code": "31405713"
+  },
+  {
+    "date": "2022-09-12",
+    "customer": "BUN SOKHEN",
+    "product_code": "31405718"
+  },
+  {
+    "date": "2022-06-14",
+    "customer": "PT. NIRAMAS PANDAAN SEJAHTERA",
+    "product_code": "31405720"
+  },
+  {
+    "date": "2025-07-10",
+    "customer": "MEGAHPUTRA SEJAHTERA, PT",
+    "product_code": "31405856"
+  },
+  {
+    "date": "2025-09-09",
+    "customer": "Hendra kurniawan",
+    "product_code": "31405857"
+  },
+  {
+    "date": "2022-05-10",
+    "customer": "BP.GUNAWAN WINATA",
+    "product_code": "31405866"
+  },
+  {
+    "date": "2024-01-30",
+    "customer": "GUMINDO BOGA MANIS,PT/T.5588898",
+    "product_code": "31405939"
+  },
+  {
+    "date": "2025-03-14",
+    "customer": "ADABI CONSUMER INDUSTRIES SDN. BHD.",
+    "product_code": "31405940"
+  },
+  {
+    "date": "2025-09-19",
+    "customer": "PT. DOLPHIN FOOD & BEVERAGES INDUSTRY",
+    "product_code": "31405963"
+  },
+  {
+    "date": "2025-06-20",
+    "customer": "PT.Calio Pratama Nusantara ",
+    "product_code": "31406000"
+  },
+  {
+    "date": "2025-05-22",
+    "customer": "MAUREEN",
+    "product_code": "31406006"
+  },
+  {
+    "date": "2025-09-09",
+    "customer": "BINTANG MUJUR ABADI/AMIR BP",
+    "product_code": "31406084"
+  },
+  {
+    "date": "2023-01-02",
+    "customer": " PT. Adhi Rejeki Pangan",
+    "product_code": "31406110"
+  },
+  {
+    "date": "2021-12-16",
+    "customer": "MELIANA SUKOWIJOYO",
+    "product_code": "31406111"
+  },
+  {
+    "date": "2023-03-23",
+    "customer": "ANUGERAH ADIBOGA ABADI, PT",
+    "product_code": "31406112"
+  },
+  {
+    "date": "2025-09-11",
+    "customer": "PUJO, IBU",
+    "product_code": "31406197"
+  },
+  {
+    "date": "2025-06-24",
+    "customer": "RUDY TJAHYONO",
+    "product_code": "31406198"
+  },
+  {
+    "date": "2022-09-16",
+    "customer": "FRANKY SETIAWAN, BP",
+    "product_code": "31406211"
+  },
+  {
+    "date": "2020-10-28",
+    "customer": "RUDY TJAHYONO",
+    "product_code": "31406212"
+  },
+  {
+    "date": "2025-06-16",
+    "customer": "MEGAHPUTRA SEJAHTERA, PT",
+    "product_code": "31406284"
+  },
+  {
+    "date": "2025-08-09",
+    "customer": "PELANGI SNACK",
+    "product_code": "31406291"
+  },
+  {
+    "date": "2023-10-13",
+    "customer": "BPK.AGUS",
+    "product_code": "31406295"
+  },
+  {
+    "date": "2020-12-14",
+    "customer": "URC INDONESIA, PT",
+    "product_code": "31406321"
+  },
+  {
+    "date": "2025-07-01",
+    "customer": "EKY KRISTANTO, BP",
+    "product_code": "31406350"
+  },
+  {
+    "date": "2020-02-13",
+    "customer": "PT. AQUASOLVE SANARIA",
+    "product_code": "31406351"
+  },
+  {
+    "date": "2020-10-12",
+    "customer": "MIRASA FOOD INDUSTRY.PT",
+    "product_code": "31406352"
+  },
+  {
+    "date": "2025-09-09",
+    "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
+    "product_code": "31406355"
+  },
+  {
+    "date": "2024-12-16",
+    "customer": "GITA, PT.",
+    "product_code": "31406393"
+  },
+  {
+    "date": "2025-03-11",
+    "customer": "PRIMASARI,CV",
+    "product_code": "31406427"
+  },
+  {
+    "date": "2020-01-09",
+    "customer": "BPK. ANDI /TRI O FOOD",
+    "product_code": "31406432"
+  },
+  {
+    "date": "2021-03-31",
+    "customer": "BP.J O N O",
+    "product_code": "31406458"
+  },
+  {
+    "date": "2021-03-31",
+    "customer": "BP.J O N O",
+    "product_code": "31406459"
+  },
+  {
+    "date": "2020-05-14",
+    "customer": "AI CHI INDONESIA SIKOK, PT",
+    "product_code": "31406465"
+  },
+  {
+    "date": "2020-09-07",
+    "customer": "BPK. ANDI /TRI O FOOD",
+    "product_code": "31406476"
+  },
+  {
+    "date": "2022-07-12",
+    "customer": "LIMA-LIMA, TOKO",
+    "product_code": "31406486"
+  },
+  {
+    "date": "2025-08-14",
+    "customer": "CV.TOOIT JAYA SEJAHTERA",
+    "product_code": "31406510"
+  },
+  {
+    "date": "2021-04-22",
+    "customer": "IVAN MACARONI & SNACK",
+    "product_code": "31406512"
+  },
+  {
+    "date": "2021-05-29",
+    "customer": "ABC PRESIDENT INDONESIA, PT",
+    "product_code": "31406545"
+  },
+  {
+    "date": "2021-04-27",
+    "customer": "JAYA SWARASA AGUNG,PT",
+    "product_code": "31406552"
+  },
+  {
+    "date": "2025-09-15",
+    "customer": "AMERTA INDAH OTSUKA, PT",
+    "product_code": "31406564"
+  },
+  {
+    "date": "2021-03-27",
+    "customer": "SANGHIANG PERKASA, PT.",
+    "product_code": "31406566"
+  },
+  {
+    "date": "2021-06-14",
+    "customer": "IVAN MACARONI & SNACK",
+    "product_code": "31406580"
+  },
+  {
+    "date": "2022-07-22",
+    "customer": "TJIANG DANNY CANRADINATA",
+    "product_code": "31406590"
+  },
+  {
+    "date": "2025-09-15",
+    "customer": "INDOFOOD FORTUNA MAKMUR",
+    "product_code": "31406591"
+  },
+  {
+    "date": "2020-11-24",
+    "customer": "BPK. ANDI /TRI O FOOD",
+    "product_code": "31406605"
+  },
+  {
+    "date": "2021-08-03",
+    "customer": "IVAN MACARONI & SNACK",
+    "product_code": "31406609"
+  },
+  {
+    "date": "2025-08-21",
+    "customer": "KADU MANIS UTAMA",
+    "product_code": "31406617"
+  },
+  {
+    "date": "2021-01-20",
+    "customer": "BPK. ANDI /TRI O FOOD",
+    "product_code": "31406633"
+  },
+  {
+    "date": "2025-09-25",
+    "customer": "KERIPIK LEZAT",
+    "product_code": "31406639"
+  },
+  {
+    "date": "2022-03-07",
+    "customer": "REHULINA GINTING, BU ",
+    "product_code": "31406640"
+  },
+  {
+    "date": "2025-07-02",
+    "customer": "BINTANG PANTURA",
+    "product_code": "31406641"
+  },
+  {
+    "date": "2025-09-29",
+    "customer": "PT. TRIO RASA MAS",
+    "product_code": "31406642"
+  },
+  {
+    "date": "2025-08-15",
+    "customer": "ANI ARYANTI",
+    "product_code": "31406676"
+  },
+  {
+    "date": "2021-04-12",
+    "customer": "BPK. ANDI /TRI O FOOD",
+    "product_code": "31406689"
+  },
+  {
+    "date": "2025-10-06",
+    "customer": "ARIRA PANGINDO, CV.",
+    "product_code": "31406700"
+  },
+  {
+    "date": "2021-04-26",
+    "customer": "BPK. ANDI /TRI O FOOD",
+    "product_code": "31406723"
+  },
+  {
+    "date": "2021-08-20",
+    "customer": "ABC PRESIDENT INDONESIA, PT",
+    "product_code": "31406740"
+  },
+  {
+    "date": "2025-07-19",
+    "customer": "CV.TIGA ANUGERAH PANGAN",
+    "product_code": "31406770"
+  },
+  {
+    "date": "2023-10-10",
+    "customer": "PT. TRIO RASA MAS",
+    "product_code": "31406785"
+  },
+  {
+    "date": "2025-08-09",
+    "customer": "GITA, PT.",
+    "product_code": "31406801"
+  },
+  {
+    "date": "2025-02-07",
+    "customer": "NURIDAH, IBU",
+    "product_code": "31406816"
+  },
+  {
+    "date": "2023-04-06",
+    "customer": "GITA, PT.",
+    "product_code": "31406832"
+  },
+  {
+    "date": "2021-10-26",
+    "customer": "ABC PRESIDENT INDONESIA, PT",
+    "product_code": "31406840"
+  },
+  {
+    "date": "2022-07-19",
+    "customer": "CV.TUAIAN UNGGUL SEJAHTERA",
+    "product_code": "31406843"
+  },
+  {
+    "date": "2022-07-15",
+    "customer": "GITA, PT.",
+    "product_code": "31406844"
+  },
+  {
+    "date": "2025-04-10",
+    "customer": "Oppa Fried Chicken",
+    "product_code": "31406874"
+  },
+  {
+    "date": "2023-03-08",
+    "customer": "CATUR WIDI CAHYONO",
+    "product_code": "31406887"
+  },
+  {
+    "date": "2022-08-27",
+    "customer": "CV.TUAIAN UNGGUL SEJAHTERA",
+    "product_code": "31406899"
+  },
+  {
+    "date": "2022-11-28",
+    "customer": "Teun  Kornelis Van Der Laan",
+    "product_code": "31406922"
+  },
+  {
+    "date": "2023-02-11",
+    "customer": "JAMES REINHART UTOMO",
+    "product_code": "31406930"
+  },
+  {
+    "date": "2025-07-18",
+    "customer": "PT. JAMAN SEHAT SEMPURNA ",
+    "product_code": "31406934"
+  },
+  {
+    "date": "2024-06-04",
+    "customer": "RAMADAN MAYONA PUTRI",
+    "product_code": "31406971"
+  },
+  {
+    "date": "2025-10-02",
+    "customer": "Leoni Puspitasari Podoan",
+    "product_code": "31406991"
+  },
+  {
+    "date": "2022-09-20",
+    "customer": "MIRASA FOOD INDUSTRY.PT",
+    "product_code": "31406994"
+  },
+  {
+    "date": "2025-02-18",
+    "customer": "SANITA SELOK JAYA,CV",
+    "product_code": "31407002"
+  },
+  {
+    "date": "2025-02-18",
+    "customer": "SANITA SELOK JAYA,CV",
+    "product_code": "31407004"
+  },
+  {
+    "date": "2022-08-27",
+    "customer": "CV.TUAIAN UNGGUL SEJAHTERA",
+    "product_code": "31407012"
+  },
+  {
+    "date": "2022-09-13",
+    "customer": "CV.TUAIAN UNGGUL SEJAHTERA",
+    "product_code": "31407013"
+  },
+  {
+    "date": "2024-02-16",
+    "customer": "PT. NIRAMAS PANDAAN SEJAHTERA",
+    "product_code": "31407018"
+  },
+  {
+    "date": "2023-01-19",
+    "customer": "HENGKY WIJAYA",
+    "product_code": "31407055"
+  },
+  {
+    "date": "2025-07-16",
+    "customer": "DIANA SAFITRI",
+    "product_code": "31407069"
+  },
+  {
+    "date": "2025-09-25",
+    "customer": "PT.DUTA PANGAN NUSANTARA ",
+    "product_code": "31407070"
+  },
+  {
+    "date": "2025-09-10",
+    "customer": "DIANA SAFITRI",
+    "product_code": "31407081"
+  },
+  {
+    "date": "2025-10-01",
+    "customer": "GUNTUR PAP",
+    "product_code": "31407110"
+  },
+  {
+    "date": "2025-07-16",
+    "customer": "DIANA SAFITRI",
+    "product_code": "31407112"
+  },
+  {
+    "date": "2025-09-09",
+    "customer": "Singkong D-9",
+    "product_code": "31407173"
+  },
+  {
+    "date": "2023-08-02",
+    "customer": "GLORIA BISCO, PT",
+    "product_code": "31407185"
+  },
+  {
+    "date": "2025-09-09",
+    "customer": "Hendra kurniawan",
+    "product_code": "31407189"
+  },
+  {
+    "date": "2025-10-03",
+    "customer": "Hendra kurniawan",
+    "product_code": "31407227"
+  },
+  {
+    "date": "2023-08-14",
+    "customer": "PT. CITA BOGA JAYA",
+    "product_code": "31407245"
+  },
+  {
+    "date": "2025-07-08",
+    "customer": "PT. Daidan Food Indonesia",
+    "product_code": "31407259"
+  },
+  {
+    "date": "2025-08-11",
+    "customer": "IMAM SUWAJI",
+    "product_code": "31407261"
+  },
+  {
+    "date": "2025-07-19",
+    "customer": "CV.TIGA ANUGERAH PANGAN",
+    "product_code": "31407282"
+  },
+  {
+    "date": "2024-09-17",
+    "customer": "PT. TRIO MAHA JAYA",
+    "product_code": "31407316"
+  },
+  {
+    "date": "2025-09-01",
+    "customer": "PT Indo Makmur Foods",
+    "product_code": "31407332"
+  },
+  {
+    "date": "2023-12-18",
+    "customer": "Pt Wisnu Dewa Anugerah",
+    "product_code": "31407333"
+  },
+  {
+    "date": "2025-09-08",
+    "customer": "PT. TRIO RASA MAS",
+    "product_code": "31407357"
+  },
+  {
+    "date": "2025-09-11",
+    "customer": "AGEL LANGGENG",
+    "product_code": "31407368"
+  },
+  {
+    "date": "2024-02-07",
+    "customer": "RAJA JEVA NISI, PT ( PELITA  FOOD TECH )",
+    "product_code": "31407388"
+  },
+  {
+    "date": "2024-04-01",
+    "customer": "PT. BOGA INDOMAKMUR ABADI",
+    "product_code": "31407470"
+  },
+  {
+    "date": "2025-10-02",
+    "customer": "RAJA JEVA NISI, PT ( PELITA  FOOD TECH )",
+    "product_code": "31407477"
+  },
+  {
+    "date": "2024-03-25",
+    "customer": "PT.Saikho Indo Kreatif",
+    "product_code": "31407482"
+  },
+  {
+    "date": "2024-03-06",
+    "customer": "PT.Saikho Indo Kreatif",
+    "product_code": "31407483"
+  },
+  {
+    "date": "2024-04-01",
+    "customer": "Pt Wisnu Dewa Anugerah",
+    "product_code": "31407504"
+  },
+  {
+    "date": "2025-08-26",
+    "customer": "PT.Siumang Teman Sukses (SAIKHO INDO KREATIF, PT.)",
+    "product_code": "31407519"
+  },
+  {
+    "date": "2025-09-09",
+    "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
+    "product_code": "31407584"
+  },
+  {
+    "date": "2024-07-31",
+    "customer": "AMERTA INDAH OTSUKA, PT",
+    "product_code": "31407596"
+  },
+  {
+    "date": "2025-02-18",
+    "customer": "SANITA SELOK JAYA,CV",
+    "product_code": "31407603"
+  },
+  {
+    "date": "2025-09-03",
+    "customer": "PT. Selera Hast Indonesia",
+    "product_code": "31407614"
+  },
+  {
+    "date": "2024-09-17",
+    "customer": "PT. TRIO MAHA JAYA",
+    "product_code": "31407619"
+  },
+  {
+    "date": "2024-09-17",
+    "customer": "PT. TRIO MAHA JAYA",
+    "product_code": "31407621"
+  },
+  {
+    "date": "2025-10-09",
+    "customer": "CATUR WIDI CAHYONO",
+    "product_code": "31407627"
+  },
+  {
+    "date": "2025-05-20",
+    "customer": "DIANA SAFITRI",
+    "product_code": "31407668"
+  },
+  {
+    "date": "2025-08-05",
+    "customer": "PT INDO RASA UTAMA",
+    "product_code": "31407730"
+  },
+  {
+    "date": "2025-05-22",
+    "customer": "TRI NUSA FOOD JAYA ABADI, CV",
+    "product_code": "31407745"
+  },
+  {
+    "date": "2025-02-28",
+    "customer": "MALINDO FOOD DELIGHT, PT.",
+    "product_code": "31407786"
+  },
+  {
+    "date": "2025-07-04",
+    "customer": "PT. Menara Cahaya Berkat",
+    "product_code": "31407805"
+  },
+  {
+    "date": "2025-08-12",
+    "customer": "GITA, PT.",
+    "product_code": "31407816"
+  },
+  {
+    "date": "2025-09-23",
+    "customer": "MANOHARA ASRI, PT",
+    "product_code": "31407887"
+  },
+  {
+    "date": "2025-10-01",
+    "customer": "AIDA ARTAN",
+    "product_code": "31407929"
+  },
+  {
+    "date": "2025-09-16",
+    "customer": "RIYANA CIPTA PANGAN INDONESIA, PT",
+    "product_code": "31407933"
+  },
+  {
+    "date": "2025-10-07",
+    "customer": "PT. TRIO RASA MAS",
+    "product_code": "31501862"
+  },
+  {
+    "date": "2025-01-17",
+    "customer": "SUGIJANTORO",
+    "product_code": "31501874"
+  },
+  {
+    "date": "2024-11-28",
+    "customer": "BP.GUNAWAN WINATA",
+    "product_code": "31501939"
+  },
+  {
+    "date": "2020-07-15",
+    "customer": "SARI MUTIARA ABADI, CV",
+    "product_code": "31502015"
+  },
+  {
+    "date": "2020-08-26",
+    "customer": "BUN SOKHEN",
+    "product_code": "31502060"
+  },
+  {
+    "date": "2022-11-08",
+    "customer": "LANGGENG PANGAN MAKMUR, PT",
+    "product_code": "31502154"
+  },
+  {
+    "date": "2025-09-19",
+    "customer": "SITI MAESAROH",
+    "product_code": "31502222"
+  },
+  {
+    "date": "2020-02-13",
+    "customer": "PT. AQUASOLVE SANARIA",
+    "product_code": "31502242"
+  },
+  {
+    "date": "2021-09-30",
+    "customer": "TABURA GENTRI NUSANTARA, PT",
+    "product_code": "31502272"
+  },
+  {
+    "date": "2021-10-13",
+    "customer": "LARA AYU LESTARI, IBU",
+    "product_code": "31502316"
+  },
+  {
+    "date": "2025-06-18",
+    "customer": "UFI MASUYA NUSANTARA, PT.",
+    "product_code": "31502493"
+  },
+  {
+    "date": "2021-07-29",
+    "customer": "ZANIKA MULTIRASA SEJAHTERA, PT",
+    "product_code": "31502512"
+  },
+  {
+    "date": "2024-07-15",
+    "customer": "PT. TRIO MAHA JAYA",
+    "product_code": "31502515"
+  },
+  {
+    "date": "2021-07-02",
+    "customer": "UFI MASUYA NUSANTARA, PT.",
+    "product_code": "31502530 "
+  },
+  {
+    "date": "2025-01-28",
+    "customer": "Iing Suliyah",
+    "product_code": "31502549"
+  },
+  {
+    "date": "2025-09-01",
+    "customer": "PANEN KEBAIKAN BERSAMA",
+    "product_code": "31502559"
+  },
+  {
+    "date": "2024-02-12",
+    "customer": "CV. EVYNA FOOD",
+    "product_code": "31502593"
+  },
+  {
+    "date": "2024-02-19",
+    "customer": "MEIJI FOOD INDONESIA, PT",
+    "product_code": "31502601"
+  },
+  {
+    "date": "2020-01-03",
+    "customer": "HEIHEI SUKSES CEMERLANG, PT",
+    "product_code": "31502641"
+  },
+  {
+    "date": "2025-07-19",
+    "customer": "CV.TIGA ANUGERAH PANGAN",
+    "product_code": "31502646"
+  },
+  {
+    "date": "2025-06-12",
+    "customer": "ULTRA PRIMA ABADI,PT",
+    "product_code": "31502674"
+  },
+  {
+    "date": "2022-06-02",
+    "customer": "SWANISH BOGA INDUSTRIA,PT",
+    "product_code": "31502693"
+  },
+  {
+    "date": "2024-08-21",
+    "customer": "FA. SEMPANA",
+    "product_code": "31502720"
+  },
+  {
+    "date": "2024-02-16",
+    "customer": "PT. KULINER SUKSES INOVATIF",
+    "product_code": "31502764"
+  },
+  {
+    "date": "2023-05-12",
+    "customer": "TRI NUSA FOOD JAYA ABADI, CV",
+    "product_code": "31502786"
+  },
+  {
+    "date": "2025-08-15",
+    "customer": "ELSON BERNARDI,PT",
+    "product_code": "31502801"
+  },
+  {
+    "date": "2025-08-19",
+    "customer": "Lidya Sulistyo",
+    "product_code": "31502803"
+  },
+  {
+    "date": "2025-05-08",
+    "customer": "PT. LEBLE BOGA ADIPERKASA",
+    "product_code": "31502808"
+  },
+  {
+    "date": "2021-09-30",
+    "customer": "TABURA GENTRI NUSANTARA, PT",
+    "product_code": "31502887"
+  },
+  {
+    "date": "2022-10-04",
+    "customer": "SINAR KENCANA AGUNG, PT",
+    "product_code": "31502964"
+  },
+  {
+    "date": "2025-06-24",
+    "customer": "MANOHARA ASRI, PT",
+    "product_code": "31503004"
+  },
+  {
+    "date": "2023-08-10",
+    "customer": "GLOBAL FOODS INTERNATIONAL, PT",
+    "product_code": "31503006"
+  },
+  {
+    "date": "2025-03-28",
+    "customer": "INTI SARI INTERNATIONAL, PT",
+    "product_code": "31503011"
+  },
+  {
+    "date": "2025-09-16",
+    "customer": "INTI SARI INTERNATIONAL, PT",
+    "product_code": "31503061"
+  },
+  {
+    "date": "2024-07-27",
+    "customer": "RIYANA CIPTA PANGAN INDONESIA, PT",
+    "product_code": "31503064"
+  },
+  {
+    "date": "2025-01-24",
+    "customer": "IMAM SUWAJI",
+    "product_code": "31503072"
+  },
+  {
+    "date": "2023-08-10",
+    "customer": "GLOBAL FOODS INTERNATIONAL, PT",
+    "product_code": "31503081"
+  },
+  {
+    "date": "2023-08-16",
+    "customer": "JACKY TANUJAYA",
+    "product_code": "31503085"
+  },
+  {
+    "date": "2023-08-10",
+    "customer": "GLOBAL FOODS INTERNATIONAL, PT",
+    "product_code": "31503086"
+  },
+  {
+    "date": "2025-06-30",
+    "customer": "SARI MURNI JAYA, PT.",
+    "product_code": "31503089"
+  },
+  {
+    "date": "2025-08-05",
+    "customer": "CV.TSG ABADI SEJATI",
+    "product_code": "31503140"
+  },
+  {
+    "date": "2025-05-14",
+    "customer": "CV.TIGA ANUGERAH PANGAN",
+    "product_code": "31503157"
+  },
+  {
+    "date": "2025-06-16",
+    "customer": "INDOFOOD FORTUNA MAKMUR",
+    "product_code": "31503217"
+  },
+  {
+    "date": "2024-09-17",
+    "customer": "PT. TRIO MAHA JAYA",
+    "product_code": "31503221"
+  },
+  {
+    "date": "2025-09-10",
+    "customer": "SUMBER URIP SNACK, CV",
+    "product_code": "31503228"
+  },
+  {
+    "date": "2025-02-17",
+    "customer": "SUKIRMAN",
+    "product_code": "31503233"
+  },
+  {
+    "date": "2025-09-08",
+    "customer": "MIRASA FOOD INDUSTRY.PT",
+    "product_code": "31503315"
+  },
+  {
+    "date": "2025-09-17",
+    "customer": "INDOFOOD FORTUNA MAKMUR",
+    "product_code": "31503336"
+  },
+  {
+    "date": "2025-09-22",
+    "customer": "INDOFOOD FORTUNA MAKMUR",
+    "product_code": "31503338"
+  },
+  {
+    "date": "2025-10-06",
+    "customer": "SENTRAL MULTIRASA UTAMA, PT",
+    "product_code": "31601841"
+  },
+  {
+    "date": "2021-11-05",
+    "customer": "PANGGIH TRIATMOKO (KALIBRASI)",
+    "product_code": "31601897 (C-002)"
+  },
+  {
+    "date": "2020-08-11",
+    "customer": "RAMA PUTRA FOOD, PT",
+    "product_code": "31601932"
+  },
+  {
+    "date": "2021-11-29",
+    "customer": "BINTANG MUJUR ABADI/AMIR BP",
+    "product_code": "31601942"
+  },
+  {
+    "date": "2024-01-19",
+    "customer": "BP.GUNAWAN WINATA",
+    "product_code": "31601944"
+  },
+  {
+    "date": "2023-10-25",
+    "customer": "SARI MURNI JAYA, PT.",
+    "product_code": "31601994"
+  },
+  {
+    "date": "2025-03-17",
+    "customer": "BERSAMA SAHABAT ANDALAN, PT.",
+    "product_code": "31602013"
+  },
+  {
+    "date": "2025-03-04",
+    "customer": "RIZAL ADI SAPUTRO",
+    "product_code": "31602017"
+  },
+  {
+    "date": "2024-04-18",
+    "customer": "WIDYA SNACK",
+    "product_code": "31602031"
+  },
+  {
+    "date": "2021-03-29",
+    "customer": "HERI, BP ",
+    "product_code": "31602034"
+  },
+  {
+    "date": "2025-09-19",
+    "customer": "MANOHARA ASRI, PT",
+    "product_code": "31602052"
+  },
+  {
+    "date": "2025-02-14",
+    "customer": "SUMBER URIP SNACK, CV",
+    "product_code": "31602059"
+  },
+  {
+    "date": "2025-05-06",
+    "customer": "FRANKY SETIAWAN, BP",
+    "product_code": "31602097"
+  },
+  {
+    "date": "2024-05-14",
+    "customer": "BP.GUNAWAN WINATA",
+    "product_code": "31602116"
+  },
+  {
+    "date": "2021-07-02",
+    "customer": "UFI MASUYA NUSANTARA, PT.",
+    "product_code": "31602129"
+  },
+  {
+    "date": "2025-01-02",
+    "customer": "Iing Suliyah",
+    "product_code": "31602140"
+  },
+  {
+    "date": "2020-03-18",
+    "customer": "SARI MURNI JAYA, PT.",
+    "product_code": "31602162"
+  },
+  {
+    "date": "2025-10-01",
+    "customer": "KADU MANIS UTAMA",
+    "product_code": "31602173"
+  },
+  {
+    "date": "2021-01-11",
+    "customer": "INDOFOOD FRITOLAY MAKMUR",
+    "product_code": "31602176"
+  },
+  {
+    "date": "2025-08-21",
+    "customer": "Mulia Inti Pangan, PT",
+    "product_code": "31602192"
+  },
+  {
+    "date": "2025-10-09",
+    "customer": "Sanjaya Mitra Utama",
+    "product_code": "31602195"
+  },
+  {
+    "date": "2025-03-17",
+    "customer": "BERSAMA SAHABAT ANDALAN, PT.",
+    "product_code": "31602224"
+  },
+  {
+    "date": "2023-02-24",
+    "customer": "JAYA SWARASA AGUNG,PT",
+    "product_code": "31602236"
+  },
+  {
+    "date": "2025-09-12",
+    "customer": "MANOHARA ASRI, PT",
+    "product_code": "31602240"
+  },
+  {
+    "date": "2025-10-07",
+    "customer": "INDOFOOD FORTUNA MAKMUR",
+    "product_code": "31602283"
+  },
+  {
+    "date": "2025-03-11",
+    "customer": "KING ASIA FOOD (KIDUNG AGUNG)",
+    "product_code": "31602293"
+  },
+  {
+    "date": "2020-09-11",
+    "customer": "CITA RASA SUKSES,PT",
+    "product_code": "31602414"
+  },
+  {
+    "date": "2021-06-30",
+    "customer": "INTI SARI BERKAH, CV",
+    "product_code": "31602420"
+  },
+  {
+    "date": "2025-09-30",
+    "customer": "INTI SARI INTERNATIONAL, PT",
+    "product_code": "31602425"
+  },
+  {
+    "date": "2025-07-25",
+    "customer": "RIYANA CIPTA PANGAN INDONESIA, PT",
+    "product_code": "31602458"
+  },
+  {
+    "date": "2021-06-09",
+    "customer": "SHUTO JAYA PERKASA",
+    "product_code": "31602465"
+  },
+  {
+    "date": "2021-03-18",
+    "customer": "KUMPAI BESAR FOOD",
+    "product_code": "31602480"
+  },
+  {
+    "date": "2025-09-30",
+    "customer": "INTI SARI INTERNATIONAL, PT",
+    "product_code": "31602487"
+  },
+  {
+    "date": "2025-05-06",
+    "customer": "FRANKY SETIAWAN, BP",
+    "product_code": "31602491"
+  },
+  {
+    "date": "2025-08-14",
+    "customer": "MANOHARA ASRI, PT",
+    "product_code": "31602501"
+  },
+  {
+    "date": "2024-01-19",
+    "customer": "BP.GUNAWAN WINATA",
+    "product_code": "31602508"
+  },
+  {
+    "date": "2025-03-04",
+    "customer": "CV, PUTRA TIMUR REJEKI",
+    "product_code": "31602549"
+  },
+  {
+    "date": "2021-08-30",
+    "customer": "LIDYA, IBU",
+    "product_code": "31602551"
+  },
+  {
+    "date": "2022-08-24",
+    "customer": "PT. BENFOOD DINAMIKA SENTOSA",
+    "product_code": "31602577"
+  },
+  {
+    "date": "2021-08-19",
+    "customer": "SURABAYA TOP",
+    "product_code": "31602580"
+  },
+  {
+    "date": "2024-12-13",
+    "customer": "PT. Greenpoh Cipta Rasa",
+    "product_code": "31602591"
+  },
+  {
+    "date": "2021-10-14",
+    "customer": "SENTRAL MULTIRASA UTAMA, PT",
+    "product_code": "31602593"
+  },
+  {
+    "date": "2021-12-24",
+    "customer": "BP.GUNAWAN WINATA",
+    "product_code": "31602612"
+  },
+  {
+    "date": "2025-01-22",
+    "customer": "PT. ABHINAYA MAPAN NUSANTARA",
+    "product_code": "31602622"
+  },
+  {
+    "date": "2025-05-14",
+    "customer": "MANOHARA ASRI, PT",
+    "product_code": "31602637"
+  },
+  {
+    "date": "2023-03-15",
+    "customer": "BERSAMA SAHABAT ANDALAN, PT.",
+    "product_code": "31602651"
+  },
+  {
+    "date": "2024-12-09",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "31602663"
+  },
+  {
+    "date": "2025-02-18",
+    "customer": "SUMBER MITRA SEJATI JAYA, PT.",
+    "product_code": "31602716"
+  },
+  {
+    "date": "2024-12-16",
+    "customer": "DIANA SAFITRI",
+    "product_code": "31602729"
+  },
+  {
+    "date": "2025-09-23",
+    "customer": "SURABAYA TOP",
+    "product_code": "31602731"
+  },
+  {
+    "date": "2024-05-06",
+    "customer": "USMAN",
+    "product_code": "31602756"
+  },
+  {
+    "date": "2025-10-02",
+    "customer": "SARI MURNI ABADI, PT.",
+    "product_code": "31602758"
+  },
+  {
+    "date": "2025-10-06",
+    "customer": "SENTRAL MULTIRASA UTAMA, PT",
+    "product_code": "31602765"
+  },
+  {
+    "date": "2025-05-15",
+    "customer": "PT.MAXINDO KARYA ANUGERAH, TBK",
+    "product_code": "31602766"
+  },
+  {
+    "date": "2025-10-02",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "31602769"
+  },
+  {
+    "date": "2023-09-07",
+    "customer": "UNITECH SUKSES MULIA, PT",
+    "product_code": "31602784"
+  },
+  {
+    "date": "2024-11-07",
+    "customer": "SUKIRMAN",
+    "product_code": "31602794"
+  },
+  {
+    "date": "2023-08-10",
+    "customer": "GLOBAL FOODS INTERNATIONAL, PT",
+    "product_code": "31602800"
+  },
+  {
+    "date": "2025-09-25",
+    "customer": "IWAN TEGUH RIANTO",
+    "product_code": "31602830"
+  },
+  {
+    "date": "2025-07-16",
+    "customer": "DIANA SAFITRI",
+    "product_code": "31602831"
+  },
+  {
+    "date": "2025-10-01",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "31602847"
+  },
+  {
+    "date": "2024-03-06",
+    "customer": "SENTRAL MULTIRASA UTAMA, PT",
+    "product_code": "31602873"
+  },
+  {
+    "date": "2025-09-03",
+    "customer": "INDOFOOD FORTUNA MAKMUR",
+    "product_code": "31602884"
+  },
+  {
+    "date": "2025-02-14",
+    "customer": "DUTA GLOBAL INDOJAYA, PT",
+    "product_code": "31602913"
+  },
+  {
+    "date": "2024-05-22",
+    "customer": "SENTRAL MULTIRASA UTAMA, PT",
+    "product_code": "31602916"
+  },
+  {
+    "date": "2025-09-03",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "31602919"
+  },
+  {
+    "date": "2025-07-16",
+    "customer": "SARI MURNI ABADI, PT.",
+    "product_code": "31602922"
+  },
+  {
+    "date": "2025-10-06",
+    "customer": "SENTRAL MULTIRASA UTAMA, PT",
+    "product_code": "31602932"
+  },
+  {
+    "date": "2025-09-27",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "31602950"
+  },
+  {
+    "date": "2025-10-09",
+    "customer": "INDOFOOD FORTUNA MAKMUR",
+    "product_code": "31602989"
+  },
+  {
+    "date": "2025-10-01",
+    "customer": "INDOFOOD FORTUNA MAKMUR",
+    "product_code": "31602990"
+  },
+  {
+    "date": "2025-09-22",
+    "customer": "INDOFOOD FORTUNA MAKMUR",
+    "product_code": "31602992"
+  },
+  {
+    "date": "2025-03-14",
+    "customer": "INDOFOOD FORTUNA MAKMUR",
+    "product_code": "31602993"
+  },
+  {
+    "date": "2025-09-23",
+    "customer": "CITA RASA SUKSES,PT",
+    "product_code": "31700402"
+  },
+  {
+    "date": "2025-03-11",
+    "customer": "UFI MASUYA NUSANTARA, PT.",
+    "product_code": "31700428"
+  },
+  {
+    "date": "2020-10-20",
+    "customer": "INDOFOOD CBP SUKSES MAKMUR TBK, PT.",
+    "product_code": "31700433"
+  },
+  {
+    "date": "2025-09-22",
+    "customer": "MEIJI FOOD INDONESIA, PT",
+    "product_code": "31700465"
+  },
+  {
+    "date": "2025-09-22",
+    "customer": "TABURA GENTRI NUSANTARA, PT",
+    "product_code": "31700490"
+  },
+  {
+    "date": "2025-09-27",
+    "customer": "NUGRAHA INDAH CITARASA INDONESIA, PT",
+    "product_code": "31700492"
+  },
+  {
+    "date": "2025-05-16",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "31801642 (NON TBHQ)"
+  },
+  {
+    "date": "2025-09-19",
+    "customer": "CV.SURYA MANDIRI",
+    "product_code": "31801649"
+  },
+  {
+    "date": "2020-02-11",
+    "customer": "GLORY KARUNIA PERKASA, PT",
+    "product_code": "31801655"
+  },
+  {
+    "date": "2023-01-26",
+    "customer": "CV. HARCO JAYA SNACK",
+    "product_code": "31801667"
+  },
+  {
+    "date": "2025-09-12",
+    "customer": "INDOFOOD FORTUNA MAKMUR",
+    "product_code": "31801749"
+  },
+  {
+    "date": "2025-03-13",
+    "customer": "CV Wahana Pangan Lestari",
+    "product_code": "31801812"
+  },
+  {
+    "date": "2021-12-17",
+    "customer": "TRISAKTI JAYA INDONESIA, PT",
+    "product_code": "31801830"
+  },
+  {
+    "date": "2021-03-19",
+    "customer": "CIPTA SELERA SEMESTA, PT",
+    "product_code": "31801840"
+  },
+  {
+    "date": "2025-08-15",
+    "customer": "PT Indo Makmur Foods",
+    "product_code": "31801867"
+  },
+  {
+    "date": "2024-01-30",
+    "customer": "GUMINDO BOGA MANIS,PT/T.5588898",
+    "product_code": "31801907"
+  },
+  {
+    "date": "2025-09-11",
+    "customer": "TAMADDUN INTI PERKASA",
+    "product_code": "31801931"
+  },
+  {
+    "date": "2020-09-21",
+    "customer": "ELSON BERNARDI,PT",
+    "product_code": "31801942"
+  },
+  {
+    "date": "2025-07-03",
+    "customer": "ADABI CONSUMER INDUSTRIES SDN. BHD.",
+    "product_code": "31802033"
+  },
+  {
+    "date": "2023-07-20",
+    "customer": "IBU RIRIN",
+    "product_code": "31802094"
+  },
+  {
+    "date": "2025-09-22",
+    "customer": "PT.MAXINDO KARYA ANUGERAH, TBK",
+    "product_code": "31802103"
+  },
+  {
+    "date": "2020-06-02",
+    "customer": "PONDASI INTI SEJAHTERA, PT",
+    "product_code": "31802104"
+  },
+  {
+    "date": "2025-06-16",
+    "customer": "MEGAHPUTRA SEJAHTERA, PT",
+    "product_code": "31802107"
+  },
+  {
+    "date": "2020-06-12",
+    "customer": "EDWIN, BP",
+    "product_code": "31802153"
+  },
+  {
+    "date": "2021-04-15",
+    "customer": "MELISA, IBU",
+    "product_code": "31802163"
+  },
+  {
+    "date": "2022-08-05",
+    "customer": "CREATIVE CULINARY (BOGA GROUP)",
+    "product_code": "31802165"
+  },
+  {
+    "date": "2025-09-27",
+    "customer": "TAMAN SAFARI INDONESIA",
+    "product_code": "31802171"
+  },
+  {
+    "date": "2022-09-16",
+    "customer": "FRANKY SETIAWAN, BP",
+    "product_code": "31802186"
+  },
+  {
+    "date": "2025-08-04",
+    "customer": "PT.MAXINDO KARYA ANUGERAH, TBK",
+    "product_code": "31802187"
+  },
+  {
+    "date": "2024-11-22",
+    "customer": "HEIHEI SUKSES CEMERLANG, PT",
+    "product_code": "31802200"
+  },
+  {
+    "date": "2025-09-23",
+    "customer": "HEIHEI SUKSES CEMERLANG, PT",
+    "product_code": "31802201"
+  },
+  {
+    "date": "2020-12-10",
+    "customer": "HEIHEI SUKSES CEMERLANG, PT",
+    "product_code": "31802202"
+  },
+  {
+    "date": "2025-09-27",
+    "customer": "TAMAN SAFARI INDONESIA",
+    "product_code": "31802251"
+  },
+  {
+    "date": "2025-07-29",
+    "customer": "CIPTA SELERA SEMESTA, PT",
+    "product_code": "31802256"
+  },
+  {
+    "date": "2025-07-01",
+    "customer": "EKY KRISTANTO, BP",
+    "product_code": "31802288"
+  },
+  {
+    "date": "2021-05-05",
+    "customer": "TIRTO RUSMAN, BP",
+    "product_code": "31802296"
+  },
+  {
+    "date": "2024-11-06",
+    "customer": "TRI NUSA FOOD JAYA ABADI, CV",
+    "product_code": "31802329"
+  },
+  {
+    "date": "2025-08-28",
+    "customer": "LIM TJUI ALIAS MERY",
+    "product_code": "31802332 "
+  },
+  {
+    "date": "2025-07-21",
+    "customer": "TAMADDUN INTI PERKASA",
+    "product_code": "31802333"
+  },
+  {
+    "date": "2025-09-25",
+    "customer": "PT.DUTA PANGAN NUSANTARA ",
+    "product_code": "31802364"
+  },
+  {
+    "date": "2022-08-31",
+    "customer": "FA. SEMPANA",
+    "product_code": "31802405"
+  },
+  {
+    "date": "2025-10-02",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "31802413"
+  },
+  {
+    "date": "2025-04-22",
+    "customer": "INTI SARI INTERNATIONAL, PT",
+    "product_code": "31802422"
+  },
+  {
+    "date": "2025-10-08",
+    "customer": "SUMBER INTI PANGAN, PT.",
+    "product_code": "31802435"
+  },
+  {
+    "date": "2025-06-05",
+    "customer": "HASANUDIN",
+    "product_code": "31802436"
+  },
+  {
+    "date": "2025-08-22",
+    "customer": "CV Wahana Pangan Lestari",
+    "product_code": "31802440"
+  },
+  {
+    "date": "2024-11-13",
+    "customer": "CV.SUMBER PANGAN NUSANTARA",
+    "product_code": "31802441"
+  },
+  {
+    "date": "2025-10-08",
+    "customer": "SUMBER INTI PANGAN, PT.",
+    "product_code": "31802451"
+  },
+  {
+    "date": "2025-09-18",
+    "customer": "NANA ABADI, CV ",
+    "product_code": "31802453"
+  },
+  {
+    "date": "2023-09-21",
+    "customer": "ERI PRABOWO",
+    "product_code": "31802456"
+  },
+  {
+    "date": "2024-02-17",
+    "customer": "GLOBAL FOODS INTERNATIONAL, PT",
+    "product_code": "31802467"
+  },
+  {
+    "date": "2025-02-06",
+    "customer": "SUGIJANTORO",
+    "product_code": "31802480"
+  },
+  {
+    "date": "2025-03-15",
+    "customer": "PT. LEBLE BOGA ADIPERKASA",
+    "product_code": "31802488"
+  },
+  {
+    "date": "2025-10-09",
+    "customer": "CATUR WIDI CAHYONO",
+    "product_code": "31802493"
+  },
+  {
+    "date": "2025-06-24",
+    "customer": "MANOHARA ASRI, PT",
+    "product_code": "31802504"
+  },
+  {
+    "date": "2023-10-24",
+    "customer": "PT. BOGA INDOMAKMUR ABADI",
+    "product_code": "31802520"
+  },
+  {
+    "date": "2025-06-04",
+    "customer": "MAUREEN",
+    "product_code": "31802525"
+  },
+  {
+    "date": "2024-01-25",
+    "customer": "CATUR WIDI CAHYONO",
+    "product_code": "31802526"
+  },
+  {
+    "date": "2025-01-08",
+    "customer": "PT. SINAR PANGAN SEJAHTERA",
+    "product_code": "31802538"
+  },
+  {
+    "date": "2025-07-03",
+    "customer": "CAHAYA ANUGERAH SENTOSA",
+    "product_code": "31802551"
+  },
+  {
+    "date": "2024-04-03",
+    "customer": "PT. BOGA INDOMAKMUR ABADI",
+    "product_code": "31802553"
+  },
+  {
+    "date": "2024-04-01",
+    "customer": "PT. BOGA INDOMAKMUR ABADI",
+    "product_code": "31802557"
+  },
+  {
+    "date": "2025-07-16",
+    "customer": "PT. Selera Pangan Interfood",
+    "product_code": "31802573"
+  },
+  {
+    "date": "2024-04-01",
+    "customer": "PT. BOGA INDOMAKMUR ABADI",
+    "product_code": "31802575"
+  },
+  {
+    "date": "2025-04-10",
+    "customer": "Oppa Fried Chicken",
+    "product_code": "31802591"
+  },
+  {
+    "date": "2025-10-01",
+    "customer": "PT Indo Makmur Foods",
+    "product_code": "31802601"
+  },
+  {
+    "date": "2025-09-22",
+    "customer": "WIDYAPRASUTI,PT",
+    "product_code": "31802604"
+  },
+  {
+    "date": "2025-04-17",
+    "customer": "TJO FELIANA",
+    "product_code": "31802611"
+  },
+  {
+    "date": "2025-02-10",
+    "customer": "KHOIRUL AMIN",
+    "product_code": "31900481"
+  },
+  {
+    "date": "2024-12-03",
+    "customer": "CIPTA HARUM AROMA, PT.",
+    "product_code": "31900498"
+  },
+  {
+    "date": "2024-12-19",
+    "customer": "LANGGENG PANGAN MAKMUR, PT",
+    "product_code": "31900503"
+  },
+  {
+    "date": "2022-08-03",
+    "customer": "ERNA LESTARI",
+    "product_code": "31900558"
+  },
+  {
+    "date": "2022-03-11",
+    "customer": "KHOIRUL, BP.",
+    "product_code": "31900567"
+  },
+  {
+    "date": "2025-10-10",
+    "customer": "PT.DUTA PANGAN NUSANTARA ",
+    "product_code": "31900581"
+  },
+  {
+    "date": "2025-02-24",
+    "customer": "CV.Berkah Baru Banjarmasin",
+    "product_code": "31900599"
+  },
+  {
+    "date": "2021-12-27",
+    "customer": "TRI NUSA FOOD JAYA ABADI, CV",
+    "product_code": "31900613"
+  },
+  {
+    "date": "2023-02-09",
+    "customer": "PT. TRIO MAHA JAYA",
+    "product_code": "31900616"
+  },
+  {
+    "date": "2025-08-11",
+    "customer": "PT. SEPANJANG PANGAN JAYA",
+    "product_code": "31900628"
+  },
+  {
+    "date": "2025-08-13",
+    "customer": "INTI SARI INTERNATIONAL, PT",
+    "product_code": "31900640"
+  },
+  {
+    "date": "2024-09-17",
+    "customer": "PT. TRIO MAHA JAYA",
+    "product_code": "31900647"
+  },
+  {
+    "date": "2025-09-25",
+    "customer": "PT GARDENIA MAKMUR SELARAS",
+    "product_code": "31900658"
+  },
+  {
+    "date": "2025-08-26",
+    "customer": "ULTRA PRIMA ABADI,PT",
+    "product_code": "32000351"
+  },
+  {
+    "date": "2022-09-23",
+    "customer": "INDOFOOD CBP SUKSES MAKMUR, PT",
+    "product_code": "33000117"
+  },
+  {
+    "date": "2025-09-02",
+    "customer": "INDOFOOD CBP SUKSES MAKMUR, PT",
+    "product_code": "33000118"
+  },
+  {
+    "date": "2019-01-29",
+    "customer": "LIM,LANNY WIJAYA",
+    "product_code": "33000175"
+  },
+  {
+    "date": "2024-07-29",
+    "customer": "FORISA NUSAPERSADA, PT.",
+    "product_code": "33000244"
+  },
+  {
+    "date": "2022-09-14",
+    "customer": "RIMUINDO, PT",
+    "product_code": "33100031"
+  },
+  {
+    "date": "2024-05-06",
+    "customer": "INDOFOOD CBP SUKSES MAKMUR, PT",
+    "product_code": "33200020"
+  },
+  {
+    "date": "2024-07-29",
+    "customer": "FORISA NUSAPERSADA, PT.",
+    "product_code": "34"
+  },
+  {
+    "date": "2022-02-03",
+    "customer": "REHULINA GINTING, BU ",
+    "product_code": "34100037"
+  },
+  {
+    "date": "2025-07-24",
+    "customer": "Oppa Fried Chicken",
+    "product_code": "34100039"
+  },
+  {
+    "date": "2020-02-17",
+    "customer": "ADI BASKORO, BP.",
+    "product_code": "34400006"
+  },
+  {
+    "date": "2022-04-25",
+    "customer": "SHABUGRAM",
+    "product_code": "34400010"
+  },
+  {
+    "date": "2020-01-20",
+    "customer": "SO GOOD FOOD, PT",
+    "product_code": "34400095"
+  },
+  {
+    "date": "2023-04-10",
+    "customer": "SYLVIA AGUSTINA RAKOTHA",
+    "product_code": "34400189"
+  },
+  {
+    "date": "2020-01-20",
+    "customer": "SO GOOD FOOD, PT",
+    "product_code": "34400197"
+  },
+  {
+    "date": "2024-09-27",
+    "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
+    "product_code": "34400292"
+  },
+  {
+    "date": "2022-06-06",
+    "customer": "ANEKA SARIVITA, PT.",
+    "product_code": "34400300"
+  },
+  {
+    "date": "2021-04-20",
+    "customer": "ANAGATA RAIA, PT",
+    "product_code": "34400308"
+  },
+  {
+    "date": "2022-01-03",
+    "customer": "ANAGATA RAIA, PT",
+    "product_code": "34400319"
+  },
+  {
+    "date": "2021-09-14",
+    "customer": "RAJA RAWIT CIPETE",
+    "product_code": "34400340"
+  },
+  {
+    "date": "2022-03-23",
+    "customer": "SHABUGRAM",
+    "product_code": "34400365"
+  },
+  {
+    "date": "2022-03-23",
+    "customer": "SHABUGRAM",
+    "product_code": "34400368"
+  },
+  {
+    "date": "2022-10-14",
+    "customer": "RIMUINDO, PT",
+    "product_code": "34400372"
+  },
+  {
+    "date": "2022-10-14",
+    "customer": "RIMUINDO, PT",
+    "product_code": "34400374"
+  },
+  {
+    "date": "2025-09-09",
+    "customer": "SEKAR BUMI TBK, PT",
+    "product_code": "34400425"
+  },
+  {
+    "date": "2025-08-18",
+    "customer": "IMAM SUWAJI",
+    "product_code": "34500017"
+  },
+  {
+    "date": "2022-08-09",
+    "customer": "WIRA PANGAN INDONESIA, PT",
+    "product_code": "35200010"
+  },
+  {
+    "date": "2025-04-15",
+    "customer": "ANAGATA RAIA INDONESIA. PT",
+    "product_code": "35200016"
+  },
+  {
+    "date": "2025-09-23",
+    "customer": "PT.Aromatika Nacha Pratama",
+    "product_code": "35200020"
+  },
+  {
+    "date": "2025-10-10",
+    "customer": "AIDA ARTAN",
+    "product_code": "35300005"
+  },
+  {
+    "date": "2024-02-12",
+    "customer": "Pt Wisnu Dewa Anugerah",
+    "product_code": "35400020"
+  },
+  {
+    "date": "2024-07-12",
+    "customer": "GITA, PT.",
+    "product_code": "35400021"
+  },
+  {
+    "date": "2025-06-16",
+    "customer": "MEGAHPUTRA SEJAHTERA, PT",
+    "product_code": "35400074"
+  },
+  {
+    "date": "2024-04-01",
+    "customer": "Pt Wisnu Dewa Anugerah",
+    "product_code": "35400081"
+  },
+  {
+    "date": "2023-12-28",
+    "customer": "FA. SEMPANA",
+    "product_code": "35800012"
+  },
+  {
+    "date": "2019-08-28",
+    "customer": "PT. AQUASOLVE SANARIA",
+    "product_code": "35800036"
+  },
+  {
+    "date": "2025-03-21",
+    "customer": "ZAENUL MUSTHOFA",
+    "product_code": "35800040"
+  },
+  {
+    "date": "2025-10-02",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "35800050"
+  },
+  {
+    "date": "2023-01-16",
+    "customer": "GITA, PT.",
+    "product_code": "38400002"
+  },
+  {
+    "date": "2022-08-01",
+    "customer": "AJINOMOTO INDONESIA, PT",
+    "product_code": "44400066"
+  },
+  {
+    "date": "2025-07-31",
+    "customer": "ANAGATA RAIA INDONESIA. PT",
+    "product_code": "44400306"
+  },
+  {
+    "date": "2025-07-31",
+    "customer": "ANAGATA RAIA INDONESIA. PT",
+    "product_code": "44400308"
+  },
+  {
+    "date": "2023-06-08",
+    "customer": "NURIDAH, IBU",
+    "product_code": "44700016"
+  },
+  {
+    "date": "2022-11-29",
+    "customer": "RIMUINDO, PT",
+    "product_code": "46400014"
+  },
+  {
+    "date": "2022-11-29",
+    "customer": "RIMUINDO, PT",
+    "product_code": "46400022"
+  },
+  {
+    "date": "2025-06-04",
+    "customer": "SIANTAR TOP TBK, PT",
+    "product_code": "511"
+  },
+  {
+    "date": "2025-09-23",
+    "customer": "PT.Aromatika Nacha Pratama",
+    "product_code": "5116"
+  },
+  {
+    "date": "2023-04-18",
+    "customer": "NURIDAH, IBU",
+    "product_code": "53500019"
+  },
+  {
+    "date": "2021-11-16",
+    "customer": "IRWAN, BP.",
+    "product_code": "53900019"
+  },
+  {
+    "date": "2025-08-05",
+    "customer": "SANITAS,PT",
+    "product_code": "551"
+  },
+  {
+    "date": "2023-09-18",
+    "customer": "NISSIN BISC. FACTORY INDONESIA,PT",
+    "product_code": "58.35033"
+  },
+  {
+    "date": "2022-11-10",
+    "customer": "Marketing",
+    "product_code": "61.0507 F"
+  },
+  {
+    "date": "2019-11-07",
+    "customer": "LIM,LANNY WIJAYA",
+    "product_code": "61.0580 G"
+  },
+  {
+    "date": "2020-08-12",
+    "customer": "Marketing",
+    "product_code": "61.1005"
+  },
+  {
+    "date": "2022-11-10",
+    "customer": "Marketing",
+    "product_code": "61.9504 E"
+  },
+  {
+    "date": "2024-07-08",
+    "customer": "STANLEY SETIAWAN ",
+    "product_code": "62100011"
+  },
+  {
+    "date": "2025-08-26",
+    "customer": "CAHAYA TIRTA AROMMA, PT",
+    "product_code": "62400020"
+  },
+  {
+    "date": "2020-10-12",
+    "customer": "CAHAYA TIRTA AROMMA, PT",
+    "product_code": "62400025"
+  },
+  {
+    "date": "2025-08-26",
+    "customer": "CAHAYA TIRTA AROMMA, PT",
+    "product_code": "62700006"
+  },
+  {
+    "date": "2025-10-03",
+    "customer": "CAHAYA TIRTA AROMMA, PT",
+    "product_code": "62700011"
+  },
+  {
+    "date": "2021-04-08",
+    "customer": "GRESHINDO AROMA",
+    "product_code": "62900001"
+  },
+  {
+    "date": "2025-09-19",
+    "customer": "HEINZ ABC INDONESIA, PT",
+    "product_code": "881"
+  },
+  {
+    "date": "2025-10-09",
+    "customer": "KADU MANIS UTAMA",
+    "product_code": "A-800"
+  },
+  {
+    "date": "2022-12-02",
+    "customer": "CITA RASA SUKSES,PT",
+    "product_code": "A-802"
+  },
+  {
+    "date": "2022-09-21",
+    "customer": "MULYA MENARA SEJAHTERA, PT",
+    "product_code": "A-820"
+  },
+  {
+    "date": "2025-08-11",
+    "customer": "ZAENUL MUSTHOFA",
+    "product_code": "A-820 B"
+  },
+  {
+    "date": "2020-06-17",
+    "customer": "ZY PHYTO TECH INDUSTRIES SDN BHD",
+    "product_code": "A1"
+  },
+  {
+    "date": "2021-06-28",
+    "customer": "SUMBER HARAPAN JAYA",
+    "product_code": "AD-309"
+  },
+  {
+    "date": "2025-09-30",
+    "customer": "KURNIA WIJAYA ANEKA INDUSTRI",
+    "product_code": "B-500"
+  },
+  {
+    "date": "2025-01-08",
+    "customer": "KURNIA WIJAYA ANEKA INDUSTRI",
+    "product_code": "B-750"
+  },
+  {
+    "date": "2025-09-08",
+    "customer": "UTAMA SARI (BP.USMAN SANTOSO)",
+    "product_code": "B-880"
+  },
+  {
+    "date": "2021-09-08",
+    "customer": "UTAMA SARI (BP.USMAN SANTOSO)",
+    "product_code": "B-900 (DILUTE DR MPT-92359; DIAMOND GAK AMBIL LG, 10.09.2021 FREEZE)"
+  },
+  {
+    "date": "2025-09-26",
+    "customer": "PT.Aromatika Nacha Pratama",
+    "product_code": "B-955"
+  },
+  {
+    "date": "2022-08-18",
+    "customer": "MUHAMMAD FAUZI",
+    "product_code": "C-001"
+  },
+  {
+    "date": "2025-10-06",
+    "customer": "CV Omieku Food",
+    "product_code": "C-002"
+  },
+  {
+    "date": "2025-10-06",
+    "customer": "SAMUDRA PATI",
+    "product_code": "C-003"
+  },
+  {
+    "date": "2025-10-08",
+    "customer": "PERINA (0281-694298)",
+    "product_code": "C-004"
+  },
+  {
+    "date": "2025-10-02",
+    "customer": "Leoni Puspitasari Podoan",
+    "product_code": "C-006"
+  },
+  {
+    "date": "2025-09-03",
+    "customer": "NISSIN FOODS INDONESIA.PT",
+    "product_code": "CAI-3779 A"
+  },
+  {
+    "date": "2025-05-20",
+    "customer": "SANITA SELOK JAYA,CV",
+    "product_code": "CM-01"
+  },
+  {
+    "date": "2024-02-23",
+    "customer": "FA. SEMPANA",
+    "product_code": "CT-581"
+  },
+  {
+    "date": "2025-09-11",
+    "customer": "MUHAMMAD FAUZI",
+    "product_code": "D-101"
+  },
+  {
+    "date": "2020-01-07",
+    "customer": "SAHABAT PANGAN 0511-7587586",
+    "product_code": "D-102"
+  },
+  {
+    "date": "2025-05-30",
+    "customer": "USMAN",
+    "product_code": "D-103"
+  },
+  {
+    "date": "2025-03-04",
+    "customer": "BP.GUNAWAN WINATA",
+    "product_code": "D-104"
+  },
+  {
+    "date": "2024-06-04",
+    "customer": "RAMADAN MAYONA PUTRI",
+    "product_code": "D-105"
+  },
+  {
+    "date": "2025-10-02",
+    "customer": "NG MEI LAN",
+    "product_code": "D-107"
+  },
+  {
+    "date": "2022-05-11",
+    "customer": "CHICK-SO",
+    "product_code": "D-108"
+  },
+  {
+    "date": "2025-06-10",
+    "customer": "FA. SEMPANA",
+    "product_code": "D-109"
+  },
+  {
+    "date": "2020-07-30",
+    "customer": "SINAR JAYA ABADI, PT",
+    "product_code": "D-110"
+  },
+  {
+    "date": "2025-07-19",
+    "customer": "CV.TIGA ANUGERAH PANGAN",
+    "product_code": "D-111"
+  },
+  {
+    "date": "2025-08-28",
+    "customer": "JULI ISWANDI, BPK",
+    "product_code": "D-113"
+  },
+  {
+    "date": "2023-02-09",
+    "customer": "GUNTUR PAP",
+    "product_code": "E-505"
+  },
+  {
+    "date": "2025-09-22",
+    "customer": "SUYANTO",
+    "product_code": "FW-276"
+  },
+  {
+    "date": "2025-09-17",
+    "customer": "UFI MASUYA NUSANTARA, PT.",
+    "product_code": "GMS-1010 E"
+  },
+  {
+    "date": "2025-10-07",
+    "customer": "KUALA PANGAN",
+    "product_code": "GMS-166"
+  },
+  {
+    "date": "2025-08-13",
+    "customer": "NISSIN FOODS INDONESIA.PT",
+    "product_code": "GMS-2059"
+  },
+  {
+    "date": "2021-12-14",
+    "customer": "ALACRITY SUPER DUPER, PT",
+    "product_code": "GMS-20591"
+  },
+  {
+    "date": "2024-05-15",
+    "customer": "ABC PRESIDENT INDONESIA, PT",
+    "product_code": "GMS-2069"
+  },
+  {
+    "date": "2020-01-08",
+    "customer": "EDWIN, BP/ ASIA NIAGA",
+    "product_code": "GMS-2087/2090"
+  },
+  {
+    "date": "2025-08-14",
+    "customer": "CV. SINAR AGENG JAYA",
+    "product_code": "GMS-2090"
+  },
+  {
+    "date": "2025-09-26",
+    "customer": "Golden Powder Drink ",
+    "product_code": "GMS-21031"
+  },
+  {
+    "date": "2024-02-22",
+    "customer": "PT. LAUTAN NATURAL KRIMERINDO",
+    "product_code": "GMS-2116"
+  },
+  {
+    "date": "2025-01-08",
+    "customer": "TIGA PILAR SEJAHTERA, PT.",
+    "product_code": "GMS-3028"
+  },
+  {
+    "date": "2025-10-10",
+    "customer": "UNILEVER INDONESIA TBK, PT",
+    "product_code": "HVP WCI"
+  },
+  {
+    "date": "2020-11-21",
+    "customer": "INDOFOOD CBP SUKSES MAKMUR, PT",
+    "product_code": "IS-3624"
+  },
+  {
+    "date": "2025-09-16",
+    "customer": "SARICO FOOD",
+    "product_code": "KA-544"
+  },
+  {
+    "date": "2025-08-13",
+    "customer": "NISSIN BISC. FACTORY INDONESIA,PT",
+    "product_code": "KAN-25"
+  },
+  {
+    "date": "2020-01-03",
+    "customer": "GRAHAINMA SINARTRIKARSA,PT.(PT GIST",
+    "product_code": "KAN-3715"
+  },
+  {
+    "date": "2025-04-14",
+    "customer": "MIRASA FOOD INDUSTRY.PT",
+    "product_code": "KAN-531450"
+  },
+  {
+    "date": "2020-03-27",
+    "customer": "WILLIAM .BPK",
+    "product_code": "M-822"
+  },
+  {
+    "date": "2025-09-02",
+    "customer": "INDOFOOD CBP SUKSES MAKMUR, PT",
+    "product_code": "MC"
+  },
+  {
+    "date": "2022-10-13",
+    "customer": "CV. GOLDEN SUKSES ABADI",
+    "product_code": "MPT-87258"
+  },
+  {
+    "date": "2021-04-06",
+    "customer": "GOLDEN CHEMICAL (061) 4562954",
+    "product_code": "MPT-91159"
+  },
+  {
+    "date": "2021-06-28",
+    "customer": "DIAMOND COLD STORAGE, PT",
+    "product_code": "MPT-92359 (BIANG DR B-900; DIAMOND GAK AMBIL LG, 10.09.2021 FREEZE)"
+  },
+  {
+    "date": "2025-05-05",
+    "customer": "CAHAYA TIRTA AROMMA, PT",
+    "product_code": "MS-0804"
+  },
+  {
+    "date": "2025-10-06",
+    "customer": "ARIRA PANGINDO, CV.",
+    "product_code": "MS-0806"
+  },
+  {
+    "date": "2025-10-03",
+    "customer": "Hendra kurniawan",
+    "product_code": "MS-0807"
+  },
+  {
+    "date": "2025-07-04",
+    "customer": "SEGAR BUDI SARI, PT.",
+    "product_code": "MS-1604"
+  },
+  {
+    "date": "2019-12-17",
+    "customer": "CITA RASA SUKSES,PT",
+    "product_code": "MS-1607"
+  },
+  {
+    "date": "2025-10-08",
+    "customer": "WINARTO",
+    "product_code": "MS-2001 A"
+  },
+  {
+    "date": "2025-08-20",
+    "customer": "FA. SEMPANA",
+    "product_code": "MS-2020"
+  },
+  {
+    "date": "2024-06-10",
+    "customer": "WARTINI",
+    "product_code": "MS-2093 A"
+  },
+  {
+    "date": "2025-09-10",
+    "customer": "SEKAR BUMI TBK, PT",
+    "product_code": "MS-3010"
+  },
+  {
+    "date": "2025-03-13",
+    "customer": "CV Wahana Pangan Lestari",
+    "product_code": "MT- 475034"
+  },
+  {
+    "date": "2020-06-08",
+    "customer": "DENZ S FOOD",
+    "product_code": "MT-101759"
+  },
+  {
+    "date": "2025-09-19",
+    "customer": "CV.SURYA MANDIRI",
+    "product_code": "MT-105737"
+  },
+  {
+    "date": "2025-10-07",
+    "customer": "PT. Surya Pratista Hutama",
+    "product_code": "MT-107358 A"
+  },
+  {
+    "date": "2023-03-31",
+    "customer": "NG MEI LAN",
+    "product_code": "MT-108711"
+  },
+  {
+    "date": "2025-09-26",
+    "customer": "Golden Powder Drink ",
+    "product_code": "MT-1100084-2"
+  },
+  {
+    "date": "2025-09-30",
+    "customer": "ABDUL SUWAJI",
+    "product_code": "MT-1100116-0"
+  },
+  {
+    "date": "2020-05-13",
+    "customer": "SINAR ABADI JAYA",
+    "product_code": "MT-1100223-0"
+  },
+  {
+    "date": "2022-11-23",
+    "customer": "GAJAH LARIS SEJAHTERA, CV",
+    "product_code": "MT-1100334-1"
+  },
+  {
+    "date": "2025-09-15",
+    "customer": "CV. Tiga Beruang Makmur",
+    "product_code": "MT-1100524-1"
+  },
+  {
+    "date": "2025-10-02",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "MT-1100576-0"
+  },
+  {
+    "date": "2025-09-26",
+    "customer": "Golden Powder Drink ",
+    "product_code": "MT-1100694-1"
+  },
+  {
+    "date": "2021-12-07",
+    "customer": "IWAN, BP",
+    "product_code": "MT-1100914-1"
+  },
+  {
+    "date": "2021-04-22",
+    "customer": "IVAN MACARONI & SNACK",
+    "product_code": "MT-1100984-2"
+  },
+  {
+    "date": "2022-07-28",
+    "customer": "YOGI, BP.",
+    "product_code": "MT-1100984-6"
+  },
+  {
+    "date": "2021-12-30",
+    "customer": "MAXINDO KARYA ANUGERAH, PT",
+    "product_code": "MT-1101154-0"
+  },
+  {
+    "date": "2025-10-02",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "MT-1101243-2"
+  },
+  {
+    "date": "2023-01-12",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "MT-1101588-0"
+  },
+  {
+    "date": "2023-10-30",
+    "customer": "Natalia Fanggih",
+    "product_code": "MT-1101723-0"
+  },
+  {
+    "date": "2024-02-27",
+    "customer": "SUMBER URIP SNACK, CV",
+    "product_code": "MT-1102465-0"
+  },
+  {
+    "date": "2025-10-07",
+    "customer": "SINAR MATAHARI SEJAHTERA,CV",
+    "product_code": "MT-1103036-0"
+  },
+  {
+    "date": "2025-09-19",
+    "customer": "SITI MAESAROH",
+    "product_code": "MT-1103472-0"
+  },
+  {
+    "date": "2020-03-10",
+    "customer": "CAHAYA ANUGERAH SENTOSA",
+    "product_code": "MT-1103794-0"
+  },
+  {
+    "date": "2020-06-11",
+    "customer": "KADU MANIS UTAMA",
+    "product_code": "MT-1105124-0"
+  },
+  {
+    "date": "2025-09-09",
+    "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
+    "product_code": "MT-1105124-3"
+  },
+  {
+    "date": "2024-07-01",
+    "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
+    "product_code": "MT-1105134-4"
+  },
+  {
+    "date": "2025-09-09",
+    "customer": "SANITAS,PT",
+    "product_code": "MT-1105244-0"
+  },
+  {
+    "date": "2025-03-21",
+    "customer": "FA. SEMPANA",
+    "product_code": "MT-1105453-0"
+  },
+  {
+    "date": "2025-07-23",
+    "customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+    "product_code": "MT-1105604-4"
+  },
+  {
+    "date": "2022-11-01",
+    "customer": "ALACRITY SUPER DUPER, PT",
+    "product_code": "MT-1105885-0"
+  },
+  {
+    "date": "2022-11-01",
+    "customer": "ALACRITY SUPER DUPER, PT",
+    "product_code": "MT-1105891-0"
+  },
+  {
+    "date": "2025-08-20",
+    "customer": "BINTANG TOP INDUSTRY, CV",
+    "product_code": "MT-1106454-0"
+  },
+  {
+    "date": "2025-09-29",
+    "customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+    "product_code": "MT-1107031-0"
+  },
+  {
+    "date": "2025-09-23",
+    "customer": "AIDA ARTAN",
+    "product_code": "MT-1107603-0"
+  },
+  {
+    "date": "2020-11-07",
+    "customer": "KOMPAS TOP, CV",
+    "product_code": "MT-1107663-0"
+  },
+  {
+    "date": "2023-03-15",
+    "customer": "SENTRAL MULTIRASA UTAMA, PT",
+    "product_code": "MT-1108166-5"
+  },
+  {
+    "date": "2025-04-21",
+    "customer": "DARSIH",
+    "product_code": "MT-1108306-0"
+  },
+  {
+    "date": "2025-08-12",
+    "customer": "SINAR MATAHARI SEJAHTERA,CV",
+    "product_code": "MT-1108949-0"
+  },
+  {
+    "date": "2023-12-06",
+    "customer": "CV. SINAR AGENG JAYA",
+    "product_code": "MT-1109934-0"
+  },
+  {
+    "date": "2025-05-06",
+    "customer": "FRANKY SETIAWAN, BP",
+    "product_code": "MT-11356"
+  },
+  {
+    "date": "2025-03-03",
+    "customer": "USMAN",
+    "product_code": "MT-115416"
+  },
+  {
+    "date": "2022-06-03",
+    "customer": "SARI JAYA, UD",
+    "product_code": "MT-1200342-0"
+  },
+  {
+    "date": "2023-01-25",
+    "customer": "KUMPAI BESAR FOOD",
+    "product_code": "MT-1200555-0"
+  },
+  {
+    "date": "2025-07-15",
+    "customer": "JULI ISWANDI, BPK",
+    "product_code": "MT-1200805-0"
+  },
+  {
+    "date": "2025-09-03",
+    "customer": "SINAR KENCANA AGUNG, PT",
+    "product_code": "MT-1201316-0"
+  },
+  {
+    "date": "2025-09-03",
+    "customer": "SINAR KENCANA AGUNG, PT",
+    "product_code": "MT-1201326-2"
+  },
+  {
+    "date": "2020-10-09",
+    "customer": "ANNA NGEMIL (BP. EKO)",
+    "product_code": "MT-1201614-0"
+  },
+  {
+    "date": "2023-10-02",
+    "customer": "MALINDO FOOD DELIGHT, PT.",
+    "product_code": "MT-1202024-4"
+  },
+  {
+    "date": "2025-10-07",
+    "customer": "CAHAYA ANUGERAH SENTOSA",
+    "product_code": "MT-1202654-0"
+  },
+  {
+    "date": "2025-09-16",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "MT-1202784-0"
+  },
+  {
+    "date": "2025-09-23",
+    "customer": "MALINDO FOOD DELIGHT, PT.",
+    "product_code": "MT-1203124-4"
+  },
+  {
+    "date": "2025-07-23",
+    "customer": "FA. SEMPANA",
+    "product_code": "MT-1203736-1"
+  },
+  {
+    "date": "2025-09-01",
+    "customer": "TKT BANA FOOD, CV",
+    "product_code": "MT-1205667-0"
+  },
+  {
+    "date": "2021-10-22",
+    "customer": "MITRASATRYA PERKASAUTAMA,PT",
+    "product_code": "MT-1205854-0"
+  },
+  {
+    "date": "2025-08-14",
+    "customer": "KEPITING JUMBO/IBU NUR",
+    "product_code": "MT-1205994-0"
+  },
+  {
+    "date": "2025-09-04",
+    "customer": "RIYANA CIPTA PANGAN INDONESIA, PT",
+    "product_code": "MT-1206051-0"
+  },
+  {
+    "date": "2025-09-09",
+    "customer": "BINTANG TOP INDUSTRY, CV",
+    "product_code": "MT-1206412-0"
+  },
+  {
+    "date": "2025-08-20",
+    "customer": "BINTANG TOP INDUSTRY, CV",
+    "product_code": "MT-1206674-0"
+  },
+  {
+    "date": "2020-02-24",
+    "customer": "BPK. HENRY YANTO",
+    "product_code": "MT-1207404-0"
+  },
+  {
+    "date": "2023-03-01",
+    "customer": "BERSAMA SAHABAT ANDALAN, PT.",
+    "product_code": "MT-121814 E"
+  },
+  {
+    "date": "2021-06-09",
+    "customer": "SHUTO JAYA PERKASA",
+    "product_code": "MT-122816 D"
+  },
+  {
+    "date": "2025-02-14",
+    "customer": "LANGGENG PANGAN MAKMUR, PT",
+    "product_code": "MT-1300369-0"
+  },
+  {
+    "date": "2020-03-05",
+    "customer": "MAREM JAYA",
+    "product_code": "MT-1300811-0"
+  },
+  {
+    "date": "2025-09-22",
+    "customer": "LANGGENG PANGAN MAKMUR, PT",
+    "product_code": "MT-1300884-1"
+  },
+  {
+    "date": "2025-05-06",
+    "customer": "FRANKY SETIAWAN, BP",
+    "product_code": "MT-1300987-0"
+  },
+  {
+    "date": "2023-09-01",
+    "customer": "PT. AQUASOLVE SANARIA",
+    "product_code": "MT-1301048-0"
+  },
+  {
+    "date": "2025-06-18",
+    "customer": "GRAHAINMA SINARTRIKARSA,PT.(PT GIST",
+    "product_code": "MT-1301153-0"
+  },
+  {
+    "date": "2025-02-07",
+    "customer": "GAJAH LARIS SEJAHTERA, CV",
+    "product_code": "MT-1301328-1"
+  },
+  {
+    "date": "2025-09-22",
+    "customer": "LANGGENG PANGAN MAKMUR, PT",
+    "product_code": "MT-1301508-0"
+  },
+  {
+    "date": "2023-10-31",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "MT-1301546-0"
+  },
+  {
+    "date": "2025-08-14",
+    "customer": "KEPITING JUMBO/IBU NUR",
+    "product_code": "MT-1302026-0"
+  },
+  {
+    "date": "2020-10-15",
+    "customer": "GANESHA UTAMA",
+    "product_code": "MT-1302174-0"
+  },
+  {
+    "date": "2025-10-02",
+    "customer": "SINAR MATAHARI SEJAHTERA,CV",
+    "product_code": "MT-1302535-0"
+  },
+  {
+    "date": "2023-01-11",
+    "customer": "SUARGI ARIFIN",
+    "product_code": "MT-1303125-1"
+  },
+  {
+    "date": "2022-06-23",
+    "customer": "TAMADDUN INTI PERKASA",
+    "product_code": "MT-1303178-0"
+  },
+  {
+    "date": "2025-10-01",
+    "customer": "GUNTUR PAP",
+    "product_code": "MT-1303328-0"
+  },
+  {
+    "date": "2020-11-09",
+    "customer": "SANJAYA, UD",
+    "product_code": "MT-1303382-0"
+  },
+  {
+    "date": "2025-08-20",
+    "customer": "CV.SUMBER PANGAN NUSANTARA",
+    "product_code": "MT-13256 B"
+  },
+  {
+    "date": "2025-10-10",
+    "customer": "FA. SEMPANA",
+    "product_code": "MT-139511"
+  },
+  {
+    "date": "2025-09-09",
+    "customer": "SANITAS,PT",
+    "product_code": "MT-148516 B"
+  },
+  {
+    "date": "2025-09-22",
+    "customer": "PT.DUTA PANGAN NUSANTARA ",
+    "product_code": "MT-154519"
+  },
+  {
+    "date": "2025-09-19",
+    "customer": "MANOHARA ASRI, PT",
+    "product_code": "MT-159316 D"
+  },
+  {
+    "date": "2025-03-04",
+    "customer": "BP.GUNAWAN WINATA",
+    "product_code": "MT-16116"
+  },
+  {
+    "date": "2020-03-07",
+    "customer": "KADU MANIS UTAMA",
+    "product_code": "MT-16137 E"
+  },
+  {
+    "date": "2023-10-26",
+    "customer": "Sony R Limahelu",
+    "product_code": "MT-162553"
+  },
+  {
+    "date": "2025-09-16",
+    "customer": "CITA RASA SUKSES,PT",
+    "product_code": "MT-1644 P5"
+  },
+  {
+    "date": "2025-09-30",
+    "customer": "MELIANA SUKOWIJOYO",
+    "product_code": "MT-169214"
+  },
+  {
+    "date": "2025-09-30",
+    "customer": "ABDUL SUWAJI",
+    "product_code": "MT-169214 N"
+  },
+  {
+    "date": "2025-08-20",
+    "customer": "FA. SEMPANA",
+    "product_code": "MT-169214 R"
+  },
+  {
+    "date": "2025-09-10",
+    "customer": "SEKAR BUMI TBK, PT",
+    "product_code": "MT-171331 C"
+  },
+  {
+    "date": "2025-10-01",
+    "customer": "CV.TOP ASLI",
+    "product_code": "MT-180516"
+  },
+  {
+    "date": "2025-09-24",
+    "customer": "PT. TRIO MAHA JAYA",
+    "product_code": "MT-180516 I"
+  },
+  {
+    "date": "2024-02-12",
+    "customer": "Pt Wisnu Dewa Anugerah",
+    "product_code": "MT-182754"
+  },
+  {
+    "date": "2021-02-16",
+    "customer": "ENDA KASWARA/KAIL SHOP/T.PANCING",
+    "product_code": "MT-193256"
+  },
+  {
+    "date": "2025-09-16",
+    "customer": "CITA RASA SUKSES,PT",
+    "product_code": "MT-21118 A"
+  },
+  {
+    "date": "2023-08-10",
+    "customer": "FRANSEN ARDIANTO",
+    "product_code": "MT-212114"
+  },
+  {
+    "date": "2025-10-07",
+    "customer": "CAHAYA ANUGERAH SENTOSA",
+    "product_code": "MT-221218 A"
+  },
+  {
+    "date": "2025-09-17",
+    "customer": "PT.SENTRA PANGAN UTAMA",
+    "product_code": "MT-247713"
+  },
+  {
+    "date": "2020-12-18",
+    "customer": "MALANG SARI",
+    "product_code": "MT-249516"
+  },
+  {
+    "date": "2025-10-03",
+    "customer": "Anton Sutanto",
+    "product_code": "MT-279654"
+  },
+  {
+    "date": "2025-10-01",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "MT-283914"
+  },
+  {
+    "date": "2025-09-10",
+    "customer": "SUMBER URIP SNACK, CV",
+    "product_code": "MT-283914 G"
+  },
+  {
+    "date": "2022-02-02",
+    "customer": "ARIRA PANGINDO, CV.",
+    "product_code": "MT-283914 H"
+  },
+  {
+    "date": "2023-06-23",
+    "customer": "CV.KUDA SAKTI FOOD",
+    "product_code": "MT-287712"
+  },
+  {
+    "date": "2024-07-19",
+    "customer": "PT.RATON SEMBILAN SEMBILAN SEMBILAN INDONESIA",
+    "product_code": "MT-303736"
+  },
+  {
+    "date": "2025-09-15",
+    "customer": "PODO KUMPUL",
+    "product_code": "MT-31154"
+  },
+  {
+    "date": "2025-09-30",
+    "customer": "MELIANA SUKOWIJOYO",
+    "product_code": "MT-313116"
+  },
+  {
+    "date": "2022-11-01",
+    "customer": "CV. MUSTIKA",
+    "product_code": "MT-329716"
+  },
+  {
+    "date": "2024-09-19",
+    "customer": "PONDASI INTI SEJAHTERA, PT",
+    "product_code": "MT-341221"
+  },
+  {
+    "date": "2025-04-21",
+    "customer": "PT. Rukun Mitra Sentosa",
+    "product_code": "MT-34413"
+  },
+  {
+    "date": "2023-01-12",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "MT-362911 B"
+  },
+  {
+    "date": "2021-06-09",
+    "customer": "SHUTO JAYA PERKASA",
+    "product_code": "MT-3633"
+  },
+  {
+    "date": "2025-05-14",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "MT-363813 F"
+  },
+  {
+    "date": "2025-10-01",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "MT-365718"
+  },
+  {
+    "date": "2025-09-16",
+    "customer": "CITA RASA SUKSES,PT",
+    "product_code": "MT-373438"
+  },
+  {
+    "date": "2025-10-09",
+    "customer": "NUTRIFOOD INDONESIA, PT",
+    "product_code": "MT-3779 A"
+  },
+  {
+    "date": "2024-11-21",
+    "customer": "GITA, PT.",
+    "product_code": "MT-395915"
+  },
+  {
+    "date": "2021-11-22",
+    "customer": "ULTRA PRIMA ABADI,PT",
+    "product_code": "MT-39736 B"
+  },
+  {
+    "date": "2025-09-12",
+    "customer": "CITA RASA SUKSES,PT",
+    "product_code": "MT-3987"
+  },
+  {
+    "date": "2020-04-24",
+    "customer": "KEMBANG JAYA/ BP.AMINUDDIN",
+    "product_code": "MT-431114"
+  },
+  {
+    "date": "2020-07-03",
+    "customer": "RONSON FISHING,TK",
+    "product_code": "MT-431552"
+  },
+  {
+    "date": "2023-05-31",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "MT-4355110"
+  },
+  {
+    "date": "2025-09-09",
+    "customer": "PT.INDOFOOD CBP SUKSES MAKMUR ( Food Seasoning Division )",
+    "product_code": "MT-468316"
+  },
+  {
+    "date": "2025-09-25",
+    "customer": "AIDA ARTAN",
+    "product_code": "MT-47553"
+  },
+  {
+    "date": "2024-01-19",
+    "customer": "MEIJI FOOD INDONESIA, PT",
+    "product_code": "MT-486837"
+  },
+  {
+    "date": "2020-08-12",
+    "customer": "Marketing",
+    "product_code": "MT-500"
+  },
+  {
+    "date": "2025-10-10",
+    "customer": "FA. SEMPANA",
+    "product_code": "MT-50511 A"
+  },
+  {
+    "date": "2024-07-19",
+    "customer": "SORIN MAHARASA, PT.",
+    "product_code": "MT-508152"
+  },
+  {
+    "date": "2022-07-29",
+    "customer": "GITA, PT.",
+    "product_code": "MT-514514"
+  },
+  {
+    "date": "2025-09-01",
+    "customer": "BINTANG PANTURA",
+    "product_code": "MT-515515"
+  },
+  {
+    "date": "2024-10-15",
+    "customer": "CV. SARI MANIS RETELINDO",
+    "product_code": "MT-519114"
+  },
+  {
+    "date": "2024-12-03",
+    "customer": "LANGGENG PANGAN MAKMUR, PT",
+    "product_code": "MT-519419 A"
+  },
+  {
+    "date": "2021-10-19",
+    "customer": "SUMBER PANGAN NUSANTARA",
+    "product_code": "MT-520019 B"
+  },
+  {
+    "date": "2023-05-30",
+    "customer": "CV. SARI MANIS RETELINDO",
+    "product_code": "MT-533216 A"
+  },
+  {
+    "date": "2022-03-30",
+    "customer": "MITRA BOGA SEJAHTERA, CV",
+    "product_code": "MT-541518 C"
+  },
+  {
+    "date": "2025-08-19",
+    "customer": "UFI MASUYA NUSANTARA, PT.",
+    "product_code": "MT-546154"
+  },
+  {
+    "date": "2025-06-17",
+    "customer": "JERRY KOSWARA",
+    "product_code": "MT-546636"
+  },
+  {
+    "date": "2025-02-11",
+    "customer": "BINTANG KREASI AROMA, PT",
+    "product_code": "MT-546636 A"
+  },
+  {
+    "date": "2020-12-17",
+    "customer": "RENDI HARMAWAN, BP",
+    "product_code": "MT-548416 C"
+  },
+  {
+    "date": "2021-12-03",
+    "customer": "GANESHA UTAMA",
+    "product_code": "MT-553014 A"
+  },
+  {
+    "date": "2025-09-22",
+    "customer": "INDOFOOD FORTUNA MAKMUR",
+    "product_code": "MT-555815 E"
+  },
+  {
+    "date": "2025-09-16",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "MT-555815 G"
+  },
+  {
+    "date": "2025-09-26",
+    "customer": "PT.Aromatika Nacha Pratama",
+    "product_code": "MT-559"
+  },
+  {
+    "date": "2022-02-16",
+    "customer": "FA. SEMPANA",
+    "product_code": "MT-574656"
+  },
+  {
+    "date": "2023-08-08",
+    "customer": "ABDUL SUWAJI",
+    "product_code": "MT-579914"
+  },
+  {
+    "date": "2025-10-02",
+    "customer": "DUA KELINCI, PT.",
+    "product_code": "MT-585016 A"
+  },
+  {
+    "date": "2021-04-05",
+    "customer": "MITRA MANDIRI SEJATI, CV",
+    "product_code": "MT-588411"
+  },
+  {
+    "date": "2025-09-22",
+    "customer": "MANOHARA ASRI, PT",
+    "product_code": "MT-593316"
+  },
+  {
+    "date": "2025-09-27",
+    "customer": "PONDAN PANGAN MAKMUR INDONESIA, PT",
+    "product_code": "MT-597937"
+  },
+  {
+    "date": "2025-09-15",
+    "customer": "PODO KUMPUL",
+    "product_code": "MT-604531"
+  },
+  {
+    "date": "2025-07-09",
+    "customer": "KENCANA MAS MULIA / BP DANNY GO",
+    "product_code": "MT-604616"
+  },
+  {
+    "date": "2025-09-25",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "MT-605812 A"
+  },
+  {
+    "date": "2025-09-16",
+    "customer": "CITA RASA SUKSES,PT",
+    "product_code": "MT-608558"
+  },
+  {
+    "date": "2024-02-27",
+    "customer": "CV. SINAR AGENG JAYA",
+    "product_code": "MT-614318"
+  },
+  {
+    "date": "2025-10-08",
+    "customer": "LASALLE FOOD INDONESIA, PT.",
+    "product_code": "MT-625237"
+  },
+  {
+    "date": "2025-09-25",
+    "customer": "CITA RASA SUKSES,PT",
+    "product_code": "MT-625337"
+  },
+  {
+    "date": "2025-08-04",
+    "customer": "HANS CHRISTIAN",
+    "product_code": "MT-626737"
+  },
+  {
+    "date": "2025-09-23",
+    "customer": "CITA RASA SUKSES,PT",
+    "product_code": "MT-627037"
+  },
+  {
+    "date": "2025-10-07",
+    "customer": "SINAR MATAHARI SEJAHTERA,CV",
+    "product_code": "MT-630235 A"
+  },
+  {
+    "date": "2025-08-07",
+    "customer": "SINAR MATAHARI SEJAHTERA,CV",
+    "product_code": "MT-631618 B"
+  },
+  {
+    "date": "2020-09-04",
+    "customer": "YOGI, BP.",
+    "product_code": "MT-631618 C"
+  },
+  {
+    "date": "2025-10-06",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "MT-632434"
+  },
+  {
+    "date": "2025-07-14",
+    "customer": "KERIPIK SOFYAN",
+    "product_code": "MT-632514"
+  },
+  {
+    "date": "2025-07-14",
+    "customer": "KERIPIK SOFYAN",
+    "product_code": "MT-632614"
+  },
+  {
+    "date": "2023-06-17",
+    "customer": "BPK. HENRY YANTO",
+    "product_code": "MT-634539"
+  },
+  {
+    "date": "2025-06-17",
+    "customer": "SEKAR BUMI, PT.",
+    "product_code": "MT-63461"
+  },
+  {
+    "date": "2025-09-08",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "MT-636313"
+  },
+  {
+    "date": "2020-11-19",
+    "customer": "BPK. RANDY",
+    "product_code": "MT-636313 A"
+  },
+  {
+    "date": "2025-10-01",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "MT-645916 E"
+  },
+  {
+    "date": "2020-10-20",
+    "customer": "GANDI, BP",
+    "product_code": "MT-646411 C"
+  },
+  {
+    "date": "2023-03-20",
+    "customer": "AJINOMOTO INDONESIA, PT",
+    "product_code": "MT-648838"
+  },
+  {
+    "date": "2020-02-28",
+    "customer": "ANUGRAH JAYA",
+    "product_code": "MT-656614"
+  },
+  {
+    "date": "2025-09-15",
+    "customer": "PODO KUMPUL",
+    "product_code": "MT-666335 B"
+  },
+  {
+    "date": "2024-02-16",
+    "customer": "PT. NIRAMAS PANDAAN SEJAHTERA",
+    "product_code": "MT-690013"
+  },
+  {
+    "date": "2025-10-06",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "MT-690913"
+  },
+  {
+    "date": "2025-09-08",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "MT-692812"
+  },
+  {
+    "date": "2024-11-20",
+    "customer": "MULTI KREASI PERKASA, PT",
+    "product_code": "MT-697756"
+  },
+  {
+    "date": "2025-07-19",
+    "customer": "CV.TIGA ANUGERAH PANGAN",
+    "product_code": "MT-706412"
+  },
+  {
+    "date": "2023-03-24",
+    "customer": "PT. AQUASOLVE SANARIA",
+    "product_code": "MT-713331"
+  },
+  {
+    "date": "2025-09-23",
+    "customer": "PT. DAMARUS FOOD INDUSTRI",
+    "product_code": "MT-71859"
+  },
+  {
+    "date": "2020-07-07",
+    "customer": "BPK. HENRY YANTO",
+    "product_code": "MT-721911"
+  },
+  {
+    "date": "2025-10-06",
+    "customer": "ARIRA PANGINDO, CV.",
+    "product_code": "MT-727713"
+  },
+  {
+    "date": "2023-02-23",
+    "customer": "PT.GRAHA PANGAN SENTOSA",
+    "product_code": "MT-730614"
+  },
+  {
+    "date": "2023-12-08",
+    "customer": "PONDASI INTI SEJAHTERA, PT",
+    "product_code": "MT-733511"
+  },
+  {
+    "date": "2025-10-03",
+    "customer": "LIDYA AYUNINGTYAS",
+    "product_code": "MT-738036"
+  },
+  {
+    "date": "2021-04-06",
+    "customer": "KUMPAI BESAR FOOD",
+    "product_code": "MT-754514"
+  },
+  {
+    "date": "2025-03-03",
+    "customer": "PONDASI INTI SEJAHTERA, PT",
+    "product_code": "MT-756414 E"
+  },
+  {
+    "date": "2021-02-23",
+    "customer": "ENDA KASWARA/KAIL SHOP/T.PANCING",
+    "product_code": "MT-76159"
+  },
+  {
+    "date": "2023-02-27",
+    "customer": "ARDIAN WIJAYA",
+    "product_code": "MT-764915"
+  },
+  {
+    "date": "2020-11-07",
+    "customer": "KOMPAS TOP, CV",
+    "product_code": "MT-766433"
+  },
+  {
+    "date": "2025-10-08",
+    "customer": "SUMBER INTI PANGAN, PT.",
+    "product_code": "MT-766631"
+  },
+  {
+    "date": "2025-10-06",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "MT-768214"
+  },
+  {
+    "date": "2025-08-14",
+    "customer": "PT. MULYA MENARA SEJAHTERA",
+    "product_code": "MT-774131"
+  },
+  {
+    "date": "2025-03-25",
+    "customer": "CREATIVE CULINARY (BOGA GROUP)",
+    "product_code": "MT-777738 B"
+  },
+  {
+    "date": "2025-08-11",
+    "customer": "FRANSEN ARDIANTO",
+    "product_code": "MT-779914"
+  },
+  {
+    "date": "2025-06-20",
+    "customer": "IVAN KURNIAWAN",
+    "product_code": "MT-785315"
+  },
+  {
+    "date": "2021-04-16",
+    "customer": "SUMBER JAYA KIMIA",
+    "product_code": "MT-786232"
+  },
+  {
+    "date": "2025-04-30",
+    "customer": "PONDASI INTI SEJAHTERA, PT",
+    "product_code": "MT-788913"
+  },
+  {
+    "date": "2019-12-19",
+    "customer": "PRIMASARI,CV",
+    "product_code": "MT-791818 A"
+  },
+  {
+    "date": "2025-09-17",
+    "customer": "Dewi Yunita",
+    "product_code": "MT-794632"
+  },
+  {
+    "date": "2020-04-24",
+    "customer": "KEMBANG JAYA/ BP.AMINUDDIN",
+    "product_code": "MT-802416"
+  },
+  {
+    "date": "2024-10-24",
+    "customer": "SARI JAYA, UD",
+    "product_code": "MT-802516"
+  },
+  {
+    "date": "2020-03-19",
+    "customer": "LIDYA, IBU",
+    "product_code": "MT-805136"
+  },
+  {
+    "date": "2021-12-16",
+    "customer": "MELIANA SUKOWIJOYO",
+    "product_code": "MT-807961"
+  },
+  {
+    "date": "2024-06-25",
+    "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
+    "product_code": "MT-811161"
+  },
+  {
+    "date": "2022-10-21",
+    "customer": "ARY JOKO PRIYANTO",
+    "product_code": "MT-823635"
+  },
+  {
+    "date": "2020-01-07",
+    "customer": "RUKUN BERSAMA SENTOSA, PT.",
+    "product_code": "MT-826811"
+  },
+  {
+    "date": "2020-03-16",
+    "customer": "NANANG, BP",
+    "product_code": "MT-82859"
+  },
+  {
+    "date": "2025-06-20",
+    "customer": "PT.Calio Pratama Nusantara ",
+    "product_code": "MT-831014 A"
+  },
+  {
+    "date": "2025-08-15",
+    "customer": "ELSON BERNARDI,PT",
+    "product_code": "MT-831412"
+  },
+  {
+    "date": "2025-05-05",
+    "customer": "HARYADI",
+    "product_code": "MT-84359"
+  },
+  {
+    "date": "2025-10-01",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "MT-855514"
+  },
+  {
+    "date": "2021-09-15",
+    "customer": "ENDA KASWARA/KAIL SHOP/T.PANCING",
+    "product_code": "MT-87859"
+  },
+  {
+    "date": "2025-06-09",
+    "customer": "HARYADI",
+    "product_code": "MT-92159"
+  },
+  {
+    "date": "2025-08-26",
+    "customer": "SIDO AGUNG BISCUIT",
+    "product_code": "MT-92959"
+  },
+  {
+    "date": "2021-06-14",
+    "customer": "NISSIN FOODS INDONESIA.PT",
+    "product_code": "NNS-9191 "
+  },
+  {
+    "date": "2020-01-14",
+    "customer": "LIM,LANNY WIJAYA",
+    "product_code": "NO. 1"
+  },
+  {
+    "date": "2025-10-01",
+    "customer": "MENACOCO SARI, PT.",
+    "product_code": "P-1000"
+  },
+  {
+    "date": "2024-04-22",
+    "customer": "MENACOCO SARI, PT.",
+    "product_code": "P-1000 ( J1 )"
+  },
+  {
+    "date": "2019-03-18",
+    "customer": "CS2 POLA SEHAT, PT.",
+    "product_code": "P-200"
+  },
+  {
+    "date": "2025-06-26",
+    "customer": "SARI MURNI ABADI, PT.",
+    "product_code": "P-2000"
+  },
+  {
+    "date": "2025-06-13",
+    "customer": "INDOFOOD CBP SUKSES MAKMUR, PT",
+    "product_code": "SAF-9867 H"
+  },
+  {
+    "date": "2020-09-01",
+    "customer": "Marketing",
+    "product_code": "SBF-8693"
+  },
+  {
+    "date": "2025-09-11",
+    "customer": "GRAHAINMA SINARTRIKARSA,PT.(PT GIST",
+    "product_code": "SP-3715"
+  },
+  {
+    "date": "2025-09-30",
+    "customer": "HENGKY WIJAYA",
+    "product_code": "SP-52416 C"
+  },
+  {
+    "date": "2025-09-29",
+    "customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+    "product_code": "SP-52514 B"
+  },
+  {
+    "date": "2020-06-17",
+    "customer": "ZY PHYTO TECH INDUSTRIES SDN BHD",
+    "product_code": "SPIRAL 1"
+  },
+  {
+    "date": "2020-06-17",
+    "customer": "ZY PHYTO TECH INDUSTRIES SDN BHD",
+    "product_code": "SPIRAL 2"
+  },
+  {
+    "date": "2022-11-10",
+    "customer": "Marketing",
+    "product_code": "T-660"
+  },
+  {
+    "date": "2022-09-27",
+    "customer": "NUR SUGIATI",
+    "product_code": "TPC"
+  },
+  {
+    "date": "2025-09-19",
+    "customer": "CV.SURYA MANDIRI",
+    "product_code": "W-800"
+  },
+  {
+    "date": "2020-03-20",
+    "customer": "SURYA MANDIRI",
+    "product_code": "WCI"
+  },
+  {
+    "date": "2022-12-21",
+    "customer": "MENACOCO SARI, PT.",
+    "product_code": "XL-10"
+  }
+]
