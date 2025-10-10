@@ -11,3 +11,4 @@
 !/data/sample_requests.json
 !/data/stock_requests.json
 !/data/sales_orders.json
+!/data/last_production.json
