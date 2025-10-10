@@ -5,6 +5,11 @@ Data fetcher for Islandsun Indonesia JSON endpoints.
 Responsibilities:
 - Fetch three JSON endpoints (sample requests, stock requests, sales orders)
 - Store each JSON response into its corresponding file under data/
+- Produce an additional derived file last_production.json derived from stock_requests.json
+  containing only the latest production record per product with keys:
+    - date         (from srs_date)
+    - customer     (from srs_customer)
+    - product_code (from kode_produk)
 - Intended for automated execution via GitHub Actions
 """
 
@@ -29,6 +34,7 @@ SALES_BASE_URL: str = "http://apps.islandsunindonesia.com:81/islandsun/sales-ord
 SAMPLE_REQUEST_FILE: Path = DATA_DIR / "sample_requests.json"
 STOCK_REQUEST_FILE: Path = DATA_DIR / "stock_requests.json"
 SALES_ORDER_FILE: Path = DATA_DIR / "sales_orders.json"
+LAST_PRODUCTION_FILE: Path = DATA_DIR / "last_production.json"
 
 HTTP_TIMEOUT: int = 90          # seconds
 RETRY_LIMIT: int = 3            # number of retry attempts
@@ -130,6 +136,75 @@ def fetch_json(url: str) -> Any | None:
 
 
 # ----------------------------
+# DERIVED DATA: last_production.json
+# - Build a map of latest production per product (kode_produk)
+# - Output list of objects with keys: date, customer, product_code
+# ----------------------------
+def build_last_production_from_stock(stock_json: Any) -> list:
+    """
+    stock_json is expected to be the structure returned in stock_requests.json,
+    i.e. a dict with 'data' as a list of entries.
+    We return a list of unique latest records per product_code with only
+    the keys: date, customer, product_code.
+    """
+    if not stock_json or not isinstance(stock_json, dict):
+        return []
+
+    entries = stock_json.get("data", [])
+    if not isinstance(entries, list):
+        return []
+
+    latest_map: dict[str, tuple[datetime | None, dict]] = {}
+
+    for e in entries:
+        # product code key normalization
+        prod_code_raw = e.get("kode_produk") or ""
+        prod_code = str(prod_code_raw).strip()
+        if not prod_code:
+            # skip entries without a product code
+            continue
+
+        date_raw = e.get("srs_date") or ""
+        date_obj = None
+        if isinstance(date_raw, str) and date_raw:
+            try:
+                # Accept ISO-like YYYY-MM-DD
+                date_obj = datetime.fromisoformat(date_raw).date()
+            except Exception:
+                # Try common fallback formats if any - keep None if not parseable
+                try:
+                    date_obj = datetime.strptime(date_raw, "%Y-%m-%d").date()
+                except Exception:
+                    date_obj = None
+
+        current = latest_map.get(prod_code)
+        if current is None:
+            latest_map[prod_code] = (date_obj, e)
+        else:
+            prev_date = current[0]
+            # If new date is valid and greater than previous, replace
+            if date_obj is not None:
+                if prev_date is None or date_obj > prev_date:
+                    latest_map[prod_code] = (date_obj, e)
+            else:
+                # If new entry doesn't have a valid date, keep previous
+                pass
+
+    # Build resulting list (filter & rename keys)
+    out: list[dict] = []
+    for prod_code, (_d, entry) in latest_map.items():
+        out.append({
+            "date": entry.get("srs_date") or None,
+            "customer": entry.get("srs_customer") or None,
+            "product_code": entry.get("kode_produk") or None,
+        })
+
+    # Sort by product_code for stable output
+    out.sort(key=lambda x: (x.get("product_code") or ""))
+    return out
+
+
+# ----------------------------
 # MAIN FLOW
 # ----------------------------
 def main() -> int:
@@ -149,6 +224,15 @@ def main() -> int:
         if data is not None:
             write_json(path, data)
             print(f"Saved {path}")
+
+            # If this was the stock_requests endpoint, also produce last_production.json
+            if path == STOCK_REQUEST_FILE:
+                try:
+                    last_prod = build_last_production_from_stock(data)
+                    write_json(LAST_PRODUCTION_FILE, last_prod)
+                    print(f"Saved {LAST_PRODUCTION_FILE}")
+                except Exception as e:
+                    print(f"Failed building last_production.json: {e}")
         else:
             print(f"Failed to fetch {url}")
             all_ok = False
