@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 17618,
-  "recordsFiltered": 17618,
+  "recordsTotal": 17620,
+  "recordsFiltered": 17620,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -244998,7 +244998,7 @@
       "so_po_no": "041/CRS/BBU/IX/25",
       "so_sales": "Sucie",
       "so_total_spb": "2934479.25",
-      "so_status": "pending",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17577\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -246654,6 +246654,34 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17695\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-10-14 09:55:48",
+      "so_id": "17696",
+      "so_no": "119/ISI/SPB/X/2025",
+      "so_date": "2025-10-14",
+      "so_customer": "MANOHARA ASRI, PT",
+      "so_po_no": "SPMAPC2025/10/1418",
+      "so_sales": "Lily",
+      "so_total_spb": "104562000",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17696\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-10-14 13:37:16",
+      "so_id": "17697",
+      "so_no": "120/ISI/SPB/X/2025",
+      "so_date": "2025-10-14",
+      "so_customer": "PT.GOLDEN LEAVES JAYA ABADI",
+      "so_po_no": "PO-250819-0006",
+      "so_sales": "Lily",
+      "so_total_spb": "4312350",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17697\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
