@@ -16,7 +16,7 @@
       "kode_produk": "31406084",
       "srs_total_qty": "150",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Dio",
       "status_next": "blank"
     },
@@ -33,9 +33,9 @@
       "kode_produk": "31503233",
       "srs_total_qty": "25",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Dio",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21279",
@@ -50,9 +50,9 @@
       "kode_produk": "SP-52514 B",
       "srs_total_qty": "300",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Dio",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21277",
@@ -150,11 +150,11 @@
       "srs_customer": "GUNTUR PAP",
       "srs_product": "SWEET CORN",
       "kode_produk": "C-003",
-      "srs_total_qty": "50",
+      "srs_total_qty": "25",
       "srs_remarks": "Advance",
-      "srs_status": "NEW",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21267",
@@ -203,9 +203,9 @@
       "kode_produk": "31102194",
       "srs_total_qty": "150",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21264",
@@ -220,9 +220,9 @@
       "kode_produk": "35800050",
       "srs_total_qty": "210",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21263",
@@ -237,9 +237,9 @@
       "kode_produk": "31602847",
       "srs_total_qty": "250",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21262",
@@ -254,9 +254,9 @@
       "kode_produk": "31602950",
       "srs_total_qty": "800",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21261",
@@ -271,9 +271,9 @@
       "kode_produk": "31602769",
       "srs_total_qty": "800",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21260",
@@ -288,9 +288,9 @@
       "kode_produk": "MT-1100576-0",
       "srs_total_qty": "375",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21272",
