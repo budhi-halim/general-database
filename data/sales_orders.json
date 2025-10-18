@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 17640,
-  "recordsFiltered": 17640,
+  "recordsTotal": 17646,
+  "recordsFiltered": 17646,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -246201,7 +246201,7 @@
       "so_customer": "FA. SEMPANA",
       "so_po_no": "2025/SPN/X/014",
       "so_sales": "yanah",
-      "so_total_spb": "26530214.0625",
+      "so_total_spb": "30692714.0625",
       "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
@@ -246962,6 +246962,90 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17717\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-10-17 09:26:58",
+      "so_id": "17718",
+      "so_no": "141/ISI/SPB/X/2025",
+      "so_date": "2025-10-17",
+      "so_customer": "UNILEVER INDONESIA TBK, PT",
+      "so_po_no": "4528913601",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "41625000",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17718\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-10-17 09:46:53",
+      "so_id": "17719",
+      "so_no": "142/ISI/SPB/X/2025",
+      "so_date": "2025-10-17",
+      "so_customer": "SLAMET",
+      "so_po_no": "",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "43183995",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17719\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-10-17 10:43:35",
+      "so_id": "17720",
+      "so_no": "143/ISI/SPB/X/2025",
+      "so_date": "2025-10-17",
+      "so_customer": "MARTINI",
+      "so_po_no": "",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "1085025",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17720\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-10-17 12:45:53",
+      "so_id": "17721",
+      "so_no": "144/ISI/SPB/X/2025",
+      "so_date": "2025-10-17",
+      "so_customer": "CV.SUMBER PANGAN NUSANTARA",
+      "so_po_no": "PO-25/09/0116",
+      "so_sales": "Dio",
+      "so_total_spb": "32122845",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17721\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-10-17 13:21:53",
+      "so_id": "17722",
+      "so_no": "145/ISI/SPB/X/2025",
+      "so_date": "2025-10-17",
+      "so_customer": "SIANTAR TOP TBK, PT",
+      "so_po_no": "PO1-00172/10/25",
+      "so_sales": "Sucie",
+      "so_total_spb": "106645470",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17722\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-10-17 14:27:57",
+      "so_id": "17723",
+      "so_no": "146/ISI/SPB/X/2025",
+      "so_date": "2025-10-17",
+      "so_customer": "CV.SUMBER PANGAN NUSANTARA",
+      "so_po_no": "",
+      "so_sales": "Dio",
+      "so_total_spb": "176144978.7",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17723\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
