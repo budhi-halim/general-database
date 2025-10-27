@@ -20,7 +20,7 @@
     "product_code": "*31602140"
   },
   {
-    "date": "2025-09-23",
+    "date": "2025-10-23",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "01"
   },
@@ -85,8 +85,8 @@
     "product_code": "06-0037 A"
   },
   {
-    "date": "2025-09-30",
-    "customer": "PT.DUTA PANGAN NUSANTARA ",
+    "date": "2025-10-23",
+    "customer": "BRATA ADI LAKSANA, PT",
     "product_code": "06-0091"
   },
   {
@@ -130,12 +130,12 @@
     "product_code": "22538 R "
   },
   {
-    "date": "2025-10-06",
+    "date": "2025-10-23",
     "customer": "DUNKINDO LESTARI, PT.",
     "product_code": "2422"
   },
   {
-    "date": "2025-10-20",
+    "date": "2025-10-24",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31102194"
   },
@@ -580,7 +580,7 @@
     "product_code": "31301639"
   },
   {
-    "date": "2025-09-08",
+    "date": "2025-10-23",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "31301655"
   },
@@ -1210,8 +1210,8 @@
     "product_code": "31407185"
   },
   {
-    "date": "2025-09-09",
-    "customer": "Hendra kurniawan",
+    "date": "2025-10-24",
+    "customer": "UFI MASUYA NUSANTARA, PT.",
     "product_code": "31407189"
   },
   {
@@ -1630,7 +1630,7 @@
     "product_code": "31503338"
   },
   {
-    "date": "2025-10-21",
+    "date": "2025-10-23",
     "customer": "SENTRAL MULTIRASA UTAMA, PT",
     "product_code": "31601841"
   },
@@ -1900,7 +1900,7 @@
     "product_code": "31602766"
   },
   {
-    "date": "2025-10-20",
+    "date": "2025-10-24",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31602769"
   },
@@ -1930,7 +1930,7 @@
     "product_code": "31602831"
   },
   {
-    "date": "2025-10-20",
+    "date": "2025-10-24",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31602847"
   },
@@ -1970,7 +1970,7 @@
     "product_code": "31602932"
   },
   {
-    "date": "2025-10-20",
+    "date": "2025-10-24",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31602950"
   },
@@ -2585,7 +2585,7 @@
     "product_code": "35800040"
   },
   {
-    "date": "2025-10-20",
+    "date": "2025-10-24",
     "customer": "DUA KELINCI, PT.",
     "product_code": "35800050"
   },
@@ -2920,8 +2920,8 @@
     "product_code": "GMS-3028"
   },
   {
-    "date": "2025-10-10",
-    "customer": "UNILEVER INDONESIA TBK, PT",
+    "date": "2025-10-25",
+    "customer": "BINTANG KREASI AROMA, PT",
     "product_code": "HVP WCI"
   },
   {
@@ -3035,7 +3035,7 @@
     "product_code": "MT-105737"
   },
   {
-    "date": "2025-10-07",
+    "date": "2025-10-25",
     "customer": "PT. Surya Pratista Hutama",
     "product_code": "MT-107358 A"
   },
@@ -3070,7 +3070,7 @@
     "product_code": "MT-1100524-1"
   },
   {
-    "date": "2025-10-20",
+    "date": "2025-10-24",
     "customer": "DUA KELINCI, PT.",
     "product_code": "MT-1100576-0"
   },
@@ -3405,8 +3405,8 @@
     "product_code": "MT-1303382-0"
   },
   {
-    "date": "2025-08-20",
-    "customer": "CV.SUMBER PANGAN NUSANTARA",
+    "date": "2025-10-24",
+    "customer": "RAHMAT",
     "product_code": "MT-13256 B"
   },
   {
@@ -3455,8 +3455,8 @@
     "product_code": "MT-169214"
   },
   {
-    "date": "2025-10-17",
-    "customer": "MARTINI",
+    "date": "2025-10-24",
+    "customer": "SHINTA NIAWATI",
     "product_code": "MT-169214 N"
   },
   {
@@ -3490,7 +3490,7 @@
     "product_code": "MT-193256"
   },
   {
-    "date": "2025-10-15",
+    "date": "2025-10-23",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-21118 A"
   },
@@ -3595,7 +3595,7 @@
     "product_code": "MT-373438"
   },
   {
-    "date": "2025-10-09",
+    "date": "2025-10-24",
     "customer": "NUTRIFOOD INDONESIA, PT",
     "product_code": "MT-3779 A"
   },
@@ -3745,8 +3745,8 @@
     "product_code": "MT-579914"
   },
   {
-    "date": "2025-10-20",
-    "customer": "DUA KELINCI, PT.",
+    "date": "2025-10-24",
+    "customer": "USMAN",
     "product_code": "MT-585016 A"
   },
   {
@@ -3780,7 +3780,7 @@
     "product_code": "MT-605812 A"
   },
   {
-    "date": "2025-10-15",
+    "date": "2025-10-23",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-608558"
   },
@@ -3805,7 +3805,7 @@
     "product_code": "MT-626737"
   },
   {
-    "date": "2025-10-15",
+    "date": "2025-10-23",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-627037"
   },
@@ -3850,7 +3850,7 @@
     "product_code": "MT-63461"
   },
   {
-    "date": "2025-09-08",
+    "date": "2025-10-23",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-636313"
   },
@@ -4070,7 +4070,7 @@
     "product_code": "MT-831412"
   },
   {
-    "date": "2025-10-21",
+    "date": "2025-10-24",
     "customer": "KOSENA LESTARI MAKMUR",
     "product_code": "MT-84359"
   },
