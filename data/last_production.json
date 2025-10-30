@@ -245,6 +245,11 @@
     "product_code": "31102813"
   },
   {
+    "date": "2025-10-29",
+    "customer": "Anton Sutanto",
+    "product_code": "31102816"
+  },
+  {
     "date": "2025-10-21",
     "customer": "NISSIN FOODS INDONESIA.PT",
     "product_code": "31102845"
@@ -305,7 +310,7 @@
     "product_code": "31201247"
   },
   {
-    "date": "2025-09-08",
+    "date": "2025-10-29",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "31201375"
   },
@@ -2160,7 +2165,7 @@
     "product_code": "31802251"
   },
   {
-    "date": "2025-07-29",
+    "date": "2025-10-30",
     "customer": "CIPTA SELERA SEMESTA, PT",
     "product_code": "31802256"
   },
@@ -2380,7 +2385,7 @@
     "product_code": "31900616"
   },
   {
-    "date": "2025-10-13",
+    "date": "2025-10-29",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "31900628"
   },
@@ -2585,7 +2590,7 @@
     "product_code": "35800040"
   },
   {
-    "date": "2025-10-24",
+    "date": "2025-10-29",
     "customer": "DUA KELINCI, PT.",
     "product_code": "35800050"
   },
@@ -3070,7 +3075,7 @@
     "product_code": "MT-1100524-1"
   },
   {
-    "date": "2025-10-24",
+    "date": "2025-10-29",
     "customer": "DUA KELINCI, PT.",
     "product_code": "MT-1100576-0"
   },
@@ -3400,8 +3405,8 @@
     "product_code": "MT-1303178-0"
   },
   {
-    "date": "2025-10-01",
-    "customer": "GUNTUR PAP",
+    "date": "2025-10-29",
+    "customer": "Singkong D-9",
     "product_code": "MT-1303328-0"
   },
   {
