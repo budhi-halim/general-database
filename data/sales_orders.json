@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 17819,
-  "recordsFiltered": 17819,
+  "recordsTotal": 17824,
+  "recordsFiltered": 17824,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -249226,7 +249226,7 @@
       "so_po_no": "001/LDY-PO/I/25",
       "so_sales": "Dwi Rachtomo",
       "so_total_spb": "175559997.6",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17879\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -249240,7 +249240,7 @@
       "so_po_no": "",
       "so_sales": "Dwi Rachtomo",
       "so_total_spb": "175559997.6",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17880\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -249436,7 +249436,7 @@
       "so_po_no": "PO-FD-2025-004359",
       "so_sales": "Dwi Rachtomo",
       "so_total_spb": "29165144.55",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17894\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -249450,7 +249450,7 @@
       "so_po_no": "PO-250919-0011",
       "so_sales": "Lily",
       "so_total_spb": "11571750",
-      "so_status": "pending",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17895\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -249468,6 +249468,76 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17896\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-11-06 09:46:06",
+      "so_id": "17897",
+      "so_no": "42/ISI/SPB/XI/2025",
+      "so_date": "2025-11-06",
+      "so_customer": "PT.GOLDEN LEAVES JAYA ABADI",
+      "so_po_no": "PO-250915-0004",
+      "so_sales": "Lily",
+      "so_total_spb": "3865575",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17897\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-11-06 09:54:45",
+      "so_id": "17898",
+      "so_no": "43/ISI/SPB/XI/2025",
+      "so_date": "2025-11-06",
+      "so_customer": "PT.GOLDEN LEAVES JAYA ABADI",
+      "so_po_no": "PO-250919-0011",
+      "so_sales": "Lily",
+      "so_total_spb": "7714500",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17898\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-11-06 10:03:16",
+      "so_id": "17899",
+      "so_no": "44/ISI/SPB/XI/2025",
+      "so_date": "2025-11-06",
+      "so_customer": "PT.GOLDEN LEAVES JAYA ABADI",
+      "so_po_no": "PO-250915-0004",
+      "so_sales": "Lily",
+      "so_total_spb": "5730375",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17899\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-11-06 10:54:22",
+      "so_id": "17900",
+      "so_no": "45/ISI/SPB/XI/2025",
+      "so_date": "2025-11-06",
+      "so_customer": "PT.GOLDEN LEAVES JAYA ABADI",
+      "so_po_no": "PO-250811-0007",
+      "so_sales": "Lily",
+      "so_total_spb": "2480850",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17900\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-11-06 13:24:06",
+      "so_id": "17901",
+      "so_no": "46/ISI/SPB/XI/2025",
+      "so_date": "2025-11-06",
+      "so_customer": "TAMADDUN INTI PERKASA",
+      "so_po_no": "01/PO-TIP/XI/2025",
+      "so_sales": "Dio",
+      "so_total_spb": "23298900",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17901\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
