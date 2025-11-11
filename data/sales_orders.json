@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 17829,
-  "recordsFiltered": 17829,
+  "recordsTotal": 17835,
+  "recordsFiltered": 17835,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -249608,6 +249608,90 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17906\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-11-10 10:35:55",
+      "so_id": "17907",
+      "so_no": "52/ISI/SPB/XI/2025",
+      "so_date": "2025-11-10",
+      "so_customer": "CV. SINAR AGENG JAYA",
+      "so_po_no": "PO019/X/2025",
+      "so_sales": "Dio",
+      "so_total_spb": "2233875",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17907\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-11-10 12:55:48",
+      "so_id": "17908",
+      "so_no": "53/ISI/SPB/XI/2025",
+      "so_date": "2025-11-10",
+      "so_customer": "PT.GOLDEN LEAVES JAYA ABADI",
+      "so_po_no": "PO-250919-0011",
+      "so_sales": "Lily",
+      "so_total_spb": "9369787.5",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17908\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-11-10 13:10:54",
+      "so_id": "17909",
+      "so_no": "54/ISI/SPB/XI/2025",
+      "so_date": "2025-11-10",
+      "so_customer": "PT.GOLDEN LEAVES JAYA ABADI",
+      "so_po_no": "PO-251023-0005",
+      "so_sales": "Lily",
+      "so_total_spb": "12520800",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17909\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-11-10 13:15:58",
+      "so_id": "17910",
+      "so_no": "55/ISI/SPB/XI/2025",
+      "so_date": "2025-11-10",
+      "so_customer": "PT.GOLDEN LEAVES JAYA ABADI",
+      "so_po_no": "PO-251023-0005",
+      "so_sales": "Lily",
+      "so_total_spb": "8091900",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17910\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-11-10 13:20:16",
+      "so_id": "17911",
+      "so_no": "56/ISI/SPB/XI/2025",
+      "so_date": "2025-11-10",
+      "so_customer": "PT.GOLDEN LEAVES JAYA ABADI",
+      "so_po_no": "PO-251023-0005",
+      "so_sales": "Lily",
+      "so_total_spb": "11599500",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17911\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-11-10 15:50:11",
+      "so_id": "17912",
+      "so_no": "57/ISI/SPB/XI/2025",
+      "so_date": "2025-11-10",
+      "so_customer": "CV Omieku Food",
+      "so_po_no": "0146/OMIEKU/XI/2025",
+      "so_sales": "Lily",
+      "so_total_spb": "70068750",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/17912\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
