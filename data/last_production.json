@@ -65,7 +65,7 @@
     "product_code": "04-0122"
   },
   {
-    "date": "2025-08-20",
+    "date": "2025-11-12",
     "customer": "BINTANG TOP INDUSTRY, CV",
     "product_code": "04-0136"
   },
@@ -75,7 +75,7 @@
     "product_code": "04-0137"
   },
   {
-    "date": "2025-08-20",
+    "date": "2025-11-12",
     "customer": "BINTANG TOP INDUSTRY, CV",
     "product_code": "04-0137 G"
   },
@@ -1590,6 +1590,11 @@
     "product_code": "31503089"
   },
   {
+    "date": "2025-11-12",
+    "customer": "PT. LEBLE BOGA ADIPERKASA",
+    "product_code": "31503136"
+  },
+  {
     "date": "2025-08-05",
     "customer": "CV.TSG ABADI SEJATI",
     "product_code": "31503140"
@@ -1905,8 +1910,8 @@
     "product_code": "31602766"
   },
   {
-    "date": "2025-10-28",
-    "customer": "CV.Berkah Baru Banjarmasin",
+    "date": "2025-11-12",
+    "customer": "DUA KELINCI, PT.",
     "product_code": "31602769"
   },
   {
@@ -1925,7 +1930,7 @@
     "product_code": "31602800"
   },
   {
-    "date": "2025-09-25",
+    "date": "2025-11-12",
     "customer": "IWAN TEGUH RIANTO",
     "product_code": "31602830"
   },
@@ -1975,7 +1980,7 @@
     "product_code": "31602932"
   },
   {
-    "date": "2025-10-24",
+    "date": "2025-11-12",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31602950"
   },
@@ -2025,8 +2030,8 @@
     "product_code": "31700490"
   },
   {
-    "date": "2025-10-28",
-    "customer": "NUGRAHA INDAH CITARASA INDONESIA, PT",
+    "date": "2025-11-12",
+    "customer": "INDOFOOD CBP SUKSES MAKMUR TBK, PT.",
     "product_code": "31700492"
   },
   {
@@ -2325,8 +2330,8 @@
     "product_code": "31802591"
   },
   {
-    "date": "2025-11-10",
-    "customer": "PT Indo Makmur Foods",
+    "date": "2025-11-12",
+    "customer": "PT. Hana Mulia Sarerea",
     "product_code": "31802601"
   },
   {
@@ -2590,7 +2595,7 @@
     "product_code": "35800040"
   },
   {
-    "date": "2025-10-29",
+    "date": "2025-11-12",
     "customer": "DUA KELINCI, PT.",
     "product_code": "35800050"
   },
@@ -2745,7 +2750,7 @@
     "product_code": "AD-309"
   },
   {
-    "date": "2025-09-30",
+    "date": "2025-11-12",
     "customer": "KURNIA WIJAYA ANEKA INDUSTRI",
     "product_code": "B-500"
   },
@@ -2755,8 +2760,8 @@
     "product_code": "B-750"
   },
   {
-    "date": "2025-09-08",
-    "customer": "UTAMA SARI (BP.USMAN SANTOSO)",
+    "date": "2025-11-12",
+    "customer": "KURNIA WIJAYA ANEKA INDUSTRI",
     "product_code": "B-880"
   },
   {
@@ -2780,8 +2785,8 @@
     "product_code": "C-002"
   },
   {
-    "date": "2025-10-15",
-    "customer": "GUNTUR PAP",
+    "date": "2025-11-12",
+    "customer": "IWAN TEGUH RIANTO",
     "product_code": "C-003"
   },
   {
@@ -3180,7 +3185,7 @@
     "product_code": "MT-1105891-0"
   },
   {
-    "date": "2025-08-20",
+    "date": "2025-11-12",
     "customer": "BINTANG TOP INDUSTRY, CV",
     "product_code": "MT-1106454-0"
   },
@@ -3305,12 +3310,12 @@
     "product_code": "MT-1206051-0"
   },
   {
-    "date": "2025-09-09",
+    "date": "2025-11-12",
     "customer": "BINTANG TOP INDUSTRY, CV",
     "product_code": "MT-1206412-0"
   },
   {
-    "date": "2025-08-20",
+    "date": "2025-11-12",
     "customer": "BINTANG TOP INDUSTRY, CV",
     "product_code": "MT-1206674-0"
   },
@@ -3480,8 +3485,8 @@
     "product_code": "MT-171331 C"
   },
   {
-    "date": "2025-11-04",
-    "customer": "BP.GUNAWAN WINATA",
+    "date": "2025-11-13",
+    "customer": "CV.TOP ASLI",
     "product_code": "MT-180516"
   },
   {
@@ -3570,7 +3575,7 @@
     "product_code": "MT-329716"
   },
   {
-    "date": "2024-09-19",
+    "date": "2025-11-12",
     "customer": "PONDASI INTI SEJAHTERA, PT",
     "product_code": "MT-341221"
   },
@@ -3815,8 +3820,8 @@
     "product_code": "MT-626737"
   },
   {
-    "date": "2025-11-06",
-    "customer": "CITA RASA SUKSES,PT",
+    "date": "2025-11-12",
+    "customer": "PT. KRISPI INDUSTRI INDONESIA ",
     "product_code": "MT-627037"
   },
   {
