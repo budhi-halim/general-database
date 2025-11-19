@@ -1035,7 +1035,7 @@
     "product_code": "31406641"
   },
   {
-    "date": "2025-10-31",
+    "date": "2025-11-18",
     "customer": "PT. TRIO RASA MAS",
     "product_code": "31406642"
   },
@@ -1195,7 +1195,7 @@
     "product_code": "31407081"
   },
   {
-    "date": "2025-11-10",
+    "date": "2025-11-19",
     "customer": "NATALIA SUTRISNO",
     "product_code": "31407110"
   },
@@ -1218,6 +1218,11 @@
     "date": "2025-10-24",
     "customer": "UFI MASUYA NUSANTARA, PT.",
     "product_code": "31407189"
+  },
+  {
+    "date": "2025-11-18",
+    "customer": "CV.TIGA ANUGERAH PANGAN",
+    "product_code": "31407218"
   },
   {
     "date": "2025-10-20",
@@ -1370,6 +1375,11 @@
     "product_code": "31407816"
   },
   {
+    "date": "2025-11-18",
+    "customer": "CV.TIGA ANUGERAH PANGAN",
+    "product_code": "31407877"
+  },
+  {
     "date": "2025-09-23",
     "customer": "MANOHARA ASRI, PT",
     "product_code": "31407887"
@@ -1420,7 +1430,7 @@
     "product_code": "31502154"
   },
   {
-    "date": "2025-10-15",
+    "date": "2025-11-18",
     "customer": "SITI MAESAROH",
     "product_code": "31502222"
   },
@@ -1630,7 +1640,7 @@
     "product_code": "31503315"
   },
   {
-    "date": "2025-11-10",
+    "date": "2025-11-18",
     "customer": "INDOFOOD FORTUNA MAKMUR",
     "product_code": "31503336"
   },
@@ -2035,7 +2045,7 @@
     "product_code": "31700492"
   },
   {
-    "date": "2025-10-20",
+    "date": "2025-11-19",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31801642 (NON TBHQ)"
   },
@@ -2530,7 +2540,7 @@
     "product_code": "34400374"
   },
   {
-    "date": "2025-11-14",
+    "date": "2025-11-18",
     "customer": "SEKAR BUMI TBK, PT",
     "product_code": "34400425"
   },
@@ -2780,8 +2790,8 @@
     "product_code": "C-001"
   },
   {
-    "date": "2025-11-17",
-    "customer": "KERIPIK LEZAT",
+    "date": "2025-11-18",
+    "customer": "PT TRIO MITRA SEJATI",
     "product_code": "C-002"
   },
   {
@@ -4105,8 +4115,8 @@
     "product_code": "MT-92159"
   },
   {
-    "date": "2025-11-14",
-    "customer": "PT. DAMARUS FOOD INDUSTRI",
+    "date": "2025-11-18",
+    "customer": "SIDO AGUNG BISCUIT",
     "product_code": "MT-92959"
   },
   {
