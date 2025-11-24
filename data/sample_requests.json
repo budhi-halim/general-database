@@ -1,8 +1,50 @@
 {
   "draw": 0,
-  "recordsTotal": 11573,
-  "recordsFiltered": 11573,
+  "recordsTotal": 11576,
+  "recordsFiltered": 11576,
   "data": [
+    {
+      "sr_id": "11583",
+      "sr_no": "1949/XI/2025/SRF",
+      "sr_date": "2025-11-24",
+      "sr_pic": "Ary Joko Priyanto",
+      "sr_customer": "Makaroni Bola Dunia ",
+      "sr_srtype": "General Request",
+      "sr_status": "WAITING APPROVAL PM",
+      "tot_item": "4 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2025-11-24 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11583)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "11582",
+      "sr_no": "1948/XI/2025/SRF",
+      "sr_date": "2025-11-24",
+      "sr_pic": "Bernard Abielius Sugiardja",
+      "sr_customer": "SEKAR BUMI TBK, PT",
+      "sr_srtype": "General Request",
+      "sr_status": "WAITING APPROVAL PM",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2025-11-24 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11582)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "11581",
+      "sr_no": "1947/XI/2025/SRF",
+      "sr_date": "2025-11-23",
+      "sr_pic": "Bernard Abielius Sugiardja",
+      "sr_customer": "SEKAR BUMI TBK, PT",
+      "sr_srtype": "General Request",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2025-11-23 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11581)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
     {
       "sr_id": "11580",
       "sr_no": "1946/XI/2025/SRF",
@@ -110,7 +152,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "2 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-20 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11573)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -180,7 +222,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "2 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-19 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11568)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -222,7 +264,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "2 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-19 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11565)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -236,7 +278,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "4 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Partial Ready",
       "sr_created_at": "2025-11-19 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11564)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -250,7 +292,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "4 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-19 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11563)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -264,7 +306,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "4 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Partial Ready",
       "sr_created_at": "2025-11-19 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11562)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -278,7 +320,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "2 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-19 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11561)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -292,7 +334,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-19 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11560)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -306,7 +348,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "5 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-19 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11559)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -320,7 +362,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "2 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-18 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11558)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -334,7 +376,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-18 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11557)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -348,7 +390,7 @@
       "sr_srtype": "General Request",
       "sr_status": "APPROVED BY PM",
       "tot_item": "2 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-18 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11556)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
