@@ -1,8 +1,127 @@
 {
   "draw": 0,
-  "recordsTotal": 21611,
-  "recordsFiltered": 21611,
+  "recordsTotal": 21618,
+  "recordsFiltered": 21618,
   "data": [
+    {
+      "srs_id": "21733",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "1241/V/2025/SRS",
+      "kode_customer": "",
+      "srs_no": "3056/XI/2025/SRS",
+      "srs_date": "2025-11-25",
+      "srs_customer": "CATUR WIDI CAHYONO",
+      "srs_product": "MARINATION SEASONING",
+      "kode_produk": "31407627",
+      "srs_total_qty": "200",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "Waiting Approval",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "21732",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "3055/XI/2025/SRS",
+      "srs_date": "2025-11-24",
+      "srs_customer": "PT. HARUM SARI SINERJINDO LESTARI",
+      "srs_product": "SOY SAUCE POWDER",
+      "kode_produk": "MT-3779 A",
+      "srs_total_qty": "100",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "21731",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "3054/XI/2025/SRS",
+      "srs_date": "2025-11-24",
+      "srs_customer": "ANAGATA RAIA INDONESIA. PT",
+      "srs_product": "KALDU SAPI SEASONING",
+      "kode_produk": "31201440",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "21730",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "3053/XI/2025/SRS",
+      "srs_date": "2025-11-24",
+      "srs_customer": "ANAGATA RAIA INDONESIA. PT",
+      "srs_product": "BLACK PASTE",
+      "kode_produk": "44400306",
+      "srs_total_qty": "30",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "21729",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "BMA",
+      "srs_no": "3052/XI/2025/SRS",
+      "srs_date": "2025-11-24",
+      "srs_customer": "BINTANG MUJUR ABADI/AMIR BP",
+      "srs_product": "GARLIC BBQ SEASONING",
+      "kode_produk": "31406084",
+      "srs_total_qty": "150",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Dio",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "21728",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "BMA",
+      "srs_no": "3051/XI/2025/SRS",
+      "srs_date": "2025-11-24",
+      "srs_customer": "BINTANG MUJUR ABADI/AMIR BP",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "SP-52514 B",
+      "srs_total_qty": "300",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Dio",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "21727",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "BMA",
+      "srs_no": "3050/XI/2025/SRS",
+      "srs_date": "2025-11-24",
+      "srs_customer": "BINTANG MUJUR ABADI/AMIR BP",
+      "srs_product": "CHEESE SEASONING",
+      "kode_produk": "31503233",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Dio",
+      "status_next": "blank"
+    },
     {
       "srs_id": "21726",
       "is_replacement": "NO",
@@ -16,7 +135,7 @@
       "kode_produk": "FW-276",
       "srs_total_qty": "50",
       "srs_remarks": "Sudden",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
       "status_next": "blank"
     },
@@ -33,9 +152,9 @@
       "kode_produk": "31406510",
       "srs_total_qty": "100",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21724",
@@ -52,7 +171,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Dwi Rachtomo",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21723",
@@ -69,7 +188,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Dwi Rachtomo",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21722",
@@ -86,7 +205,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Dwi Rachtomo",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21721",
@@ -103,7 +222,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Dwi Rachtomo",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21720",
@@ -120,7 +239,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Dwi Rachtomo",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21719",
@@ -137,7 +256,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21718",
@@ -154,7 +273,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Dwi Rachtomo",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21717",
@@ -171,7 +290,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21716",
@@ -205,7 +324,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21714",
@@ -222,7 +341,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21713",
@@ -239,7 +358,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Dio",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21708",
@@ -511,7 +630,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Sucie",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21710",
@@ -528,7 +647,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Sucie",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21711",
@@ -545,7 +664,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Sucie",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21712",
@@ -562,7 +681,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Sucie",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21693",
