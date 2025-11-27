@@ -1,8 +1,212 @@
 {
   "draw": 0,
-  "recordsTotal": 21642,
-  "recordsFiltered": 21642,
+  "recordsTotal": 21654,
+  "recordsFiltered": 21654,
   "data": [
+    {
+      "srs_id": "21769",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "ARIDA",
+      "srs_no": "3092/XI/2025/SRS",
+      "srs_date": "2025-11-26",
+      "srs_customer": "ARIRA PANGINDO, CV.",
+      "srs_product": "CAPSICUM POWDER",
+      "kode_produk": "MS-0806",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "21768",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "ARIDA",
+      "srs_no": "3091/XI/2025/SRS",
+      "srs_date": "2025-11-26",
+      "srs_customer": "ARIRA PANGINDO, CV.",
+      "srs_product": "SAMBAL BALADO",
+      "kode_produk": "31406700",
+      "srs_total_qty": "400",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "21767",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "BIANG",
+      "srs_no": "3090/XI/2025/SRS",
+      "srs_date": "2025-11-26",
+      "srs_customer": "GITA, PT.",
+      "srs_product": "BALADO SEASONING",
+      "kode_produk": "31404495",
+      "srs_total_qty": "500",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Dwi Rachtomo",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "21766",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "3089/XI/2025/SRS",
+      "srs_date": "2025-11-26",
+      "srs_customer": "Dewi Yunita",
+      "srs_product": "MIE GORENG SEAS",
+      "kode_produk": "31405240",
+      "srs_total_qty": "200",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Dio",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "21765",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "3088/XI/2025/SRS",
+      "srs_date": "2025-11-26",
+      "srs_customer": "Dewi Yunita",
+      "srs_product": "BAWANG GORENG SEASONING",
+      "kode_produk": "D-113",
+      "srs_total_qty": "150",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Dio",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "21764",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SENMU",
+      "srs_no": "3087/XI/2025/SRS",
+      "srs_date": "2025-11-26",
+      "srs_customer": "SENTRAL MULTIRASA UTAMA, PT",
+      "srs_product": "JAGUNG BAKAR SEASONING",
+      "kode_produk": "31601841",
+      "srs_total_qty": "1350",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "21763",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "2657/X/2025/SRF",
+      "kode_customer": "KOSEN",
+      "srs_no": "3086/XI/2025/SRF",
+      "srs_date": "2025-11-26",
+      "srs_customer": "KOSENA LESTARI MAKMUR",
+      "srs_product": "COCOPANDAN FLAVOUR",
+      "kode_produk": "MT-84359",
+      "srs_total_qty": "780",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "21762",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "3085/XI/2025/SRS",
+      "srs_date": "2025-11-26",
+      "srs_customer": "Dewi Yunita",
+      "srs_product": "BALADO SEASONING",
+      "kode_produk": "31404495",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Dio",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "21761",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "JACOB",
+      "srs_no": "3084/XI/2025/SRS",
+      "srs_date": "2025-11-26",
+      "srs_customer": "JADI ABADI CORAK BISCUIT,PT",
+      "srs_product": "SEAWEED FLAKE",
+      "kode_produk": "31301043",
+      "srs_total_qty": "15",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "21760",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "LIDY",
+      "srs_no": "3083/XI/2025/SRS",
+      "srs_date": "2025-11-26",
+      "srs_customer": "LIDYA AYUNINGTYAS",
+      "srs_product": "CORN POWDER",
+      "kode_produk": "MT-738036",
+      "srs_total_qty": "1000",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Dwi Rachtomo",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "21759",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "3082/XI/2025/SRS",
+      "srs_date": "2025-11-26",
+      "srs_customer": "TABURA GENTRI NUSANTARA, PT",
+      "srs_product": "IG SUPER YE",
+      "kode_produk": "31700490",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "21758",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "3081/XI/2025/SRS",
+      "srs_date": "2025-11-26",
+      "srs_customer": "TABURA GENTRI NUSANTARA, PT",
+      "srs_product": "HVP POWDER",
+      "kode_produk": "MT-625237",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
     {
       "srs_id": "21757",
       "is_replacement": "NO",
@@ -16,9 +220,9 @@
       "kode_produk": "35800050",
       "srs_total_qty": "180",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21756",
@@ -33,9 +237,9 @@
       "kode_produk": "35800050",
       "srs_total_qty": "300",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21755",
@@ -50,9 +254,9 @@
       "kode_produk": "35800050",
       "srs_total_qty": "60",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21754",
@@ -67,9 +271,9 @@
       "kode_produk": "31602950",
       "srs_total_qty": "1600",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21753",
@@ -84,9 +288,9 @@
       "kode_produk": "31602950",
       "srs_total_qty": "800",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21752",
@@ -101,9 +305,9 @@
       "kode_produk": "31102194",
       "srs_total_qty": "400",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21751",
@@ -118,9 +322,9 @@
       "kode_produk": "31102194",
       "srs_total_qty": "200",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21750",
@@ -137,7 +341,7 @@
       "srs_remarks": "Special Remark",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21749",
@@ -152,9 +356,9 @@
       "kode_produk": "35800050",
       "srs_total_qty": "2050",
       "srs_remarks": "Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21748",
@@ -188,7 +392,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21746",
@@ -205,7 +409,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21745",
@@ -1310,7 +1514,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Sucie",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21680",
