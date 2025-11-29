@@ -1,8 +1,110 @@
 {
   "draw": 0,
-  "recordsTotal": 21672,
-  "recordsFiltered": 21672,
+  "recordsTotal": 21678,
+  "recordsFiltered": 21678,
   "data": [
+    {
+      "srs_id": "21793",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "3116/XI/2025/SRS",
+      "srs_date": "2025-11-28",
+      "srs_customer": "PT.INDOFOOD CBP SUKSES MAKMUR ( Food Seasoning Division )",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "MT-468316",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Angel (Sales)",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "21792",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "GUNTU",
+      "srs_no": "3115/XI/2025/SRS",
+      "srs_date": "2025-11-28",
+      "srs_customer": "GUNTUR PAP",
+      "srs_product": "SWEET CORN",
+      "kode_produk": "C-003",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "21791",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "GUNTU",
+      "srs_no": "3114/XI/2025/SRS",
+      "srs_date": "2025-11-28",
+      "srs_customer": "GUNTUR PAP",
+      "srs_product": "ORIGINAL SEASONING",
+      "kode_produk": "MT-1303328-0",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "21790",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "GUNTU",
+      "srs_no": "3113/XI/2025/SRS",
+      "srs_date": "2025-11-28",
+      "srs_customer": "GUNTUR PAP",
+      "srs_product": "SAPI PANGGANG",
+      "kode_produk": "MT-1206412-0",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "21789",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "GUNTU",
+      "srs_no": "3112/XI/2025/SRS",
+      "srs_date": "2025-11-28",
+      "srs_customer": "GUNTUR PAP",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "31407110",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "21788",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SIKAG",
+      "srs_no": "3111/XI/2025/SRS",
+      "srs_date": "2025-11-28",
+      "srs_customer": "SINAR KENCANA AGUNG, PT",
+      "srs_product": "SEAWEED SEASONING",
+      "kode_produk": "31301250",
+      "srs_total_qty": "600",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "blank"
+    },
     {
       "srs_id": "21787",
       "is_replacement": "NO",
@@ -16,7 +118,7 @@
       "kode_produk": "01",
       "srs_total_qty": "8",
       "srs_remarks": "Sudden",
-      "srs_status": "NEW",
+      "srs_status": "complete",
       "name": "Sucie",
       "status_next": "blank"
     },
@@ -35,7 +137,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21785",
@@ -52,7 +154,7 @@
       "srs_remarks": "Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21784",
@@ -205,7 +307,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Dio",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21775",
