@@ -1,8 +1,93 @@
 {
   "draw": 0,
-  "recordsTotal": 21678,
-  "recordsFiltered": 21678,
+  "recordsTotal": 21683,
+  "recordsFiltered": 21683,
   "data": [
+    {
+      "srs_id": "21798",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "3121/XII/2025/SRS",
+      "srs_date": "2025-12-01",
+      "srs_customer": "Dewi Yunita",
+      "srs_product": "BALADO SEASONING",
+      "kode_produk": "31404495",
+      "srs_total_qty": "325",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Dio",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "21797",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "3120/XII/2025/SRS",
+      "srs_date": "2025-12-01",
+      "srs_customer": "SARA YULI SUPIYATI",
+      "srs_product": "HVP POWDER",
+      "kode_produk": "MT-1300987-0",
+      "srs_total_qty": "125",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Dwi Rachtomo",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "21796",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "3119/XI/2025/SRS",
+      "srs_date": "2025-11-29",
+      "srs_customer": "AHMAD FAUZI",
+      "srs_product": "SRIRACHA SEASONING",
+      "kode_produk": "31407081",
+      "srs_total_qty": "75",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "21795",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SUMUR",
+      "srs_no": "3118/XI/2025/SRS",
+      "srs_date": "2025-11-29",
+      "srs_customer": "SUMBER URIP SNACK, CV",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "MT-283914 G",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Dwi Rachtomo",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "21794",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SUMUR",
+      "srs_no": "3117/XI/2025/SRS",
+      "srs_date": "2025-11-29",
+      "srs_customer": "SUMBER URIP SNACK, CV",
+      "srs_product": "SEASONING RASA COKLAT ",
+      "kode_produk": "31503228",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Dwi Rachtomo",
+      "status_next": "complete"
+    },
     {
       "srs_id": "21793",
       "is_replacement": "NO",
@@ -18,7 +103,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21792",
@@ -35,7 +120,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21791",
@@ -52,7 +137,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21790",
@@ -69,7 +154,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21789",
@@ -86,7 +171,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21788",
@@ -103,7 +188,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "21787",
