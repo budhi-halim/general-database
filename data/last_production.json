@@ -20,7 +20,7 @@
     "product_code": "*31602140"
   },
   {
-    "date": "2025-11-28",
+    "date": "2025-12-12",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "01"
   },
@@ -160,7 +160,7 @@
     "product_code": "31102391"
   },
   {
-    "date": "2025-02-10",
+    "date": "2025-12-11",
     "customer": "YORKINDO BOGA UTAMA, PT.",
     "product_code": "31102449"
   },
@@ -770,7 +770,7 @@
     "product_code": "31405508"
   },
   {
-    "date": "2025-02-10",
+    "date": "2025-12-11",
     "customer": "YORKINDO BOGA UTAMA, PT.",
     "product_code": "31405534"
   },
@@ -1285,7 +1285,7 @@
     "product_code": "31407470"
   },
   {
-    "date": "2025-10-20",
+    "date": "2025-12-11",
     "customer": "RAJA JEVA NISI, PT ( PELITA  FOOD TECH )",
     "product_code": "31407477"
   },
@@ -1635,7 +1635,7 @@
     "product_code": "31503228"
   },
   {
-    "date": "2025-11-24",
+    "date": "2025-12-11",
     "customer": "BINTANG MUJUR ABADI/AMIR BP",
     "product_code": "31503233"
   },
@@ -1655,7 +1655,7 @@
     "product_code": "31503338"
   },
   {
-    "date": "2025-12-02",
+    "date": "2025-12-11",
     "customer": "SENTRAL MULTIRASA UTAMA, PT",
     "product_code": "31601841"
   },
@@ -2170,7 +2170,7 @@
     "product_code": "31802200"
   },
   {
-    "date": "2025-11-01",
+    "date": "2025-12-11",
     "customer": "HEIHEI SUKSES CEMERLANG, PT",
     "product_code": "31802201"
   },
@@ -2365,7 +2365,7 @@
     "product_code": "31900481"
   },
   {
-    "date": "2025-12-08",
+    "date": "2025-12-11",
     "customer": "CIPTA HARUM AROMA, PT.",
     "product_code": "31900498"
   },
@@ -3025,8 +3025,8 @@
     "product_code": "MS-1607"
   },
   {
-    "date": "2025-11-21",
-    "customer": "NISSIN FOODS INDONESIA.PT",
+    "date": "2025-12-11",
+    "customer": "WINARTO",
     "product_code": "MS-2001 A"
   },
   {
@@ -3295,7 +3295,7 @@
     "product_code": "MT-1202784-0"
   },
   {
-    "date": "2025-11-07",
+    "date": "2025-12-11",
     "customer": "MALINDO FOOD DELIGHT, PT.",
     "product_code": "MT-1203124-4"
   },
@@ -3340,8 +3340,8 @@
     "product_code": "MT-1207404-0"
   },
   {
-    "date": "2023-03-01",
-    "customer": "BERSAMA SAHABAT ANDALAN, PT.",
+    "date": "2025-12-11",
+    "customer": "ADYABOGA PRANATA INDUSTRIES",
     "product_code": "MT-121814 E"
   },
   {
@@ -3475,7 +3475,7 @@
     "product_code": "MT-162553"
   },
   {
-    "date": "2025-11-21",
+    "date": "2025-12-12",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-1644 P5"
   },
@@ -3520,7 +3520,7 @@
     "product_code": "MT-193256"
   },
   {
-    "date": "2025-11-21",
+    "date": "2025-12-12",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-21118 A"
   },
@@ -3625,8 +3625,8 @@
     "product_code": "MT-373438"
   },
   {
-    "date": "2025-11-24",
-    "customer": "PT. HARUM SARI SINERJINDO LESTARI",
+    "date": "2025-12-11",
+    "customer": "GRAHAINMA SINARTRIKARSA,PT.(PT GIST",
     "product_code": "MT-3779 A"
   },
   {
@@ -3800,8 +3800,8 @@
     "product_code": "MT-604531"
   },
   {
-    "date": "2025-12-09",
-    "customer": "KENCANA MAS MULIA / BP DANNY GO",
+    "date": "2025-12-11",
+    "customer": "ADYABOGA PRANATA INDUSTRIES",
     "product_code": "MT-604616"
   },
   {
@@ -3810,8 +3810,8 @@
     "product_code": "MT-605812 A"
   },
   {
-    "date": "2025-12-03",
-    "customer": "SUKA SARI MITRA MANDIRI, PT",
+    "date": "2025-12-12",
+    "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-608558"
   },
   {
@@ -3825,7 +3825,7 @@
     "product_code": "MT-625237"
   },
   {
-    "date": "2025-11-21",
+    "date": "2025-12-12",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-625337"
   },
@@ -3855,8 +3855,8 @@
     "product_code": "MT-631618 C"
   },
   {
-    "date": "2025-11-25",
-    "customer": "SINAR KENCANA AGUNG, PT",
+    "date": "2025-12-11",
+    "customer": "RAJA JEVA NISI, PT ( PELITA  FOOD TECH )",
     "product_code": "MT-632434"
   },
   {
@@ -4165,7 +4165,7 @@
     "product_code": "SBF-8693"
   },
   {
-    "date": "2025-10-30",
+    "date": "2025-12-11",
     "customer": "GRAHAINMA SINARTRIKARSA,PT.(PT GIST",
     "product_code": "SP-3715"
   },
@@ -4175,7 +4175,7 @@
     "product_code": "SP-52416 C"
   },
   {
-    "date": "2025-11-24",
+    "date": "2025-12-11",
     "customer": "BINTANG MUJUR ABADI/AMIR BP",
     "product_code": "SP-52514 B"
   },
@@ -4200,8 +4200,8 @@
     "product_code": "TPC"
   },
   {
-    "date": "2025-12-04",
-    "customer": "CV Wahana Pangan Lestari",
+    "date": "2025-12-11",
+    "customer": "PT. Surya Pratista Hutama",
     "product_code": "W-800"
   },
   {
