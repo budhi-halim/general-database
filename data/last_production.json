@@ -65,7 +65,7 @@
     "product_code": "04-0122"
   },
   {
-    "date": "2025-11-12",
+    "date": "2025-12-13",
     "customer": "BINTANG TOP INDUSTRY, CV",
     "product_code": "04-0136"
   },
@@ -75,7 +75,7 @@
     "product_code": "04-0137"
   },
   {
-    "date": "2025-11-12",
+    "date": "2025-12-13",
     "customer": "BINTANG TOP INDUSTRY, CV",
     "product_code": "04-0137 G"
   },
@@ -245,7 +245,7 @@
     "product_code": "31102813"
   },
   {
-    "date": "2025-11-19",
+    "date": "2025-12-12",
     "customer": "Anton Sutanto",
     "product_code": "31102816"
   },
@@ -270,7 +270,7 @@
     "product_code": "31102923"
   },
   {
-    "date": "2025-06-17",
+    "date": "2025-12-12",
     "customer": "ELSON BERNARDI,PT",
     "product_code": "31102942"
   },
@@ -300,13 +300,18 @@
     "product_code": "31103051"
   },
   {
+    "date": "2025-12-12",
+    "customer": "PT. Greenpoh Cipta Rasa",
+    "product_code": "31103055"
+  },
+  {
     "date": "2022-08-25",
     "customer": "Lilis Suryani",
     "product_code": "31201245"
   },
   {
-    "date": "2025-11-17",
-    "customer": "BERGIZI, UD.",
+    "date": "2025-12-12",
+    "customer": "ANEKA SARIVITA, PT.",
     "product_code": "31201247"
   },
   {
@@ -355,7 +360,7 @@
     "product_code": "31201497"
   },
   {
-    "date": "2025-12-03",
+    "date": "2025-12-12",
     "customer": "Anton Sutanto",
     "product_code": "31201499"
   },
@@ -460,8 +465,8 @@
     "product_code": "31301043"
   },
   {
-    "date": "2025-11-05",
-    "customer": "SITI MAESAROH",
+    "date": "2025-12-12",
+    "customer": "DUTA GLOBAL INDOJAYA, PT",
     "product_code": "31301078"
   },
   {
@@ -800,7 +805,7 @@
     "product_code": "31405856"
   },
   {
-    "date": "2025-10-20",
+    "date": "2025-12-12",
     "customer": "Hendra kurniawan",
     "product_code": "31405857"
   },
@@ -1750,7 +1755,7 @@
     "product_code": "31602176"
   },
   {
-    "date": "2025-08-21",
+    "date": "2025-12-13",
     "customer": "Mulia Inti Pangan, PT",
     "product_code": "31602192"
   },
@@ -2260,8 +2265,8 @@
     "product_code": "31802451"
   },
   {
-    "date": "2025-11-24",
-    "customer": "PT Indo Makmur Foods",
+    "date": "2025-12-13",
+    "customer": "PT. LAUTAN NATURAL KRIMERINDO",
     "product_code": "31802453"
   },
   {
@@ -2365,12 +2370,12 @@
     "product_code": "31900481"
   },
   {
-    "date": "2025-12-11",
+    "date": "2025-12-12",
     "customer": "CIPTA HARUM AROMA, PT.",
     "product_code": "31900498"
   },
   {
-    "date": "2024-12-19",
+    "date": "2025-12-12",
     "customer": "LANGGENG PANGAN MAKMUR, PT",
     "product_code": "31900503"
   },
@@ -2730,7 +2735,7 @@
     "product_code": "62900001"
   },
   {
-    "date": "2025-11-11",
+    "date": "2025-12-13",
     "customer": "HEINZ ABC INDONESIA, PT",
     "product_code": "881"
   },
@@ -2850,8 +2855,8 @@
     "product_code": "D-104"
   },
   {
-    "date": "2024-06-04",
-    "customer": "RAMADAN MAYONA PUTRI",
+    "date": "2025-12-12",
+    "customer": "Hendra kurniawan",
     "product_code": "D-105"
   },
   {
@@ -2900,7 +2905,7 @@
     "product_code": "GMS-1010 E"
   },
   {
-    "date": "2025-10-07",
+    "date": "2025-12-12",
     "customer": "KUALA PANGAN",
     "product_code": "GMS-166"
   },
@@ -3200,7 +3205,7 @@
     "product_code": "MT-1105891-0"
   },
   {
-    "date": "2025-11-12",
+    "date": "2025-12-13",
     "customer": "BINTANG TOP INDUSTRY, CV",
     "product_code": "MT-1106454-0"
   },
@@ -3330,7 +3335,7 @@
     "product_code": "MT-1206412-0"
   },
   {
-    "date": "2025-11-12",
+    "date": "2025-12-13",
     "customer": "BINTANG TOP INDUSTRY, CV",
     "product_code": "MT-1206674-0"
   },
@@ -3350,7 +3355,7 @@
     "product_code": "MT-122816 D"
   },
   {
-    "date": "2025-02-14",
+    "date": "2025-12-12",
     "customer": "LANGGENG PANGAN MAKMUR, PT",
     "product_code": "MT-1300369-0"
   },
@@ -3485,8 +3490,8 @@
     "product_code": "MT-169214"
   },
   {
-    "date": "2025-12-01",
-    "customer": "AROMA - COMAL, TK",
+    "date": "2025-12-12",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-169214 N"
   },
   {
@@ -3545,7 +3550,7 @@
     "product_code": "MT-249516"
   },
   {
-    "date": "2025-12-08",
+    "date": "2025-12-12",
     "customer": "Anton Sutanto",
     "product_code": "MT-279654"
   },
@@ -3625,8 +3630,8 @@
     "product_code": "MT-373438"
   },
   {
-    "date": "2025-12-11",
-    "customer": "GRAHAINMA SINARTRIKARSA,PT.(PT GIST",
+    "date": "2025-12-13",
+    "customer": "NUTRIFOOD INDONESIA, PT",
     "product_code": "MT-3779 A"
   },
   {
@@ -3826,7 +3831,7 @@
   },
   {
     "date": "2025-12-12",
-    "customer": "CITA RASA SUKSES,PT",
+    "customer": "ABC PRESIDENT INDONESIA, PT",
     "product_code": "MT-625337"
   },
   {
@@ -4020,8 +4025,8 @@
     "product_code": "MT-777738 B"
   },
   {
-    "date": "2025-11-24",
-    "customer": "BP.GUNAWAN WINATA",
+    "date": "2025-12-12",
+    "customer": "Hendra kurniawan",
     "product_code": "MT-779914"
   },
   {
@@ -4095,7 +4100,7 @@
     "product_code": "MT-831014 A"
   },
   {
-    "date": "2025-10-21",
+    "date": "2025-12-12",
     "customer": "ELSON BERNARDI,PT",
     "product_code": "MT-831412"
   },
