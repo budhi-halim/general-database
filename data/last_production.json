@@ -50,7 +50,7 @@
     "product_code": "02-0080 B"
   },
   {
-    "date": "2025-11-04",
+    "date": "2025-12-15",
     "customer": "CAHAYA ANUGERAH SENTOSA",
     "product_code": "02-0163"
   },
@@ -65,7 +65,7 @@
     "product_code": "04-0122"
   },
   {
-    "date": "2025-12-13",
+    "date": "2025-12-15",
     "customer": "BINTANG TOP INDUSTRY, CV",
     "product_code": "04-0136"
   },
@@ -75,7 +75,7 @@
     "product_code": "04-0137"
   },
   {
-    "date": "2025-12-13",
+    "date": "2025-12-15",
     "customer": "BINTANG TOP INDUSTRY, CV",
     "product_code": "04-0137 G"
   },
@@ -315,7 +315,7 @@
     "product_code": "31201247"
   },
   {
-    "date": "2025-10-29",
+    "date": "2025-12-15",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "31201375"
   },
@@ -475,8 +475,8 @@
     "product_code": "31301094"
   },
   {
-    "date": "2025-11-13",
-    "customer": "SINAR MATAHARI SEJAHTERA,CV",
+    "date": "2025-12-15",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "31301156"
   },
   {
@@ -860,8 +860,8 @@
     "product_code": "31406112"
   },
   {
-    "date": "2025-12-02",
-    "customer": "SORIN MAHARASA, PT.",
+    "date": "2025-12-15",
+    "customer": "PT. Top Boga Distrindo",
     "product_code": "31406197"
   },
   {
@@ -1040,7 +1040,7 @@
     "product_code": "31406641"
   },
   {
-    "date": "2025-12-08",
+    "date": "2025-12-15",
     "customer": "PT. TRIO RASA MAS",
     "product_code": "31406642"
   },
@@ -1195,7 +1195,7 @@
     "product_code": "31407070"
   },
   {
-    "date": "2025-11-29",
+    "date": "2025-12-15",
     "customer": "AHMAD FAUZI",
     "product_code": "31407081"
   },
@@ -1260,7 +1260,7 @@
     "product_code": "31407316"
   },
   {
-    "date": "2025-09-01",
+    "date": "2025-12-15",
     "customer": "PT Indo Makmur Foods",
     "product_code": "31407332"
   },
@@ -1355,7 +1355,7 @@
     "product_code": "31407668"
   },
   {
-    "date": "2025-11-05",
+    "date": "2025-12-15",
     "customer": "PT INDO RASA UTAMA",
     "product_code": "31407730"
   },
@@ -1408,6 +1408,11 @@
     "date": "2025-10-20",
     "customer": "RIYANA CIPTA PANGAN INDONESIA, PT",
     "product_code": "31407968"
+  },
+  {
+    "date": "2025-12-15",
+    "customer": "TAMAN SAFARI INDONESIA",
+    "product_code": "31407984"
   },
   {
     "date": "2025-10-07",
@@ -1660,7 +1665,7 @@
     "product_code": "31503338"
   },
   {
-    "date": "2025-12-11",
+    "date": "2025-12-15",
     "customer": "SENTRAL MULTIRASA UTAMA, PT",
     "product_code": "31601841"
   },
@@ -3190,7 +3195,7 @@
     "product_code": "MT-1105453-0"
   },
   {
-    "date": "2025-11-21",
+    "date": "2025-12-15",
     "customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
     "product_code": "MT-1105604-4"
   },
@@ -3210,7 +3215,7 @@
     "product_code": "MT-1106454-0"
   },
   {
-    "date": "2025-11-21",
+    "date": "2025-12-15",
     "customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
     "product_code": "MT-1107031-0"
   },
@@ -3335,7 +3340,7 @@
     "product_code": "MT-1206412-0"
   },
   {
-    "date": "2025-12-13",
+    "date": "2025-12-15",
     "customer": "BINTANG TOP INDUSTRY, CV",
     "product_code": "MT-1206674-0"
   },
@@ -3490,8 +3495,8 @@
     "product_code": "MT-169214"
   },
   {
-    "date": "2025-12-12",
-    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "date": "2025-12-15",
+    "customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
     "product_code": "MT-169214 N"
   },
   {
@@ -4140,7 +4145,7 @@
     "product_code": "NO. 1"
   },
   {
-    "date": "2025-10-31",
+    "date": "2025-12-15",
     "customer": "MENACOCO SARI, PT.",
     "product_code": "P-1000"
   },
@@ -4180,8 +4185,8 @@
     "product_code": "SP-52416 C"
   },
   {
-    "date": "2025-12-11",
-    "customer": "BINTANG MUJUR ABADI/AMIR BP",
+    "date": "2025-12-15",
+    "customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
     "product_code": "SP-52514 B"
   },
   {
