@@ -95,7 +95,7 @@
     "product_code": "06-0091 E"
   },
   {
-    "date": "2025-11-10",
+    "date": "2025-12-17",
     "customer": "BJ, TOKO",
     "product_code": "06-0091 F"
   },
@@ -590,7 +590,7 @@
     "product_code": "31301639"
   },
   {
-    "date": "2025-12-04",
+    "date": "2025-12-17",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "31301655"
   },
@@ -630,8 +630,8 @@
     "product_code": "31404491"
   },
   {
-    "date": "2025-12-10",
-    "customer": "Dewi Yunita",
+    "date": "2025-12-18",
+    "customer": "GITA, PT.",
     "product_code": "31404495"
   },
   {
@@ -750,7 +750,7 @@
     "product_code": "31405399"
   },
   {
-    "date": "2025-11-10",
+    "date": "2025-12-17",
     "customer": "KADU MANIS UTAMA",
     "product_code": "31405437"
   },
@@ -1275,7 +1275,7 @@
     "product_code": "31407357"
   },
   {
-    "date": "2025-11-11",
+    "date": "2025-12-17",
     "customer": "AGEL LANGGENG",
     "product_code": "31407368"
   },
@@ -1330,7 +1330,7 @@
     "product_code": "31407603"
   },
   {
-    "date": "2025-11-15",
+    "date": "2025-12-17",
     "customer": "PT. Selera Hast Indonesia",
     "product_code": "31407614"
   },
@@ -1415,7 +1415,7 @@
     "product_code": "31407984"
   },
   {
-    "date": "2025-10-07",
+    "date": "2025-12-17",
     "customer": "PT. TRIO RASA MAS",
     "product_code": "31501862"
   },
@@ -2760,7 +2760,7 @@
     "product_code": "A-820"
   },
   {
-    "date": "2025-08-11",
+    "date": "2025-12-17",
     "customer": "ZAENUL MUSTHOFA",
     "product_code": "A-820 B"
   },
@@ -2965,7 +2965,7 @@
     "product_code": "IS-3624"
   },
   {
-    "date": "2025-12-08",
+    "date": "2025-12-17",
     "customer": "SARICO FOOD",
     "product_code": "KA-544"
   },
@@ -3300,7 +3300,7 @@
     "product_code": "MT-1202654-0"
   },
   {
-    "date": "2025-09-16",
+    "date": "2025-12-17",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-1202784-0"
   },
@@ -3490,13 +3490,13 @@
     "product_code": "MT-1644 P5"
   },
   {
-    "date": "2025-09-30",
-    "customer": "MELIANA SUKOWIJOYO",
+    "date": "2025-12-17",
+    "customer": "CV.KUDA SAKTI FOOD",
     "product_code": "MT-169214"
   },
   {
-    "date": "2025-12-15",
-    "customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+    "date": "2025-12-17",
+    "customer": "BJ, TOKO",
     "product_code": "MT-169214 N"
   },
   {
@@ -3545,7 +3545,7 @@
     "product_code": "MT-221218 A"
   },
   {
-    "date": "2025-11-17",
+    "date": "2025-12-17",
     "customer": "PT.SENTRA PANGAN UTAMA",
     "product_code": "MT-247713"
   },
@@ -3670,7 +3670,7 @@
     "product_code": "MT-4355110"
   },
   {
-    "date": "2025-12-05",
+    "date": "2025-12-17",
     "customer": "INDOFOOD CBP SUKSES MAKMUR TBK, PT.",
     "product_code": "MT-468316"
   },
@@ -3865,8 +3865,8 @@
     "product_code": "MT-631618 C"
   },
   {
-    "date": "2025-12-11",
-    "customer": "RAJA JEVA NISI, PT ( PELITA  FOOD TECH )",
+    "date": "2025-12-17",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-632434"
   },
   {
@@ -3885,7 +3885,7 @@
     "product_code": "MT-634539"
   },
   {
-    "date": "2025-06-17",
+    "date": "2025-12-17",
     "customer": "SEKAR BUMI, PT.",
     "product_code": "MT-63461"
   },
@@ -3935,7 +3935,7 @@
     "product_code": "MT-690913"
   },
   {
-    "date": "2025-12-08",
+    "date": "2025-12-17",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-692812"
   },
@@ -4185,8 +4185,8 @@
     "product_code": "SP-52416 C"
   },
   {
-    "date": "2025-12-15",
-    "customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+    "date": "2025-12-17",
+    "customer": "SINAR MATAHARI SEJAHTERA,CV",
     "product_code": "SP-52514 B"
   },
   {
