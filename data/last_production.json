@@ -165,7 +165,7 @@
     "product_code": "31102449"
   },
   {
-    "date": "2025-11-27",
+    "date": "2025-12-18",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "31102450"
   },
@@ -180,8 +180,8 @@
     "product_code": "31102593"
   },
   {
-    "date": "2025-01-30",
-    "customer": "BAGOES PRANAJAYA",
+    "date": "2025-12-18",
+    "customer": "GUSYUNAS SUTRIANI",
     "product_code": "31102618"
   },
   {
@@ -285,7 +285,7 @@
     "product_code": "31102992"
   },
   {
-    "date": "2025-11-17",
+    "date": "2025-12-19",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "31102997"
   },
@@ -430,7 +430,7 @@
     "product_code": "31201644"
   },
   {
-    "date": "2025-10-08",
+    "date": "2025-12-19",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "31201653"
   },
@@ -448,6 +448,11 @@
     "date": "2025-04-22",
     "customer": "PT. MITRAGUNA PANGAN SNACKINDO",
     "product_code": "31201688"
+  },
+  {
+    "date": "2025-12-18",
+    "customer": "PT. MITRAGUNA PANGAN SNACKINDO",
+    "product_code": "31201700"
   },
   {
     "date": "2025-09-15",
@@ -625,8 +630,8 @@
     "product_code": "31404490"
   },
   {
-    "date": "2025-12-11",
-    "customer": "PT Indo Makmur Foods",
+    "date": "2025-12-18",
+    "customer": "GUSYUNAS SUTRIANI",
     "product_code": "31404491"
   },
   {
@@ -915,7 +920,7 @@
     "product_code": "31406352"
   },
   {
-    "date": "2025-11-17",
+    "date": "2025-12-19",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "31406355"
   },
@@ -1040,7 +1045,7 @@
     "product_code": "31406641"
   },
   {
-    "date": "2025-12-15",
+    "date": "2025-12-18",
     "customer": "PT. TRIO RASA MAS",
     "product_code": "31406642"
   },
@@ -1180,6 +1185,11 @@
     "product_code": "31407018"
   },
   {
+    "date": "2025-12-18",
+    "customer": "PT. MITRAGUNA PANGAN SNACKINDO",
+    "product_code": "31407049"
+  },
+  {
     "date": "2023-01-19",
     "customer": "HENGKY WIJAYA",
     "product_code": "31407055"
@@ -1190,7 +1200,7 @@
     "product_code": "31407069"
   },
   {
-    "date": "2025-12-05",
+    "date": "2025-12-18",
     "customer": "PT.DUTA PANGAN NUSANTARA ",
     "product_code": "31407070"
   },
@@ -1315,7 +1325,7 @@
     "product_code": "31407519"
   },
   {
-    "date": "2025-11-17",
+    "date": "2025-12-19",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "31407584"
   },
@@ -1715,7 +1725,7 @@
     "product_code": "31602034"
   },
   {
-    "date": "2025-11-15",
+    "date": "2025-12-19",
     "customer": "MANOHARA ASRI, PT",
     "product_code": "31602052"
   },
@@ -2225,7 +2235,7 @@
     "product_code": "31802333"
   },
   {
-    "date": "2025-12-05",
+    "date": "2025-12-18",
     "customer": "PT.DUTA PANGAN NUSANTARA ",
     "product_code": "31802364"
   },
@@ -2415,7 +2425,7 @@
     "product_code": "31900616"
   },
   {
-    "date": "2025-11-20",
+    "date": "2025-12-18",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "31900628"
   },
@@ -2430,7 +2440,7 @@
     "product_code": "31900647"
   },
   {
-    "date": "2025-12-09",
+    "date": "2025-12-18",
     "customer": "PT GARDENIA MAKMUR SELARAS",
     "product_code": "31900658"
   },
@@ -2455,7 +2465,7 @@
     "product_code": "33000175"
   },
   {
-    "date": "2024-07-29",
+    "date": "2025-12-18",
     "customer": "FORISA NUSAPERSADA, PT.",
     "product_code": "33000244"
   },
@@ -2795,7 +2805,7 @@
     "product_code": "B-900 (DILUTE DR MPT-92359; DIAMOND GAK AMBIL LG, 10.09.2021 FREEZE)"
   },
   {
-    "date": "2025-12-05",
+    "date": "2025-12-18",
     "customer": "SARI MURNI ABADI, PT.",
     "product_code": "B-955"
   },
@@ -2940,8 +2950,8 @@
     "product_code": "GMS-2090"
   },
   {
-    "date": "2025-12-08",
-    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "date": "2025-12-19",
+    "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "GMS-21031"
   },
   {
@@ -2955,7 +2965,7 @@
     "product_code": "GMS-3028"
   },
   {
-    "date": "2025-12-08",
+    "date": "2025-12-18",
     "customer": "UNILEVER INDONESIA TBK, PT",
     "product_code": "HVP WCI"
   },
@@ -3175,7 +3185,7 @@
     "product_code": "MT-1105124-0"
   },
   {
-    "date": "2025-11-17",
+    "date": "2025-12-19",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "MT-1105124-3"
   },
@@ -3390,8 +3400,8 @@
     "product_code": "MT-1301153-0"
   },
   {
-    "date": "2025-02-07",
-    "customer": "GAJAH LARIS SEJAHTERA, CV",
+    "date": "2025-12-18",
+    "customer": "PT. MITRAGUNA PANGAN SNACKINDO",
     "product_code": "MT-1301328-1"
   },
   {
@@ -3450,7 +3460,7 @@
     "product_code": "MT-13256 B"
   },
   {
-    "date": "2025-12-08",
+    "date": "2025-12-18",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-139511"
   },
@@ -3495,8 +3505,8 @@
     "product_code": "MT-169214"
   },
   {
-    "date": "2025-12-17",
-    "customer": "BJ, TOKO",
+    "date": "2025-12-18",
+    "customer": "SHINTA NIAWATI",
     "product_code": "MT-169214 N"
   },
   {
@@ -3560,7 +3570,7 @@
     "product_code": "MT-279654"
   },
   {
-    "date": "2025-11-20",
+    "date": "2025-12-18",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-283914"
   },
@@ -3605,8 +3615,8 @@
     "product_code": "MT-341221"
   },
   {
-    "date": "2025-12-02",
-    "customer": "PT. Rukun Mitra Sentosa",
+    "date": "2025-12-18",
+    "customer": "Iing Suliyah",
     "product_code": "MT-34413"
   },
   {
@@ -3625,7 +3635,7 @@
     "product_code": "MT-363813 F"
   },
   {
-    "date": "2025-11-20",
+    "date": "2025-12-18",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-365718"
   },
@@ -3815,7 +3825,7 @@
     "product_code": "MT-604616"
   },
   {
-    "date": "2025-11-20",
+    "date": "2025-12-18",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-605812 A"
   },
@@ -3865,7 +3875,7 @@
     "product_code": "MT-631618 C"
   },
   {
-    "date": "2025-12-17",
+    "date": "2025-12-18",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-632434"
   },
@@ -3900,7 +3910,7 @@
     "product_code": "MT-636313 A"
   },
   {
-    "date": "2025-12-08",
+    "date": "2025-12-18",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-645916 E"
   },
