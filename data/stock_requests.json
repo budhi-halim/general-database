@@ -1,8 +1,161 @@
 {
   "draw": 0,
-  "recordsTotal": 21935,
-  "recordsFiltered": 21935,
+  "recordsTotal": 21944,
+  "recordsFiltered": 21944,
   "data": [
+    {
+      "srs_id": "22059",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "LIMA",
+      "srs_no": "3382/XII/2025/SRS",
+      "srs_date": "2025-12-19",
+      "srs_customer": "LIMA-LIMA, TOKO",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "31406676",
+      "srs_total_qty": "200",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22058",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "FORIS",
+      "srs_no": "3381/XII/2025/SRJ",
+      "srs_date": "2025-12-19",
+      "srs_customer": "FORISA NUSAPERSADA, PT.",
+      "srs_product": "JELLY POWDER",
+      "kode_produk": "34",
+      "srs_total_qty": "225",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "johanes",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22057",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "3380/XII/2025/SRS",
+      "srs_date": "2025-12-19",
+      "srs_customer": "NHF DIAMOND INDONESIA, PT",
+      "srs_product": "BEEF EXTRACT POWDER",
+      "kode_produk": "31201646",
+      "srs_total_qty": "3",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "yanah",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22056",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SUMMA",
+      "srs_no": "3379/XII/2025/SD",
+      "srs_date": "2025-12-19",
+      "srs_customer": "PT.GOLDEN LEAVES JAYA ABADI",
+      "srs_product": "ROASTED POWDER",
+      "kode_produk": "MT-632434",
+      "srs_total_qty": "50",
+      "srs_remarks": "Sudden",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22055",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "2759/X/2025/SRS",
+      "kode_customer": "DWIKE",
+      "srs_no": "3378/XII/2025/SRS",
+      "srs_date": "2025-12-19",
+      "srs_customer": "DUA KELINCI, PT.",
+      "srs_product": "SAVOURY OIL",
+      "kode_produk": "35800050",
+      "srs_total_qty": "180",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22054",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "TOMAS",
+      "srs_no": "3377/XII/2025/SRS",
+      "srs_date": "2025-12-19",
+      "srs_customer": "SINAR MATAHARI SEJAHTERA,CV",
+      "srs_product": "CHEESE SEASONING",
+      "kode_produk": "MT-630235 A",
+      "srs_total_qty": "125",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Dio",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22053",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "3376/XII/2025/SRS",
+      "srs_date": "2025-12-19",
+      "srs_customer": "PT. LEBLE BOGA ADIPERKASA",
+      "srs_product": "CHEESE  SEASONING",
+      "kode_produk": "31502808",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Dio",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22052",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "3375/XII/2025/SRS",
+      "srs_date": "2025-12-19",
+      "srs_customer": "PT. LEBLE BOGA ADIPERKASA",
+      "srs_product": "MIE GORENG SEASONING",
+      "kode_produk": "MT-1100524-1",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Dio",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22051",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "3374/XII/2025/SRS",
+      "srs_date": "2025-12-19",
+      "srs_customer": "CV Rejo Makmur Jaya",
+      "srs_product": "SEAWEED SEASONING",
+      "kode_produk": "31301156",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
     {
       "srs_id": "22050",
       "is_replacement": "NO",
@@ -16,9 +169,9 @@
       "kode_produk": "31201653",
       "srs_total_qty": "125",
       "srs_remarks": "Advance",
-      "srs_status": "NEW",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22049",
@@ -33,9 +186,9 @@
       "kode_produk": "GMS-21031",
       "srs_total_qty": "75",
       "srs_remarks": "Advance",
-      "srs_status": "NEW",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22048",
@@ -50,9 +203,9 @@
       "kode_produk": "31102997",
       "srs_total_qty": "125",
       "srs_remarks": "Advance",
-      "srs_status": "NEW",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22047",
@@ -67,9 +220,9 @@
       "kode_produk": "MT-1105124-3",
       "srs_total_qty": "150",
       "srs_remarks": "Advance",
-      "srs_status": "NEW",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22046",
@@ -84,9 +237,9 @@
       "kode_produk": "31407584",
       "srs_total_qty": "250",
       "srs_remarks": "Advance",
-      "srs_status": "NEW",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22045",
@@ -101,9 +254,9 @@
       "kode_produk": "31406355",
       "srs_total_qty": "1000",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22044",
@@ -118,9 +271,9 @@
       "kode_produk": "31602052",
       "srs_total_qty": "1000",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22043",
@@ -137,7 +290,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22042",
@@ -154,7 +307,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22041",
@@ -171,7 +324,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22040",
@@ -188,7 +341,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22039",
@@ -205,7 +358,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22038",
@@ -222,7 +375,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22037",

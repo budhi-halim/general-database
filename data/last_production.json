@@ -431,6 +431,11 @@
   },
   {
     "date": "2025-12-19",
+    "customer": "NHF DIAMOND INDONESIA, PT",
+    "product_code": "31201646"
+  },
+  {
+    "date": "2025-12-19",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "31201653"
   },
@@ -480,8 +485,8 @@
     "product_code": "31301094"
   },
   {
-    "date": "2025-12-15",
-    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "date": "2025-12-19",
+    "customer": "CV Rejo Makmur Jaya",
     "product_code": "31301156"
   },
   {
@@ -1050,8 +1055,8 @@
     "product_code": "31406642"
   },
   {
-    "date": "2025-08-15",
-    "customer": "ANI ARYANTI",
+    "date": "2025-12-19",
+    "customer": "LIMA-LIMA, TOKO",
     "product_code": "31406676"
   },
   {
@@ -1560,7 +1565,7 @@
     "product_code": "31502803"
   },
   {
-    "date": "2025-05-08",
+    "date": "2025-12-19",
     "customer": "PT. LEBLE BOGA ADIPERKASA",
     "product_code": "31502808"
   },
@@ -2480,7 +2485,7 @@
     "product_code": "33200020"
   },
   {
-    "date": "2024-07-29",
+    "date": "2025-12-19",
     "customer": "FORISA NUSAPERSADA, PT.",
     "product_code": "34"
   },
@@ -2630,7 +2635,7 @@
     "product_code": "35800040"
   },
   {
-    "date": "2025-12-08",
+    "date": "2025-12-19",
     "customer": "DUA KELINCI, PT.",
     "product_code": "35800050"
   },
@@ -3110,8 +3115,8 @@
     "product_code": "MT-1100334-1"
   },
   {
-    "date": "2025-11-19",
-    "customer": "CV. Tiga Beruang Makmur",
+    "date": "2025-12-19",
+    "customer": "PT. LEBLE BOGA ADIPERKASA",
     "product_code": "MT-1100524-1"
   },
   {
@@ -3860,7 +3865,7 @@
     "product_code": "MT-627037"
   },
   {
-    "date": "2025-10-07",
+    "date": "2025-12-19",
     "customer": "SINAR MATAHARI SEJAHTERA,CV",
     "product_code": "MT-630235 A"
   },
@@ -3875,7 +3880,7 @@
     "product_code": "MT-631618 C"
   },
   {
-    "date": "2025-12-18",
+    "date": "2025-12-19",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-632434"
   },
