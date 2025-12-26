@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 18306,
-  "recordsFiltered": 18306,
+  "recordsTotal": 18309,
+  "recordsFiltered": 18309,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -254054,7 +254054,7 @@
       "so_date": "2025-12-10",
       "so_customer": "SARI MURNI ABADI, PT.",
       "so_po_no": "5600020947",
-      "so_sales": "Marchelina",
+      "so_sales": "yanah",
       "so_total_spb": "21520791",
       "so_status": "approve",
       "so_jenis": "REGULER",
@@ -256286,6 +256286,48 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18383\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-12-26 08:45:15",
+      "so_id": "18384",
+      "so_no": "241/ISI/SPB/XII/2025",
+      "so_date": "2025-12-26",
+      "so_customer": "Mulia Inti Pangan, PT",
+      "so_po_no": "251.200.066",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "3145251.6",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18384\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-12-26 09:17:04",
+      "so_id": "18385",
+      "so_no": "242/ISI/SPB/XII/2025",
+      "so_date": "2025-12-26",
+      "so_customer": "RAJA JEVA NISI, PT ( PELITA  FOOD TECH )",
+      "so_po_no": "0184/P-KRW/12/25",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "4057050",
+      "so_status": "pending",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18385\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-12-26 09:31:15",
+      "so_id": "18386",
+      "so_no": "243/ISI/SPB/XII/2025",
+      "so_date": "2025-12-26",
+      "so_customer": "CV.TIGA ANUGERAH PANGAN",
+      "so_po_no": "25/XII/FKO/SBY/2025",
+      "so_sales": "Dio",
+      "so_total_spb": "2736150",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18386\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }

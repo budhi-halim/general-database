@@ -1,8 +1,25 @@
 {
   "draw": 0,
-  "recordsTotal": 21988,
-  "recordsFiltered": 21988,
+  "recordsTotal": 21989,
+  "recordsFiltered": 21989,
   "data": [
+    {
+      "srs_id": "22104",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "3427/XII/2025/SRS",
+      "srs_date": "2025-12-26",
+      "srs_customer": "CV.TIGA ANUGERAH PANGAN",
+      "srs_product": "BAWANG MANIS SEASONING",
+      "kode_produk": "MT-221218 A",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Dio",
+      "status_next": "blank"
+    },
     {
       "srs_id": "22103",
       "is_replacement": "NO",
