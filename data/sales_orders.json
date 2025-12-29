@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 18324,
-  "recordsFiltered": 18324,
+  "recordsTotal": 18328,
+  "recordsFiltered": 18328,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -256506,7 +256506,7 @@
       "so_po_no": "SIP-PO/XII/2025/028",
       "so_sales": "Bernard Abielius Sugiardja",
       "so_total_spb": "27765984",
-      "so_status": "pending",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18399\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -256520,7 +256520,7 @@
       "so_po_no": "SIP-PO/XII/2025/027",
       "so_sales": "Bernard Abielius Sugiardja",
       "so_total_spb": "28846125",
-      "so_status": "pending",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18400\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -256534,10 +256534,66 @@
       "so_po_no": "SIP-PO/XII/2025/026",
       "so_sales": "Bernard Abielius Sugiardja",
       "so_total_spb": "29464772.4",
-      "so_status": "pending",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18401\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-12-29 09:06:28",
+      "so_id": "18402",
+      "so_no": "258/ISI/SPB/XII/2025",
+      "so_date": "2025-12-29",
+      "so_customer": "HEINZ ABC INDONESIA, PT",
+      "so_po_no": "452630",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "44780452.5",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18402\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-12-29 09:15:58",
+      "so_id": "18403",
+      "so_no": "259/ISI/SPB/XII/2025",
+      "so_date": "2025-12-29",
+      "so_customer": "KADU MANIS UTAMA",
+      "so_po_no": "PO-2512-001219",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "5592735",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18403\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-12-29 09:49:49",
+      "so_id": "18404",
+      "so_no": "260/ISI/SPB/XII/2025",
+      "so_date": "2025-12-29",
+      "so_customer": "SARI MURNI JAYA, PT.",
+      "so_po_no": "5600021465",
+      "so_sales": "Marchelina",
+      "so_total_spb": "22650327",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18404\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-12-29 09:57:02",
+      "so_id": "18405",
+      "so_no": "261/ISI/SPB/XII/2025",
+      "so_date": "2025-12-29",
+      "so_customer": "NISSIN FOODS INDONESIA.PT",
+      "so_po_no": "RM/0025140",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "217182600",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18405\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }

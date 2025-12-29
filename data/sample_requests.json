@@ -668,11 +668,11 @@
       "sr_pic": "Bernard Abielius Sugiardja",
       "sr_customer": "PT. MITRA BALI SUKSES",
       "sr_srtype": "Improvement Special",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-12-16 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11717)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -1578,11 +1578,11 @@
       "sr_pic": "Marchelina",
       "sr_customer": "FRESH ON TIME ",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-12-03 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11652)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -1606,11 +1606,11 @@
       "sr_pic": "Marchelina",
       "sr_customer": "PT. JAMAN SEHAT SEMPURNA ",
       "sr_srtype": "Improvement",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-12-03 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11650)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
