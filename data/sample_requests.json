@@ -1,8 +1,36 @@
 {
   "draw": 0,
-  "recordsTotal": 11757,
-  "recordsFiltered": 11757,
+  "recordsTotal": 11759,
+  "recordsFiltered": 11759,
   "data": [
+    {
+      "sr_id": "11766",
+      "sr_no": "2132/XII/2025/SRF",
+      "sr_date": "2025-12-29",
+      "sr_pic": "Marchelina",
+      "sr_customer": "PT. JAMAN SEHAT SEMPURNA ",
+      "sr_srtype": "Improvement Special",
+      "sr_status": "WAITING APPROVAL PM",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2025-12-29 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11766)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "11765",
+      "sr_no": "2131/XII/2025/SRF",
+      "sr_date": "2025-12-29",
+      "sr_pic": "Marchelina",
+      "sr_customer": "PT. JAMAN SEHAT SEMPURNA ",
+      "sr_srtype": "Improvement",
+      "sr_status": "WAITING APPROVAL PM",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2025-12-29 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11765)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
     {
       "sr_id": "11764",
       "sr_no": "2130/XII/2025/SRF",
@@ -320,7 +348,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "3 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Partial Ready",
       "sr_created_at": "2025-12-22 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11742)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -334,7 +362,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "5 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Partial Ready",
       "sr_created_at": "2025-12-22 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11741)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -642,7 +670,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "3 Items",
-      "sr_statkirimbarang": "Partial Ready",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-12-16 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11719)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -2236,11 +2264,11 @@
       "sr_pic": "Marchelina",
       "sr_customer": "PT. JAMAN SEHAT SEMPURNA ",
       "sr_srtype": "Special Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-26 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11605)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -11504,7 +11532,7 @@
       "sr_pic": "johanes",
       "sr_customer": "PT. TRIO RASA MAS",
       "sr_srtype": "Improvement",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "PARTIAL COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-08-07 00:00:00",
@@ -12568,7 +12596,7 @@
       "sr_pic": "johanes",
       "sr_customer": "PT. Rey Pangan Sejahtera",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "PARTIAL COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-07-24 00:00:00",
