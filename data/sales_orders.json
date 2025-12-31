@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 18339,
-  "recordsFiltered": 18339,
+  "recordsTotal": 18341,
+  "recordsFiltered": 18341,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -252557,7 +252557,7 @@
       "so_customer": "SINAR KENCANA AGUNG, PT",
       "so_po_no": "PO.16/IS/XI/25",
       "so_sales": "Lily",
-      "so_total_spb": "12287700",
+      "so_total_spb": "16383600",
       "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
@@ -255806,7 +255806,7 @@
       "so_po_no": "PO-251204-0005",
       "so_sales": "Lily",
       "so_total_spb": "3868350",
-      "so_status": "approve",
+      "so_status": "pending",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18349\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -256748,6 +256748,34 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18416\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-12-30 11:30:55",
+      "so_id": "18417",
+      "so_no": "273/ISI/SPB/XII/2025",
+      "so_date": "2025-12-30",
+      "so_customer": "KERRY INGREDIENTS INDONESIA, PT.",
+      "so_po_no": "52043664",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "239760000",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18417\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2025-12-30 13:21:26",
+      "so_id": "18418",
+      "so_no": "274/ISI/SPB/XII/2025",
+      "so_date": "2025-12-30",
+      "so_customer": "FA. SEMPANA",
+      "so_po_no": "2025/SPN/XII/040",
+      "so_sales": "yanah",
+      "so_total_spb": "3164055",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18418\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
