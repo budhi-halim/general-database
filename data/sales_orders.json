@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 18341,
-  "recordsFiltered": 18341,
+  "recordsTotal": 18344,
+  "recordsFiltered": 18344,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -256776,6 +256776,48 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18418\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-01-02 08:45:25",
+      "so_id": "18419",
+      "so_no": "1/ISI/SPB/I/2026",
+      "so_date": "2026-01-02",
+      "so_customer": "CITA RASA SUKSES,PT",
+      "so_po_no": "006/CRS/BBU/I/26",
+      "so_sales": "Sucie",
+      "so_total_spb": "68895813",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18419\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-01-02 08:47:57",
+      "so_id": "18420",
+      "so_no": "2/ISI/SPB/I/2026",
+      "so_date": "2026-01-02",
+      "so_customer": "SIANTAR TOP TBK, PT",
+      "so_po_no": "PO1-00320/12/25",
+      "so_sales": "Sucie",
+      "so_total_spb": "133666200",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18420\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-01-02 09:33:23",
+      "so_id": "18421",
+      "so_no": "3/ISI/SPB/I/2026",
+      "so_date": "2026-01-02",
+      "so_customer": "TAMAN SAFARI INDONESIA",
+      "so_po_no": "PO-BGR-0126-00063",
+      "so_sales": "Marchelina",
+      "so_total_spb": "186813",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18421\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
