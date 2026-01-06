@@ -2000,6 +2000,11 @@
     "product_code": "31602884"
   },
   {
+    "date": "2026-01-05",
+    "customer": "PT.HAP Liong Teknopangan",
+    "product_code": "31602901"
+  },
+  {
     "date": "2025-02-14",
     "customer": "DUTA GLOBAL INDOJAYA, PT",
     "product_code": "31602913"
@@ -2910,8 +2915,8 @@
     "product_code": "D-111"
   },
   {
-    "date": "2025-12-10",
-    "customer": "Dewi Yunita",
+    "date": "2026-01-06",
+    "customer": "CV.TOOIT JAYA SEJAHTERA",
     "product_code": "D-113"
   },
   {
@@ -3070,7 +3075,7 @@
     "product_code": "MS-2093 A"
   },
   {
-    "date": "2025-10-22",
+    "date": "2026-01-06",
     "customer": "SEKAR FUJI FOODS, PT",
     "product_code": "MS-3010"
   },
@@ -3105,8 +3110,8 @@
     "product_code": "MT-1100084-2"
   },
   {
-    "date": "2025-09-30",
-    "customer": "ABDUL SUWAJI",
+    "date": "2026-01-05",
+    "customer": "PT.HAP Liong Teknopangan",
     "product_code": "MT-1100116-0"
   },
   {
@@ -4000,7 +4005,7 @@
     "product_code": "MT-733511"
   },
   {
-    "date": "2025-11-26",
+    "date": "2026-01-06",
     "customer": "LIDYA AYUNINGTYAS",
     "product_code": "MT-738036"
   },
@@ -4180,7 +4185,7 @@
     "product_code": "P-200"
   },
   {
-    "date": "2025-12-08",
+    "date": "2026-01-05",
     "customer": "SARI MURNI ABADI, PT.",
     "product_code": "P-2000"
   },
