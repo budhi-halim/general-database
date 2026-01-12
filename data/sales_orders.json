@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 18415,
-  "recordsFiltered": 18415,
+  "recordsTotal": 18419,
+  "recordsFiltered": 18419,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -257812,6 +257812,62 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18492\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-01-12 08:50:41",
+      "so_id": "18493",
+      "so_no": "75/ISI/SPB/I/2026",
+      "so_date": "2026-01-12",
+      "so_customer": "FRANKY SETIAWAN, BP",
+      "so_po_no": "",
+      "so_sales": "Dwi Rachtomo",
+      "so_total_spb": "196911225",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18493\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-01-12 08:53:24",
+      "so_id": "18494",
+      "so_no": "76/ISI/SPB/I/2026",
+      "so_date": "2026-01-12",
+      "so_customer": "PT.Aromatika Nacha Pratama",
+      "so_po_no": "001/PO/ANP/I/2026",
+      "so_sales": "Dwi Rachtomo",
+      "so_total_spb": "43799999.49",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18494\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-01-12 09:11:51",
+      "so_id": "18495",
+      "so_no": "77/ISI/SPB/I/2026",
+      "so_date": "2026-01-12",
+      "so_customer": "SARI MURNI ABADI, PT.",
+      "so_po_no": "5600021811",
+      "so_sales": "Marchelina",
+      "so_total_spb": "8453982",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18495\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-01-12 09:16:05",
+      "so_id": "18496",
+      "so_no": "78/ISI/SPB/I/2026",
+      "so_date": "2026-01-12",
+      "so_customer": "WILLY HARSONO",
+      "so_po_no": "",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "476299.97880000004",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18496\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
