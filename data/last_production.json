@@ -70,7 +70,7 @@
     "product_code": "04-0136"
   },
   {
-    "date": "2025-08-12",
+    "date": "2026-01-13",
     "customer": "BASUKI",
     "product_code": "04-0137"
   },
@@ -135,7 +135,7 @@
     "product_code": "2422"
   },
   {
-    "date": "2025-12-08",
+    "date": "2026-01-13",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31102194"
   },
@@ -190,7 +190,7 @@
     "product_code": "31102645"
   },
   {
-    "date": "2026-01-08",
+    "date": "2026-01-13",
     "customer": "NISSIN FOODS INDONESIA.PT",
     "product_code": "31102691"
   },
@@ -575,7 +575,7 @@
     "product_code": "31301573"
   },
   {
-    "date": "2025-11-21",
+    "date": "2026-01-13",
     "customer": "NISSIN FOODS INDONESIA.PT",
     "product_code": "31301574"
   },
@@ -1145,8 +1145,8 @@
     "product_code": "31406930"
   },
   {
-    "date": "2025-12-30",
-    "customer": "CV Rejo Makmur Jaya",
+    "date": "2026-01-13",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "31406934"
   },
   {
@@ -1225,8 +1225,8 @@
     "product_code": "31407112"
   },
   {
-    "date": "2025-09-09",
-    "customer": "Singkong D-9",
+    "date": "2026-01-13",
+    "customer": "BASUKI",
     "product_code": "31407173"
   },
   {
@@ -1740,7 +1740,7 @@
     "product_code": "31602034"
   },
   {
-    "date": "2025-12-23",
+    "date": "2026-01-13",
     "customer": "MANOHARA ASRI, PT",
     "product_code": "31602052"
   },
@@ -1775,7 +1775,7 @@
     "product_code": "31602162"
   },
   {
-    "date": "2025-12-10",
+    "date": "2026-01-13",
     "customer": "KADU MANIS UTAMA",
     "product_code": "31602173"
   },
@@ -1960,8 +1960,8 @@
     "product_code": "31602766"
   },
   {
-    "date": "2025-12-10",
-    "customer": "CV.Berkah Baru Banjarmasin",
+    "date": "2026-01-13",
+    "customer": "DUA KELINCI, PT.",
     "product_code": "31602769"
   },
   {
@@ -2655,7 +2655,7 @@
     "product_code": "35800040"
   },
   {
-    "date": "2025-12-19",
+    "date": "2026-01-13",
     "customer": "DUA KELINCI, PT.",
     "product_code": "35800050"
   },
@@ -2840,13 +2840,13 @@
     "product_code": "C-001"
   },
   {
-    "date": "2026-01-12",
+    "date": "2026-01-13",
     "customer": "PT TRIO MITRA SEJATI",
     "product_code": "C-002"
   },
   {
-    "date": "2025-12-26",
-    "customer": "SAMUDRA PATI",
+    "date": "2026-01-13",
+    "customer": "BASUKI",
     "product_code": "C-003"
   },
   {
@@ -2860,7 +2860,7 @@
     "product_code": "C-006"
   },
   {
-    "date": "2025-12-16",
+    "date": "2026-01-13",
     "customer": "NISSIN FOODS INDONESIA.PT",
     "product_code": "CAI-3779 A"
   },
@@ -2875,8 +2875,8 @@
     "product_code": "CT-581"
   },
   {
-    "date": "2025-12-26",
-    "customer": "SAMUDRA PATI",
+    "date": "2026-01-13",
+    "customer": "SANITAS,PT",
     "product_code": "D-101"
   },
   {
@@ -3050,7 +3050,7 @@
     "product_code": "MS-0804"
   },
   {
-    "date": "2025-12-16",
+    "date": "2026-01-13",
     "customer": "SANITAS,PT",
     "product_code": "MS-0806"
   },
@@ -3070,8 +3070,8 @@
     "product_code": "MS-1607"
   },
   {
-    "date": "2026-01-09",
-    "customer": "WINARTO",
+    "date": "2026-01-13",
+    "customer": "NISSIN FOODS INDONESIA.PT",
     "product_code": "MS-2001 A"
   },
   {
@@ -3170,7 +3170,7 @@
     "product_code": "MT-1101154-0"
   },
   {
-    "date": "2025-12-09",
+    "date": "2026-01-13",
     "customer": "DUA KELINCI, PT.",
     "product_code": "MT-1101243-2"
   },
@@ -3490,7 +3490,7 @@
     "product_code": "MT-139511"
   },
   {
-    "date": "2025-12-16",
+    "date": "2026-01-13",
     "customer": "SANITAS,PT",
     "product_code": "MT-148516 B"
   },
@@ -3500,7 +3500,7 @@
     "product_code": "MT-154519"
   },
   {
-    "date": "2025-12-26",
+    "date": "2026-01-13",
     "customer": "MANOHARA ASRI, PT",
     "product_code": "MT-159316 D"
   },
@@ -3830,7 +3830,7 @@
     "product_code": "MT-588411"
   },
   {
-    "date": "2025-12-16",
+    "date": "2026-01-13",
     "customer": "MANOHARA ASRI, PT",
     "product_code": "MT-593316"
   },
@@ -3890,8 +3890,8 @@
     "product_code": "MT-630235 A"
   },
   {
-    "date": "2025-12-04",
-    "customer": "SINAR MATAHARI SEJAHTERA,CV",
+    "date": "2026-01-13",
+    "customer": "SANITAS,PT",
     "product_code": "MT-631618 B"
   },
   {
@@ -3900,8 +3900,8 @@
     "product_code": "MT-631618 C"
   },
   {
-    "date": "2026-01-12",
-    "customer": "SINAR KENCANA AGUNG, PT",
+    "date": "2026-01-14",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-632434"
   },
   {
@@ -4150,7 +4150,7 @@
     "product_code": "MT-84359"
   },
   {
-    "date": "2025-12-08",
+    "date": "2026-01-14",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-855514"
   },
