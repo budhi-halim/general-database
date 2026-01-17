@@ -1,8 +1,42 @@
 {
   "draw": 0,
-  "recordsTotal": 22198,
-  "recordsFiltered": 22198,
+  "recordsTotal": 22200,
+  "recordsFiltered": 22200,
   "data": [
+    {
+      "srs_id": "22315",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0166/I/2026/SRS",
+      "srs_date": "2026-01-17",
+      "srs_customer": "PT. JAMAN SEHAT SEMPURNA ",
+      "srs_product": "SPECIAL MALA SEASONING",
+      "kode_produk": "31406934",
+      "srs_total_qty": "100",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22314",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "0159/I/2026/SRS",
+      "kode_customer": "",
+      "srs_no": "0165/I/2026/SRS",
+      "srs_date": "2026-01-17",
+      "srs_customer": "CAHAYA TIRTA AROMMA, PT",
+      "srs_product": "JASMINE TEA POWDER EXTRACT (JASMINE PREMIUM)",
+      "kode_produk": "62700006",
+      "srs_total_qty": "100",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Dwi Rachtomo",
+      "status_next": "blank"
+    },
     {
       "srs_id": "22313",
       "is_replacement": "NO",
@@ -33,7 +67,7 @@
       "kode_produk": "MT-180516",
       "srs_total_qty": "8000",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Novan Ari Nugroho",
       "status_next": "blank"
     },
@@ -67,7 +101,7 @@
       "kode_produk": "62700006",
       "srs_total_qty": "100",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Dwi Rachtomo",
       "status_next": "blank"
     },
