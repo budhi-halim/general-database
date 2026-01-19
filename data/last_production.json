@@ -1215,7 +1215,7 @@
     "product_code": "31407081"
   },
   {
-    "date": "2025-11-28",
+    "date": "2026-01-19",
     "customer": "GUNTUR PAP",
     "product_code": "31407110"
   },
@@ -2505,7 +2505,7 @@
     "product_code": "33200020"
   },
   {
-    "date": "2025-12-19",
+    "date": "2026-01-19",
     "customer": "FORISA NUSAPERSADA, PT.",
     "product_code": "34"
   },
@@ -2845,8 +2845,8 @@
     "product_code": "C-002"
   },
   {
-    "date": "2026-01-13",
-    "customer": "BASUKI",
+    "date": "2026-01-19",
+    "customer": "GUNTUR PAP",
     "product_code": "C-003"
   },
   {
@@ -2990,8 +2990,8 @@
     "product_code": "GMS-3028"
   },
   {
-    "date": "2026-01-15",
-    "customer": "PT. Pawon Sentra Tama",
+    "date": "2026-01-17",
+    "customer": "PT. Surya Pratista Hutama",
     "product_code": "HVP WCI"
   },
   {
@@ -3105,7 +3105,7 @@
     "product_code": "MT-105737"
   },
   {
-    "date": "2025-12-26",
+    "date": "2026-01-17",
     "customer": "PT. Surya Pratista Hutama",
     "product_code": "MT-107358 A"
   },
@@ -3345,7 +3345,7 @@
     "product_code": "MT-1203124-4"
   },
   {
-    "date": "2025-07-23",
+    "date": "2026-01-19",
     "customer": "FA. SEMPANA",
     "product_code": "MT-1203736-1"
   },
@@ -3370,7 +3370,7 @@
     "product_code": "MT-1206051-0"
   },
   {
-    "date": "2025-11-28",
+    "date": "2026-01-19",
     "customer": "GUNTUR PAP",
     "product_code": "MT-1206412-0"
   },
@@ -3470,7 +3470,7 @@
     "product_code": "MT-1303178-0"
   },
   {
-    "date": "2025-11-28",
+    "date": "2026-01-19",
     "customer": "GUNTUR PAP",
     "product_code": "MT-1303328-0"
   },
@@ -4245,7 +4245,7 @@
     "product_code": "TPC"
   },
   {
-    "date": "2025-12-11",
+    "date": "2026-01-17",
     "customer": "PT. Surya Pratista Hutama",
     "product_code": "W-800"
   },
