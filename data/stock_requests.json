@@ -1,8 +1,110 @@
 {
   "draw": 0,
-  "recordsTotal": 22241,
-  "recordsFiltered": 22241,
+  "recordsTotal": 22247,
+  "recordsFiltered": 22247,
   "data": [
+    {
+      "srs_id": "22362",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0213/I/2026/SRS",
+      "srs_date": "2026-01-23",
+      "srs_customer": "BUMIFOOD AGRO INDUSTRI",
+      "srs_product": "KARI INDIA SEASONING",
+      "kode_produk": "MT-636114",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22361",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "ABCP",
+      "srs_no": "0212/I/2026/SRS",
+      "srs_date": "2026-01-23",
+      "srs_customer": "ABC PRESIDENT INDONESIA, PT",
+      "srs_product": "SOY SAUCE POWDER",
+      "kode_produk": "MT-625337",
+      "srs_total_qty": "80",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22360",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "ABCP",
+      "srs_no": "0211/I/2026/SRS",
+      "srs_date": "2026-01-23",
+      "srs_customer": "ABC PRESIDENT INDONESIA, PT",
+      "srs_product": "SOY SAUCE POWDER",
+      "kode_produk": "MT-625337",
+      "srs_total_qty": "100",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22359",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0210/I/2026/SRS",
+      "srs_date": "2026-01-22",
+      "srs_customer": "JULI ISWANDI, BPK",
+      "srs_product": "CHEESE SEASONING",
+      "kode_produk": "MT-1200805-0",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22358",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0209/I/2026/SRS",
+      "srs_date": "2026-01-22",
+      "srs_customer": "JULI ISWANDI, BPK",
+      "srs_product": "BAWANG GORENG SEASONING",
+      "kode_produk": "D-113",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22357",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "3412/XII/2025/SRS",
+      "kode_customer": "",
+      "srs_no": "0208/I/2026/SRS",
+      "srs_date": "2026-01-22",
+      "srs_customer": "PT. TRIO RASA MAS",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "31406642",
+      "srs_total_qty": "3000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "Waiting Approval",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "blank"
+    },
     {
       "srs_id": "22356",
       "is_replacement": "NO",
@@ -16,9 +118,9 @@
       "kode_produk": "MT-774131",
       "srs_total_qty": "75",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Dio",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22355",
@@ -69,7 +171,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22352",
@@ -86,7 +188,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22351",
@@ -103,7 +205,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Dwi Rachtomo",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22350",
@@ -120,7 +222,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Dwi Rachtomo",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22349",
