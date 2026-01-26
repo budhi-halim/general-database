@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 18559,
-  "recordsFiltered": 18559,
+  "recordsTotal": 18562,
+  "recordsFiltered": 18562,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -259810,7 +259810,7 @@
       "so_po_no": "PO.2601.00029",
       "so_sales": "Bernard Abielius Sugiardja",
       "so_total_spb": "7992000",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18635\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -259824,10 +259824,52 @@
       "so_po_no": "PB260000044",
       "so_sales": "Marchelina",
       "so_total_spb": "9666990",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18636\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-01-26 09:25:15",
+      "so_id": "18637",
+      "so_no": "218/ISI/SPB/I/2026",
+      "so_date": "2026-01-26",
+      "so_customer": "Varion Cuan Corpora International ",
+      "so_po_no": "4507134182",
+      "so_sales": "Angel (Sales)",
+      "so_total_spb": "426373200",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18637\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-01-26 09:25:29",
+      "so_id": "18638",
+      "so_no": "219/ISI/SPB/I/2026",
+      "so_date": "2026-01-26",
+      "so_customer": "CAHAYA TIRTA AROMMA, PT",
+      "so_po_no": "99PO240800003",
+      "so_sales": "Dwi Rachtomo",
+      "so_total_spb": "40574940",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18638\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-01-26 09:33:10",
+      "so_id": "18639",
+      "so_no": "220/ISI/SPB/I/2026",
+      "so_date": "2026-01-26",
+      "so_customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+      "so_po_no": "",
+      "so_sales": "Marchelina",
+      "so_total_spb": "60567496.875",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/18639\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
