@@ -890,7 +890,7 @@
     "product_code": "31406212"
   },
   {
-    "date": "2026-01-15",
+    "date": "2026-01-27",
     "customer": "MEGAHPUTRA SEJAHTERA, PT",
     "product_code": "31406284"
   },
@@ -1433,6 +1433,11 @@
     "date": "2025-12-15",
     "customer": "TAMAN SAFARI INDONESIA",
     "product_code": "31407984"
+  },
+  {
+    "date": "2026-01-27",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "product_code": "31408015"
   },
   {
     "date": "2025-12-17",
@@ -2170,7 +2175,7 @@
     "product_code": "31802104"
   },
   {
-    "date": "2026-01-15",
+    "date": "2026-01-27",
     "customer": "MEGAHPUTRA SEJAHTERA, PT",
     "product_code": "31802107"
   },
@@ -2210,7 +2215,7 @@
     "product_code": "31802200"
   },
   {
-    "date": "2025-12-11",
+    "date": "2026-01-27",
     "customer": "HEIHEI SUKSES CEMERLANG, PT",
     "product_code": "31802201"
   },
@@ -2265,7 +2270,7 @@
     "product_code": "31802405"
   },
   {
-    "date": "2025-12-05",
+    "date": "2026-01-28",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31802413"
   },
@@ -2485,7 +2490,7 @@
     "product_code": "33000117"
   },
   {
-    "date": "2025-12-09",
+    "date": "2026-01-27",
     "customer": "INDOFOOD CBP SUKSES MAKMUR, PT",
     "product_code": "33000118"
   },
@@ -2635,7 +2640,7 @@
     "product_code": "35400021"
   },
   {
-    "date": "2026-01-15",
+    "date": "2026-01-27",
     "customer": "MEGAHPUTRA SEJAHTERA, PT",
     "product_code": "35400074"
   },
@@ -2915,8 +2920,8 @@
     "product_code": "D-108"
   },
   {
-    "date": "2025-06-10",
-    "customer": "FA. SEMPANA",
+    "date": "2026-01-27",
+    "customer": "GANDUM MAS KENCANA, PT",
     "product_code": "D-109"
   },
   {
@@ -3870,8 +3875,8 @@
     "product_code": "MT-614318"
   },
   {
-    "date": "2026-01-26",
-    "customer": "KERRY MANUFACTURING (PHILIPPINES), INC.",
+    "date": "2026-01-27",
+    "customer": "KERRY INGREDIENTS INDONESIA, PT.",
     "product_code": "MT-625237"
   },
   {
@@ -3885,7 +3890,7 @@
     "product_code": "MT-626737"
   },
   {
-    "date": "2026-01-14",
+    "date": "2026-01-27",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-627037"
   },
@@ -4175,8 +4180,8 @@
     "product_code": "MT-92159"
   },
   {
-    "date": "2026-01-20",
-    "customer": "SIDO AGUNG BISCUIT",
+    "date": "2026-01-27",
+    "customer": "PT.DUTA PANGAN NUSANTARA ",
     "product_code": "MT-92959"
   },
   {
