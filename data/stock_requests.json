@@ -1,8 +1,161 @@
 {
   "draw": 0,
-  "recordsTotal": 22337,
-  "recordsFiltered": 22337,
+  "recordsTotal": 22346,
+  "recordsFiltered": 22346,
   "data": [
+    {
+      "srs_id": "22461",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "DUNKI",
+      "srs_no": "0312/I/2026/SRJ",
+      "srs_date": "2026-01-30",
+      "srs_customer": "DUNKINDO LESTARI, PT.",
+      "srs_product": "JELLY POWDER",
+      "kode_produk": "2422",
+      "srs_total_qty": "450",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22460",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0311/I/2026/SRS",
+      "srs_date": "2026-01-29",
+      "srs_customer": "PT.HAP Liong Teknopangan",
+      "srs_product": "ROASTED CORN SEAS",
+      "kode_produk": "MT-1100116-0",
+      "srs_total_qty": "200",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "yanah",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22459",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0310/I/2026/SRS",
+      "srs_date": "2026-01-29",
+      "srs_customer": "PT.HAP Liong Teknopangan",
+      "srs_product": "CORN SEASONING",
+      "kode_produk": "31602901",
+      "srs_total_qty": "200",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "yanah",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22458",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SMP",
+      "srs_no": "0309/I/2026/SRS",
+      "srs_date": "2026-01-29",
+      "srs_customer": "SARI MURNI ABADI, PT.",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "31602922",
+      "srs_total_qty": "100",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22457",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "BIANG",
+      "srs_no": "0308/I/2026/SRS",
+      "srs_date": "2026-01-29",
+      "srs_customer": "GITA, PT.",
+      "srs_product": "BALADO SEASONING",
+      "kode_produk": "31404495",
+      "srs_total_qty": "400",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Dwi Rachtomo",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22456",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0307/I/2026/SRS",
+      "srs_date": "2026-01-29",
+      "srs_customer": "ZAENUL MUSTHOFA",
+      "srs_product": "MIE GORENG SEAS",
+      "kode_produk": "31405240",
+      "srs_total_qty": "375",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22455",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "KACFA",
+      "srs_no": "0306/I/2026/SD",
+      "srs_date": "2026-01-29",
+      "srs_customer": "BANGUN BERKAT ANUGRAH, PT.",
+      "srs_product": "JELLY POWDER",
+      "kode_produk": "2422",
+      "srs_total_qty": "25",
+      "srs_remarks": "Sudden",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22454",
+      "is_replacement": "YES",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "DWIKE",
+      "srs_no": "305/I/2026/SRS",
+      "srs_date": "2026-01-29",
+      "srs_customer": "DUA KELINCI, PT.",
+      "srs_product": "SEAWEED SEASONING",
+      "kode_produk": "MT-1101243-2",
+      "srs_total_qty": "125",
+      "srs_remarks": "Advance",
+      "srs_status": "NEW",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22453",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0304/I/2026/SD",
+      "srs_date": "2026-01-29",
+      "srs_customer": "NATALIA SUTRISNO",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "31407110",
+      "srs_total_qty": "375",
+      "srs_remarks": "Sudden",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
     {
       "srs_id": "22452",
       "is_replacement": "NO",
@@ -18,7 +171,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22451",
@@ -35,7 +188,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Dio",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22450",
@@ -52,7 +205,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22449",
@@ -69,7 +222,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22448",
@@ -86,7 +239,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22447",
@@ -103,7 +256,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22446",
@@ -120,7 +273,7 @@
       "srs_remarks": "Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22445",
@@ -137,7 +290,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22444",
