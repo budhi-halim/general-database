@@ -135,7 +135,7 @@
     "product_code": "2422"
   },
   {
-    "date": "2026-02-03",
+    "date": "2026-02-09",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31102194"
   },
@@ -1430,6 +1430,11 @@
     "product_code": "31407944"
   },
   {
+    "date": "2026-02-07",
+    "customer": "Bp Christian",
+    "product_code": "31407967"
+  },
+  {
     "date": "2025-10-20",
     "customer": "RIYANA CIPTA PANGAN INDONESIA, PT",
     "product_code": "31407968"
@@ -1785,7 +1790,7 @@
     "product_code": "31602162"
   },
   {
-    "date": "2026-01-13",
+    "date": "2026-02-05",
     "customer": "KADU MANIS UTAMA",
     "product_code": "31602173"
   },
@@ -2275,7 +2280,7 @@
     "product_code": "31802405"
   },
   {
-    "date": "2026-01-28",
+    "date": "2026-02-09",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31802413"
   },
@@ -3116,7 +3121,7 @@
   },
   {
     "date": "2026-02-07",
-    "customer": "PT. Keluarga Protein Indonesia",
+    "customer": "SINAR KENCANA AGUNG, PT",
     "product_code": "MT-105737"
   },
   {
@@ -3185,7 +3190,7 @@
     "product_code": "MT-1101154-0"
   },
   {
-    "date": "2026-02-03",
+    "date": "2026-02-09",
     "customer": "DUA KELINCI, PT.",
     "product_code": "MT-1101243-2"
   },
@@ -3325,12 +3330,12 @@
     "product_code": "MT-1200805-0"
   },
   {
-    "date": "2026-01-12",
+    "date": "2026-02-07",
     "customer": "SINAR KENCANA AGUNG, PT",
     "product_code": "MT-1201316-0"
   },
   {
-    "date": "2026-01-12",
+    "date": "2026-02-07",
     "customer": "SINAR KENCANA AGUNG, PT",
     "product_code": "MT-1201326-2"
   },
@@ -3440,8 +3445,8 @@
     "product_code": "MT-1301153-0"
   },
   {
-    "date": "2025-12-18",
-    "customer": "PT. MITRAGUNA PANGAN SNACKINDO",
+    "date": "2026-02-07",
+    "customer": "Bp Christian",
     "product_code": "MT-1301328-1"
   },
   {
@@ -3835,8 +3840,8 @@
     "product_code": "MT-579914"
   },
   {
-    "date": "2026-01-30",
-    "customer": "USMAN",
+    "date": "2026-02-09",
+    "customer": "DUA KELINCI, PT.",
     "product_code": "MT-585016 A"
   },
   {
@@ -3915,8 +3920,8 @@
     "product_code": "MT-631618 C"
   },
   {
-    "date": "2026-01-28",
-    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "date": "2026-02-07",
+    "customer": "SINAR KENCANA AGUNG, PT",
     "product_code": "MT-632434"
   },
   {
