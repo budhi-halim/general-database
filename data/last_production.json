@@ -1810,7 +1810,7 @@
     "product_code": "31602195"
   },
   {
-    "date": "2025-03-17",
+    "date": "2026-02-13",
     "customer": "BERSAMA SAHABAT ANDALAN, PT.",
     "product_code": "31602224"
   },
@@ -1940,7 +1940,7 @@
     "product_code": "31602663"
   },
   {
-    "date": "2025-02-18",
+    "date": "2026-02-13",
     "customer": "SUMBER MITRA SEJATI JAYA, PT.",
     "product_code": "31602716"
   },
@@ -2073,6 +2073,11 @@
     "date": "2025-03-14",
     "customer": "INDOFOOD FORTUNA MAKMUR",
     "product_code": "31602993"
+  },
+  {
+    "date": "2026-02-13",
+    "customer": "CITA RASA SUKSES,PT",
+    "product_code": "31603045"
   },
   {
     "date": "2025-09-23",
@@ -3190,7 +3195,7 @@
     "product_code": "MT-1101154-0"
   },
   {
-    "date": "2026-02-09",
+    "date": "2026-02-13",
     "customer": "DUA KELINCI, PT.",
     "product_code": "MT-1101243-2"
   },
@@ -3580,7 +3585,7 @@
     "product_code": "MT-182754"
   },
   {
-    "date": "2025-10-22",
+    "date": "2026-02-13",
     "customer": "LIDYA AYUNINGTYAS",
     "product_code": "MT-193256"
   },
@@ -3595,8 +3600,8 @@
     "product_code": "MT-212114"
   },
   {
-    "date": "2026-02-05",
-    "customer": "CAHAYA ANUGERAH SENTOSA",
+    "date": "2026-02-13",
+    "customer": "CV.TIGA ANUGERAH PANGAN",
     "product_code": "MT-221218 A"
   },
   {
@@ -3690,7 +3695,7 @@
     "product_code": "MT-373438"
   },
   {
-    "date": "2026-02-03",
+    "date": "2026-02-13",
     "customer": "GRAHAINMA SINARTRIKARSA,PT.(PT GIST",
     "product_code": "MT-3779 A"
   },
@@ -3705,8 +3710,8 @@
     "product_code": "MT-39736 B"
   },
   {
-    "date": "2026-02-06",
-    "customer": "TAMADDUN INTI PERKASA",
+    "date": "2026-02-13",
+    "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-3987"
   },
   {
@@ -3840,8 +3845,8 @@
     "product_code": "MT-579914"
   },
   {
-    "date": "2026-02-10",
-    "customer": "BP.GUNAWAN WINATA",
+    "date": "2026-02-13",
+    "customer": "DUA KELINCI, PT.",
     "product_code": "MT-585016 A"
   },
   {
@@ -4090,8 +4095,8 @@
     "product_code": "MT-777738 B"
   },
   {
-    "date": "2026-02-03",
-    "customer": "Hendra kurniawan",
+    "date": "2026-02-13",
+    "customer": "BP.GUNAWAN WINATA",
     "product_code": "MT-779914"
   },
   {
@@ -4130,8 +4135,8 @@
     "product_code": "MT-802516"
   },
   {
-    "date": "2020-03-19",
-    "customer": "LIDYA, IBU",
+    "date": "2026-02-13",
+    "customer": "LIDYA AYUNINGTYAS",
     "product_code": "MT-805136"
   },
   {
@@ -4235,7 +4240,7 @@
     "product_code": "SBF-8693"
   },
   {
-    "date": "2026-02-03",
+    "date": "2026-02-13",
     "customer": "GRAHAINMA SINARTRIKARSA,PT.(PT GIST",
     "product_code": "SP-3715"
   },
