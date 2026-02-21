@@ -1,8 +1,416 @@
 {
   "draw": 0,
-  "recordsTotal": 22586,
-  "recordsFiltered": 22586,
+  "recordsTotal": 22611,
+  "recordsFiltered": 22611,
   "data": [
+    {
+      "srs_id": "22726",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "2974/XI/2025/SRS",
+      "kode_customer": "INDFP",
+      "srs_no": "0577/II/2026/SRS",
+      "srs_date": "2026-02-21",
+      "srs_customer": "INDOFOOD FORTUNA MAKMUR",
+      "srs_product": "CHOCO MALT SEASONING",
+      "kode_produk": "31503336",
+      "srs_total_qty": "9000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Angel (Sales)",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22725",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "2353/IX/2025/SRS",
+      "kode_customer": "INDFP",
+      "srs_no": "0576/II/2026/SRS",
+      "srs_date": "2026-02-21",
+      "srs_customer": "INDOFOOD FORTUNA MAKMUR",
+      "srs_product": "CHOCO MALT SEASONING",
+      "kode_produk": "31503336",
+      "srs_total_qty": "1500",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Angel (Sales)",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22724",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "0297/I/2026/SRS",
+      "kode_customer": "INDFP",
+      "srs_no": "0575/II/2026/SRS",
+      "srs_date": "2026-02-21",
+      "srs_customer": "INDOFOOD FORTUNA MAKMUR",
+      "srs_product": "ROASTED CORN SEASONING ",
+      "kode_produk": "31602990",
+      "srs_total_qty": "6000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Angel (Sales)",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22723",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "3183/XII/2025/SRS",
+      "kode_customer": "INDFP",
+      "srs_no": "0574/II/2026/SRS",
+      "srs_date": "2026-02-21",
+      "srs_customer": "INDOFOOD FORTUNA MAKMUR",
+      "srs_product": "COKLAT SEASONING",
+      "kode_produk": "31503338",
+      "srs_total_qty": "40000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Angel (Sales)",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22722",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "GIZI",
+      "srs_no": "0573/II/2026/SRS",
+      "srs_date": "2026-02-21",
+      "srs_customer": "BERGIZI, UD.",
+      "srs_product": "BEEF POWDER",
+      "kode_produk": "31201247",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22721",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0572/II/2026/SRI",
+      "srs_date": "2026-02-20",
+      "srs_customer": "RD IMAWAN PURNAMA",
+      "srs_product": "HVP WCI",
+      "kode_produk": "HVP WCI",
+      "srs_total_qty": "20",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22720",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "DWIKE",
+      "srs_no": "0571/II/2026/SRS",
+      "srs_date": "2026-02-20",
+      "srs_customer": "DUA KELINCI, PT.",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "31602769",
+      "srs_total_qty": "900",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22719",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "DWIKE",
+      "srs_no": "0570/II/2026/SRS",
+      "srs_date": "2026-02-20",
+      "srs_customer": "DUA KELINCI, PT.",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "31602769",
+      "srs_total_qty": "900",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22718",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0569/II/2026/SRS",
+      "srs_date": "2026-02-20",
+      "srs_customer": "PT. DOLPHIN FOOD & BEVERAGES INDUSTRY",
+      "srs_product": "KACANG THAILAND",
+      "kode_produk": "31405963",
+      "srs_total_qty": "900",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22717",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0568/II/2026/SRS",
+      "srs_date": "2026-02-20",
+      "srs_customer": "PT. DOLPHIN FOOD & BEVERAGES INDUSTRY",
+      "srs_product": "KACANG THAILAND",
+      "kode_produk": "31405963",
+      "srs_total_qty": "300",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22716",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "2928/XI/2025/SRF",
+      "kode_customer": "SIDOA",
+      "srs_no": "0567/II/2026/SRF",
+      "srs_date": "2026-02-20",
+      "srs_customer": "SIDO AGUNG BISCUIT",
+      "srs_product": "STRAWBERRY FLAVOUR",
+      "kode_produk": "MT-92959",
+      "srs_total_qty": "40",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22715",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0566/II/2026/SRS",
+      "srs_date": "2026-02-20",
+      "srs_customer": "SOEHARTO D PRANOTO",
+      "srs_product": "SAPI PANGGANG SEASONING",
+      "kode_produk": "MT-706412",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22714",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0565/II/2026/SRS",
+      "srs_date": "2026-02-20",
+      "srs_customer": "PT.Siumang Teman Sukses (SAIKHO INDO KREATIF, PT.)",
+      "srs_product": "BALADO 3 GB",
+      "kode_produk": "31407519",
+      "srs_total_qty": "500",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22713",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "UFIMA",
+      "srs_no": "0564/II/2026/SRS",
+      "srs_date": "2026-02-20",
+      "srs_customer": "UFI MASUYA NUSANTARA, PT.",
+      "srs_product": "CHILLI POWDER",
+      "kode_produk": "31407189",
+      "srs_total_qty": "300",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22712",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "IWKBM",
+      "srs_no": "0563/II/2026/SD",
+      "srs_date": "2026-02-20",
+      "srs_customer": "IWAN TEGUH RIANTO",
+      "srs_product": "BBQ SEASONING",
+      "kode_produk": "D-109",
+      "srs_total_qty": "25",
+      "srs_remarks": "Sudden",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22711",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "0999/IV/2025/SRS",
+      "kode_customer": "",
+      "srs_no": "0562/II/2026/SRS",
+      "srs_date": "2026-02-20",
+      "srs_customer": "AGUS SYARIFFUDIN",
+      "srs_product": "GARLIC OIL",
+      "kode_produk": "KA-544",
+      "srs_total_qty": "1",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22710",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0561/II/2026/SRS",
+      "srs_date": "2026-02-20",
+      "srs_customer": "AGUS SYARIFFUDIN",
+      "srs_product": "Garlic Oil",
+      "kode_produk": "38800012",
+      "srs_total_qty": "1",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22708",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "IWKBM",
+      "srs_no": "0559/II/2026/SRS",
+      "srs_date": "2026-02-20",
+      "srs_customer": "IWAN TEGUH RIANTO",
+      "srs_product": "SWEET CORN",
+      "kode_produk": "C-003",
+      "srs_total_qty": "200",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22707",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SMP",
+      "srs_no": "0558/II/2026/SRS",
+      "srs_date": "2026-02-20",
+      "srs_customer": "SARI MURNI ABADI, PT.",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "31602922",
+      "srs_total_qty": "150",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22706",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "IWKBM",
+      "srs_no": "0557/II/2026/SRS",
+      "srs_date": "2026-02-20",
+      "srs_customer": "IWAN TEGUH RIANTO",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "31407110",
+      "srs_total_qty": "500",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22705",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0556/II/2026/SRS",
+      "srs_date": "2026-02-20",
+      "srs_customer": "PT. TRIO MAHA JAYA",
+      "srs_product": "CHICKEN BBQ SEASONING",
+      "kode_produk": "31102707",
+      "srs_total_qty": "250",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22704",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "ANESA",
+      "srs_no": "0555/II/2026/SRS",
+      "srs_date": "2026-02-20",
+      "srs_customer": "ANEKA SARIVITA, PT.",
+      "srs_product": "BEEF POWDER",
+      "kode_produk": "31201247",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22703",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0554/II/2026/SRS",
+      "srs_date": "2026-02-20",
+      "srs_customer": "PT.Siumang Teman Sukses (SAIKHO INDO KREATIF, PT.)",
+      "srs_product": "BALADO 3 GB",
+      "kode_produk": "31407519",
+      "srs_total_qty": "1000",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22702",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0553/II/2026/SRS",
+      "srs_date": "2026-02-20",
+      "srs_customer": "PT.Siumang Teman Sukses (SAIKHO INDO KREATIF, PT.)",
+      "srs_product": "BALADO 3 GB",
+      "kode_produk": "31407519",
+      "srs_total_qty": "500",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "complete"
+    },
     {
       "srs_id": "22701",
       "is_replacement": "NO",
@@ -16,9 +424,9 @@
       "kode_produk": "HVP WCI",
       "srs_total_qty": "40",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22700",
@@ -33,9 +441,9 @@
       "kode_produk": "31502222",
       "srs_total_qty": "25",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22699",
@@ -50,9 +458,9 @@
       "kode_produk": "MT-1103472-0",
       "srs_total_qty": "25",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22698",
@@ -67,9 +475,26 @@
       "kode_produk": "31802451",
       "srs_total_qty": "180",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22709",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "2831/XI/2025/SRI",
+      "kode_customer": "CITAR",
+      "srs_no": "0560/II/2026/SRI",
+      "srs_date": "2026-02-20",
+      "srs_customer": "CITA RASA SUKSES,PT",
+      "srs_product": "HVP POWDER",
+      "kode_produk": "MT-627037",
+      "srs_total_qty": "2400",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Sucie",
+      "status_next": "complete"
     },
     {
       "srs_id": "22697",
@@ -86,7 +511,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22696",
@@ -103,7 +528,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Clement",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22695",
@@ -120,7 +545,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22694",
@@ -137,7 +562,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22693",
@@ -154,7 +579,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22692",
@@ -171,7 +596,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22691",
@@ -188,7 +613,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22690",
@@ -205,7 +630,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22689",
@@ -222,7 +647,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22688",
@@ -239,7 +664,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22687",
@@ -256,7 +681,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22686",
@@ -273,7 +698,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22685",
@@ -288,9 +713,9 @@
       "kode_produk": "31802435",
       "srs_total_qty": "220",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "partial"
+      "status_next": "complete"
     },
     {
       "srs_id": "22684",

@@ -200,7 +200,7 @@
     "product_code": "31102701"
   },
   {
-    "date": "2026-01-08",
+    "date": "2026-02-20",
     "customer": "PT. TRIO MAHA JAYA",
     "product_code": "31102707"
   },
@@ -315,8 +315,8 @@
     "product_code": "31201245"
   },
   {
-    "date": "2025-12-12",
-    "customer": "ANEKA SARIVITA, PT.",
+    "date": "2026-02-21",
+    "customer": "BERGIZI, UD.",
     "product_code": "31201247"
   },
   {
@@ -840,7 +840,7 @@
     "product_code": "31405940"
   },
   {
-    "date": "2026-01-26",
+    "date": "2026-02-20",
     "customer": "PT. DOLPHIN FOOD & BEVERAGES INDUSTRY",
     "product_code": "31405963"
   },
@@ -1220,8 +1220,8 @@
     "product_code": "31407081"
   },
   {
-    "date": "2026-01-29",
-    "customer": "NATALIA SUTRISNO",
+    "date": "2026-02-20",
+    "customer": "IWAN TEGUH RIANTO",
     "product_code": "31407110"
   },
   {
@@ -1240,7 +1240,7 @@
     "product_code": "31407185"
   },
   {
-    "date": "2026-01-28",
+    "date": "2026-02-20",
     "customer": "UFI MASUYA NUSANTARA, PT.",
     "product_code": "31407189"
   },
@@ -1330,7 +1330,7 @@
     "product_code": "31407504"
   },
   {
-    "date": "2026-01-26",
+    "date": "2026-02-20",
     "customer": "PT.Siumang Teman Sukses (SAIKHO INDO KREATIF, PT.)",
     "product_code": "31407519"
   },
@@ -1695,12 +1695,12 @@
     "product_code": "31503315"
   },
   {
-    "date": "2026-02-09",
+    "date": "2026-02-21",
     "customer": "INDOFOOD FORTUNA MAKMUR",
     "product_code": "31503336"
   },
   {
-    "date": "2026-01-26",
+    "date": "2026-02-21",
     "customer": "INDOFOOD FORTUNA MAKMUR",
     "product_code": "31503338"
   },
@@ -1975,7 +1975,7 @@
     "product_code": "31602766"
   },
   {
-    "date": "2026-02-12",
+    "date": "2026-02-20",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31602769"
   },
@@ -2040,7 +2040,7 @@
     "product_code": "31602919"
   },
   {
-    "date": "2026-01-29",
+    "date": "2026-02-20",
     "customer": "SARI MURNI ABADI, PT.",
     "product_code": "31602922"
   },
@@ -2060,7 +2060,7 @@
     "product_code": "31602989"
   },
   {
-    "date": "2026-01-28",
+    "date": "2026-02-21",
     "customer": "INDOFOOD FORTUNA MAKMUR",
     "product_code": "31602990"
   },
@@ -2690,6 +2690,11 @@
     "product_code": "38400002"
   },
   {
+    "date": "2026-02-20",
+    "customer": "AGUS SYARIFFUDIN",
+    "product_code": "38800012"
+  },
+  {
     "date": "2022-08-01",
     "customer": "AJINOMOTO INDONESIA, PT",
     "product_code": "44400066"
@@ -2870,8 +2875,8 @@
     "product_code": "C-002"
   },
   {
-    "date": "2026-02-12",
-    "customer": "SAMUDRA PATI",
+    "date": "2026-02-20",
+    "customer": "IWAN TEGUH RIANTO",
     "product_code": "C-003"
   },
   {
@@ -2935,8 +2940,8 @@
     "product_code": "D-108"
   },
   {
-    "date": "2026-01-27",
-    "customer": "GANDUM MAS KENCANA, PT",
+    "date": "2026-02-20",
+    "customer": "IWAN TEGUH RIANTO",
     "product_code": "D-109"
   },
   {
@@ -3025,8 +3030,8 @@
     "product_code": "IS-3624"
   },
   {
-    "date": "2026-02-10",
-    "customer": "SARICO FOOD",
+    "date": "2026-02-20",
+    "customer": "AGUS SYARIFFUDIN",
     "product_code": "KA-544"
   },
   {
@@ -3905,7 +3910,7 @@
     "product_code": "MT-626737"
   },
   {
-    "date": "2026-01-27",
+    "date": "2026-02-20",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-627037"
   },
@@ -4010,8 +4015,8 @@
     "product_code": "MT-697756"
   },
   {
-    "date": "2025-07-19",
-    "customer": "CV.TIGA ANUGERAH PANGAN",
+    "date": "2026-02-20",
+    "customer": "SOEHARTO D PRANOTO",
     "product_code": "MT-706412"
   },
   {
@@ -4195,8 +4200,8 @@
     "product_code": "MT-92159"
   },
   {
-    "date": "2026-02-05",
-    "customer": "SINAR MATAHARI SEJAHTERA,CV",
+    "date": "2026-02-20",
+    "customer": "SIDO AGUNG BISCUIT",
     "product_code": "MT-92959"
   },
   {
