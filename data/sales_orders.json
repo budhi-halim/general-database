@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 18926,
-  "recordsFiltered": 18926,
+  "recordsTotal": 18932,
+  "recordsFiltered": 18932,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -264966,6 +264966,90 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19011\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-03-02 08:38:14",
+      "so_id": "19012",
+      "so_no": "1/ISI/SPB/III/2026",
+      "so_date": "2026-03-02",
+      "so_customer": "INTI MEGAH INDONESIA, CV",
+      "so_po_no": "IMI20260030",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "10416772.8",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19012\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-03-02 09:15:59",
+      "so_id": "19013",
+      "so_no": "2/ISI/SPB/III/2026",
+      "so_date": "2026-03-02",
+      "so_customer": "ARIRA PANGINDO, CV.",
+      "so_po_no": "X097/NAP/1302/26",
+      "so_sales": "Marchelina",
+      "so_total_spb": "9324000",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19013\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-03-02 09:44:33",
+      "so_id": "19014",
+      "so_no": "3/ISI/SPB/III/2026",
+      "so_date": "2026-03-02",
+      "so_customer": "PT. Selera Hast Indonesia",
+      "so_po_no": "10002",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "2275500",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19014\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-03-02 10:10:34",
+      "so_id": "19015",
+      "so_no": "4/ISI/SPB/III/2026",
+      "so_date": "2026-03-02",
+      "so_customer": "ANEKA SARIVITA, PT.",
+      "so_po_no": "PC202600167",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "2477331.3",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19015\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-03-02 10:13:00",
+      "so_id": "19016",
+      "so_no": "5/ISI/SPB/III/2026",
+      "so_date": "2026-03-02",
+      "so_customer": "PT. MULYA MENARA SEJAHTERA",
+      "so_po_no": "PO.RD.P.2602003",
+      "so_sales": "Clement",
+      "so_total_spb": "6976350",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19016\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-03-02 10:18:10",
+      "so_id": "19017",
+      "so_no": "6/ISI/SPB/III/2026",
+      "so_date": "2026-03-02",
+      "so_customer": "SADANG JAYA MAKMUR",
+      "so_po_no": "28/II/FKO/SBY/2026",
+      "so_sales": "Clement",
+      "so_total_spb": "4057050",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19017\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }

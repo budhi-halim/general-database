@@ -1,8 +1,50 @@
 {
   "draw": 0,
-  "recordsTotal": 12056,
-  "recordsFiltered": 12056,
+  "recordsTotal": 12059,
+  "recordsFiltered": 12059,
   "data": [
+    {
+      "sr_id": "12066",
+      "sr_no": "300/III/2026/SRF",
+      "sr_date": "2026-03-02",
+      "sr_pic": "Bernard Abielius Sugiardja",
+      "sr_customer": "PT. Suara Matahari Trading",
+      "sr_srtype": "General Request",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "2 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-03-02 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12066)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "12065",
+      "sr_no": "299/III/2026/SRF",
+      "sr_date": "2026-03-02",
+      "sr_pic": "Marchelina",
+      "sr_customer": "PT. JAMAN SEHAT SEMPURNA ",
+      "sr_srtype": "General Request",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "5 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-03-02 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12065)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "12064",
+      "sr_no": "298/III/2026/SRF",
+      "sr_date": "2026-03-02",
+      "sr_pic": "Marchelina",
+      "sr_customer": "PT. Selera Prima Food",
+      "sr_srtype": "General Request",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "4 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-03-02 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12064)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
     {
       "sr_id": "12063",
       "sr_no": "297/II/2026/SRF",
@@ -166,7 +208,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "3 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-26 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12052)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -194,7 +236,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "5 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-26 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12050)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -320,7 +362,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "4 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Partial Ready",
       "sr_created_at": "2026-02-24 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12041)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -332,11 +374,11 @@
       "sr_pic": "Betha",
       "sr_customer": "PT. JAMAN SEHAT SEMPURNA ",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-23 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12040)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -346,11 +388,11 @@
       "sr_pic": "Betha",
       "sr_customer": "PT. JAMAN SEHAT SEMPURNA ",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "5 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-23 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12039)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -361,8 +403,8 @@
       "sr_customer": "TAMAN SAFARI INDONESIA",
       "sr_srtype": "Special Request",
       "sr_status": "PROCESS RND",
-      "tot_item": "0 Items",
-      "sr_statkirimbarang": "Blank",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-23 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12038)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -404,7 +446,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "5 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-23 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12035)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -460,7 +502,7 @@
       "sr_srtype": "Improvement Special",
       "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-23 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12031)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -474,7 +516,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "3 Items",
-      "sr_statkirimbarang": "Ready",
+      "sr_statkirimbarang": "Not Ready",
       "sr_created_at": "2026-02-23 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12030)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
