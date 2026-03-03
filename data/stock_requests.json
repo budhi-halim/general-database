@@ -1,8 +1,314 @@
 {
   "draw": 0,
-  "recordsTotal": 22694,
-  "recordsFiltered": 22694,
+  "recordsTotal": 22712,
+  "recordsFiltered": 22712,
   "data": [
+    {
+      "srs_id": "22827",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0678/III/2026/SRS",
+      "srs_date": "2026-03-03",
+      "srs_customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+      "srs_product": "AYAM BAWANG SEASONING",
+      "kode_produk": "MT-1107031-0",
+      "srs_total_qty": "375",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22826",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0677/III/2026/SRS",
+      "srs_date": "2026-03-03",
+      "srs_customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "MT-1105604-4",
+      "srs_total_qty": "375",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22825",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0676/III/2026/SRS",
+      "srs_date": "2026-03-03",
+      "srs_customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+      "srs_product": "BALADO SEASONING",
+      "kode_produk": "MT-169214 N",
+      "srs_total_qty": "500",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22824",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0675/III/2026/SRS",
+      "srs_date": "2026-03-03",
+      "srs_customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "SP-52514 B",
+      "srs_total_qty": "375",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22823",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0674/III/2026/SRS",
+      "srs_date": "2026-03-02",
+      "srs_customer": "INTI SARI INTERNATIONAL, PT",
+      "srs_product": "ES TELER SEASONING",
+      "kode_produk": "31900640",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22822",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "INDSS",
+      "srs_no": "0673/III/2026/SRS",
+      "srs_date": "2026-03-02",
+      "srs_customer": "INDOFOOD CBP SUKSES MAKMUR TBK, PT.",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "MT-468316",
+      "srs_total_qty": "7500",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Angel (Sales)",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22821",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "KOHAG",
+      "srs_no": "0672/III/2026/SRS",
+      "srs_date": "2026-03-02",
+      "srs_customer": "AROMA - COMAL, TK",
+      "srs_product": "BALADO SEASONING",
+      "kode_produk": "MT-169214 N",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Dwi Rachtomo",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22820",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0671/III/2026/SRS",
+      "srs_date": "2026-03-02",
+      "srs_customer": "Golden Powder Drink ",
+      "srs_product": "CABE IJO SEASONING",
+      "kode_produk": "MT-1100694-1",
+      "srs_total_qty": "75",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22819",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0670/III/2026/SRS",
+      "srs_date": "2026-03-02",
+      "srs_customer": "Golden Powder Drink ",
+      "srs_product": "SAMBAL IJO SEASONING",
+      "kode_produk": "MT-1100084-2",
+      "srs_total_qty": "75",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22818",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0669/III/2026/SRS",
+      "srs_date": "2026-03-02",
+      "srs_customer": "Golden Powder Drink ",
+      "srs_product": "GARLIC POWDER",
+      "kode_produk": "GMS-21031",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22817",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0668/III/2026/SRS",
+      "srs_date": "2026-03-02",
+      "srs_customer": "Golden Powder Drink ",
+      "srs_product": "BALADO SEASONING",
+      "kode_produk": "MT-283914",
+      "srs_total_qty": "75",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22816",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0667/III/2026/SRS",
+      "srs_date": "2026-03-02",
+      "srs_customer": "Golden Powder Drink ",
+      "srs_product": "BAWANG PEDAS MANIS SEASONING",
+      "kode_produk": "MT-365718",
+      "srs_total_qty": "75",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22815",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "NISSM",
+      "srs_no": "0666/III/2026/SRS",
+      "srs_date": "2026-03-02",
+      "srs_customer": "NISSIN FOODS INDONESIA.PT",
+      "srs_product": "ROASTED GARLIC POWDER",
+      "kode_produk": "GMS-2059",
+      "srs_total_qty": "900",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22814",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "NISSM",
+      "srs_no": "0665/III/2026/SRS",
+      "srs_date": "2026-03-02",
+      "srs_customer": "NISSIN FOODS INDONESIA.PT",
+      "srs_product": "GARLIC POWDER",
+      "kode_produk": "MS-2001 A",
+      "srs_total_qty": "300",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22813",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "1916/VII/2024/SRI",
+      "kode_customer": "NISSM",
+      "srs_no": "0664/III/2026/SRI",
+      "srs_date": "2026-03-02",
+      "srs_customer": "NISSIN FOODS INDONESIA.PT",
+      "srs_product": "GINGER POWDER",
+      "kode_produk": "GMS-1010 E",
+      "srs_total_qty": "25",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22812",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0663/III/2026/SRS",
+      "srs_date": "2026-03-02",
+      "srs_customer": "FRANSEN ARDIANTO",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "06-0091 E",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22811",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0662/III/2026/SRS",
+      "srs_date": "2026-03-02",
+      "srs_customer": "FRANSEN ARDIANTO",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "MT-779914",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22810",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0661/III/2026/SRS",
+      "srs_date": "2026-03-02",
+      "srs_customer": "FRANSEN ARDIANTO",
+      "srs_product": "BALADO SEASONING",
+      "kode_produk": "MT-169214 N",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
     {
       "srs_id": "22809",
       "is_replacement": "NO",
@@ -16,9 +322,9 @@
       "kode_produk": "06-0091",
       "srs_total_qty": "125",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
-      "name": "Lily",
-      "status_next": "blank"
+      "srs_status": "complete",
+      "name": "Clement",
+      "status_next": "complete"
     },
     {
       "srs_id": "22808",
@@ -35,7 +341,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22807",
@@ -69,7 +375,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22805",
@@ -86,7 +392,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22804",
@@ -103,7 +409,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22803",
@@ -120,7 +426,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22802",
@@ -137,7 +443,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22801",
@@ -154,7 +460,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22800",
@@ -171,7 +477,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22799",
@@ -188,7 +494,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22798",
@@ -205,7 +511,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22797",
@@ -222,7 +528,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22796",
