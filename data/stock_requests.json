@@ -1,8 +1,161 @@
 {
   "draw": 0,
-  "recordsTotal": 22728,
-  "recordsFiltered": 22728,
+  "recordsTotal": 22737,
+  "recordsFiltered": 22737,
   "data": [
+    {
+      "srs_id": "22852",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0703/III/2026/SRS",
+      "srs_date": "2026-03-05",
+      "srs_customer": "RBTEKNO MITRA INDONESIA",
+      "srs_product": "AYAM BAKAR SEASONING",
+      "kode_produk": "31103051",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22851",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "KADUM",
+      "srs_no": "0702/III/2026/SRS",
+      "srs_date": "2026-03-05",
+      "srs_customer": "KADU MANIS UTAMA",
+      "srs_product": "SWEET CORN SEASONING",
+      "kode_produk": "31602173",
+      "srs_total_qty": "1250",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22850",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "ARIDA",
+      "srs_no": "0701/III/2026/SRS",
+      "srs_date": "2026-03-05",
+      "srs_customer": "ARIRA PANGINDO, CV.",
+      "srs_product": "SAMBAL BALADO",
+      "kode_produk": "31406700",
+      "srs_total_qty": "550",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22849",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "0976/III/2024/SRS",
+      "kode_customer": "CERES",
+      "srs_no": "0700/III/2026/SRS",
+      "srs_date": "2026-03-04",
+      "srs_customer": "MEIJI FOOD INDONESIA, PT",
+      "srs_product": "AMINO ACID POWDER",
+      "kode_produk": "31700465",
+      "srs_total_qty": "2000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22848",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "BALAK",
+      "srs_no": "0699/III/2026/SRS",
+      "srs_date": "2026-03-04",
+      "srs_customer": "BRATA ADI LAKSANA, PT",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "06-0091",
+      "srs_total_qty": "100",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22847",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0698/III/2026/SRS",
+      "srs_date": "2026-03-04",
+      "srs_customer": "CATUR WIDI CAHYONO",
+      "srs_product": "CHILLI PEDAS GURIH POWDER",
+      "kode_produk": "31406641",
+      "srs_total_qty": "20",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22846",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0697/III/2026/SRS",
+      "srs_date": "2026-03-04",
+      "srs_customer": "CATUR WIDI CAHYONO",
+      "srs_product": "CHILLI POWDER",
+      "kode_produk": "31406197",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22845",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "PERIN",
+      "srs_no": "0696/III/2026/SRS",
+      "srs_date": "2026-03-04",
+      "srs_customer": "PERINA (0281-694298)",
+      "srs_product": "SWEET CORN",
+      "kode_produk": "C-003",
+      "srs_total_qty": "125",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22844",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "CITAR",
+      "srs_no": "0695/III/2026/SD",
+      "srs_date": "2026-03-04",
+      "srs_customer": "CITA RASA SUKSES,PT",
+      "srs_product": "DRY LEEK",
+      "kode_produk": "01",
+      "srs_total_qty": "8",
+      "srs_remarks": "Sudden",
+      "srs_status": "NEW",
+      "name": "Sucie",
+      "status_next": "blank"
+    },
     {
       "srs_id": "22843",
       "is_replacement": "NO",
@@ -16,9 +169,9 @@
       "kode_produk": "31502801",
       "srs_total_qty": "50",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22842",
@@ -35,7 +188,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Clement",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22841",
@@ -52,7 +205,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Clement",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22839",
@@ -137,7 +290,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22834",
@@ -154,7 +307,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22833",
@@ -171,7 +324,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22832",
@@ -205,7 +358,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22830",
@@ -222,7 +375,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22829",
