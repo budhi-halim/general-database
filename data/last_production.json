@@ -70,7 +70,7 @@
     "product_code": "04-0122"
   },
   {
-    "date": "2026-02-16",
+    "date": "2026-03-12",
     "customer": "BINTANG TOP INDUSTRY, CV",
     "product_code": "04-0136"
   },
@@ -80,7 +80,7 @@
     "product_code": "04-0137"
   },
   {
-    "date": "2026-02-16",
+    "date": "2026-03-12",
     "customer": "BINTANG TOP INDUSTRY, CV",
     "product_code": "04-0137 G"
   },
@@ -480,7 +480,7 @@
     "product_code": "31301041"
   },
   {
-    "date": "2026-03-09",
+    "date": "2026-03-11",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "31301043"
   },
@@ -1250,7 +1250,7 @@
     "product_code": "31407189"
   },
   {
-    "date": "2026-01-26",
+    "date": "2026-03-11",
     "customer": "CV.TIGA ANUGERAH PANGAN",
     "product_code": "31407218"
   },
@@ -1405,7 +1405,7 @@
     "product_code": "31407816"
   },
   {
-    "date": "2026-01-26",
+    "date": "2026-03-11",
     "customer": "CV.TIGA ANUGERAH PANGAN",
     "product_code": "31407877"
   },
@@ -1700,7 +1700,7 @@
     "product_code": "31503315"
   },
   {
-    "date": "2026-03-07",
+    "date": "2026-03-12",
     "customer": "INDOFOOD FORTUNA MAKMUR",
     "product_code": "31503336"
   },
@@ -3030,8 +3030,8 @@
     "product_code": "GMS-3028"
   },
   {
-    "date": "2026-03-06",
-    "customer": "PT. Pawon Sentra Tama",
+    "date": "2026-03-11",
+    "customer": "CV Wahana Pangan Lestari",
     "product_code": "HVP WCI"
   },
   {
@@ -3140,7 +3140,7 @@
     "product_code": "MT-101759"
   },
   {
-    "date": "2026-03-10",
+    "date": "2026-03-12",
     "customer": "SINAR KENCANA AGUNG, PT",
     "product_code": "MT-105737"
   },
@@ -3285,7 +3285,7 @@
     "product_code": "MT-1105891-0"
   },
   {
-    "date": "2026-02-16",
+    "date": "2026-03-12",
     "customer": "BINTANG TOP INDUSTRY, CV",
     "product_code": "MT-1106454-0"
   },
@@ -3350,12 +3350,12 @@
     "product_code": "MT-1200805-0"
   },
   {
-    "date": "2026-03-10",
+    "date": "2026-03-12",
     "customer": "SINAR KENCANA AGUNG, PT",
     "product_code": "MT-1201316-0"
   },
   {
-    "date": "2026-03-10",
+    "date": "2026-03-12",
     "customer": "SINAR KENCANA AGUNG, PT",
     "product_code": "MT-1201326-2"
   },
@@ -3415,7 +3415,7 @@
     "product_code": "MT-1206412-0"
   },
   {
-    "date": "2026-02-16",
+    "date": "2026-03-12",
     "customer": "BINTANG TOP INDUSTRY, CV",
     "product_code": "MT-1206674-0"
   },
@@ -3615,8 +3615,8 @@
     "product_code": "MT-212114"
   },
   {
-    "date": "2026-02-13",
-    "customer": "CV.TIGA ANUGERAH PANGAN",
+    "date": "2026-03-11",
+    "customer": "CAHAYA ANUGERAH SENTOSA",
     "product_code": "MT-221218 A"
   },
   {
@@ -3940,7 +3940,7 @@
     "product_code": "MT-631618 C"
   },
   {
-    "date": "2026-03-10",
+    "date": "2026-03-12",
     "customer": "SINAR KENCANA AGUNG, PT",
     "product_code": "MT-632434"
   },
@@ -4290,8 +4290,8 @@
     "product_code": "TPC"
   },
   {
-    "date": "2026-02-09",
-    "customer": "PT. Surya Pratista Hutama",
+    "date": "2026-03-11",
+    "customer": "CV Wahana Pangan Lestari",
     "product_code": "W-800"
   },
   {
