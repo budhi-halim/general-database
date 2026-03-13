@@ -1,8 +1,297 @@
 {
   "draw": 0,
-  "recordsTotal": 22845,
-  "recordsFiltered": 22845,
+  "recordsTotal": 22862,
+  "recordsFiltered": 22862,
   "data": [
+    {
+      "srs_id": "22977",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "ABCP",
+      "srs_no": "0828/III/2026/SRS",
+      "srs_date": "2026-03-13",
+      "srs_customer": "ABC PRESIDENT INDONESIA, PT",
+      "srs_product": "SOY SAUCE POWDER",
+      "kode_produk": "MT-625337",
+      "srs_total_qty": "180",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22976",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "2577/X/2023/SRF",
+      "kode_customer": "PEPAM",
+      "srs_no": "0827/III/2026/SRF",
+      "srs_date": "2026-03-13",
+      "srs_customer": "ULTRA PRIMA ABADI,PT",
+      "srs_product": "POPCORN FLAVOUR",
+      "kode_produk": "32000351",
+      "srs_total_qty": "20",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22975",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "0707/III/2026/SRS",
+      "kode_customer": "INDFP",
+      "srs_no": "0826/III/2026/SRS",
+      "srs_date": "2026-03-13",
+      "srs_customer": "INDOFOOD FORTUNA MAKMUR",
+      "srs_product": "ORIGINAL",
+      "kode_produk": "31801749",
+      "srs_total_qty": "5000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Angel (Sales)",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22974",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0825/III/2026/SD",
+      "srs_date": "2026-03-13",
+      "srs_customer": "UNITED CHEMICAL INTERANEKA, PT",
+      "srs_product": "SEAWEED FLAKE",
+      "kode_produk": "31301043",
+      "srs_total_qty": "155",
+      "srs_remarks": "Sudden",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22973",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0824/III/2026/SRS",
+      "srs_date": "2026-03-12",
+      "srs_customer": "BALI BOGA SEJATI, PT",
+      "srs_product": "YEAST EXTRACT POWDER",
+      "kode_produk": "MT-105737",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Clement",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22972",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "HEIHE",
+      "srs_no": "0823/III/2026/SRS",
+      "srs_date": "2026-03-12",
+      "srs_customer": "HEIHEI SUKSES CEMERLANG, PT",
+      "srs_product": "GARAM",
+      "kode_produk": "31802201",
+      "srs_total_qty": "100",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22971",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0822/III/2026/SRS",
+      "srs_date": "2026-03-12",
+      "srs_customer": "CATUR WIDI CAHYONO",
+      "srs_product": "CHILLI POWDER",
+      "kode_produk": "31406197",
+      "srs_total_qty": "15",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22970",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "MAXI",
+      "srs_no": "0821/III/2026/SD",
+      "srs_date": "2026-03-12",
+      "srs_customer": "PT.MAXINDO KARYA ANUGERAH, TBK",
+      "srs_product": "SEAWEED FLAKE",
+      "kode_produk": "31301043",
+      "srs_total_qty": "25",
+      "srs_remarks": "Sudden",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22969",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "ARIDA",
+      "srs_no": "0820/III/2026/SRS",
+      "srs_date": "2026-03-12",
+      "srs_customer": "ARIRA PANGINDO, CV.",
+      "srs_product": "SAMBAL BALADO",
+      "kode_produk": "31406700",
+      "srs_total_qty": "125",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22968",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0819/III/2026/SRS",
+      "srs_date": "2026-03-12",
+      "srs_customer": "BINTANG TOP INDUSTRY, CV",
+      "srs_product": "SAMBAL BALADO",
+      "kode_produk": "MT-1106454-0",
+      "srs_total_qty": "450",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22967",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0818/III/2026/SRS",
+      "srs_date": "2026-03-12",
+      "srs_customer": "BINTANG TOP INDUSTRY, CV",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "04-0137 G",
+      "srs_total_qty": "300",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22966",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0817/III/2026/SRS",
+      "srs_date": "2026-03-12",
+      "srs_customer": "BINTANG TOP INDUSTRY, CV",
+      "srs_product": "SAMBAL BALADO",
+      "kode_produk": "MT-1206674-0",
+      "srs_total_qty": "350",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22965",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0816/III/2026/SRS",
+      "srs_date": "2026-03-12",
+      "srs_customer": "BINTANG TOP INDUSTRY, CV",
+      "srs_product": "BALADO SEASONING",
+      "kode_produk": "04-0136",
+      "srs_total_qty": "350",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22964",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0815/III/2026/SRS",
+      "srs_date": "2026-03-12",
+      "srs_customer": "BINTANG TOP INDUSTRY, CV",
+      "srs_product": "SAMBAL BALADO",
+      "kode_produk": "MT-1106454-0",
+      "srs_total_qty": "450",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22963",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0814/III/2026/SRS",
+      "srs_date": "2026-03-12",
+      "srs_customer": "BINTANG TOP INDUSTRY, CV",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "04-0137 G",
+      "srs_total_qty": "300",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22962",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0813/III/2026/SRS",
+      "srs_date": "2026-03-12",
+      "srs_customer": "BINTANG TOP INDUSTRY, CV",
+      "srs_product": "SAMBAL BALADO",
+      "kode_produk": "MT-1206674-0",
+      "srs_total_qty": "350",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "22961",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0812/III/2026/SRS",
+      "srs_date": "2026-03-12",
+      "srs_customer": "BINTANG TOP INDUSTRY, CV",
+      "srs_product": "BALADO SEASONING",
+      "kode_produk": "04-0136",
+      "srs_total_qty": "350",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
     {
       "srs_id": "22960",
       "is_replacement": "NO",
@@ -16,9 +305,9 @@
       "kode_produk": "MT-1106454-0",
       "srs_total_qty": "450",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22959",
@@ -33,9 +322,9 @@
       "kode_produk": "04-0137 G",
       "srs_total_qty": "300",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22958",
@@ -50,9 +339,9 @@
       "kode_produk": "MT-1206674-0",
       "srs_total_qty": "350",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22957",
@@ -67,9 +356,9 @@
       "kode_produk": "04-0136",
       "srs_total_qty": "350",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22956",
@@ -84,9 +373,9 @@
       "kode_produk": "MT-1106454-0",
       "srs_total_qty": "700",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22955",
@@ -101,9 +390,9 @@
       "kode_produk": "04-0137 G",
       "srs_total_qty": "800",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22954",
@@ -118,9 +407,9 @@
       "kode_produk": "MT-1206674-0",
       "srs_total_qty": "600",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22953",
@@ -135,9 +424,9 @@
       "kode_produk": "04-0136",
       "srs_total_qty": "850",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22952",
@@ -152,7 +441,7 @@
       "kode_produk": "31503336",
       "srs_total_qty": "15000",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Angel (Sales)",
       "status_next": "blank"
     },
@@ -171,7 +460,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22950",
@@ -188,7 +477,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22949",
@@ -205,7 +494,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22948",
@@ -222,7 +511,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22947",
@@ -237,7 +526,7 @@
       "kode_produk": "31503336",
       "srs_total_qty": "45000",
       "srs_remarks": "Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Angel (Sales)",
       "status_next": "blank"
     },
@@ -254,7 +543,7 @@
       "kode_produk": "31503336",
       "srs_total_qty": "15000",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Angel (Sales)",
       "status_next": "blank"
     },
@@ -732,7 +1021,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Sucie",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "22917",
@@ -1155,7 +1444,7 @@
       "kode_produk": "31301043",
       "srs_total_qty": "10",
       "srs_remarks": "Advance",
-      "srs_status": "complete",
+      "srs_status": "Void",
       "name": "Lily",
       "status_next": "complete"
     },
@@ -1221,9 +1510,9 @@
       "srs_customer": "SEGAR BUDI SARI, PT.",
       "srs_product": "UDANG POWDER",
       "kode_produk": "31301655",
-      "srs_total_qty": "40",
+      "srs_total_qty": "50",
       "srs_remarks": "Advance",
-      "srs_status": "NEW",
+      "srs_status": "complete",
       "name": "Budhiarto Halim",
       "status_next": "blank"
     },
@@ -2736,7 +3025,7 @@
       "kode_produk": "31301043",
       "srs_total_qty": "10",
       "srs_remarks": "Advance",
-      "srs_status": "complete",
+      "srs_status": "Void",
       "name": "Lily",
       "status_next": "complete"
     },
