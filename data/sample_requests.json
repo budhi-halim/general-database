@@ -1,8 +1,22 @@
 {
   "draw": 0,
-  "recordsTotal": 12121,
-  "recordsFiltered": 12121,
+  "recordsTotal": 12122,
+  "recordsFiltered": 12122,
   "data": [
+    {
+      "sr_id": "12129",
+      "sr_no": "363/III/2026/SRF",
+      "sr_date": "2026-03-25",
+      "sr_pic": "viewsrftir",
+      "sr_customer": "Marketing",
+      "sr_srtype": "General Request",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "5 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-03-25 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12129)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
     {
       "sr_id": "12128",
       "sr_no": "362/III/2026/SRF",
@@ -10,7 +24,7 @@
       "sr_pic": "Bernard Abielius Sugiardja",
       "sr_customer": "SURABAYA TOP",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING APPROVAL PM",
+      "sr_status": "APPROVED BY PM",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Blank",
       "sr_created_at": "2026-03-16 00:00:00",

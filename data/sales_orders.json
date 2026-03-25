@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 19090,
-  "recordsFiltered": 19090,
+  "recordsTotal": 19091,
+  "recordsFiltered": 19091,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -267262,6 +267262,20 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19175\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-03-25 10:23:27",
+      "so_id": "19176",
+      "so_no": "164/ISI/SPB/III/2026",
+      "so_date": "2026-03-25",
+      "so_customer": "SARI MURNI ABADI, PT.",
+      "so_po_no": "5600024731",
+      "so_sales": "Marchelina",
+      "so_total_spb": "8498937",
+      "so_status": "pending",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19176\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }

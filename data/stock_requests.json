@@ -1,8 +1,42 @@
 {
   "draw": 0,
-  "recordsTotal": 22880,
-  "recordsFiltered": 22880,
+  "recordsTotal": 22882,
+  "recordsFiltered": 22882,
   "data": [
+    {
+      "srs_id": "22997",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SMP",
+      "srs_no": "0848/III/2026/SRS",
+      "srs_date": "2026-03-25",
+      "srs_customer": "SARI MURNI ABADI, PT.",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "31602922",
+      "srs_total_qty": "900",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "22996",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "0847/III/2026/SRJ",
+      "srs_date": "2026-03-25",
+      "srs_customer": "KOKI SEHAT SEJAHTERA ",
+      "srs_product": "JELLY POWDER",
+      "kode_produk": "2422",
+      "srs_total_qty": "675",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Dwi Rachtomo",
+      "status_next": "blank"
+    },
     {
       "srs_id": "22995",
       "is_replacement": "NO",
@@ -33,7 +67,7 @@
       "kode_produk": "34",
       "srs_total_qty": "225",
       "srs_remarks": "Advance",
-      "srs_status": "complete",
+      "srs_status": "Void",
       "name": "johanes",
       "status_next": "complete"
     },
