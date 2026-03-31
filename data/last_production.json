@@ -25,7 +25,7 @@
     "product_code": "*31602140"
   },
   {
-    "date": "2026-03-04",
+    "date": "2026-03-31",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "01"
   },
@@ -1060,7 +1060,7 @@
     "product_code": "31406641"
   },
   {
-    "date": "2026-03-10",
+    "date": "2026-03-30",
     "customer": "PT. TRIO RASA MAS",
     "product_code": "31406642"
   },
@@ -1250,7 +1250,7 @@
     "product_code": "31407189"
   },
   {
-    "date": "2026-03-11",
+    "date": "2026-03-31",
     "customer": "CV.TIGA ANUGERAH PANGAN",
     "product_code": "31407218"
   },
@@ -1370,7 +1370,7 @@
     "product_code": "31407621"
   },
   {
-    "date": "2026-02-04",
+    "date": "2026-03-30",
     "customer": "CATUR WIDI CAHYONO",
     "product_code": "31407627"
   },
@@ -1405,7 +1405,7 @@
     "product_code": "31407816"
   },
   {
-    "date": "2026-03-11",
+    "date": "2026-03-31",
     "customer": "CV.TIGA ANUGERAH PANGAN",
     "product_code": "31407877"
   },
@@ -2110,7 +2110,7 @@
     "product_code": "31700490"
   },
   {
-    "date": "2026-03-10",
+    "date": "2026-03-30",
     "customer": "INDOFOOD CBP SUKSES MAKMUR TBK, PT.",
     "product_code": "31700492"
   },
@@ -2165,8 +2165,8 @@
     "product_code": "31801907"
   },
   {
-    "date": "2026-02-18",
-    "customer": "Suryadi",
+    "date": "2026-03-31",
+    "customer": "TAMADDUN INTI PERKASA",
     "product_code": "31801931"
   },
   {
@@ -2350,8 +2350,8 @@
     "product_code": "31802488"
   },
   {
-    "date": "2026-02-18",
-    "customer": "WILLY HARSONO",
+    "date": "2026-03-30",
+    "customer": "CATUR WIDI CAHYONO",
     "product_code": "31802493"
   },
   {
@@ -2380,7 +2380,7 @@
     "product_code": "31802538"
   },
   {
-    "date": "2025-07-03",
+    "date": "2026-03-31",
     "customer": "CAHAYA ANUGERAH SENTOSA",
     "product_code": "31802551"
   },
@@ -2540,12 +2540,12 @@
     "product_code": "33200020"
   },
   {
-    "date": "2026-03-17",
+    "date": "2026-03-30",
     "customer": "FORISA NUSAPERSADA, PT.",
     "product_code": "34"
   },
   {
-    "date": "2026-03-27",
+    "date": "2026-03-30",
     "customer": "FORISA NUSAPERSADA, PT.",
     "product_code": "34 ( H-05 )"
   },
@@ -2740,8 +2740,8 @@
     "product_code": "46400022"
   },
   {
-    "date": "2025-06-04",
-    "customer": "SIANTAR TOP TBK, PT",
+    "date": "2026-03-30",
+    "customer": "FORISA NUSAPERSADA, PT.",
     "product_code": "511"
   },
   {
@@ -2820,8 +2820,8 @@
     "product_code": "62900001"
   },
   {
-    "date": "2026-03-17",
-    "customer": "HEINZ ABC INDONESIA, PT",
+    "date": "2026-03-31",
+    "customer": "TAMADDUN INTI PERKASA",
     "product_code": "881"
   },
   {
@@ -2985,7 +2985,7 @@
     "product_code": "FW-276"
   },
   {
-    "date": "2026-03-02",
+    "date": "2026-03-30",
     "customer": "NISSIN FOODS INDONESIA.PT",
     "product_code": "GMS-1010 E"
   },
@@ -2995,7 +2995,7 @@
     "product_code": "GMS-166"
   },
   {
-    "date": "2026-03-02",
+    "date": "2026-03-30",
     "customer": "NISSIN FOODS INDONESIA.PT",
     "product_code": "GMS-2059"
   },
@@ -3045,8 +3045,8 @@
     "product_code": "IS-3624"
   },
   {
-    "date": "2026-02-20",
-    "customer": "AGUS SYARIFFUDIN",
+    "date": "2026-03-30",
+    "customer": "YAHYA HARIADI YUDANA",
     "product_code": "KA-544"
   },
   {
@@ -3180,7 +3180,7 @@
     "product_code": "MT-1100334-1"
   },
   {
-    "date": "2026-02-10",
+    "date": "2026-03-31",
     "customer": "CV. Tiga Beruang Makmur",
     "product_code": "MT-1100524-1"
   },
@@ -3610,7 +3610,7 @@
     "product_code": "MT-193256"
   },
   {
-    "date": "2026-03-10",
+    "date": "2026-03-30",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-21118 A"
   },
@@ -3710,7 +3710,7 @@
     "product_code": "MT-365718"
   },
   {
-    "date": "2026-02-23",
+    "date": "2026-03-30",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-373438"
   },
@@ -3730,8 +3730,8 @@
     "product_code": "MT-39736 B"
   },
   {
-    "date": "2026-02-13",
-    "customer": "CITA RASA SUKSES,PT",
+    "date": "2026-03-31",
+    "customer": "TAMADDUN INTI PERKASA",
     "product_code": "MT-3987"
   },
   {
@@ -3785,7 +3785,7 @@
     "product_code": "MT-514514"
   },
   {
-    "date": "2026-01-30",
+    "date": "2026-03-30",
     "customer": "BINTANG PANTURA",
     "product_code": "MT-515515"
   },
@@ -3900,8 +3900,8 @@
     "product_code": "MT-605812 A"
   },
   {
-    "date": "2026-03-16",
-    "customer": "SUKA SARI MITRA MANDIRI, PT",
+    "date": "2026-03-30",
+    "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-608558"
   },
   {
