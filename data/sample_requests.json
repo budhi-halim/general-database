@@ -1,8 +1,22 @@
 {
   "draw": 0,
-  "recordsTotal": 12163,
-  "recordsFiltered": 12163,
+  "recordsTotal": 12164,
+  "recordsFiltered": 12164,
   "data": [
+    {
+      "sr_id": "12171",
+      "sr_no": "405/IV/2026/SRF",
+      "sr_date": "2026-04-06",
+      "sr_pic": "Clement",
+      "sr_customer": "BINTANG MUJUR ABADI/AMIR BP",
+      "sr_srtype": "General Request",
+      "sr_status": "DRAFT",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-04-06 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12171)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
     {
       "sr_id": "12170",
       "sr_no": "404/IV/2026/SRF",
@@ -263,8 +277,8 @@
       "sr_customer": "INDOFOOD FORTUNA MAKMUR",
       "sr_srtype": "Special Request",
       "sr_status": "PROCESS RND",
-      "tot_item": "0 Items",
-      "sr_statkirimbarang": "Blank",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-03-31 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12152)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -292,7 +306,7 @@
       "sr_srtype": "Improvement",
       "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-03-30 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12150)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -725,8 +739,8 @@
       "sr_customer": "LIWAYWAY, PT.",
       "sr_srtype": "Special Request",
       "sr_status": "PROCESS RND",
-      "tot_item": "0 Items",
-      "sr_statkirimbarang": "Blank",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-03-10 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12119)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -739,8 +753,8 @@
       "sr_customer": "LIWAYWAY, PT.",
       "sr_srtype": "Special Request",
       "sr_status": "PROCESS RND",
-      "tot_item": "0 Items",
-      "sr_statkirimbarang": "Blank",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-03-10 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12118)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -866,7 +880,7 @@
       "sr_srtype": "Improvement",
       "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-03-09 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12109)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -1523,8 +1537,8 @@
       "sr_customer": "LIWAYWAY, PT.",
       "sr_srtype": "Special Request",
       "sr_status": "PROCESS RND",
-      "tot_item": "0 Items",
-      "sr_statkirimbarang": "Blank",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-27 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12062)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -1551,8 +1565,8 @@
       "sr_customer": "LIWAYWAY, PT.",
       "sr_srtype": "Special Request",
       "sr_status": "PROCESS RND",
-      "tot_item": "0 Items",
-      "sr_statkirimbarang": "Blank",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-27 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12060)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -1565,8 +1579,8 @@
       "sr_customer": "LIWAYWAY, PT.",
       "sr_srtype": "Special Request",
       "sr_status": "PROCESS RND",
-      "tot_item": "0 Items",
-      "sr_statkirimbarang": "Blank",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-27 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12059)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -1579,8 +1593,8 @@
       "sr_customer": "LIWAYWAY, PT.",
       "sr_srtype": "Special Request",
       "sr_status": "PROCESS RND",
-      "tot_item": "0 Items",
-      "sr_statkirimbarang": "Blank",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-27 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12058)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
