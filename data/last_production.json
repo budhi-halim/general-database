@@ -1295,7 +1295,7 @@
     "product_code": "31407333"
   },
   {
-    "date": "2026-02-25",
+    "date": "2026-04-06",
     "customer": "PT. TRIO RASA MAS",
     "product_code": "31407357"
   },
@@ -1530,7 +1530,7 @@
     "product_code": "31502549"
   },
   {
-    "date": "2026-02-26",
+    "date": "2026-04-06",
     "customer": "PANEN KEBAIKAN BERSAMA",
     "product_code": "31502559"
   },
@@ -2085,6 +2085,16 @@
     "product_code": "31603045"
   },
   {
+    "date": "2026-04-06",
+    "customer": "SINAR KENCANA AGUNG, PT",
+    "product_code": "31603069"
+  },
+  {
+    "date": "2026-04-06",
+    "customer": "SINAR KENCANA AGUNG, PT",
+    "product_code": "31603070"
+  },
+  {
     "date": "2025-09-23",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "31700402"
@@ -2165,8 +2175,8 @@
     "product_code": "31801907"
   },
   {
-    "date": "2026-03-31",
-    "customer": "TAMADDUN INTI PERKASA",
+    "date": "2026-04-07",
+    "customer": "ZAENUL MUSTHOFA",
     "product_code": "31801931"
   },
   {
@@ -2325,8 +2335,8 @@
     "product_code": "31802451"
   },
   {
-    "date": "2025-12-13",
-    "customer": "PT. LAUTAN NATURAL KRIMERINDO",
+    "date": "2026-04-07",
+    "customer": "NANA ABADI, CV ",
     "product_code": "31802453"
   },
   {
@@ -2505,6 +2515,11 @@
     "product_code": "31900658"
   },
   {
+    "date": "2026-04-06",
+    "customer": "PT.DUTA PANGAN NUSANTARA ",
+    "product_code": "31900692"
+  },
+  {
     "date": "2026-03-13",
     "customer": "ULTRA PRIMA ABADI,PT",
     "product_code": "32000351"
@@ -2630,7 +2645,7 @@
     "product_code": "34400374"
   },
   {
-    "date": "2026-02-06",
+    "date": "2026-04-06",
     "customer": "SEKAR BUMI TBK, PT",
     "product_code": "34400425"
   },
@@ -2715,7 +2730,7 @@
     "product_code": "44400066"
   },
   {
-    "date": "2025-11-24",
+    "date": "2026-04-06",
     "customer": "ANAGATA RAIA INDONESIA. PT",
     "product_code": "44400306"
   },
@@ -2805,12 +2820,12 @@
     "product_code": "62400025"
   },
   {
-    "date": "2026-02-10",
+    "date": "2026-04-06",
     "customer": "CAHAYA TIRTA AROMMA, PT",
     "product_code": "62700006"
   },
   {
-    "date": "2026-02-10",
+    "date": "2026-04-06",
     "customer": "CAHAYA TIRTA AROMMA, PT",
     "product_code": "62700011"
   },
@@ -3635,7 +3650,7 @@
     "product_code": "MT-249516"
   },
   {
-    "date": "2026-01-28",
+    "date": "2026-04-07",
     "customer": "HASAN MUHAMAD BARAJA, BP ",
     "product_code": "MT-279654"
   },
