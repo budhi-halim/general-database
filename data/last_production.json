@@ -320,7 +320,7 @@
     "product_code": "31201245"
   },
   {
-    "date": "2026-02-21",
+    "date": "2026-04-10",
     "customer": "BERGIZI, UD.",
     "product_code": "31201247"
   },
@@ -1060,7 +1060,7 @@
     "product_code": "31406641"
   },
   {
-    "date": "2026-04-02",
+    "date": "2026-04-09",
     "customer": "PT. TRIO RASA MAS",
     "product_code": "31406642"
   },
@@ -1235,6 +1235,11 @@
     "product_code": "31407112"
   },
   {
+    "date": "2026-04-09",
+    "customer": "PT. Greenpoh Cipta Rasa",
+    "product_code": "31407113"
+  },
+  {
     "date": "2026-01-13",
     "customer": "BASUKI",
     "product_code": "31407173"
@@ -1295,7 +1300,7 @@
     "product_code": "31407333"
   },
   {
-    "date": "2026-04-06",
+    "date": "2026-04-09",
     "customer": "PT. TRIO RASA MAS",
     "product_code": "31407357"
   },
@@ -1315,7 +1320,7 @@
     "product_code": "31407470"
   },
   {
-    "date": "2026-02-24",
+    "date": "2026-04-09",
     "customer": "RAJA JEVA NISI, PT ( PELITA  FOOD TECH )",
     "product_code": "31407477"
   },
@@ -1965,7 +1970,7 @@
     "product_code": "31602756"
   },
   {
-    "date": "2026-03-06",
+    "date": "2026-04-10",
     "customer": "SARI MURNI ABADI, PT.",
     "product_code": "31602758"
   },
@@ -3935,8 +3940,8 @@
     "product_code": "MT-626737"
   },
   {
-    "date": "2026-03-27",
-    "customer": "CITA RASA SUKSES,PT",
+    "date": "2026-04-09",
+    "customer": "PT. KRISPI INDUSTRI INDONESIA ",
     "product_code": "MT-627037"
   },
   {
@@ -4280,8 +4285,8 @@
     "product_code": "SP-52416 C"
   },
   {
-    "date": "2026-03-03",
-    "customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+    "date": "2026-04-09",
+    "customer": "BINTANG MUJUR ABADI/AMIR BP",
     "product_code": "SP-52514 B"
   },
   {
