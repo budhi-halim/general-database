@@ -1,8 +1,64 @@
 {
   "draw": 0,
-  "recordsTotal": 12223,
-  "recordsFiltered": 12223,
+  "recordsTotal": 12227,
+  "recordsFiltered": 12227,
   "data": [
+    {
+      "sr_id": "12234",
+      "sr_no": "468/IV/2026/SRF",
+      "sr_date": "2026-04-13",
+      "sr_pic": "Marchelina",
+      "sr_customer": "SORIN MAHARASA, PT.",
+      "sr_srtype": "General Request",
+      "sr_status": "WAITING APPROVAL PM",
+      "tot_item": "3 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-04-13 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12234)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "12233",
+      "sr_no": "467/IV/2026/SRF",
+      "sr_date": "2026-04-13",
+      "sr_pic": "Marchelina",
+      "sr_customer": "JAKARANA TAMA, PT",
+      "sr_srtype": "General Request",
+      "sr_status": "DRAFT",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-04-13 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12233)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "12232",
+      "sr_no": "466/IV/2026/SRF",
+      "sr_date": "2026-04-11",
+      "sr_pic": "Budhiarto Halim",
+      "sr_customer": "Tara Rasa Boga",
+      "sr_srtype": "General Request",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-04-11 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12232)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "12231",
+      "sr_no": "465/IV/2026/SRF",
+      "sr_date": "2026-04-11",
+      "sr_pic": "Marchelina",
+      "sr_customer": "PT. MIrai Sachi Indonesia ",
+      "sr_srtype": "General Request",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "2 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-04-11 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12231)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
     {
       "sr_id": "12230",
       "sr_no": "464/IV/2026/SRF",
@@ -10,7 +66,7 @@
       "sr_pic": "Clement",
       "sr_customer": "CV.SUMBER PANGAN NUSANTARA",
       "sr_srtype": "General Request",
-      "sr_status": "DRAFT",
+      "sr_status": "APPROVED BY PM",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Blank",
       "sr_created_at": "2026-04-11 00:00:00",
@@ -38,7 +94,7 @@
       "sr_pic": "Lily",
       "sr_customer": "PT. Alam Raya Megatama",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING APPROVAL PM",
+      "sr_status": "APPROVED BY PM",
       "tot_item": "4 Items",
       "sr_statkirimbarang": "Blank",
       "sr_created_at": "2026-04-11 00:00:00",
@@ -68,7 +124,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "3 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-10 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12226)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -82,7 +138,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "2 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Partial Ready",
       "sr_created_at": "2026-04-10 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12225)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -96,7 +152,7 @@
       "sr_srtype": "Improvement",
       "sr_status": "PROCESS RND",
       "tot_item": "2 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-10 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12224)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -110,7 +166,7 @@
       "sr_srtype": "Improvement",
       "sr_status": "PROCESS RND",
       "tot_item": "2 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Partial Ready",
       "sr_created_at": "2026-04-10 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12223)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -124,7 +180,7 @@
       "sr_srtype": "Improvement",
       "sr_status": "PROCESS RND",
       "tot_item": "5 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-10 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12222)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -138,7 +194,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-10 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12221)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -152,7 +208,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-10 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12220)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -166,7 +222,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-10 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12219)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -180,7 +236,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "5 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Partial Ready",
       "sr_created_at": "2026-04-10 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12218)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -194,7 +250,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "4 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-10 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12217)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -208,7 +264,7 @@
       "sr_srtype": "Improvement",
       "sr_status": "PROCESS RND",
       "tot_item": "3 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Partial Ready",
       "sr_created_at": "2026-04-10 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12216)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -222,7 +278,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "5 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-10 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12215)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -236,7 +292,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-10 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12214)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -250,7 +306,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-09 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12213)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -264,7 +320,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-09 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12212)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -278,7 +334,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "2 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-09 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12211)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -320,7 +376,7 @@
       "sr_srtype": "Improvement Special",
       "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Not Ready",
       "sr_created_at": "2026-04-09 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12208)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -474,7 +530,7 @@
       "sr_srtype": "Improvement Special",
       "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-09 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12197)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -487,8 +543,8 @@
       "sr_customer": "LIWAYWAY, PT.",
       "sr_srtype": "Improvement Special",
       "sr_status": "PROCESS RND",
-      "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "tot_item": "2 Items",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-09 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12196)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -614,7 +670,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "5 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Partial Ready",
       "sr_created_at": "2026-04-08 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12187)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -1145,8 +1201,8 @@
       "sr_customer": "MARKETING",
       "sr_srtype": "Special Request",
       "sr_status": "PROCESS RND",
-      "tot_item": "0 Items",
-      "sr_statkirimbarang": "Blank",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-03-30 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12149)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
