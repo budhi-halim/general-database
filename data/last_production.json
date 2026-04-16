@@ -25,7 +25,7 @@
     "product_code": "*31602140"
   },
   {
-    "date": "2026-03-31",
+    "date": "2026-04-15",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "01"
   },
@@ -255,7 +255,7 @@
     "product_code": "31102816"
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-04-16",
     "customer": "NISSIN FOODS INDONESIA.PT",
     "product_code": "31102845"
   },
@@ -1360,6 +1360,11 @@
     "product_code": "31407603"
   },
   {
+    "date": "2026-04-16",
+    "customer": "PT. Kultiva Indonesia Makmur",
+    "product_code": "31407605"
+  },
+  {
     "date": "2026-02-23",
     "customer": "PT. Selera Hast Indonesia",
     "product_code": "31407614"
@@ -1450,8 +1455,8 @@
     "product_code": "31407968"
   },
   {
-    "date": "2026-04-08",
-    "customer": "PT.Royal Safari Garden",
+    "date": "2026-04-16",
+    "customer": "TAMAN SAFARI INDONESIA",
     "product_code": "31407984"
   },
   {
@@ -1715,7 +1720,7 @@
     "product_code": "31503338"
   },
   {
-    "date": "2026-03-09",
+    "date": "2026-04-15",
     "customer": "SENTRAL MULTIRASA UTAMA, PT",
     "product_code": "31601841"
   },
@@ -2060,7 +2065,7 @@
     "product_code": "31602932"
   },
   {
-    "date": "2026-04-11",
+    "date": "2026-04-15",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31602950"
   },
@@ -2445,7 +2450,7 @@
     "product_code": "31802675"
   },
   {
-    "date": "2026-03-02",
+    "date": "2026-04-16",
     "customer": "TAMAN SAFARI INDONESIA",
     "product_code": "31802690"
   },
@@ -3540,8 +3545,8 @@
     "product_code": "MT-1303382-0"
   },
   {
-    "date": "2026-02-25",
-    "customer": "PT.Samudra Cipta Rasa",
+    "date": "2026-04-16",
+    "customer": "CV.SUMBER PANGAN NUSANTARA",
     "product_code": "MT-13256 B"
   },
   {
@@ -3580,7 +3585,7 @@
     "product_code": "MT-162553"
   },
   {
-    "date": "2026-03-27",
+    "date": "2026-04-15",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-1644 P5"
   },
@@ -3625,7 +3630,7 @@
     "product_code": "MT-193256"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-04-15",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-21118 A"
   },
@@ -3725,7 +3730,7 @@
     "product_code": "MT-365718"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-04-15",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-373438"
   },
@@ -3880,7 +3885,7 @@
     "product_code": "MT-579914"
   },
   {
-    "date": "2026-04-11",
+    "date": "2026-04-15",
     "customer": "DUA KELINCI, PT.",
     "product_code": "MT-585016 A"
   },
@@ -3915,7 +3920,7 @@
     "product_code": "MT-605812 A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-04-15",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-608558"
   },
@@ -3930,12 +3935,12 @@
     "product_code": "MT-625237"
   },
   {
-    "date": "2026-04-13",
-    "customer": "KUALA PANGAN",
+    "date": "2026-04-15",
+    "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-625337"
   },
   {
-    "date": "2026-01-09",
+    "date": "2026-04-15",
     "customer": "HANS CHRISTIAN",
     "product_code": "MT-626737"
   },
@@ -4280,7 +4285,7 @@
     "product_code": "SP-3715"
   },
   {
-    "date": "2026-02-25",
+    "date": "2026-04-16",
     "customer": "CV.SUMBER PANGAN NUSANTARA",
     "product_code": "SP-52416 C"
   },
