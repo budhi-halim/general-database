@@ -85,7 +85,7 @@
     "product_code": "04-0137 G"
   },
   {
-    "date": "2025-12-11",
+    "date": "2026-04-24",
     "customer": "SI RAJA GURIH",
     "product_code": "06-0037 A"
   },
@@ -1320,7 +1320,7 @@
     "product_code": "31407470"
   },
   {
-    "date": "2026-04-09",
+    "date": "2026-04-23",
     "customer": "RAJA JEVA NISI, PT ( PELITA  FOOD TECH )",
     "product_code": "31407477"
   },
@@ -1380,8 +1380,8 @@
     "product_code": "31407621"
   },
   {
-    "date": "2026-04-02",
-    "customer": "WILLY HARSONO",
+    "date": "2026-04-23",
+    "customer": "CATUR WIDI CAHYONO",
     "product_code": "31407627"
   },
   {
@@ -2155,6 +2155,11 @@
     "product_code": "31801667"
   },
   {
+    "date": "2026-04-23",
+    "customer": "INDOFOOD FORTUNA MAKMUR",
+    "product_code": "31801749"
+  },
+  {
     "date": "2025-03-13",
     "customer": "CV Wahana Pangan Lestari",
     "product_code": "31801812"
@@ -2578,6 +2583,11 @@
     "date": "2025-07-24",
     "customer": "Oppa Fried Chicken",
     "product_code": "34100039"
+  },
+  {
+    "date": "2026-04-23",
+    "customer": "SEKAR BUMI TBK, PT",
+    "product_code": "34100048"
   },
   {
     "date": "2020-02-17",
@@ -3135,8 +3145,8 @@
     "product_code": "MS-1607"
   },
   {
-    "date": "2026-03-30",
-    "customer": "NISSIN FOODS INDONESIA.PT",
+    "date": "2026-04-24",
+    "customer": "NISSIN FOODS CO., LTD.",
     "product_code": "MS-2001 A"
   },
   {
@@ -3735,8 +3745,8 @@
     "product_code": "MT-373438"
   },
   {
-    "date": "2026-04-17",
-    "customer": "GRAHAINMA SINARTRIKARSA,PT.(PT GIST",
+    "date": "2026-04-23",
+    "customer": "NUTRIFOOD INDONESIA, PT",
     "product_code": "MT-3779 A"
   },
   {
