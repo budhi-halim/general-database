@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 19326,
-  "recordsFiltered": 19326,
+  "recordsTotal": 19330,
+  "recordsFiltered": 19330,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -270352,7 +270352,7 @@
       "so_po_no": "PO-260409-0006",
       "so_sales": "Lily",
       "so_total_spb": "12454200",
-      "so_status": "pending",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19396\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -270566,6 +270566,62 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19411\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-04-24 11:14:47",
+      "so_id": "19412",
+      "so_no": "173/ISI/SPB/IV/2026",
+      "so_date": "2026-04-24",
+      "so_customer": "MACROPRIMA PANGAN UTAMA, PT",
+      "so_po_no": "4100039989",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "79426494",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19412\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-04-24 13:47:37",
+      "so_id": "19413",
+      "so_no": "174/ISI/SPB/IV/2026",
+      "so_date": "2026-04-24",
+      "so_customer": "PT. DOLPHIN FOOD & BEVERAGES INDUSTRY",
+      "so_po_no": "POL2-26000019",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "12931500",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19413\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-04-24 13:49:28",
+      "so_id": "19414",
+      "so_no": "175/ISI/SPB/IV/2026",
+      "so_date": "2026-04-24",
+      "so_customer": "PT. DOLPHIN FOOD & BEVERAGES INDUSTRY",
+      "so_po_no": "POL2-26000019",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "12931500",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19414\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-04-25 09:20:23",
+      "so_id": "19415",
+      "so_no": "176/ISI/SPB/IV/2026",
+      "so_date": "2026-04-25",
+      "so_customer": "PT.Royal Safari Garden",
+      "so_po_no": "p260311001",
+      "so_sales": "Marchelina",
+      "so_total_spb": "4709175",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19415\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
