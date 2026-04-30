@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 19373,
-  "recordsFiltered": 19373,
+  "recordsTotal": 19378,
+  "recordsFiltered": 19378,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -271150,7 +271150,7 @@
       "so_po_no": "PO-260409-0008",
       "so_sales": "Lily",
       "so_total_spb": "8868900",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19453\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -271206,7 +271206,7 @@
       "so_po_no": "029/IV/PIS/26",
       "so_sales": "Ary Joko Priyanto",
       "so_total_spb": "17731249.89",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19457\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -271220,10 +271220,80 @@
       "so_po_no": "08/IV/FKO/SBY/2026",
       "so_sales": "Lily",
       "so_total_spb": "1470750",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19458\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-04-29 13:06:28",
+      "so_id": "19459",
+      "so_no": "220/ISI/SPB/IV/2026",
+      "so_date": "2026-04-29",
+      "so_customer": "PT.GOLDEN LEAVES JAYA ABADI",
+      "so_po_no": "PO-260409-0006",
+      "so_sales": "Lily",
+      "so_total_spb": "5094900",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19459\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-04-29 14:13:57",
+      "so_id": "19460",
+      "so_no": "221/ISI/SPB/IV/2026",
+      "so_date": "2026-04-29",
+      "so_customer": "CV.SUMBER PANGAN NUSANTARA",
+      "so_po_no": "PO-26/04/0099",
+      "so_sales": "Clement",
+      "so_total_spb": "13320000",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19460\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-04-30 08:55:05",
+      "so_id": "19461",
+      "so_no": "222/ISI/SPB/IV/2026",
+      "so_date": "2026-04-30",
+      "so_customer": "PRIMASARI,CV",
+      "so_po_no": "",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "693750",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19461\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-04-30 10:57:35",
+      "so_id": "19462",
+      "so_no": "223/ISI/SPB/IV/2026",
+      "so_date": "2026-04-30",
+      "so_customer": "SEKAR BUMI TBK, PT",
+      "so_po_no": "PO-26-04-00035/FOODCKP",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "41358600",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19462\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-04-30 11:01:12",
+      "so_id": "19463",
+      "so_no": "224/ISI/SPB/IV/2026",
+      "so_date": "2026-04-30",
+      "so_customer": "SEKAR BUMI TBK, PT",
+      "so_po_no": "PO-26-04-00120/FOODCKP",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "72622771.19999999",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19463\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
