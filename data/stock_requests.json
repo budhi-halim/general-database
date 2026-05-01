@@ -1,8 +1,42 @@
 {
   "draw": 0,
-  "recordsTotal": 23182,
-  "recordsFiltered": 23182,
+  "recordsTotal": 23185,
+  "recordsFiltered": 23185,
   "data": [
+    {
+      "srs_id": "23300",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1151/IV/2026/SRS",
+      "srs_date": "2026-04-30",
+      "srs_customer": "Bp Christian",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "31407967",
+      "srs_total_qty": "8000",
+      "srs_remarks": "Special Remark",
+      "srs_status": "Waiting Approval",
+      "name": "Iwan",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23299",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "UFIMA",
+      "srs_no": "1150/IV/2026/SRS",
+      "srs_date": "2026-04-30",
+      "srs_customer": "UFI MASUYA NUSANTARA, PT.",
+      "srs_product": "CHILLI POWDER",
+      "kode_produk": "31407189",
+      "srs_total_qty": "300",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "complete"
+    },
     {
       "srs_id": "23297",
       "is_replacement": "NO",
@@ -18,7 +52,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23296",
@@ -35,7 +69,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23295",
@@ -52,7 +86,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23294",
@@ -69,7 +103,24 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "23298",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "CITAR",
+      "srs_no": "1149/IV/2026/SRS",
+      "srs_date": "2026-04-30",
+      "srs_customer": "CITA RASA SUKSES,PT",
+      "srs_product": "SHALLOT POWDER",
+      "kode_produk": "MT-3987",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Sucie",
+      "status_next": "complete"
     },
     {
       "srs_id": "23293",
@@ -86,7 +137,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Clement",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23292",
@@ -12560,7 +12611,7 @@
       "srs_customer": "Bp Christian",
       "srs_product": "ORIGINAL SEASONING",
       "kode_produk": "MT-1301328-1",
-      "srs_total_qty": "1000",
+      "srs_total_qty": "500",
       "srs_remarks": "Special Remark",
       "srs_status": "complete",
       "name": "Dwi Rachtomo",
