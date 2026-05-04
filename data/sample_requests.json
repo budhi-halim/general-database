@@ -1,8 +1,50 @@
 {
   "draw": 0,
-  "recordsTotal": 12343,
-  "recordsFiltered": 12343,
+  "recordsTotal": 12346,
+  "recordsFiltered": 12346,
   "data": [
+    {
+      "sr_id": "12353",
+      "sr_no": "587/V/2026/SRF",
+      "sr_date": "2026-05-04",
+      "sr_pic": "Budhiarto Halim",
+      "sr_customer": "PT BELEAF KEBUN INDONESIA",
+      "sr_srtype": "Improvement Special",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-05-04 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12353)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "12352",
+      "sr_no": "586/V/2026/SRF",
+      "sr_date": "2026-05-04",
+      "sr_pic": "Marchelina",
+      "sr_customer": "PT PUTRA TARO PALOMA",
+      "sr_srtype": "General Request",
+      "sr_status": "WAITING APPROVAL PM",
+      "tot_item": "2 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-05-04 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12352)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "12351",
+      "sr_no": "585/V/2026/SRF",
+      "sr_date": "2026-05-04",
+      "sr_pic": "Budhiarto Halim",
+      "sr_customer": "PT BELEAF KEBUN INDONESIA",
+      "sr_srtype": "Improvement Special",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-05-04 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12351)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
     {
       "sr_id": "12350",
       "sr_no": "584/IV/2026/SRF",
@@ -26,7 +68,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "4 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-30 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12349)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -179,7 +221,7 @@
       "sr_customer": "Marketing",
       "sr_srtype": "Improvement Special",
       "sr_status": "DRAFT",
-      "tot_item": "2 Items",
+      "tot_item": "1 Items",
       "sr_statkirimbarang": "Blank",
       "sr_created_at": "2026-04-29 00:00:00",
       "sr_statfeedback": "BLANK",
@@ -194,7 +236,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "2 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-29 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12337)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -208,7 +250,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-29 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12336)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -222,7 +264,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "2 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-28 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12335)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -236,7 +278,7 @@
       "sr_srtype": "Improvement Special",
       "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-28 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12334)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -334,7 +376,7 @@
       "sr_srtype": "Improvement",
       "sr_status": "PROCESS RND",
       "tot_item": "2 Items",
-      "sr_statkirimbarang": "Partial Ready",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-27 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12327)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -416,7 +458,7 @@
       "sr_pic": "Lily",
       "sr_customer": "PT.DUTA PANGAN NUSANTARA ",
       "sr_srtype": "General Request",
-      "sr_status": "DRAFT",
+      "sr_status": "APPROVED BY PM",
       "tot_item": "4 Items",
       "sr_statkirimbarang": "Blank",
       "sr_created_at": "2026-04-27 00:00:00",
@@ -558,7 +600,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "3 Items",
-      "sr_statkirimbarang": "Partial Ready",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-04-27 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12311)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -2908,11 +2950,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT BELEAF KEBUN INDONESIA",
       "sr_srtype": "Improvement Special",
-      "sr_status": "PROCESS RND",
+      "sr_status": "PARTIAL COMPLETED",
       "tot_item": "2 Items",
-      "sr_statkirimbarang": "Not Ready",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-03-30 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "PARTIAL OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12143)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -5008,11 +5050,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT BELEAF KEBUN INDONESIA",
       "sr_srtype": "Improvement Special",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-16 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11993)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
