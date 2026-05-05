@@ -1,8 +1,110 @@
 {
   "draw": 0,
-  "recordsTotal": 23190,
-  "recordsFiltered": 23190,
+  "recordsTotal": 23196,
+  "recordsFiltered": 23196,
   "data": [
+    {
+      "srs_id": "23311",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SMP",
+      "srs_no": "1162/V/2026/SRS",
+      "srs_date": "2026-05-05",
+      "srs_customer": "SARI MURNI ABADI, PT.",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "31602758",
+      "srs_total_qty": "1000",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23310",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "0631/II/2026/SRS",
+      "kode_customer": "KERRY",
+      "srs_no": "1161/V/2026/SRS",
+      "srs_date": "2026-05-04",
+      "srs_customer": "KERRY INGREDIENTS INDONESIA, PT.",
+      "srs_product": "HVP POWDER",
+      "kode_produk": "MT-625237",
+      "srs_total_qty": "3000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "23309",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "1151/IV/2026/SRS",
+      "kode_customer": "",
+      "srs_no": "1160/V/2026/SRS",
+      "srs_date": "2026-05-04",
+      "srs_customer": "Bp Christian",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "31407967",
+      "srs_total_qty": "1000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Iwan",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "23308",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "0855/III/2026/SRS",
+      "kode_customer": "INDFP",
+      "srs_no": "1159/V/2026/SRS",
+      "srs_date": "2026-05-04",
+      "srs_customer": "INDOFOOD FORTUNA MAKMUR",
+      "srs_product": "ROASTED CORN SEASONING ",
+      "kode_produk": "31602990",
+      "srs_total_qty": "6000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Angel (Sales)",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "23307",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "0297/I/2026/SRS",
+      "kode_customer": "INDFP",
+      "srs_no": "1158/V/2026/SRS",
+      "srs_date": "2026-05-04",
+      "srs_customer": "INDOFOOD FORTUNA MAKMUR",
+      "srs_product": "ROASTED CORN SEASONING ",
+      "kode_produk": "31602990",
+      "srs_total_qty": "4000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Angel (Sales)",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "23306",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "0798/III/2026/SRS",
+      "kode_customer": "INDFP",
+      "srs_no": "1157/V/2026/SRS",
+      "srs_date": "2026-05-04",
+      "srs_customer": "INDOFOOD FORTUNA MAKMUR",
+      "srs_product": "CHOCO MALT SEASONING",
+      "kode_produk": "31503336",
+      "srs_total_qty": "25000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Angel (Sales)",
+      "status_next": "complete"
+    },
     {
       "srs_id": "23305",
       "is_replacement": "NO",
@@ -18,7 +120,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23304",
@@ -52,7 +154,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23302",
@@ -69,7 +171,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Iwan",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23301",
@@ -103,7 +205,7 @@
       "srs_remarks": "Special Remark",
       "srs_status": "complete",
       "name": "Iwan",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23299",

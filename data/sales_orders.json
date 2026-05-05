@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 19387,
-  "recordsFiltered": 19387,
+  "recordsTotal": 19391,
+  "recordsFiltered": 19391,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -271416,10 +271416,66 @@
       "so_po_no": "",
       "so_sales": "Marchelina",
       "so_total_spb": "10078800",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19472\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-05-04 11:41:55",
+      "so_id": "19473",
+      "so_no": "9/ISI/SPB/V/2026",
+      "so_date": "2026-05-04",
+      "so_customer": "GRAHAINMA SINARTRIKARSA,PT.(PT GIST",
+      "so_po_no": "003/04/GIST/26",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "147446850",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19473\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-05-04 15:12:51",
+      "so_id": "19474",
+      "so_no": "10/ISI/SPB/V/2026",
+      "so_date": "2026-05-04",
+      "so_customer": "CV. SARI MANIS RETELINDO",
+      "so_po_no": "",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "3373151.25",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19474\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-05-04 16:22:05",
+      "so_id": "19475",
+      "so_no": "11/ISI/SPB/V/2026",
+      "so_date": "2026-05-04",
+      "so_customer": "Agus Priyono",
+      "so_po_no": "",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "6000000.0495",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19475\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-05-05 10:03:37",
+      "so_id": "19476",
+      "so_no": "12/ISI/SPB/V/2026",
+      "so_date": "2026-05-05",
+      "so_customer": "CREATIVE CULINARY (BOGA GROUP)",
+      "so_po_no": "PO202604160024",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "5224464.75",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19476\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
