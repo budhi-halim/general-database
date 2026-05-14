@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 19464,
-  "recordsFiltered": 19464,
+  "recordsTotal": 19466,
+  "recordsFiltered": 19466,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -268042,7 +268042,7 @@
       "so_po_no": "PO-260227-0010",
       "so_sales": "Lily",
       "so_total_spb": "7625700",
-      "so_status": "approve",
+      "so_status": "pending",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19231\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -272498,6 +272498,34 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19549\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-05-13 12:45:16",
+      "so_id": "19550",
+      "so_no": "85/ISI/SPB/V/2026",
+      "so_date": "2026-05-13",
+      "so_customer": "PT.DUTA PANGAN NUSANTARA ",
+      "so_po_no": "",
+      "so_sales": "Lily",
+      "so_total_spb": "1928625",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19550\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-05-13 12:55:16",
+      "so_id": "19551",
+      "so_no": "86/ISI/SPB/V/2026",
+      "so_date": "2026-05-13",
+      "so_customer": "SIDO AGUNG BISCUIT",
+      "so_po_no": "07/V/FKO/SBY/2026",
+      "so_sales": "Lily",
+      "so_total_spb": "10704840",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19551\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
