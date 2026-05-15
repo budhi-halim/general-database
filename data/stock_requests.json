@@ -1,8 +1,25 @@
 {
   "draw": 0,
-  "recordsTotal": 23262,
-  "recordsFiltered": 23262,
+  "recordsTotal": 23263,
+  "recordsFiltered": 23263,
   "data": [
+    {
+      "srs_id": "23378",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "3071/XI/2025/SRS",
+      "kode_customer": "",
+      "srs_no": "1229/V/2026/SRS",
+      "srs_date": "2026-05-15",
+      "srs_customer": "CATUR WIDI CAHYONO",
+      "srs_product": "BREADING PREMIX",
+      "kode_produk": "31802493",
+      "srs_total_qty": "300",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "Waiting Approval",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
     {
       "srs_id": "23377",
       "is_replacement": "NO",

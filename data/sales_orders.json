@@ -271654,7 +271654,7 @@
       "so_po_no": "028/CRS/BBU/V/26",
       "so_sales": "Sucie",
       "so_total_spb": "5121928.5",
-      "so_status": "pending",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19489\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
