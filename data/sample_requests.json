@@ -1,8 +1,36 @@
 {
   "draw": 0,
-  "recordsTotal": 12410,
-  "recordsFiltered": 12410,
+  "recordsTotal": 12412,
+  "recordsFiltered": 12412,
   "data": [
+    {
+      "sr_id": "12419",
+      "sr_no": "653/V/2026/SRF",
+      "sr_date": "2026-05-18",
+      "sr_pic": "Budhiarto Halim",
+      "sr_customer": " PT. Mitraboga Kreasi Prima",
+      "sr_srtype": "General Request",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-05-18 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12419)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "12418",
+      "sr_no": "652/V/2026/SRF",
+      "sr_date": "2026-05-18",
+      "sr_pic": "Angel (PM)",
+      "sr_customer": "KALDU SARI NABATI INDONESIA, PT",
+      "sr_srtype": "Improvement Special",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "3 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-05-18 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12418)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
     {
       "sr_id": "12417",
       "sr_no": "651/V/2026/SRF",
@@ -10,7 +38,7 @@
       "sr_pic": "Lily",
       "sr_customer": "BIPANG JANGKAR",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING APPROVAL PM",
+      "sr_status": "APPROVED BY PM",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Blank",
       "sr_created_at": "2026-05-15 00:00:00",
@@ -24,7 +52,7 @@
       "sr_pic": "Lily",
       "sr_customer": "PT Multi Farmindo Jaya",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING APPROVAL PM",
+      "sr_status": "APPROVED BY PM",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Blank",
       "sr_created_at": "2026-05-15 00:00:00",
@@ -68,7 +96,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "3 Items",
-      "sr_statkirimbarang": "Partial Ready",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-05-13 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12413)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -152,7 +180,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "5 Items",
-      "sr_statkirimbarang": "Partial Ready",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-05-12 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12407)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -264,7 +292,7 @@
       "sr_srtype": "Improvement Special",
       "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-05-11 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12399)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -277,8 +305,8 @@
       "sr_customer": "CV. Ribut Snack ",
       "sr_srtype": "Duplication Request",
       "sr_status": "PROCESS RND",
-      "tot_item": "0 Items",
-      "sr_statkirimbarang": "Blank",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-05-11 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12398)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -544,7 +572,7 @@
       "sr_srtype": "Improvement Special",
       "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-05-08 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12379)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -3580,11 +3608,11 @@
       "sr_pic": "Angel (PM)",
       "sr_customer": "KALDU SARI NABATI INDONESIA, PT",
       "sr_srtype": "Improvement Special",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-03-31 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12162)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
