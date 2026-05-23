@@ -1,8 +1,314 @@
 {
   "draw": 0,
-  "recordsTotal": 23348,
-  "recordsFiltered": 23348,
+  "recordsTotal": 23366,
+  "recordsFiltered": 23366,
   "data": [
+    {
+      "srs_id": "23481",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1332/V/2026/SRS",
+      "srs_date": "2026-05-23",
+      "srs_customer": "PT. Selera Pangan Interfood",
+      "srs_product": "FRIED GARLIC SEASONING",
+      "kode_produk": "31802573",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23480",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1331/V/2026/SRS",
+      "srs_date": "2026-05-23",
+      "srs_customer": "PT. Selera Pangan Interfood",
+      "srs_product": "BAWANG GORENG SEASONING",
+      "kode_produk": "MT-631618 B",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23479",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1330/V/2026/SRS",
+      "srs_date": "2026-05-23",
+      "srs_customer": "TAMAN SAFARI INDONESIA",
+      "srs_product": "CHILLI POWDER",
+      "kode_produk": "31406197",
+      "srs_total_qty": "3",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23478",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1329/V/2026/SRS",
+      "srs_date": "2026-05-23",
+      "srs_customer": "TAMAN SAFARI INDONESIA",
+      "srs_product": "BREADING PREMIX",
+      "kode_produk": "31802690",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23477",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1328/V/2026/SRS",
+      "srs_date": "2026-05-23",
+      "srs_customer": "TAMAN SAFARI INDONESIA",
+      "srs_product": "MARINATION SEASONING",
+      "kode_produk": "31407984",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23476",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1327/V/2026/SRS",
+      "srs_date": "2026-05-23",
+      "srs_customer": "PT.Royal Safari Garden",
+      "srs_product": "MARINATION SEASONING",
+      "kode_produk": "31407984",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23475",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "MANOA",
+      "srs_no": "1326/V/2026/SRS",
+      "srs_date": "2026-05-23",
+      "srs_customer": "MANOHARA ASRI, PT",
+      "srs_product": "PEDAS MANIS GURIH SEASONING",
+      "kode_produk": "31407887",
+      "srs_total_qty": "500",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23474",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "MANOA",
+      "srs_no": "1325/V/2026/SRS",
+      "srs_date": "2026-05-23",
+      "srs_customer": "MANOHARA ASRI, PT",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "31602637",
+      "srs_total_qty": "1000",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23473",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "1151/IV/2026/SRS",
+      "kode_customer": "",
+      "srs_no": "1324/V/2026/SRS",
+      "srs_date": "2026-05-22",
+      "srs_customer": "Bp Christian",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "31407967",
+      "srs_total_qty": "1000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Iwan",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23472",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1323/V/2026/SRS",
+      "srs_date": "2026-05-22",
+      "srs_customer": "Golden Powder Drink ",
+      "srs_product": "Spice MIx Seasoning",
+      "kode_produk": "31407584",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "23471",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1322/V/2026/SRS",
+      "srs_date": "2026-05-22",
+      "srs_customer": "Golden Powder Drink ",
+      "srs_product": "BBQ SEASONING",
+      "kode_produk": "31406355",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "23470",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1321/V/2026/SRS",
+      "srs_date": "2026-05-22",
+      "srs_customer": "Golden Powder Drink ",
+      "srs_product": "CABE IJO SEASONING",
+      "kode_produk": "MT-1100694-1",
+      "srs_total_qty": "75",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "23469",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1320/V/2026/SRS",
+      "srs_date": "2026-05-22",
+      "srs_customer": "Golden Powder Drink ",
+      "srs_product": "SAMBAL IJO SEASONING",
+      "kode_produk": "MT-1100084-2",
+      "srs_total_qty": "75",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "23468",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "NAGAS",
+      "srs_no": "1319/V/2026/SRS",
+      "srs_date": "2026-05-22",
+      "srs_customer": "SUMBER INTI PANGAN, PT.",
+      "srs_product": "SAVOURY POWDER",
+      "kode_produk": "MT-766631",
+      "srs_total_qty": "125",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "23467",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "NAGAS",
+      "srs_no": "1318/V/2026/SRS",
+      "srs_date": "2026-05-22",
+      "srs_customer": "SUMBER INTI PANGAN, PT.",
+      "srs_product": "ONION POWDER",
+      "kode_produk": "31802435",
+      "srs_total_qty": "420",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "23466",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1317/V/2026/SRS",
+      "srs_date": "2026-05-22",
+      "srs_customer": "PT. Taman Safari Indonesia ( The Grand Taman Safari Indonesia )",
+      "srs_product": "MARINATION SEASONING",
+      "kode_produk": "31407984",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "23465",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1316/V/2026/SRS",
+      "srs_date": "2026-05-22",
+      "srs_customer": "PT. Taman Safari Indonesia ( The Grand Taman Safari Indonesia )",
+      "srs_product": "BREADING PREMIX ",
+      "kode_produk": "31802251",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "23464",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1315/V/2026/SRS",
+      "srs_date": "2026-05-22",
+      "srs_customer": "PT. Taman Safari Indonesia ( The Grand Taman Safari Indonesia )",
+      "srs_product": "BREADING PREMIX",
+      "kode_produk": "31802171",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
     {
       "srs_id": "23463",
       "is_replacement": "NO",
@@ -16,7 +322,7 @@
       "kode_produk": "31802493",
       "srs_total_qty": "2400",
       "srs_remarks": "Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
       "status_next": "blank"
     },
@@ -35,7 +341,7 @@
       "srs_remarks": "Special Remark",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23461",
@@ -52,7 +358,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23460",
@@ -69,7 +375,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23459",
@@ -86,7 +392,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23458",
@@ -103,7 +409,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23457",
@@ -120,7 +426,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23456",
@@ -137,7 +443,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23455",
@@ -154,7 +460,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23454",
@@ -171,7 +477,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23453",
@@ -188,7 +494,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23452",
@@ -205,7 +511,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23451",
@@ -222,7 +528,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23450",
@@ -239,7 +545,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23449",
@@ -256,7 +562,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23448",
@@ -273,7 +579,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23447",
@@ -290,7 +596,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23446",
