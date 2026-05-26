@@ -200,7 +200,7 @@
     "product_code": "31102691"
   },
   {
-    "date": "2026-05-12",
+    "date": "2026-05-25",
     "customer": "Fisnack Inovasi Pangan",
     "product_code": "31102701"
   },
@@ -1155,8 +1155,8 @@
     "product_code": "31406930"
   },
   {
-    "date": "2026-05-19",
-    "customer": "PT. JAMAN SEHAT SEMPURNA ",
+    "date": "2026-05-26",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "31406934"
   },
   {
@@ -1460,7 +1460,7 @@
     "product_code": "31407984"
   },
   {
-    "date": "2026-04-29",
+    "date": "2026-05-26",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "31408015"
   },
@@ -1990,7 +1990,7 @@
     "product_code": "31602766"
   },
   {
-    "date": "2026-04-27",
+    "date": "2026-04-29",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31602769"
   },
@@ -2020,7 +2020,7 @@
     "product_code": "31602831"
   },
   {
-    "date": "2026-05-20",
+    "date": "2026-05-26",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31602847"
   },
@@ -2460,6 +2460,11 @@
     "product_code": "31802690"
   },
   {
+    "date": "2026-05-25",
+    "customer": "LIWAYWAY, PT.",
+    "product_code": "31802704"
+  },
+  {
     "date": "2025-02-10",
     "customer": "KHOIRUL AMIN",
     "product_code": "31900481"
@@ -2680,7 +2685,7 @@
     "product_code": "35200016"
   },
   {
-    "date": "2026-04-07",
+    "date": "2026-05-25",
     "customer": "PT.Aromatika Nacha Pratama",
     "product_code": "35200020"
   },
@@ -2790,7 +2795,7 @@
     "product_code": "511"
   },
   {
-    "date": "2026-04-07",
+    "date": "2026-05-25",
     "customer": "PT.Aromatika Nacha Pratama",
     "product_code": "5116"
   },
@@ -3225,8 +3230,8 @@
     "product_code": "MT-1100334-1"
   },
   {
-    "date": "2026-04-22",
-    "customer": "PT. LEBLE BOGA ADIPERKASA",
+    "date": "2026-05-26",
+    "customer": "CV. Tiga Beruang Makmur",
     "product_code": "MT-1100524-1"
   },
   {
@@ -3610,7 +3615,7 @@
     "product_code": "MT-162553"
   },
   {
-    "date": "2026-05-12",
+    "date": "2026-05-25",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-1644 P5"
   },
@@ -3910,7 +3915,7 @@
     "product_code": "MT-579914"
   },
   {
-    "date": "2026-04-29",
+    "date": "2026-04-15",
     "customer": "DUA KELINCI, PT.",
     "product_code": "MT-585016 A"
   },
@@ -3960,8 +3965,8 @@
     "product_code": "MT-625237"
   },
   {
-    "date": "2026-05-19",
-    "customer": "ABC PRESIDENT INDONESIA, PT",
+    "date": "2026-05-25",
+    "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-625337"
   },
   {
