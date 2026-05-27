@@ -1,8 +1,59 @@
 {
   "draw": 0,
-  "recordsTotal": 23382,
-  "recordsFiltered": 23382,
+  "recordsTotal": 23385,
+  "recordsFiltered": 23385,
   "data": [
+    {
+      "srs_id": "23500",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SEKBU",
+      "srs_no": "1351/V/2026/SRS",
+      "srs_date": "2026-05-26",
+      "srs_customer": "SEKAR BUMI, PT.",
+      "srs_product": "ONION POWDER",
+      "kode_produk": "MS-3010",
+      "srs_total_qty": "75",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23499",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SEKBU",
+      "srs_no": "1350/V/2026/SRS",
+      "srs_date": "2026-05-26",
+      "srs_customer": "SEKAR BUMI, PT.",
+      "srs_product": "GARLIC POWDER",
+      "kode_produk": "GMS-166",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23498",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SENMU",
+      "srs_no": "1349/V/2026/SRS",
+      "srs_date": "2026-05-26",
+      "srs_customer": "SENTRAL MULTIRASA UTAMA, PT",
+      "srs_product": "JAGUNG BAKAR SEASONING",
+      "kode_produk": "31601841",
+      "srs_total_qty": "2250",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "complete"
+    },
     {
       "srs_id": "23497",
       "is_replacement": "NO",
@@ -16,9 +67,9 @@
       "kode_produk": "MT-1100524-1",
       "srs_total_qty": "100",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23496",
@@ -35,7 +86,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23495",
@@ -50,9 +101,9 @@
       "kode_produk": "31408015",
       "srs_total_qty": "100",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23494",
@@ -67,9 +118,9 @@
       "kode_produk": "31406934",
       "srs_total_qty": "100",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23493",
@@ -86,7 +137,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23490",
@@ -137,7 +188,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23487",
@@ -256,7 +307,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Sucie",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23492",
@@ -273,7 +324,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Sucie",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23481",
