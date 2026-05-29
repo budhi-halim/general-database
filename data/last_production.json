@@ -320,7 +320,7 @@
     "product_code": "31201245"
   },
   {
-    "date": "2026-05-06",
+    "date": "2026-05-28",
     "customer": "ANEKA SARIVITA, PT.",
     "product_code": "31201247"
   },
@@ -1075,7 +1075,7 @@
     "product_code": "31406689"
   },
   {
-    "date": "2026-05-18",
+    "date": "2026-05-28",
     "customer": "ARIRA PANGINDO, CV.",
     "product_code": "31406700"
   },
@@ -1495,7 +1495,7 @@
     "product_code": "31502154"
   },
   {
-    "date": "2026-02-20",
+    "date": "2026-05-29",
     "customer": "CEMILAN BANDOENG",
     "product_code": "31502222"
   },
@@ -2160,7 +2160,7 @@
     "product_code": "31801667"
   },
   {
-    "date": "2026-05-20",
+    "date": "2026-05-28",
     "customer": "INDOFOOD FORTUNA MAKMUR",
     "product_code": "31801749"
   },
@@ -2335,7 +2335,7 @@
     "product_code": "31802436"
   },
   {
-    "date": "2026-03-31",
+    "date": "2026-05-28",
     "customer": "CV Wahana Pangan Lestari",
     "product_code": "31802440"
   },
@@ -3091,7 +3091,7 @@
   },
   {
     "date": "2026-05-28",
-    "customer": "PT.DUTA PANGAN NUSANTARA ",
+    "customer": "CV Wahana Pangan Lestari",
     "product_code": "HVP WCI"
   },
   {
@@ -3205,7 +3205,7 @@
     "product_code": "MT-105737"
   },
   {
-    "date": "2026-04-21",
+    "date": "2026-05-29",
     "customer": "PT. Surya Pratista Hutama",
     "product_code": "MT-107358 A"
   },
@@ -3770,8 +3770,8 @@
     "product_code": "MT-373438"
   },
   {
-    "date": "2026-05-12",
-    "customer": "PT. HARUM SARI SINERJINDO LESTARI",
+    "date": "2026-05-28",
+    "customer": "NUTRIFOOD INDONESIA, PT",
     "product_code": "MT-3779 A"
   },
   {
@@ -4350,7 +4350,7 @@
     "product_code": "TPC"
   },
   {
-    "date": "2026-03-27",
+    "date": "2026-05-28",
     "customer": "CV Wahana Pangan Lestari",
     "product_code": "W-800"
   },
