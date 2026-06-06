@@ -1,8 +1,76 @@
 {
   "draw": 0,
-  "recordsTotal": 23435,
-  "recordsFiltered": 23435,
+  "recordsTotal": 23439,
+  "recordsFiltered": 23439,
   "data": [
+    {
+      "srs_id": "23554",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1405/VI/2026/SRS",
+      "srs_date": "2026-06-05",
+      "srs_customer": "PT. Rukun Mitra Sentosa",
+      "srs_product": "SAPI PANGGANG SEASONING",
+      "kode_produk": "31201573",
+      "srs_total_qty": "75",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23553",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "BALAK",
+      "srs_no": "1404/VI/2026/SD",
+      "srs_date": "2026-06-05",
+      "srs_customer": "BRATA ADI LAKSANA, PT",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "06-0091",
+      "srs_total_qty": "150",
+      "srs_remarks": "Sudden",
+      "srs_status": "NEW",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23552",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "2244/IX/2025/SRS",
+      "kode_customer": "DWIKE",
+      "srs_no": "1403/VI/2026/SRS",
+      "srs_date": "2026-06-05",
+      "srs_customer": "DUA KELINCI, PT.",
+      "srs_product": "SPICY PEANUT SEASONING",
+      "kode_produk": "31802413",
+      "srs_total_qty": "50",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "23551",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1402/VI/2026/SRS",
+      "srs_date": "2026-06-05",
+      "srs_customer": "SARA YULI SUPIYATI",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "31601994",
+      "srs_total_qty": "1",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Iwan",
+      "status_next": "complete"
+    },
     {
       "srs_id": "23550",
       "is_replacement": "NO",
@@ -18,7 +86,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Iwan",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23549",
@@ -35,7 +103,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Iwan",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23548",
@@ -52,7 +120,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23547",
@@ -69,7 +137,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23546",
@@ -86,7 +154,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23545",
@@ -103,7 +171,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23544",
