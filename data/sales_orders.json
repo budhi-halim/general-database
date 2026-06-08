@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 19615,
-  "recordsFiltered": 19615,
+  "recordsTotal": 19621,
+  "recordsFiltered": 19621,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -274612,6 +274612,90 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19700\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-08 10:09:20",
+      "so_id": "19701",
+      "so_no": "29/ISI/SPB/VI/2026",
+      "so_date": "2026-06-08",
+      "so_customer": "SARI MURNI JAYA, PT.",
+      "so_po_no": "5600027104",
+      "so_sales": "Marchelina",
+      "so_total_spb": "80401740",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19701\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-08 11:19:50",
+      "so_id": "19702",
+      "so_no": "30/ISI/SPB/VI/2026",
+      "so_date": "2026-06-08",
+      "so_customer": "PT. INDO PANGAN NUSANTARA",
+      "so_po_no": "",
+      "so_sales": "Lily",
+      "so_total_spb": "55500000",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19702\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-08 11:28:22",
+      "so_id": "19703",
+      "so_no": "31/ISI/SPB/VI/2026",
+      "so_date": "2026-06-08",
+      "so_customer": "PT. INDO PANGAN NUSANTARA",
+      "so_po_no": "",
+      "so_sales": "Lily",
+      "so_total_spb": "33522000",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19703\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-08 11:40:38",
+      "so_id": "19704",
+      "so_no": "32/ISI/SPB/VI/2026",
+      "so_date": "2026-06-08",
+      "so_customer": "PT. INDO PANGAN NUSANTARA",
+      "so_po_no": "",
+      "so_sales": "Lily",
+      "so_total_spb": "27195000",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19704\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-08 11:52:02",
+      "so_id": "19705",
+      "so_no": "33/ISI/SPB/VI/2026",
+      "so_date": "2026-06-08",
+      "so_customer": "FRANKY SETIAWAN, BP",
+      "so_po_no": "",
+      "so_sales": "Iwan",
+      "so_total_spb": "22779114.75",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19705\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-08 11:53:29",
+      "so_id": "19706",
+      "so_no": "34/ISI/SPB/VI/2026",
+      "so_date": "2026-06-08",
+      "so_customer": "SARA YULI SUPIYATI",
+      "so_po_no": "",
+      "so_sales": "Iwan",
+      "so_total_spb": "6729014.25",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19706\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
