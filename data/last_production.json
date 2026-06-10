@@ -315,6 +315,11 @@
     "product_code": "31103055"
   },
   {
+    "date": "2026-06-09",
+    "customer": "Han Kumaheri",
+    "product_code": "31103080"
+  },
+  {
     "date": "2022-08-25",
     "customer": "Lilis Suryani",
     "product_code": "31201245"
@@ -2290,7 +2295,7 @@
     "product_code": "31802251"
   },
   {
-    "date": "2026-04-22",
+    "date": "2026-06-10",
     "customer": "CIPTA SELERA SEMESTA, PT",
     "product_code": "31802256"
   },
@@ -3355,7 +3360,7 @@
     "product_code": "MT-1105453-0"
   },
   {
-    "date": "2026-05-18",
+    "date": "2026-06-10",
     "customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
     "product_code": "MT-1105604-4"
   },
@@ -3375,7 +3380,7 @@
     "product_code": "MT-1106454-0"
   },
   {
-    "date": "2026-04-22",
+    "date": "2026-06-10",
     "customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
     "product_code": "MT-1107031-0"
   },
@@ -3655,8 +3660,8 @@
     "product_code": "MT-169214"
   },
   {
-    "date": "2026-06-03",
-    "customer": "ANI ARYANTI",
+    "date": "2026-06-10",
+    "customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
     "product_code": "MT-169214 N"
   },
   {
@@ -3990,8 +3995,8 @@
     "product_code": "MT-614318"
   },
   {
-    "date": "2026-06-08",
-    "customer": "KERRY INGREDIENTS INDONESIA, PT.",
+    "date": "2026-06-10",
+    "customer": "LASALLE FOOD INDONESIA, PT.",
     "product_code": "MT-625237"
   },
   {
@@ -4350,8 +4355,8 @@
     "product_code": "SP-52416 C"
   },
   {
-    "date": "2026-06-03",
-    "customer": "BINTANG MUJUR ABADI/AMIR BP",
+    "date": "2026-06-10",
+    "customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
     "product_code": "SP-52514 B"
   },
   {

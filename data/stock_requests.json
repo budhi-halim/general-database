@@ -1,8 +1,144 @@
 {
   "draw": 0,
-  "recordsTotal": 23462,
-  "recordsFiltered": 23462,
+  "recordsTotal": 23470,
+  "recordsFiltered": 23470,
   "data": [
+    {
+      "srs_id": "23585",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "0908/III/2025/SRS",
+      "kode_customer": "CIPSE",
+      "srs_no": "1436/VI/2026/SRS",
+      "srs_date": "2026-06-10",
+      "srs_customer": "CIPTA SELERA SEMESTA, PT",
+      "srs_product": "TOMATO POWDER",
+      "kode_produk": "31802256",
+      "srs_total_qty": "3000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Angel (Sales)",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23584",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "LASFO",
+      "srs_no": "1435/VI/2026/SRS",
+      "srs_date": "2026-06-10",
+      "srs_customer": "LASALLE FOOD INDONESIA, PT.",
+      "srs_product": "HVP POWDER",
+      "kode_produk": "MT-625237",
+      "srs_total_qty": "900",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23583",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "LASFO",
+      "srs_no": "1434/VI/2026/SRS",
+      "srs_date": "2026-06-10",
+      "srs_customer": "LASALLE FOOD INDONESIA, PT.",
+      "srs_product": "HVP POWDER",
+      "kode_produk": "MT-625237",
+      "srs_total_qty": "900",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23582",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1433/VI/2026/SRS",
+      "srs_date": "2026-06-10",
+      "srs_customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+      "srs_product": "AYAM BAWANG SEASONING",
+      "kode_produk": "MT-1107031-0",
+      "srs_total_qty": "125",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23581",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1432/VI/2026/SRS",
+      "srs_date": "2026-06-10",
+      "srs_customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "MT-1105604-4",
+      "srs_total_qty": "250",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23580",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1431/VI/2026/SRS",
+      "srs_date": "2026-06-10",
+      "srs_customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+      "srs_product": "BALADO SEASONING",
+      "kode_produk": "MT-169214 N",
+      "srs_total_qty": "500",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23579",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1430/VI/2026/SRS",
+      "srs_date": "2026-06-10",
+      "srs_customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "SP-52514 B",
+      "srs_total_qty": "125",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23578",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1429/VI/2026/SRS",
+      "srs_date": "2026-06-09",
+      "srs_customer": "Han Kumaheri",
+      "srs_product": "CHICKEN POWDER",
+      "kode_produk": "31103080",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
     {
       "srs_id": "23577",
       "is_replacement": "NO",
@@ -16,9 +152,9 @@
       "kode_produk": "31602950",
       "srs_total_qty": "750",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23576",
@@ -52,7 +188,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23574",
@@ -69,7 +205,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23573",
@@ -86,7 +222,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23572",
@@ -103,7 +239,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23571",
@@ -120,7 +256,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23570",
@@ -137,7 +273,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23569",
