@@ -1,8 +1,110 @@
 {
   "draw": 0,
-  "recordsTotal": 23503,
-  "recordsFiltered": 23503,
+  "recordsTotal": 23509,
+  "recordsFiltered": 23509,
   "data": [
+    {
+      "srs_id": "23624",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1475/VI/2026/SRJ",
+      "srs_date": "2026-06-13",
+      "srs_customer": "TAMAN SAFARI INDONESIA",
+      "srs_product": "CHOCOLATE PUDDING",
+      "kode_produk": "43210002",
+      "srs_total_qty": "20",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "23623",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "2466/IX/2024/SRS",
+      "kode_customer": "MANOA",
+      "srs_no": "1474/VI/2026/SRS",
+      "srs_date": "2026-06-13",
+      "srs_customer": "MANOHARA ASRI, PT",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "MT-159316 D",
+      "srs_total_qty": "1000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23622",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1473/VI/2026/SRS",
+      "srs_date": "2026-06-13",
+      "srs_customer": "Fisnack Inovasi Pangan",
+      "srs_product": "SALTED EGG SEASONING",
+      "kode_produk": "31102701",
+      "srs_total_qty": "40",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23621",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1472/VI/2026/SRS",
+      "srs_date": "2026-06-12",
+      "srs_customer": "SARA YULI SUPIYATI",
+      "srs_product": "AYAM LADA HITAM SEASONING",
+      "kode_produk": "31407113",
+      "srs_total_qty": "1",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Iwan",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23620",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "GRAHA",
+      "srs_no": "1471/VI/2026/SRS",
+      "srs_date": "2026-06-12",
+      "srs_customer": "GRAHAINMA SINARTRIKARSA,PT.(PT GIST",
+      "srs_product": "SOY SAUCE POWDER",
+      "kode_produk": "SP-3715",
+      "srs_total_qty": "500",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23619",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "GRAHA",
+      "srs_no": "1470/VI/2026/SRS",
+      "srs_date": "2026-06-12",
+      "srs_customer": "GRAHAINMA SINARTRIKARSA,PT.(PT GIST",
+      "srs_product": "SOY SAUCE POWDER",
+      "kode_produk": "MT-3779 A",
+      "srs_total_qty": "500",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
     {
       "srs_id": "23618",
       "is_replacement": "NO",
@@ -16,9 +118,9 @@
       "kode_produk": "HVP WCI",
       "srs_total_qty": "2000",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23617",
@@ -35,7 +137,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23616",
@@ -52,7 +154,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23615",
@@ -69,7 +171,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23614",
@@ -86,7 +188,7 @@
       "srs_remarks": "Special Remark",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23613",
@@ -103,7 +205,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23612",
@@ -120,7 +222,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Iwan",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23611",
@@ -137,7 +239,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Dwi Rachtomo",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23610",
@@ -154,7 +256,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23609",
@@ -171,7 +273,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Dwi Rachtomo",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23608",
@@ -188,7 +290,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23607",
@@ -205,7 +307,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23606",
@@ -222,7 +324,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23605",
@@ -239,7 +341,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23604",
@@ -256,7 +358,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23603",
@@ -273,7 +375,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23602",
@@ -290,7 +392,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23601",
@@ -358,7 +460,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23597",
@@ -375,7 +477,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23596",
@@ -392,7 +494,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23595",
@@ -409,7 +511,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23594",
@@ -426,7 +528,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23593",
@@ -443,7 +545,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23592",
@@ -1325,9 +1427,9 @@
       "kode_produk": "44400306",
       "srs_total_qty": "25",
       "srs_remarks": "Advance",
-      "srs_status": "NEW",
+      "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23540",
