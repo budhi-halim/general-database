@@ -1425,6 +1425,11 @@
     "product_code": "31407816"
   },
   {
+    "date": "2026-06-15",
+    "customer": "Alvin Fabian",
+    "product_code": "31407872"
+  },
+  {
     "date": "2026-03-31",
     "customer": "CV.TIGA ANUGERAH PANGAN",
     "product_code": "31407877"
@@ -1465,7 +1470,7 @@
     "product_code": "31407968"
   },
   {
-    "date": "2026-05-23",
+    "date": "2026-06-15",
     "customer": "TAMAN SAFARI INDONESIA",
     "product_code": "31407984"
   },
@@ -1795,8 +1800,8 @@
     "product_code": "31602059"
   },
   {
-    "date": "2026-06-08",
-    "customer": "FRANKY SETIAWAN, BP",
+    "date": "2026-06-15",
+    "customer": "SARA YULI SUPIYATI",
     "product_code": "31602097"
   },
   {
@@ -2080,7 +2085,7 @@
     "product_code": "31602932"
   },
   {
-    "date": "2026-06-09",
+    "date": "2026-06-15",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31602950"
   },
@@ -2485,7 +2490,7 @@
     "product_code": "31802675"
   },
   {
-    "date": "2026-05-23",
+    "date": "2026-06-15",
     "customer": "TAMAN SAFARI INDONESIA",
     "product_code": "31802690"
   },

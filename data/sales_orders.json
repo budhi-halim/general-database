@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 19671,
-  "recordsFiltered": 19671,
+  "recordsTotal": 19677,
+  "recordsFiltered": 19677,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -275350,7 +275350,7 @@
       "so_po_no": "0073/V/BHN-KSS",
       "so_sales": "Iwan",
       "so_total_spb": "95192212.5",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19753\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -275396,6 +275396,90 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19756\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-15 08:48:49",
+      "so_id": "19757",
+      "so_no": "85/ISI/SPB/VI/2026",
+      "so_date": "2026-06-15",
+      "so_customer": "LASALLE FOOD INDONESIA, PT.",
+      "so_po_no": "PB260001605",
+      "so_sales": "Marchelina",
+      "so_total_spb": "10021302",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19757\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-15 09:32:11",
+      "so_id": "19758",
+      "so_no": "86/ISI/SPB/VI/2026",
+      "so_date": "2026-06-15",
+      "so_customer": "DUA KELINCI, PT.",
+      "so_po_no": "26051354",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "82076064",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19758\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-15 09:35:20",
+      "so_id": "19759",
+      "so_no": "87/ISI/SPB/VI/2026",
+      "so_date": "2026-06-15",
+      "so_customer": "DUA KELINCI, PT.",
+      "so_po_no": "26041331",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "33588600",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19759\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-15 09:39:08",
+      "so_id": "19760",
+      "so_no": "88/ISI/SPB/VI/2026",
+      "so_date": "2026-06-15",
+      "so_customer": "DUA KELINCI, PT.",
+      "so_po_no": "26042713",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "5699295",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19760\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-15 10:27:05",
+      "so_id": "19761",
+      "so_no": "89/ISI/SPB/VI/2026",
+      "so_date": "2026-06-15",
+      "so_customer": "Fisnack Inovasi Pangan",
+      "so_po_no": "",
+      "so_sales": "Marchelina",
+      "so_total_spb": "10771440",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19761\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-15 10:43:30",
+      "so_id": "19762",
+      "so_no": "1/SPB/VI/2026",
+      "so_date": "2026-06-15",
+      "so_customer": "CHITARASA MEGAH JAYA",
+      "so_po_no": "1/2/CMJ/2026",
+      "so_sales": "Iwan",
+      "so_total_spb": "29054055",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "NO-TAX",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19762\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
