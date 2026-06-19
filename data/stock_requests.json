@@ -1,8 +1,127 @@
 {
   "draw": 0,
-  "recordsTotal": 23551,
-  "recordsFiltered": 23551,
+  "recordsTotal": 23558,
+  "recordsFiltered": 23558,
   "data": [
+    {
+      "srs_id": "23673",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1524/VI/2026/SRS",
+      "srs_date": "2026-06-19",
+      "srs_customer": "PT. Selera Hast Indonesia",
+      "srs_product": "MARINATION SEASONING",
+      "kode_produk": "31407614",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23672",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SMP",
+      "srs_no": "1523/VI/2026/SRS",
+      "srs_date": "2026-06-19",
+      "srs_customer": "SARI MURNI ABADI, PT.",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "31602758",
+      "srs_total_qty": "1000",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23671",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "UFIMA",
+      "srs_no": "1522/VI/2026/SRS",
+      "srs_date": "2026-06-19",
+      "srs_customer": "UFI MASUYA NUSANTARA, PT.",
+      "srs_product": "CHILLI POWDER",
+      "kode_produk": "31407189",
+      "srs_total_qty": "300",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23670",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "0160/I/2026/SRS",
+      "kode_customer": "",
+      "srs_no": "1521/VI/2026/SRS",
+      "srs_date": "2026-06-19",
+      "srs_customer": "CAHAYA TIRTA AROMMA, PT",
+      "srs_product": "BLACK TEA POWDER EXTRACT",
+      "kode_produk": "62700011",
+      "srs_total_qty": "100",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Dwi Rachtomo",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23669",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "DWIKE",
+      "srs_no": "1520/VI/2026/SRS",
+      "srs_date": "2026-06-19",
+      "srs_customer": "DUA KELINCI, PT.",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "31602847",
+      "srs_total_qty": "200",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23668",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SENMU",
+      "srs_no": "1519/VI/2026/SRS",
+      "srs_date": "2026-06-18",
+      "srs_customer": "SENTRAL MULTIRASA UTAMA, PT",
+      "srs_product": "JAGUNG BAKAR SEASONING",
+      "kode_produk": "31601841",
+      "srs_total_qty": "2700",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23667",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SENMU",
+      "srs_no": "1518/VI/2026/SRS",
+      "srs_date": "2026-06-18",
+      "srs_customer": "SENTRAL MULTIRASA UTAMA, PT",
+      "srs_product": "JAGUNG BAKAR SEASONING",
+      "kode_produk": "31601841",
+      "srs_total_qty": "2700",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
     {
       "srs_id": "23666",
       "is_replacement": "NO",
@@ -16,7 +135,7 @@
       "kode_produk": "MT-645916 E",
       "srs_total_qty": "150",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
       "status_next": "blank"
     },
@@ -33,7 +152,7 @@
       "kode_produk": "31301655",
       "srs_total_qty": "100",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
       "status_next": "blank"
     },
@@ -52,7 +171,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23663",
@@ -69,7 +188,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23662",
@@ -86,7 +205,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23661",
@@ -103,7 +222,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23660",
@@ -120,7 +239,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23659",
@@ -137,7 +256,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23658",
@@ -154,7 +273,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23657",
@@ -171,7 +290,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23656",
@@ -188,7 +307,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23655",
@@ -205,7 +324,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23654",
@@ -222,7 +341,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23653",
@@ -239,7 +358,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23652",
@@ -256,7 +375,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23651",
@@ -273,7 +392,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23650",
