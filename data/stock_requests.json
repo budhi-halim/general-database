@@ -1,8 +1,25 @@
 {
   "draw": 0,
-  "recordsTotal": 23558,
-  "recordsFiltered": 23558,
+  "recordsTotal": 23559,
+  "recordsFiltered": 23559,
   "data": [
+    {
+      "srs_id": "23674",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "2563/X/2025/SRS",
+      "kode_customer": "",
+      "srs_no": "1525/VI/2026/SRS",
+      "srs_date": "2026-06-19",
+      "srs_customer": "PT.DUTA PANGAN NUSANTARA ",
+      "srs_product": "STRAWBERRY SEASONING",
+      "kode_produk": "31900581",
+      "srs_total_qty": "250",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "blank"
+    },
     {
       "srs_id": "23673",
       "is_replacement": "NO",
@@ -18,7 +35,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23672",
@@ -35,7 +52,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23671",
@@ -52,7 +69,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23670",
@@ -69,7 +86,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Dwi Rachtomo",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23669",
@@ -86,7 +103,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23668",
@@ -103,7 +120,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23667",
@@ -120,7 +137,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23666",
@@ -137,7 +154,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23665",
@@ -154,7 +171,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23664",
