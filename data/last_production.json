@@ -1740,6 +1740,11 @@
     "product_code": "31503338"
   },
   {
+    "date": "2026-06-25",
+    "customer": "MIRASA FOOD INDUSTRY.PT",
+    "product_code": "31503380"
+  },
+  {
     "date": "2026-06-18",
     "customer": "SENTRAL MULTIRASA UTAMA, PT",
     "product_code": "31601841"
@@ -2930,7 +2935,7 @@
     "product_code": "A-820"
   },
   {
-    "date": "2025-12-17",
+    "date": "2026-06-25",
     "customer": "ZAENUL MUSTHOFA",
     "product_code": "A-820 B"
   },
@@ -3060,8 +3065,8 @@
     "product_code": "D-111"
   },
   {
-    "date": "2026-05-18",
-    "customer": "JULI ISWANDI, BPK",
+    "date": "2026-06-25",
+    "customer": "CV.TOOIT JAYA SEJAHTERA",
     "product_code": "D-113"
   },
   {
@@ -4005,8 +4010,8 @@
     "product_code": "MT-625237"
   },
   {
-    "date": "2026-06-15",
-    "customer": "CITA RASA SUKSES,PT",
+    "date": "2026-06-24",
+    "customer": "ABC PRESIDENT INDONESIA, PT",
     "product_code": "MT-625337"
   },
   {
@@ -4355,8 +4360,8 @@
     "product_code": "SP-3715"
   },
   {
-    "date": "2026-05-06",
-    "customer": "HENGKY WIJAYA",
+    "date": "2026-06-25",
+    "customer": "AIDA ARTAN",
     "product_code": "SP-52416 C"
   },
   {

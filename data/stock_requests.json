@@ -1,8 +1,93 @@
 {
   "draw": 0,
-  "recordsTotal": 23598,
-  "recordsFiltered": 23598,
+  "recordsTotal": 23603,
+  "recordsFiltered": 23603,
   "data": [
+    {
+      "srs_id": "23718",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "TOOJS",
+      "srs_no": "1569/VI/2026/SRS",
+      "srs_date": "2026-06-25",
+      "srs_customer": "CV.TOOIT JAYA SEJAHTERA",
+      "srs_product": "BAWANG GORENG SEASONING",
+      "kode_produk": "D-113",
+      "srs_total_qty": "150",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23717",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "MIRAS",
+      "srs_no": "1568/VI/2026/SRS",
+      "srs_date": "2026-06-25",
+      "srs_customer": "MIRASA FOOD INDUSTRY.PT",
+      "srs_product": "BUTTER SWEET SEASONING",
+      "kode_produk": "31503380",
+      "srs_total_qty": "5",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23716",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1567/VI/2026/SRS",
+      "srs_date": "2026-06-25",
+      "srs_customer": "AIDA ARTAN",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "SP-52416 C",
+      "srs_total_qty": "100",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Clement",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23715",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1566/VI/2026/SRI",
+      "srs_date": "2026-06-25",
+      "srs_customer": "ZAENUL MUSTHOFA",
+      "srs_product": "TOASTED ONION POWDER",
+      "kode_produk": "A-820 B",
+      "srs_total_qty": "1250",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23714",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "ABCP",
+      "srs_no": "1565/VI/2026/SRS",
+      "srs_date": "2026-06-24",
+      "srs_customer": "ABC PRESIDENT INDONESIA, PT",
+      "srs_product": "SOY SAUCE POWDER",
+      "kode_produk": "MT-625337",
+      "srs_total_qty": "200",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
     {
       "srs_id": "23713",
       "is_replacement": "NO",
@@ -18,7 +103,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Iwan",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23712",
@@ -35,7 +120,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Iwan",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23711",
@@ -52,7 +137,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Iwan",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23710",
@@ -67,9 +152,9 @@
       "kode_produk": "31502801",
       "srs_total_qty": "50",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23709",
@@ -84,9 +169,9 @@
       "kode_produk": "MT-831412",
       "srs_total_qty": "75",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23708",
@@ -101,9 +186,9 @@
       "kode_produk": "31102942",
       "srs_total_qty": "25",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23707",
@@ -120,7 +205,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Iwan",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23706",
@@ -137,7 +222,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23705",
@@ -154,7 +239,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23704",
@@ -171,7 +256,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23703",
@@ -188,7 +273,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23702",
@@ -203,9 +288,9 @@
       "kode_produk": "31802364",
       "srs_total_qty": "2000",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23701",
@@ -220,9 +305,9 @@
       "kode_produk": "31407070",
       "srs_total_qty": "1000",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23700",
@@ -237,9 +322,9 @@
       "kode_produk": "MT-831014 A",
       "srs_total_qty": "25",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23699",
@@ -256,7 +341,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23698",
@@ -339,7 +424,7 @@
       "kode_produk": "31900692",
       "srs_total_qty": "200",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "complete",
+      "srs_status": "Void",
       "name": "Lily",
       "status_next": "complete"
     },
@@ -356,7 +441,7 @@
       "kode_produk": "31900692",
       "srs_total_qty": "300",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "complete",
+      "srs_status": "Void",
       "name": "Lily",
       "status_next": "complete"
     },
