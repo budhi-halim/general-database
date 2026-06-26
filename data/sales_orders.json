@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 19758,
-  "recordsFiltered": 19758,
+  "recordsTotal": 19765,
+  "recordsFiltered": 19765,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -276512,7 +276512,7 @@
       "so_po_no": "07/VI/FKO/SBY/2026",
       "so_sales": "Lily",
       "so_total_spb": "147075000",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19836\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -276540,7 +276540,7 @@
       "so_po_no": "08/VI/FKO/SBY/2026",
       "so_sales": "Clement",
       "so_total_spb": "6273720",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19838\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -276614,6 +276614,104 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19843\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-25 13:27:43",
+      "so_id": "19844",
+      "so_no": "172/ISI/SPB/VI/2026",
+      "so_date": "2026-06-25",
+      "so_customer": "TAMAN SAFARI INDONESIA",
+      "so_po_no": "PO-BGR-0626-11147",
+      "so_sales": "Marchelina",
+      "so_total_spb": "1555853.589",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19844\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-25 13:33:01",
+      "so_id": "19845",
+      "so_no": "173/ISI/SPB/VI/2026",
+      "so_date": "2026-06-25",
+      "so_customer": "TAMAN SAFARI INDONESIA",
+      "so_po_no": "PO-BGR-0626-10853",
+      "so_sales": "Marchelina",
+      "so_total_spb": "4127576.625",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19845\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-25 13:38:02",
+      "so_id": "19846",
+      "so_no": "174/ISI/SPB/VI/2026",
+      "so_date": "2026-06-25",
+      "so_customer": "PT.Royal Safari Garden",
+      "so_po_no": "P260614016",
+      "so_sales": "Marchelina",
+      "so_total_spb": "2039508.45",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19846\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-25 13:58:00",
+      "so_id": "19847",
+      "so_no": "175/ISI/SPB/VI/2026",
+      "so_date": "2026-06-25",
+      "so_customer": "PT. TRIO MAHA JAYA",
+      "so_po_no": "010/VI/TMJ/2026",
+      "so_sales": "Lily",
+      "so_total_spb": "2122875",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19847\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-25 14:00:03",
+      "so_id": "19848",
+      "so_no": "176/ISI/SPB/VI/2026",
+      "so_date": "2026-06-25",
+      "so_customer": "Fisnack Inovasi Pangan",
+      "so_po_no": "",
+      "so_sales": "Marchelina",
+      "so_total_spb": "10771440",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19848\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-25 15:08:51",
+      "so_id": "19849",
+      "so_no": "177/ISI/SPB/VI/2026",
+      "so_date": "2026-06-25",
+      "so_customer": "PT. MC DELICA FOOD INDONESIA",
+      "so_po_no": "RF/PUR/2606/0081",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "446253.3",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19849\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-06-26 09:36:50",
+      "so_id": "19850",
+      "so_no": "178/ISI/SPB/VI/2026",
+      "so_date": "2026-06-26",
+      "so_customer": "PT. LEBLE BOGA ADIPERKASA",
+      "so_po_no": "11/VI/FKO/SBY/2026",
+      "so_sales": "Clement",
+      "so_total_spb": "3309187.5",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19850\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
