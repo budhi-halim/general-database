@@ -1,8 +1,127 @@
 {
   "draw": 0,
-  "recordsTotal": 23609,
-  "recordsFiltered": 23609,
+  "recordsTotal": 23616,
+  "recordsFiltered": 23616,
   "data": [
+    {
+      "srs_id": "23731",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1582/VI/2026/SRI",
+      "srs_date": "2026-06-27",
+      "srs_customer": "BINTANG KREASI AROMA, PT",
+      "srs_product": "HVP WCI",
+      "kode_produk": "HVP WCI",
+      "srs_total_qty": "20",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23729",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "1412/VI/2026/SRS",
+      "kode_customer": "INDSS",
+      "srs_no": "1580/VI/2026/SRS",
+      "srs_date": "2026-06-27",
+      "srs_customer": "INDOFOOD CBP SUKSES MAKMUR TBK, PT.",
+      "srs_product": "SOY SAUCE POWDER",
+      "kode_produk": "31700492",
+      "srs_total_qty": "18000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Angel (Sales)",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23730",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1581/VI/2026/SRS",
+      "srs_date": "2026-06-27",
+      "srs_customer": "NISSIN FOODS CO., LTD.",
+      "srs_product": "GARLIC POWDER",
+      "kode_produk": "MS-2001 A",
+      "srs_total_qty": "200",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Sucie",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23728",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "0078/I/2026/SRS",
+      "kode_customer": "LIDY",
+      "srs_no": "1579/VI/2026/SRS",
+      "srs_date": "2026-06-26",
+      "srs_customer": "LIDYA AYUNINGTYAS",
+      "srs_product": "CORN POWDER",
+      "kode_produk": "MT-738036",
+      "srs_total_qty": "1500",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Dwi Rachtomo",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "23727",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1578/VI/2026/SRS",
+      "srs_date": "2026-06-26",
+      "srs_customer": "PONDASI INTI SEJAHTERA, PT",
+      "srs_product": "ROASTED CORN",
+      "kode_produk": "C-002",
+      "srs_total_qty": "125",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "23726",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "1106/IV/2026/SRI",
+      "kode_customer": "UNILE",
+      "srs_no": "1577/VI/2026/SRI",
+      "srs_date": "2026-06-26",
+      "srs_customer": "UNILEVER INDONESIA TBK, PT",
+      "srs_product": "HVP WCI",
+      "kode_produk": "HVP WCI",
+      "srs_total_qty": "2000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23725",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "0605/II/2026/SRS",
+      "kode_customer": "",
+      "srs_no": "1576/VI/2026/SRS",
+      "srs_date": "2026-06-26",
+      "srs_customer": "PT. TRIO RASA MAS",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "31406642",
+      "srs_total_qty": "2000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "complete"
+    },
     {
       "srs_id": "23724",
       "is_replacement": "NO",
@@ -33,9 +152,9 @@
       "kode_produk": "31502808",
       "srs_total_qty": "25",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Clement",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23722",
@@ -52,7 +171,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23721",
@@ -69,7 +188,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23720",
@@ -103,7 +222,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23718",
