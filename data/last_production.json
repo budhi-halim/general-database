@@ -405,7 +405,7 @@
     "product_code": "31201542"
   },
   {
-    "date": "2026-06-05",
+    "date": "2026-07-07",
     "customer": "PT. Rukun Mitra Sentosa",
     "product_code": "31201573"
   },
@@ -460,7 +460,7 @@
     "product_code": "31201655"
   },
   {
-    "date": "2026-05-13",
+    "date": "2026-07-07",
     "customer": "ANEKA SARIVITA, PT.",
     "product_code": "31201682"
   },
@@ -1230,8 +1230,8 @@
     "product_code": "31407070"
   },
   {
-    "date": "2026-04-29",
-    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "date": "2026-07-07",
+    "customer": "AHMAD FAUZI",
     "product_code": "31407081"
   },
   {
@@ -1460,7 +1460,7 @@
     "product_code": "31407944"
   },
   {
-    "date": "2026-07-03",
+    "date": "2026-07-08",
     "customer": "PT. Janji Rasa Bersama",
     "product_code": "31407957"
   },
@@ -1490,7 +1490,7 @@
     "product_code": "31408113"
   },
   {
-    "date": "2026-02-27",
+    "date": "2026-07-07",
     "customer": "PT. TRIO RASA MAS",
     "product_code": "31501862"
   },
@@ -2025,7 +2025,7 @@
     "product_code": "31602766"
   },
   {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31602769"
   },
@@ -2100,7 +2100,7 @@
     "product_code": "31602932"
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-07-08",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31602950"
   },
@@ -2160,7 +2160,7 @@
     "product_code": "31700433"
   },
   {
-    "date": "2026-06-12",
+    "date": "2026-07-08",
     "customer": "MEIJI FOOD INDONESIA, PT",
     "product_code": "31700465"
   },
@@ -2645,7 +2645,7 @@
     "product_code": "34100039"
   },
   {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "customer": "SEKAR BUMI TBK, PT",
     "product_code": "34100048"
   },
@@ -2723,6 +2723,11 @@
     "date": "2026-04-06",
     "customer": "SEKAR BUMI TBK, PT",
     "product_code": "34400425"
+  },
+  {
+    "date": "2026-07-07",
+    "customer": "SEKAR BUMI TBK, PT",
+    "product_code": "34400506"
   },
   {
     "date": "2025-08-18",
@@ -3320,7 +3325,7 @@
     "product_code": "MT-1101154-0"
   },
   {
-    "date": "2026-02-13",
+    "date": "2026-07-08",
     "customer": "DUA KELINCI, PT.",
     "product_code": "MT-1101243-2"
   },
@@ -3790,7 +3795,7 @@
     "product_code": "MT-341221"
   },
   {
-    "date": "2026-03-16",
+    "date": "2026-07-07",
     "customer": "PT. Rukun Mitra Sentosa",
     "product_code": "MT-34413"
   },
@@ -3820,7 +3825,7 @@
     "product_code": "MT-373438"
   },
   {
-    "date": "2026-06-25",
+    "date": "2026-07-08",
     "customer": "NUTRIFOOD INDONESIA, PT",
     "product_code": "MT-3779 A"
   },
@@ -4015,7 +4020,7 @@
     "product_code": "MT-614318"
   },
   {
-    "date": "2026-06-10",
+    "date": "2026-07-07",
     "customer": "LASALLE FOOD INDONESIA, PT.",
     "product_code": "MT-625237"
   },
