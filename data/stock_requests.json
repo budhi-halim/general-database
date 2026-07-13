@@ -1,8 +1,25 @@
 {
   "draw": 0,
-  "recordsTotal": 23743,
-  "recordsFiltered": 23743,
+  "recordsTotal": 23744,
+  "recordsFiltered": 23744,
   "data": [
+    {
+      "srs_id": "23859",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1710/VII/2026/SRS",
+      "srs_date": "2026-07-13",
+      "srs_customer": "PT.DUTA PANGAN NUSANTARA ",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "06-0091",
+      "srs_total_qty": "1500",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "blank"
+    },
     {
       "srs_id": "23858",
       "is_replacement": "NO",
