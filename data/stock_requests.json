@@ -1,8 +1,178 @@
 {
   "draw": 0,
-  "recordsTotal": 23744,
-  "recordsFiltered": 23744,
+  "recordsTotal": 23754,
+  "recordsFiltered": 23754,
   "data": [
+    {
+      "srs_id": "23869",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "UFIMA",
+      "srs_no": "1720/VII/2026/SRI",
+      "srs_date": "2026-07-14",
+      "srs_customer": "UFI MASUYA NUSANTARA, PT.",
+      "srs_product": "HVP WCI",
+      "kode_produk": "HVP WCI",
+      "srs_total_qty": "60",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23868",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "MANOA",
+      "srs_no": "1719/VII/2026/SRS",
+      "srs_date": "2026-07-14",
+      "srs_customer": "MANOHARA ASRI, PT",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "MT-593316",
+      "srs_total_qty": "300",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23867",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "3434/XII/2025/SRS",
+      "kode_customer": "MANOA",
+      "srs_no": "1718/VII/2026/SRS",
+      "srs_date": "2026-07-14",
+      "srs_customer": "MANOHARA ASRI, PT",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "MT-159316 D",
+      "srs_total_qty": "300",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "Waiting Approval",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23866",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "2466/IX/2024/SRS",
+      "kode_customer": "MANOA",
+      "srs_no": "1717/VII/2026/SRS",
+      "srs_date": "2026-07-14",
+      "srs_customer": "MANOHARA ASRI, PT",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "MT-159316 D",
+      "srs_total_qty": "200",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "Waiting Approval",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23865",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "MANOA",
+      "srs_no": "1716/VII/2026/SRS",
+      "srs_date": "2026-07-14",
+      "srs_customer": "MANOHARA ASRI, PT",
+      "srs_product": "ROASTED CORN CHEESE SEASONING",
+      "kode_produk": "31602240",
+      "srs_total_qty": "100",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23864",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "MANOA",
+      "srs_no": "1715/VII/2026/SRS",
+      "srs_date": "2026-07-14",
+      "srs_customer": "MANOHARA ASRI, PT",
+      "srs_product": "SWEET CORN SEASONING",
+      "kode_produk": "31602501",
+      "srs_total_qty": "100",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23863",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1714/VII/2026/SRI",
+      "srs_date": "2026-07-14",
+      "srs_customer": "PT. SEPANJANG PANGAN JAYA",
+      "srs_product": "DRY LEEK",
+      "kode_produk": "01",
+      "srs_total_qty": "40",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23862",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1713/VII/2026/SRS",
+      "srs_date": "2026-07-13",
+      "srs_customer": "CAHAYA KENCANA",
+      "srs_product": "CHILLI BBQ SEASONING",
+      "kode_produk": "31407370",
+      "srs_total_qty": "1000",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23861",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1712/VII/2026/SRS",
+      "srs_date": "2026-07-13",
+      "srs_customer": "CAHAYA KENCANA",
+      "srs_product": "KALDU AYAM SEASONING",
+      "kode_produk": "31102928",
+      "srs_total_qty": "5000",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23860",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "KADUM",
+      "srs_no": "1711/VII/2026/SRS",
+      "srs_date": "2026-07-13",
+      "srs_customer": "KADU MANIS UTAMA",
+      "srs_product": "SUGAR CINNAMON",
+      "kode_produk": "31406617",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "blank"
+    },
     {
       "srs_id": "23859",
       "is_replacement": "NO",
@@ -18,7 +188,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23858",
@@ -35,7 +205,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Iwan",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23857",
@@ -52,7 +222,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Clement",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23856",
@@ -69,7 +239,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Clement",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23855",
@@ -86,7 +256,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Clement",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23854",
@@ -103,7 +273,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Clement",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23853",
@@ -120,7 +290,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23852",
@@ -137,7 +307,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23851",
@@ -154,7 +324,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23850",
@@ -171,7 +341,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23849",
@@ -358,7 +528,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23837",
@@ -2313,7 +2483,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Dwi Rachtomo",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23723",
@@ -6017,7 +6187,7 @@
       "kode_produk": "31802440",
       "srs_total_qty": "50",
       "srs_remarks": "Advance",
-      "srs_status": "complete",
+      "srs_status": "Void",
       "name": "Iwan",
       "status_next": "complete"
     },

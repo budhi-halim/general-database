@@ -25,8 +25,8 @@
     "product_code": "*31602140"
   },
   {
-    "date": "2026-06-30",
-    "customer": "CITA RASA SUKSES,PT",
+    "date": "2026-07-14",
+    "customer": "PT. SEPANJANG PANGAN JAYA",
     "product_code": "01"
   },
   {
@@ -273,6 +273,11 @@
     "date": "2023-11-22",
     "customer": "PT. TRIO MAHA JAYA",
     "product_code": "31102923"
+  },
+  {
+    "date": "2026-07-13",
+    "customer": "CAHAYA KENCANA",
+    "product_code": "31102928"
   },
   {
     "date": "2026-06-24",
@@ -1045,7 +1050,7 @@
     "product_code": "31406609"
   },
   {
-    "date": "2025-08-21",
+    "date": "2026-07-13",
     "customer": "KADU MANIS UTAMA",
     "product_code": "31406617"
   },
@@ -1318,6 +1323,11 @@
     "date": "2026-06-23",
     "customer": "AGEL LANGGENG",
     "product_code": "31407368"
+  },
+  {
+    "date": "2026-07-13",
+    "customer": "CAHAYA KENCANA",
+    "product_code": "31407370"
   },
   {
     "date": "2024-02-07",
@@ -1870,7 +1880,7 @@
     "product_code": "31602236"
   },
   {
-    "date": "2026-05-21",
+    "date": "2026-07-14",
     "customer": "MANOHARA ASRI, PT",
     "product_code": "31602240"
   },
@@ -1925,7 +1935,7 @@
     "product_code": "31602491"
   },
   {
-    "date": "2025-08-14",
+    "date": "2026-07-14",
     "customer": "MANOHARA ASRI, PT",
     "product_code": "31602501"
   },
@@ -3145,8 +3155,8 @@
     "product_code": "GMS-3028"
   },
   {
-    "date": "2026-07-06",
-    "customer": "PT.DUTA PANGAN NUSANTARA ",
+    "date": "2026-07-14",
+    "customer": "UFI MASUYA NUSANTARA, PT.",
     "product_code": "HVP WCI"
   },
   {
@@ -3655,7 +3665,7 @@
     "product_code": "MT-154519"
   },
   {
-    "date": "2026-06-13",
+    "date": "2026-07-14",
     "customer": "MANOHARA ASRI, PT",
     "product_code": "MT-159316 D"
   },
@@ -3985,7 +3995,7 @@
     "product_code": "MT-588411"
   },
   {
-    "date": "2026-05-09",
+    "date": "2026-07-14",
     "customer": "MANOHARA ASRI, PT",
     "product_code": "MT-593316"
   },
