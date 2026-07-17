@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 19909,
-  "recordsFiltered": 19909,
+  "recordsTotal": 19915,
+  "recordsFiltered": 19915,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -278499,7 +278499,7 @@
       "so_customer": "PT.Siumang Teman Sukses (SAIKHO INDO KREATIF, PT.)",
       "so_po_no": "DFT.53117",
       "so_sales": "Marchelina",
-      "so_total_spb": "2775000",
+      "so_total_spb": "27750000",
       "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
@@ -278728,6 +278728,90 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19994\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-16 11:10:52",
+      "so_id": "19995",
+      "so_no": "114/ISI/SPB/VII/2026",
+      "so_date": "2026-07-16",
+      "so_customer": "SARA YULI SUPIYATI",
+      "so_po_no": "",
+      "so_sales": "Iwan",
+      "so_total_spb": "2549309.25",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19995\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-16 11:27:01",
+      "so_id": "19996",
+      "so_no": "115/ISI/SPB/VII/2026",
+      "so_date": "2026-07-16",
+      "so_customer": "JULI ISWANDI, BPK",
+      "so_po_no": "01/VII/FKO/SBY/2026",
+      "so_sales": "Lily",
+      "so_total_spb": "1431900",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19996\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-16 11:54:33",
+      "so_id": "19997",
+      "so_no": "116/ISI/SPB/VII/2026",
+      "so_date": "2026-07-16",
+      "so_customer": "PT. TRIO RASA MAS",
+      "so_po_no": "012/TRM/V/2026",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "87024000",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19997\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-16 15:20:51",
+      "so_id": "19998",
+      "so_no": "117/ISI/SPB/VII/2026",
+      "so_date": "2026-07-16",
+      "so_customer": "INTI MEGAH INDONESIA, CV",
+      "so_po_no": "IMI20260092",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "11181340.8",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19998\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-17 08:52:18",
+      "so_id": "19999",
+      "so_no": "118/ISI/SPB/VII/2026",
+      "so_date": "2026-07-17",
+      "so_customer": "HEINZ ABC INDONESIA, PT",
+      "so_po_no": "4000004293",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "15319665",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/19999\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-17 09:45:06",
+      "so_id": "20000",
+      "so_no": "119/ISI/SPB/VII/2026",
+      "so_date": "2026-07-17",
+      "so_customer": "INDOFOOD FORTUNA MAKMUR",
+      "so_po_no": "4507341692",
+      "so_sales": "Angel (Sales)",
+      "so_total_spb": "2244757440",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20000\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
