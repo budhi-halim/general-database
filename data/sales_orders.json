@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 19915,
-  "recordsFiltered": 19915,
+  "recordsTotal": 19918,
+  "recordsFiltered": 19918,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -278812,6 +278812,48 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20000\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-17 12:04:42",
+      "so_id": "20001",
+      "so_no": "120/ISI/SPB/VII/2026",
+      "so_date": "2026-07-17",
+      "so_customer": "SEKAR BUMI TBK, PT",
+      "so_po_no": "PO-26-04-00388/FOODCKP",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "103147410.672",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20001\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-17 12:36:49",
+      "so_id": "20002",
+      "so_no": "121/ISI/SPB/VII/2026",
+      "so_date": "2026-07-17",
+      "so_customer": "SEKAR BUMI TBK, PT",
+      "so_po_no": "PO-26-07-00134/FOODCKP",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "28829435.04",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20002\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-17 13:33:26",
+      "so_id": "20003",
+      "so_no": "122/ISI/SPB/VII/2026",
+      "so_date": "2026-07-17",
+      "so_customer": "JADI ABADI CORAK BISCUIT,PT",
+      "so_po_no": "4100006852",
+      "so_sales": "Lily",
+      "so_total_spb": "5735925",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20003\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
