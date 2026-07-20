@@ -180,7 +180,7 @@
     "product_code": "31102565"
   },
   {
-    "date": "2025-11-07",
+    "date": "2026-07-20",
     "customer": "ADABI CONSUMER INDUSTRIES SDN. BHD.",
     "product_code": "31102593"
   },
@@ -295,7 +295,7 @@
     "product_code": "31102992"
   },
   {
-    "date": "2026-06-18",
+    "date": "2026-07-20",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "31102997"
   },
@@ -455,7 +455,7 @@
     "product_code": "31201646"
   },
   {
-    "date": "2026-06-18",
+    "date": "2026-07-20",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "31201653"
   },
@@ -950,7 +950,7 @@
     "product_code": "31406352"
   },
   {
-    "date": "2026-06-18",
+    "date": "2026-07-20",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "31406355"
   },
@@ -1365,7 +1365,7 @@
     "product_code": "31407519"
   },
   {
-    "date": "2026-06-18",
+    "date": "2026-07-20",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "31407584"
   },
@@ -1765,6 +1765,11 @@
     "product_code": "31503380"
   },
   {
+    "date": "2026-07-20",
+    "customer": "PT.Royal Safari Garden",
+    "product_code": "31503387"
+  },
+  {
     "date": "2026-06-18",
     "customer": "SENTRAL MULTIRASA UTAMA, PT",
     "product_code": "31601841"
@@ -2150,7 +2155,7 @@
     "product_code": "31603045"
   },
   {
-    "date": "2026-06-09",
+    "date": "2026-07-20",
     "customer": "SURABAYA TOP",
     "product_code": "31603065"
   },
@@ -2260,7 +2265,7 @@
     "product_code": "31801942"
   },
   {
-    "date": "2025-11-07",
+    "date": "2026-07-20",
     "customer": "ADABI CONSUMER INDUSTRIES SDN. BHD.",
     "product_code": "31802033"
   },
@@ -2525,6 +2530,11 @@
     "product_code": "31802675"
   },
   {
+    "date": "2026-07-20",
+    "customer": "PT.Royal Safari Garden",
+    "product_code": "31802687"
+  },
+  {
     "date": "2026-07-07",
     "customer": "PT.Royal Safari Garden",
     "product_code": "31802690"
@@ -2630,7 +2640,7 @@
     "product_code": "33000175"
   },
   {
-    "date": "2026-03-27",
+    "date": "2026-07-20",
     "customer": "FORISA NUSAPERSADA, PT.",
     "product_code": "33000244"
   },
@@ -2645,7 +2655,7 @@
     "product_code": "33200020"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-07-20",
     "customer": "FORISA NUSAPERSADA, PT.",
     "product_code": "34"
   },
@@ -3150,8 +3160,8 @@
     "product_code": "GMS-2090"
   },
   {
-    "date": "2026-07-06",
-    "customer": "Golden Powder Drink ",
+    "date": "2026-07-20",
+    "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "GMS-21031"
   },
   {
@@ -3385,7 +3395,7 @@
     "product_code": "MT-1105124-0"
   },
   {
-    "date": "2026-05-21",
+    "date": "2026-07-20",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "MT-1105124-3"
   },
