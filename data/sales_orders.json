@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 19943,
-  "recordsFiltered": 19943,
+  "recordsTotal": 19948,
+  "recordsFiltered": 19948,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -279204,6 +279204,76 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20028\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-23 10:00:50",
+      "so_id": "20029",
+      "so_no": "148/ISI/SPB/VII/2026",
+      "so_date": "2026-07-23",
+      "so_customer": "Ilham Nugroho Putra ",
+      "so_po_no": "04/VII/FKO/SBY/2026",
+      "so_sales": "Clement",
+      "so_total_spb": "659340",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20029\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-23 10:34:18",
+      "so_id": "20030",
+      "so_no": "149/ISI/SPB/VII/2026",
+      "so_date": "2026-07-23",
+      "so_customer": "PT.Siumang Teman Sukses (SAIKHO INDO KREATIF, PT.)",
+      "so_po_no": "DFT.61479",
+      "so_sales": "Marchelina",
+      "so_total_spb": "27750000",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20030\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-23 10:38:12",
+      "so_id": "20031",
+      "so_no": "150/ISI/SPB/VII/2026",
+      "so_date": "2026-07-23",
+      "so_customer": "LASALLE FOOD INDONESIA, PT.",
+      "so_po_no": "PB260002273",
+      "so_sales": "Marchelina",
+      "so_total_spb": "83061744",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20031\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-23 10:43:33",
+      "so_id": "20032",
+      "so_no": "151/ISI/SPB/VII/2026",
+      "so_date": "2026-07-23",
+      "so_customer": "KADU MANIS UTAMA",
+      "so_po_no": "PO-2607-000616",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "81349125",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20032\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-23 10:50:13",
+      "so_id": "20033",
+      "so_no": "152/ISI/SPB/VII/2026",
+      "so_date": "2026-07-23",
+      "so_customer": "SANITAS,PT",
+      "so_po_no": "PO-FD-2026-003962",
+      "so_sales": "Iwan",
+      "so_total_spb": "54075920.2275",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20033\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }

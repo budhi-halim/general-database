@@ -90,8 +90,8 @@
     "product_code": "06-0037 A"
   },
   {
-    "date": "2026-07-15",
-    "customer": "BRATA ADI LAKSANA, PT",
+    "date": "2026-07-23",
+    "customer": "SANITAS,PT",
     "product_code": "06-0091"
   },
   {
@@ -210,7 +210,7 @@
     "product_code": "31102707"
   },
   {
-    "date": "2026-07-01",
+    "date": "2026-07-23",
     "customer": "INTI SARI INTERNATIONAL, PT",
     "product_code": "31102720"
   },
@@ -1035,7 +1035,7 @@
     "product_code": "31406590"
   },
   {
-    "date": "2026-06-29",
+    "date": "2026-07-23",
     "customer": "INDOFOOD FORTUNA MAKMUR",
     "product_code": "31406591"
   },
@@ -1240,8 +1240,8 @@
     "product_code": "31407081"
   },
   {
-    "date": "2026-07-22",
-    "customer": "NATALIA SUTRISNO",
+    "date": "2026-07-23",
+    "customer": "IWAN TEGUH RIANTO",
     "product_code": "31407110"
   },
   {
@@ -1465,8 +1465,8 @@
     "product_code": "31407933"
   },
   {
-    "date": "2025-11-27",
-    "customer": "PT.Calio Pratama Nusantara ",
+    "date": "2026-07-23",
+    "customer": "Ilham Nugroho Putra ",
     "product_code": "31407944"
   },
   {
@@ -1675,7 +1675,7 @@
     "product_code": "31503011"
   },
   {
-    "date": "2026-07-01",
+    "date": "2026-07-23",
     "customer": "INTI SARI INTERNATIONAL, PT",
     "product_code": "31503061"
   },
@@ -1750,14 +1750,19 @@
     "product_code": "31503315"
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-07-23",
     "customer": "INDOFOOD FORTUNA MAKMUR",
     "product_code": "31503336"
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-07-23",
     "customer": "INDOFOOD FORTUNA MAKMUR",
     "product_code": "31503338"
+  },
+  {
+    "date": "2026-07-23",
+    "customer": "IWAN TEGUH RIANTO",
+    "product_code": "31503339"
   },
   {
     "date": "2026-06-25",
@@ -1855,7 +1860,7 @@
     "product_code": "31602162"
   },
   {
-    "date": "2026-06-17",
+    "date": "2026-07-22",
     "customer": "KADU MANIS UTAMA",
     "product_code": "31602173"
   },
@@ -1910,7 +1915,7 @@
     "product_code": "31602420"
   },
   {
-    "date": "2026-07-01",
+    "date": "2026-07-23",
     "customer": "INTI SARI INTERNATIONAL, PT",
     "product_code": "31602425"
   },
@@ -1930,7 +1935,7 @@
     "product_code": "31602480"
   },
   {
-    "date": "2026-07-01",
+    "date": "2026-07-23",
     "customer": "INTI SARI INTERNATIONAL, PT",
     "product_code": "31602487"
   },
@@ -2090,7 +2095,7 @@
     "product_code": "31602873"
   },
   {
-    "date": "2026-02-19",
+    "date": "2026-07-23",
     "customer": "INDOFOOD FORTUNA MAKMUR",
     "product_code": "31602884"
   },
@@ -2130,7 +2135,7 @@
     "product_code": "31602950"
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-07-23",
     "customer": "INDOFOOD FORTUNA MAKMUR",
     "product_code": "31602989"
   },
@@ -2140,7 +2145,7 @@
     "product_code": "31602990"
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-07-23",
     "customer": "INDOFOOD FORTUNA MAKMUR",
     "product_code": "31602992"
   },
@@ -2620,7 +2625,7 @@
     "product_code": "31900692"
   },
   {
-    "date": "2026-04-13",
+    "date": "2026-07-22",
     "customer": "ULTRA PRIMA ABADI,PT",
     "product_code": "32000351"
   },
@@ -3030,8 +3035,8 @@
     "product_code": "C-002"
   },
   {
-    "date": "2026-07-17",
-    "customer": "GUNTUR PAP",
+    "date": "2026-07-23",
+    "customer": "IWAN TEGUH RIANTO",
     "product_code": "C-003"
   },
   {
@@ -3060,8 +3065,8 @@
     "product_code": "CT-581"
   },
   {
-    "date": "2026-06-24",
-    "customer": "MUHAMMAD FAUZI",
+    "date": "2026-07-23",
+    "customer": "SANITAS,PT",
     "product_code": "D-101"
   },
   {
@@ -3355,7 +3360,7 @@
     "product_code": "MT-1101154-0"
   },
   {
-    "date": "2026-07-08",
+    "date": "2026-07-22",
     "customer": "DUA KELINCI, PT.",
     "product_code": "MT-1101243-2"
   },
@@ -3405,7 +3410,7 @@
     "product_code": "MT-1105134-4"
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-07-23",
     "customer": "SANITAS,PT",
     "product_code": "MT-1105244-0"
   },
@@ -3675,7 +3680,7 @@
     "product_code": "MT-139511"
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-07-23",
     "customer": "SANITAS,PT",
     "product_code": "MT-148516 B"
   },
@@ -3980,7 +3985,7 @@
     "product_code": "MT-553014 A"
   },
   {
-    "date": "2026-01-28",
+    "date": "2026-07-23",
     "customer": "INDOFOOD FORTUNA MAKMUR",
     "product_code": "MT-555815 E"
   },
@@ -4075,8 +4080,8 @@
     "product_code": "MT-630235 A"
   },
   {
-    "date": "2026-05-23",
-    "customer": "PT. Selera Pangan Interfood",
+    "date": "2026-07-23",
+    "customer": "SANITAS,PT",
     "product_code": "MT-631618 B"
   },
   {
