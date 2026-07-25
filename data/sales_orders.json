@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 19955,
-  "recordsFiltered": 19955,
+  "recordsTotal": 19961,
+  "recordsFiltered": 19961,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -279372,6 +279372,90 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20040\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-24 11:19:38",
+      "so_id": "20041",
+      "so_no": "160/ISI/SPB/VII/2026",
+      "so_date": "2026-07-24",
+      "so_customer": "MALINDO FOOD DELIGHT, PT.",
+      "so_po_no": "POA-00019240-1",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "14652000",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20041\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-24 11:23:48",
+      "so_id": "20042",
+      "so_no": "161/ISI/SPB/VII/2026",
+      "so_date": "2026-07-24",
+      "so_customer": "CHAROEN POKPHAND INDONESIA,PT",
+      "so_po_no": "1721043946",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "5389205.4",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20042\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-24 15:54:58",
+      "so_id": "20043",
+      "so_no": "162/ISI/SPB/VII/2026",
+      "so_date": "2026-07-24",
+      "so_customer": "Super Rasa",
+      "so_po_no": "",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "1318125",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20043\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-25 08:41:31",
+      "so_id": "20044",
+      "so_no": "163/ISI/SPB/VII/2026",
+      "so_date": "2026-07-25",
+      "so_customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+      "so_po_no": "",
+      "so_sales": "Marchelina",
+      "so_total_spb": "58796616.75",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20044\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-25 09:06:48",
+      "so_id": "20045",
+      "so_no": "164/ISI/SPB/VII/2026",
+      "so_date": "2026-07-25",
+      "so_customer": "GRAHAINMA SINARTRIKARSA,PT.(PT GIST",
+      "so_po_no": "005/06/GIST/26",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "71174587.5",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20045\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-25 09:40:49",
+      "so_id": "20046",
+      "so_no": "165/ISI/SPB/VII/2026",
+      "so_date": "2026-07-25",
+      "so_customer": "MIRASA FOOD INDUSTRY.PT",
+      "so_po_no": "101/PO/MFI/07/26",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "2822619",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20046\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
