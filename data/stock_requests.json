@@ -1,8 +1,59 @@
 {
   "draw": 0,
-  "recordsTotal": 23860,
-  "recordsFiltered": 23860,
+  "recordsTotal": 23863,
+  "recordsFiltered": 23863,
   "data": [
+    {
+      "srs_id": "23978",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "CHAFO",
+      "srs_no": "1829/VII/2026/SRS",
+      "srs_date": "2026-07-28",
+      "srs_customer": "CAHAYA ANUGERAH SENTOSA",
+      "srs_product": "BAWANG MANIS SEASONING",
+      "kode_produk": "MT-221218 A",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Clement",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23977",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "CHAFO",
+      "srs_no": "1828/VII/2026/SRS",
+      "srs_date": "2026-07-28",
+      "srs_customer": "CAHAYA ANUGERAH SENTOSA",
+      "srs_product": "SAMBAL UDANG SEASONING",
+      "kode_produk": "MT-636313",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Clement",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "23976",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1827/VII/2026/SRI",
+      "srs_date": "2026-07-27",
+      "srs_customer": "JOVAN PAUL USMANY",
+      "srs_product": "HVP WCI",
+      "kode_produk": "HVP WCI",
+      "srs_total_qty": "20",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Angel (Sales)",
+      "status_next": "blank"
+    },
     {
       "srs_id": "23975",
       "is_replacement": "NO",
@@ -18,7 +69,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Iwan",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "23974",
