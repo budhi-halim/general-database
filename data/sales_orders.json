@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 20016,
-  "recordsFiltered": 20016,
+  "recordsTotal": 20021,
+  "recordsFiltered": 20021,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -280208,7 +280208,7 @@
       "so_po_no": "1635",
       "so_sales": "Budhiarto Halim",
       "so_total_spb": "2372625",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20100\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -280222,10 +280222,80 @@
       "so_po_no": "",
       "so_sales": "Budhiarto Halim",
       "so_total_spb": "2394936",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20101\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-31 12:53:31",
+      "so_id": "20102",
+      "so_no": "221/ISI/SPB/VII/2026",
+      "so_date": "2026-07-31",
+      "so_customer": "NANA ABADI, CV ",
+      "so_po_no": "26-939",
+      "so_sales": "Iwan",
+      "so_total_spb": "1529999.99625",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20102\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-31 13:17:25",
+      "so_id": "20103",
+      "so_no": "222/ISI/SPB/VII/2026",
+      "so_date": "2026-07-31",
+      "so_customer": "UNILEVER INDONESIA TBK, PT",
+      "so_po_no": "4530684396",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "41625000",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20103\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-07-31 14:38:48",
+      "so_id": "20104",
+      "so_no": "223/ISI/SPB/VII/2026",
+      "so_date": "2026-07-31",
+      "so_customer": "SEKAR BUMI TBK, PT",
+      "so_po_no": "PO-26-07-00124/FOODCKP",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "8598692.7",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20104\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-08-01 09:14:48",
+      "so_id": "20105",
+      "so_no": "1/ISI/SPB/VIII/2026",
+      "so_date": "2026-08-01",
+      "so_customer": "CIPTA SELERA SEMESTA, PT",
+      "so_po_no": "CSS/PO/2607263",
+      "so_sales": "Angel (Sales)",
+      "so_total_spb": "86473440",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20105\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-08-01 10:54:26",
+      "so_id": "20106",
+      "so_no": "2/ISI/SPB/VIII/2026",
+      "so_date": "2026-08-01",
+      "so_customer": "SEKAR BUMI TBK, PT",
+      "so_po_no": "PO-26-07-00124/FOODCKP",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "11273841.54",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20106\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
