@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 20058,
-  "recordsFiltered": 20058,
+  "recordsTotal": 20060,
+  "recordsFiltered": 20060,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -280796,7 +280796,7 @@
       "so_po_no": "4507269735",
       "so_sales": "Angel (Sales)",
       "so_total_spb": "250586940",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20142\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -280810,10 +280810,38 @@
       "so_po_no": "4507194733",
       "so_sales": "Angel (Sales)",
       "so_total_spb": "63029130",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20143\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-08-07 16:07:07",
+      "so_id": "20144",
+      "so_no": "40/ISI/SPB/VIII/2026",
+      "so_date": "2026-08-07",
+      "so_customer": "PT.Royal Safari Garden",
+      "so_po_no": "P260807027",
+      "so_sales": "Marchelina",
+      "so_total_spb": "4079016.9",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20144\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-08-07 16:40:50",
+      "so_id": "20145",
+      "so_no": "41/ISI/SPB/VIII/2026",
+      "so_date": "2026-08-07",
+      "so_customer": "CITA RASA SUKSES,PT",
+      "so_po_no": "077/CRS/BBU/VII/26",
+      "so_sales": "Sucie",
+      "so_total_spb": "1305360",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20145\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
