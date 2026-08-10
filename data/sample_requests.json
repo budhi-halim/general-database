@@ -1,8 +1,22 @@
 {
   "draw": 0,
-  "recordsTotal": 12854,
-  "recordsFiltered": 12854,
+  "recordsTotal": 12855,
+  "recordsFiltered": 12855,
   "data": [
+    {
+      "sr_id": "12862",
+      "sr_no": "1096/VIII/2026/SRF",
+      "sr_date": "2026-08-10",
+      "sr_pic": "Budhiarto Halim",
+      "sr_customer": "KAYA RASA NUSANTARA , PT",
+      "sr_srtype": "Duplication Request",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "0 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-08-10 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12862)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
     {
       "sr_id": "12861",
       "sr_no": "1095/VIII/2026/SRF",
@@ -24,7 +38,7 @@
       "sr_pic": "Bernard Abielius Sugiardja",
       "sr_customer": "PT Cipta Rasa Food",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING APPROVAL PM",
+      "sr_status": "APPROVED BY PM",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Blank",
       "sr_created_at": "2026-08-07 00:00:00",
@@ -80,7 +94,7 @@
       "sr_pic": "viewsrftir",
       "sr_customer": "Marketing",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING APPROVAL PM",
+      "sr_status": "APPROVED BY PM",
       "tot_item": "5 Items",
       "sr_statkirimbarang": "Blank",
       "sr_created_at": "2026-08-07 00:00:00",
