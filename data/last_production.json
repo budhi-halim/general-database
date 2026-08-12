@@ -270,6 +270,11 @@
     "product_code": "31102879"
   },
   {
+    "date": "2026-08-11",
+    "customer": "CV. BINTANG WALET",
+    "product_code": "31102885"
+  },
+  {
     "date": "2026-08-05",
     "customer": "PT. Selera Pangan Interfood",
     "product_code": "31102920"
@@ -500,8 +505,8 @@
     "product_code": "31301041"
   },
   {
-    "date": "2026-07-17",
-    "customer": "JADI ABADI CORAK BISCUIT,PT",
+    "date": "2026-08-11",
+    "customer": "JERRY KOSWARA",
     "product_code": "31301043"
   },
   {
@@ -1100,7 +1105,7 @@
     "product_code": "31406689"
   },
   {
-    "date": "2026-08-10",
+    "date": "2026-08-11",
     "customer": "ARIRA PANGINDO, CV.",
     "product_code": "31406700"
   },
@@ -2575,6 +2580,11 @@
     "product_code": "31802707"
   },
   {
+    "date": "2026-08-11",
+    "customer": "PT. JAMAN SEHAT SEMPURNA ",
+    "product_code": "31802709"
+  },
+  {
     "date": "2025-02-10",
     "customer": "KHOIRUL AMIN",
     "product_code": "31900481"
@@ -3110,8 +3120,8 @@
     "product_code": "D-105"
   },
   {
-    "date": "2026-07-29",
-    "customer": "PURWANTO",
+    "date": "2026-08-11",
+    "customer": "ONG LIN KI",
     "product_code": "D-107"
   },
   {
@@ -3330,8 +3340,8 @@
     "product_code": "MT-1100084-2"
   },
   {
-    "date": "2026-07-29",
-    "customer": "PURWANTO",
+    "date": "2026-08-11",
+    "customer": "PT.HAP Liong Teknopangan",
     "product_code": "MT-1100116-0"
   },
   {
@@ -3345,7 +3355,7 @@
     "product_code": "MT-1100334-1"
   },
   {
-    "date": "2026-05-26",
+    "date": "2026-08-11",
     "customer": "CV. Tiga Beruang Makmur",
     "product_code": "MT-1100524-1"
   },
@@ -3755,12 +3765,12 @@
     "product_code": "MT-171331 C"
   },
   {
-    "date": "2026-06-08",
-    "customer": "FRANKY SETIAWAN, BP",
+    "date": "2026-08-12",
+    "customer": "SARA YULI SUPIYATI",
     "product_code": "MT-180516"
   },
   {
-    "date": "2026-07-06",
+    "date": "2026-08-11",
     "customer": "PT. TRIO MAHA JAYA",
     "product_code": "MT-180516 I"
   },
@@ -4030,7 +4040,7 @@
     "product_code": "MT-579914"
   },
   {
-    "date": "2026-06-08",
+    "date": "2026-08-12",
     "customer": "FRANKY SETIAWAN, BP",
     "product_code": "MT-585016 A"
   },
@@ -4090,7 +4100,7 @@
     "product_code": "MT-626737"
   },
   {
-    "date": "2026-07-17",
+    "date": "2026-08-11",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-627037"
   },
@@ -4190,7 +4200,7 @@
     "product_code": "MT-692812"
   },
   {
-    "date": "2024-11-20",
+    "date": "2026-08-11",
     "customer": "MULTI KREASI PERKASA, PT",
     "product_code": "MT-697756"
   },
@@ -4215,7 +4225,7 @@
     "product_code": "MT-721911"
   },
   {
-    "date": "2026-08-10",
+    "date": "2026-08-11",
     "customer": "ARIRA PANGINDO, CV.",
     "product_code": "MT-727713"
   },
@@ -4430,8 +4440,8 @@
     "product_code": "SP-3715"
   },
   {
-    "date": "2026-07-28",
-    "customer": "HENGKY WIJAYA",
+    "date": "2026-08-12",
+    "customer": "SARA YULI SUPIYATI",
     "product_code": "SP-52416 C"
   },
   {
