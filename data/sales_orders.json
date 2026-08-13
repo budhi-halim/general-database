@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 20084,
-  "recordsFiltered": 20084,
+  "recordsTotal": 20090,
+  "recordsFiltered": 20090,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -281178,6 +281178,90 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20169\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-08-12 10:30:50",
+      "so_id": "20170",
+      "so_no": "66/ISI/SPB/VIII/2026",
+      "so_date": "2026-08-12",
+      "so_customer": "CV. GLOBALINDO PANGAN NUSANTARA",
+      "so_po_no": "001/GPN/08/26-PN",
+      "so_sales": "Lily",
+      "so_total_spb": "5912748",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20170\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-08-12 12:08:13",
+      "so_id": "20171",
+      "so_no": "67/ISI/SPB/VIII/2026",
+      "so_date": "2026-08-12",
+      "so_customer": "NANA ABADI, CV ",
+      "so_po_no": "26-960",
+      "so_sales": "Iwan",
+      "so_total_spb": "1529999.99625",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20171\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-08-12 13:57:14",
+      "so_id": "20172",
+      "so_no": "68/ISI/SPB/VIII/2026",
+      "so_date": "2026-08-12",
+      "so_customer": "ZAENUL MUSTHOFA",
+      "so_po_no": "05/VIII/FKO/SBY/2026",
+      "so_sales": "Lily",
+      "so_total_spb": "49533750",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20172\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-08-12 14:04:15",
+      "so_id": "20173",
+      "so_no": "69/ISI/SPB/VIII/2026",
+      "so_date": "2026-08-12",
+      "so_customer": "INDRA SETIAWAN",
+      "so_po_no": "06/VIII/FKO/SBY/2026",
+      "so_sales": "Lily",
+      "so_total_spb": "1748250",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20173\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-08-12 16:54:04",
+      "so_id": "20174",
+      "so_no": "70/ISI/SPB/VIII/2026",
+      "so_date": "2026-08-12",
+      "so_customer": "TABURA GENTRI NUSANTARA, PT",
+      "so_po_no": "GF 2840/VIII/26",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "3647499.98775",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20174\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-08-13 08:57:20",
+      "so_id": "20175",
+      "so_no": "71/ISI/SPB/VIII/2026",
+      "so_date": "2026-08-13",
+      "so_customer": "MARTINI",
+      "so_po_no": "",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "2272170",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20175\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }

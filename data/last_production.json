@@ -140,7 +140,7 @@
     "product_code": "2422"
   },
   {
-    "date": "2026-07-28",
+    "date": "2026-08-12",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31102194"
   },
@@ -200,7 +200,7 @@
     "product_code": "31102691"
   },
   {
-    "date": "2026-08-01",
+    "date": "2026-08-12",
     "customer": "Fisnack Inovasi Pangan",
     "product_code": "31102701"
   },
@@ -265,7 +265,7 @@
     "product_code": "31102873"
   },
   {
-    "date": "2026-06-09",
+    "date": "2026-08-12",
     "customer": "ZAENUL MUSTHOFA",
     "product_code": "31102879"
   },
@@ -1515,6 +1515,11 @@
     "product_code": "31408079"
   },
   {
+    "date": "2026-08-13",
+    "customer": "PT. Janji Rasa Bersama",
+    "product_code": "31408091"
+  },
+  {
     "date": "2026-05-29",
     "customer": "LIWAYWAY, PT.",
     "product_code": "31408113"
@@ -1795,7 +1800,7 @@
     "product_code": "31503387"
   },
   {
-    "date": "2026-07-24",
+    "date": "2026-08-12",
     "customer": "SENTRAL MULTIRASA UTAMA, PT",
     "product_code": "31601841"
   },
@@ -2075,7 +2080,7 @@
     "product_code": "31602766"
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-08-12",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31602769"
   },
@@ -2155,7 +2160,7 @@
     "product_code": "31602932"
   },
   {
-    "date": "2026-08-04",
+    "date": "2026-08-12",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31602950"
   },
@@ -2220,7 +2225,7 @@
     "product_code": "31700465"
   },
   {
-    "date": "2026-01-31",
+    "date": "2026-08-12",
     "customer": "TABURA GENTRI NUSANTARA, PT",
     "product_code": "31700490"
   },
@@ -2445,7 +2450,7 @@
     "product_code": "31802451"
   },
   {
-    "date": "2026-07-31",
+    "date": "2026-08-12",
     "customer": "NANA ABADI, CV ",
     "product_code": "31802453"
   },
@@ -3120,8 +3125,8 @@
     "product_code": "D-105"
   },
   {
-    "date": "2026-08-11",
-    "customer": "ONG LIN KI",
+    "date": "2026-08-12",
+    "customer": "INDRA SETIAWAN",
     "product_code": "D-107"
   },
   {
@@ -3430,7 +3435,7 @@
     "product_code": "MT-1105124-0"
   },
   {
-    "date": "2026-07-20",
+    "date": "2026-08-12",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "MT-1105124-3"
   },
