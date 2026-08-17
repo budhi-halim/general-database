@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 20112,
-  "recordsFiltered": 20112,
+  "recordsTotal": 20114,
+  "recordsFiltered": 20114,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -281570,6 +281570,34 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20197\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-08-15 09:17:46",
+      "so_id": "20198",
+      "so_no": "94/ISI/SPB/VIII/2026",
+      "so_date": "2026-08-15",
+      "so_customer": "CV. GLOBALINDO PANGAN NUSANTARA",
+      "so_po_no": "001/GPN/08/26-PN",
+      "so_sales": "Lily",
+      "so_total_spb": "13060759.5",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20198\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-08-15 10:58:07",
+      "so_id": "20199",
+      "so_no": "95/ISI/SPB/VIII/2026",
+      "so_date": "2026-08-15",
+      "so_customer": "ONG LIN KI",
+      "so_po_no": "07/VIII/FKO/SBY/2026",
+      "so_sales": "Lily",
+      "so_total_spb": "5174820",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20199\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }

@@ -1,8 +1,76 @@
 {
   "draw": 0,
-  "recordsTotal": 24005,
-  "recordsFiltered": 24005,
+  "recordsTotal": 24009,
+  "recordsFiltered": 24009,
   "data": [
+    {
+      "srs_id": "24124",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "1975/VIII/2026/SRS",
+      "srs_date": "2026-08-15",
+      "srs_customer": "CATUR WIDI CAHYONO",
+      "srs_product": "MARINASI POWDER",
+      "kode_produk": "31406357",
+      "srs_total_qty": "150",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24123",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "1100/IV/2026/SRS",
+      "kode_customer": "",
+      "srs_no": "1974/VIII/2026/SRS",
+      "srs_date": "2026-08-15",
+      "srs_customer": "CATUR WIDI CAHYONO",
+      "srs_product": "MARINATION SEASONING",
+      "kode_produk": "31407627",
+      "srs_total_qty": "50",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24122",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "1241/V/2025/SRS",
+      "kode_customer": "",
+      "srs_no": "1973/VIII/2026/SRS",
+      "srs_date": "2026-08-15",
+      "srs_customer": "CATUR WIDI CAHYONO",
+      "srs_product": "MARINATION SEASONING",
+      "kode_produk": "31407627",
+      "srs_total_qty": "100",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24121",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "3071/XI/2025/SRS",
+      "kode_customer": "",
+      "srs_no": "1972/VIII/2026/SRS",
+      "srs_date": "2026-08-15",
+      "srs_customer": "CATUR WIDI CAHYONO",
+      "srs_product": "BREADING PREMIX",
+      "kode_produk": "31802493",
+      "srs_total_qty": "300",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
     {
       "srs_id": "24120",
       "is_replacement": "NO",
@@ -18,7 +86,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24119",
@@ -35,7 +103,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24118",
@@ -52,7 +120,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24117",
@@ -69,7 +137,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24116",
@@ -86,7 +154,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24115",
@@ -103,7 +171,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24114",
@@ -120,7 +188,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24113",
@@ -137,7 +205,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24107",
@@ -375,7 +443,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Sucie",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24109",
@@ -409,7 +477,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Sucie",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24111",
@@ -426,7 +494,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Sucie",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24112",
@@ -443,7 +511,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Sucie",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24094",
