@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 20144,
-  "recordsFiltered": 20144,
+  "recordsTotal": 20146,
+  "recordsFiltered": 20146,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -282018,6 +282018,34 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20229\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-08-24 09:03:47",
+      "so_id": "20230",
+      "so_no": "125/ISI/SPB/VIII/2026",
+      "so_date": "2026-08-24",
+      "so_customer": "ANUGRAH CITRA BOGA, PT",
+      "so_po_no": "PO2026ACB/531",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "14152500",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20230\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-08-24 09:07:26",
+      "so_id": "20231",
+      "so_no": "126/ISI/SPB/VIII/2026",
+      "so_date": "2026-08-24",
+      "so_customer": "PT. Janji Rasa Bersama",
+      "so_po_no": "000179",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "258729.9",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20231\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
