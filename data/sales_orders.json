@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 20154,
-  "recordsFiltered": 20154,
+  "recordsTotal": 20156,
+  "recordsFiltered": 20156,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -282158,6 +282158,34 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20239\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-08-26 08:41:40",
+      "so_id": "20240",
+      "so_no": "135/ISI/SPB/VIII/2026",
+      "so_date": "2026-08-26",
+      "so_customer": "TAMAN SAFARI INDONESIA",
+      "so_po_no": "PO-BGR-0826-15771",
+      "so_sales": "Marchelina",
+      "so_total_spb": "8255153.25",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20240\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-08-26 09:04:03",
+      "so_id": "20241",
+      "so_no": "136/ISI/SPB/VIII/2026",
+      "so_date": "2026-08-26",
+      "so_customer": "RIYANA CIPTA PANGAN INDONESIA, PT",
+      "so_po_no": "C26080035",
+      "so_sales": "Era Gresia Octavia",
+      "so_total_spb": "19949996.7",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20241\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
