@@ -520,8 +520,8 @@
     "product_code": "31301094"
   },
   {
-    "date": "2026-07-09",
-    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "date": "2026-08-31",
+    "customer": "PT. Rukun Mitra Sentosa",
     "product_code": "31301156"
   },
   {
@@ -1360,7 +1360,7 @@
     "product_code": "31407470"
   },
   {
-    "date": "2026-08-28",
+    "date": "2026-08-31",
     "customer": "RAJA JEVA NISI, PT ( PELITA  FOOD TECH )",
     "product_code": "31407477"
   },
@@ -1800,7 +1800,7 @@
     "product_code": "31503380"
   },
   {
-    "date": "2026-08-15",
+    "date": "2026-09-01",
     "customer": "TAMAN SAFARI INDONESIA",
     "product_code": "31503387"
   },
@@ -2120,6 +2120,11 @@
     "product_code": "31602847"
   },
   {
+    "date": "2026-09-01",
+    "customer": "PT.HAP Liong Teknopangan",
+    "product_code": "31602858"
+  },
+  {
     "date": "2024-03-06",
     "customer": "SENTRAL MULTIRASA UTAMA, PT",
     "product_code": "31602873"
@@ -2410,7 +2415,7 @@
     "product_code": "31802333"
   },
   {
-    "date": "2026-08-28",
+    "date": "2026-09-01",
     "customer": "PT.DUTA PANGAN NUSANTARA ",
     "product_code": "31802364"
   },
@@ -2570,7 +2575,7 @@
     "product_code": "31802675"
   },
   {
-    "date": "2026-08-15",
+    "date": "2026-09-01",
     "customer": "TAMAN SAFARI INDONESIA",
     "product_code": "31802687"
   },
@@ -3130,7 +3135,7 @@
     "product_code": "D-105"
   },
   {
-    "date": "2026-08-26",
+    "date": "2026-09-01",
     "customer": "INDRA SETIAWAN",
     "product_code": "D-107"
   },
@@ -3775,8 +3780,8 @@
     "product_code": "MT-171331 C"
   },
   {
-    "date": "2026-08-12",
-    "customer": "SARA YULI SUPIYATI",
+    "date": "2026-08-31",
+    "customer": "CV.TOP ASLI",
     "product_code": "MT-180516"
   },
   {
@@ -4030,7 +4035,7 @@
     "product_code": "MT-555815 E"
   },
   {
-    "date": "2026-08-26",
+    "date": "2026-09-01",
     "customer": "INDRA SETIAWAN",
     "product_code": "MT-555815 G"
   },

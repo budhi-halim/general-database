@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 20205,
-  "recordsFiltered": 20205,
+  "recordsTotal": 20213,
+  "recordsFiltered": 20213,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -282854,7 +282854,7 @@
       "so_po_no": "",
       "so_sales": "Lily",
       "so_total_spb": "23532000",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20289\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -282872,6 +282872,118 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20290\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-08-31 13:39:58",
+      "so_id": "20291",
+      "so_no": "186/ISI/SPB/VIII/2026",
+      "so_date": "2026-08-31",
+      "so_customer": "INDRA SETIAWAN",
+      "so_po_no": "10/VIII/FKO/SBY/2026",
+      "so_sales": "Lily",
+      "so_total_spb": "12154500",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20291\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-09-01 09:07:52",
+      "so_id": "20292",
+      "so_no": "1/ISI/SPB/IX/2026",
+      "so_date": "2026-09-01",
+      "so_customer": "DUA KELINCI, PT.",
+      "so_po_no": "26070326",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "181725592.5",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20292\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-09-01 09:49:51",
+      "so_id": "20293",
+      "so_no": "2/ISI/SPB/IX/2026",
+      "so_date": "2026-09-01",
+      "so_customer": "DUA KELINCI, PT.",
+      "so_po_no": "26040680",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "22813830",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20293\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-09-01 09:57:44",
+      "so_id": "20294",
+      "so_no": "3/ISI/SPB/IX/2026",
+      "so_date": "2026-09-01",
+      "so_customer": "DUA KELINCI, PT.",
+      "so_po_no": "26070337",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "87387192",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20294\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-09-01 10:31:12",
+      "so_id": "20295",
+      "so_no": "4/ISI/SPB/IX/2026",
+      "so_date": "2026-09-01",
+      "so_customer": "TAMAN SAFARI INDONESIA",
+      "so_po_no": "PO-BGR-0826-15771",
+      "so_sales": "Marchelina",
+      "so_total_spb": "4079016.9",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20295\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-09-01 10:37:52",
+      "so_id": "20296",
+      "so_no": "5/ISI/SPB/IX/2026",
+      "so_date": "2026-09-01",
+      "so_customer": "RAJA JEVA NISI, PT ( PELITA  FOOD TECH )",
+      "so_po_no": "0193/P-KRW/07/26",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "12099000",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20296\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-09-01 10:40:46",
+      "so_id": "20297",
+      "so_no": "6/ISI/SPB/IX/2026",
+      "so_date": "2026-09-01",
+      "so_customer": "RAJA JEVA NISI, PT ( PELITA  FOOD TECH )",
+      "so_po_no": "0225/P-KRW/08/26",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "6049500",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20297\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-09-01 13:01:31",
+      "so_id": "20298",
+      "so_no": "7/ISI/SPB/IX/2026",
+      "so_date": "2026-09-01",
+      "so_customer": "TJONDRO SUKOWIJOYO",
+      "so_po_no": "11/VIII/FKO/SBY/2026",
+      "so_sales": "Lily",
+      "so_total_spb": "1130812.5",
+      "so_status": "waiting approval",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20298\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
