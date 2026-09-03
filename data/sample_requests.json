@@ -1,8 +1,134 @@
 {
   "draw": 0,
-  "recordsTotal": 12970,
-  "recordsFiltered": 12970,
+  "recordsTotal": 12979,
+  "recordsFiltered": 12979,
   "data": [
+    {
+      "sr_id": "12986",
+      "sr_no": "1220/IX/2026/SRF",
+      "sr_date": "2026-09-03",
+      "sr_pic": "Budhiarto Halim",
+      "sr_customer": "PT. Daidan Food Indonesia",
+      "sr_srtype": "Improvement Special",
+      "sr_status": "WAITING APPROVAL PM",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-09-03 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12986)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "12985",
+      "sr_no": "1219/IX/2026/SRF",
+      "sr_date": "2026-09-03",
+      "sr_pic": "Lily",
+      "sr_customer": "SINAR KENCANA AGUNG, PT",
+      "sr_srtype": "Special Request",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "0 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-09-03 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12985)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "12984",
+      "sr_no": "1218/IX/2026/SRF",
+      "sr_date": "2026-09-03",
+      "sr_pic": "Lily",
+      "sr_customer": "SINAR KENCANA AGUNG, PT",
+      "sr_srtype": "Special Request",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "0 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-09-03 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12984)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "12983",
+      "sr_no": "1217/IX/2026/SRF",
+      "sr_date": "2026-09-03",
+      "sr_pic": "Ferry",
+      "sr_customer": "NANANG, BP",
+      "sr_srtype": "General Request",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "2 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-09-03 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12983)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "12982",
+      "sr_no": "1216/IX/2026/SRF",
+      "sr_date": "2026-09-03",
+      "sr_pic": "Bernard Abielius Sugiardja",
+      "sr_customer": "GUMINDO BOGAMANIS,PT/T.5588898",
+      "sr_srtype": "General Request",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-09-03 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12982)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "12981",
+      "sr_no": "1215/IX/2026/SRF",
+      "sr_date": "2026-09-03",
+      "sr_pic": "Angel (PM)",
+      "sr_customer": "INDOFOOD FORTUNA MAKMUR",
+      "sr_srtype": "Special Request",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "0 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-09-03 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12981)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "12980",
+      "sr_no": "1214/IX/2026/SRF",
+      "sr_date": "2026-09-03",
+      "sr_pic": "viewsrftir",
+      "sr_customer": "Marketing",
+      "sr_srtype": "General Request",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "5 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-09-03 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12980)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "12979",
+      "sr_no": "1213/IX/2026/SRF",
+      "sr_date": "2026-09-03",
+      "sr_pic": "Marchelina",
+      "sr_customer": "CV OTO BOGA JAYA",
+      "sr_srtype": "General Request",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-09-03 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12979)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
+    {
+      "sr_id": "12978",
+      "sr_no": "1212/IX/2026/SRF",
+      "sr_date": "2026-09-02",
+      "sr_pic": null,
+      "sr_customer": "Marketing",
+      "sr_srtype": "Improvement",
+      "sr_status": "APPROVED BY PM",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Blank",
+      "sr_created_at": "2026-09-02 00:00:00",
+      "sr_statfeedback": "BLANK",
+      "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12978)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
+    },
     {
       "sr_id": "12977",
       "sr_no": "1211/IX/2026/SRF",
@@ -10,7 +136,7 @@
       "sr_pic": "viewsrftir",
       "sr_customer": "Marketing",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING APPROVAL PM",
+      "sr_status": "APPROVED BY PM",
       "tot_item": "5 Items",
       "sr_statkirimbarang": "Blank",
       "sr_created_at": "2026-09-02 00:00:00",
@@ -24,7 +150,7 @@
       "sr_pic": "Era Gresia Octavia",
       "sr_customer": "Oppa Fried Chicken",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING APPROVAL PM",
+      "sr_status": "APPROVED BY PM",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Blank",
       "sr_created_at": "2026-09-02 00:00:00",
@@ -38,7 +164,7 @@
       "sr_pic": "johanes",
       "sr_customer": "PT Cibadak Indah Sari Farm",
       "sr_srtype": "General Request",
-      "sr_status": "APPROVED BY PM",
+      "sr_status": "PROCESS RND",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Blank",
       "sr_created_at": "2026-09-02 00:00:00",
@@ -52,7 +178,7 @@
       "sr_pic": "Lily",
       "sr_customer": "CAHAYA KENCANA",
       "sr_srtype": "Improvement",
-      "sr_status": "APPROVED BY PM",
+      "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Blank",
       "sr_created_at": "2026-09-01 00:00:00",
@@ -66,7 +192,7 @@
       "sr_pic": "Ary Joko Priyanto",
       "sr_customer": "Fajar CV. Lentera Tani Redjeki",
       "sr_srtype": "General Request",
-      "sr_status": "APPROVED BY PM",
+      "sr_status": "PROCESS RND",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Blank",
       "sr_created_at": "2026-09-01 00:00:00",
@@ -80,7 +206,7 @@
       "sr_pic": "Ferry",
       "sr_customer": "CHANDRA SUMAWI",
       "sr_srtype": "General Request",
-      "sr_status": "APPROVED BY PM",
+      "sr_status": "PROCESS RND",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Blank",
       "sr_created_at": "2026-09-01 00:00:00",
@@ -110,7 +236,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "5 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-09-01 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12970)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -124,7 +250,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "2 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-09-01 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12969)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -194,7 +320,7 @@
       "sr_srtype": "General Request",
       "sr_status": "PROCESS RND",
       "tot_item": "5 Items",
-      "sr_statkirimbarang": "Blank",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-09-01 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12964)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -220,7 +346,7 @@
       "sr_pic": "Era Gresia Octavia",
       "sr_customer": "KUMPAI BESAR FOOD",
       "sr_srtype": "General Request",
-      "sr_status": "PROCESS RND",
+      "sr_status": "WAITING FEEDBACK",
       "tot_item": "4 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-08-28 00:00:00",
@@ -249,8 +375,8 @@
       "sr_customer": "ADABI CONSUMER INDUSTRIES SDN. BHD.",
       "sr_srtype": "Special Request",
       "sr_status": "PROCESS RND",
-      "tot_item": "0 Items",
-      "sr_statkirimbarang": "Blank",
+      "tot_item": "1 Items",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-08-28 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12960)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -318,7 +444,7 @@
       "sr_pic": "Lily",
       "sr_customer": "SINAR KENCANA AGUNG, PT",
       "sr_srtype": "Improvement Special",
-      "sr_status": "PROCESS RND",
+      "sr_status": "WAITING FEEDBACK",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-08-28 00:00:00",
@@ -332,7 +458,7 @@
       "sr_pic": "Lily",
       "sr_customer": "SINAR KENCANA AGUNG, PT",
       "sr_srtype": "Improvement Special",
-      "sr_status": "PROCESS RND",
+      "sr_status": "WAITING FEEDBACK",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-08-28 00:00:00",
@@ -346,7 +472,7 @@
       "sr_pic": "Ary Joko Priyanto",
       "sr_customer": "CV. BINTANG WALET",
       "sr_srtype": "General Request",
-      "sr_status": "PROCESS RND",
+      "sr_status": "WAITING FEEDBACK",
       "tot_item": "4 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-08-27 00:00:00",
@@ -1482,7 +1608,7 @@
       "sr_srtype": "General Request",
       "sr_status": "WAITING FEEDBACK",
       "tot_item": "2 Items",
-      "sr_statkirimbarang": "Not Ready",
+      "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-08-11 00:00:00",
       "sr_statfeedback": "BLANK",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12872)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
@@ -2194,11 +2320,11 @@
       "sr_pic": "viewsrftir",
       "sr_customer": "Marketing",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "PARTIAL COMPLETED",
       "tot_item": "5 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-08-04 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "PARTIAL OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12821)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -4308,11 +4434,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT. Daidan Food Indonesia",
       "sr_srtype": "Special Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-07-11 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12670)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -12260,11 +12386,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "ISI JAKARTA",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-03-07 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12102)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -12274,11 +12400,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "ISI JAKARTA",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-03-07 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12101)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -12302,11 +12428,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "ISI JAKARTA",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-03-07 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12099)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -12316,11 +12442,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "IVAN KURNIAWAN",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "4 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-03-07 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12098)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -12484,11 +12610,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "MENACOCO SARI, PT.",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "4 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-03-06 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12086)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -13366,11 +13492,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "AMERTA INDAH OTSUKA, PT",
       "sr_srtype": "Improvement",
-      "sr_status": "PARTIAL COMPLETED",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-20 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12023)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -13422,11 +13548,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "Tara Rasa Boga",
       "sr_srtype": "Duplication Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-19 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12019)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -13464,11 +13590,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "ISI JAKARTA",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-19 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12016)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -13478,11 +13604,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "IVAN KURNIAWAN",
       "sr_srtype": "Duplication Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-19 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12015)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -13492,11 +13618,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "Tara Rasa Boga",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-19 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(12014)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -13744,11 +13870,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "AMERTA INDAH OTSUKA, PT",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-16 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11996)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -14220,11 +14346,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "AHMAD FAUZI",
       "sr_srtype": "Duplication Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-10 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11962)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -14262,11 +14388,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "NHF DIAMOND INDONESIA, PT",
       "sr_srtype": "Duplication Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-10 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11959)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -14332,11 +14458,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "ISI JAKARTA",
       "sr_srtype": "Improvement",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-09 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11954)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -14794,11 +14920,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "Multi Citra Rasa",
       "sr_srtype": "Special Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-02-04 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11921)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -15060,11 +15186,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT. GODAY FOOD BUKIT INDAH",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-01-31 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11902)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -15116,11 +15242,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT. GODAY FOOD BUKIT INDAH",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-01-31 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11898)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -15130,11 +15256,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "Multi Citra Rasa",
       "sr_srtype": "General Request",
-      "sr_status": "PROCESS RND",
+      "sr_status": "PARTIAL COMPLETED",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-01-31 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11897)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -15144,11 +15270,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "Multi Citra Rasa",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "4 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-01-31 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11896)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -15214,11 +15340,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT. Keluarga Protein Indonesia",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-01-30 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11891)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -15606,11 +15732,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT. Daidan Food Indonesia",
       "sr_srtype": "Special Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-01-28 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11863)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -16194,11 +16320,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "NHF DIAMOND INDONESIA, PT",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-01-15 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11821)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -16278,11 +16404,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "NHF DIAMOND INDONESIA, PT",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-01-14 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11815)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -16460,11 +16586,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "ISI JAKARTA",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-01-12 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11802)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -16474,11 +16600,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "Multi Citra Rasa",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-01-12 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11801)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -16586,11 +16712,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "NHF DIAMOND INDONESIA, PT",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-01-08 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11793)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -16726,11 +16852,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT BELEAF KEBUN INDONESIA",
       "sr_srtype": "Improvement Special",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-01-06 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11783)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -16740,11 +16866,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT BELEAF KEBUN INDONESIA",
       "sr_srtype": "Improvement Special",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-01-06 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11782)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -16754,11 +16880,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT BELEAF KEBUN INDONESIA",
       "sr_srtype": "Improvement Special",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2026-01-06 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11781)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -17874,11 +18000,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT BELEAF KEBUN INDONESIA",
       "sr_srtype": "Improvement Special",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-12-13 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11701)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -17944,11 +18070,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "IVAN KURNIAWAN",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-12-12 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11696)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -17958,11 +18084,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": " PT. Mitraboga Kreasi Prima",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-12-12 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11695)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -18616,11 +18742,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "IVAN KURNIAWAN",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-12-02 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11648)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -18798,11 +18924,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "RBTEKNO MITRA INDONESIA",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-12-01 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11635)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -19386,11 +19512,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "KEONG NUSANTARA ABADI, PT.",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-24 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11593)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -19400,11 +19526,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "MENACOCO SARI, PT.",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-24 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11592)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -19414,11 +19540,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "KEONG NUSANTARA ABADI, PT.",
       "sr_srtype": "Improvement Special",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-24 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11591)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -19960,11 +20086,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "CREATIVE CULINARY (BOGA GROUP)",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-17 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11552)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -19974,11 +20100,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT BELEAF KEBUN INDONESIA",
       "sr_srtype": "Improvement Special",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-17 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11551)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -20184,11 +20310,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "ISI JAKARTA",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-13 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11536)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -20548,11 +20674,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "ISI JAKARTA",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-12 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11510)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -20562,11 +20688,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "ISI JAKARTA",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-12 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11509)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -20576,11 +20702,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "Priama Food Indonesia",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "4 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-12 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11508)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -20912,11 +21038,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "CREATIVE CULINARY (BOGA GROUP)",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-07 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11484)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -20940,11 +21066,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "KEONG NUSANTARA ABADI, PT.",
       "sr_srtype": "Improvement",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-06 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11482)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -21388,11 +21514,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "CREATIVE CULINARY (BOGA GROUP)",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-03 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11450)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -21416,11 +21542,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "IVAN KURNIAWAN",
       "sr_srtype": "Improvement",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-01 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11448)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -21430,11 +21556,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "IVAN KURNIAWAN",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "5 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-01 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11447)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -21444,11 +21570,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT. Leon Boga Sentosa ( Yummy Bites)",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-01 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11446)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -21458,11 +21584,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT. Leon Boga Sentosa ( Yummy Bites)",
       "sr_srtype": "Improvement",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-01 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11445)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -21472,11 +21598,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "AMERTA INDAH OTSUKA, PT",
       "sr_srtype": "Improvement",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-11-01 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11444)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -21682,11 +21808,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT. SELERA INDONESIA SUKSES JAYA",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "5 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-10-29 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11429)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -21696,11 +21822,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "MALINDO FOOD DELIGHT, PT.",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-10-29 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11428)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -21948,7 +22074,7 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "CREATIVE CULINARY (BOGA GROUP)",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "PARTIAL COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-10-25 00:00:00",
@@ -21962,11 +22088,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT. Leon Boga Sentosa ( Yummy Bites)",
       "sr_srtype": "Improvement",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-10-25 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11409)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -23054,11 +23180,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "ISI JAKARTA",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-10-09 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11331)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -23068,11 +23194,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "Priama Food Indonesia",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "4 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-10-09 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11330)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -23096,7 +23222,7 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT BELEAF KEBUN INDONESIA",
       "sr_srtype": "Improvement Special",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "PARTIAL COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-10-08 00:00:00",
@@ -23306,11 +23432,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "KAYA RASA NUSANTARA , PT",
       "sr_srtype": "Improvement Special",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-10-07 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11313)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -23362,11 +23488,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "KAYA RASA NUSANTARA , PT",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-10-06 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11309)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -23418,11 +23544,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "RBTEKNO MITRA INDONESIA",
       "sr_srtype": "Improvement Special",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-10-06 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11305)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -23586,11 +23712,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT. Pangan Mahkota Emas",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-10-02 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11293)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -24006,11 +24132,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "CREATIVE CULINARY (BOGA GROUP)",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-09-26 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11263)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -24020,11 +24146,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "KAYA RASA NUSANTARA , PT",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-09-26 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11262)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -24160,11 +24286,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "ISI JAKARTA",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-09-24 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11252)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -24258,11 +24384,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT Hania Natura Indonesia",
       "sr_srtype": "Improvement Special",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-09-24 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11245)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -24286,11 +24412,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "Mulia Inti Pangan, PT",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-09-23 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11243)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -24300,11 +24426,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "GRAHAINMA SINARTRIKARSA,PT.(PT GIST",
       "sr_srtype": "Improvement",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-09-23 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11242)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -25014,11 +25140,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT. Pangan Mahkota Emas",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-09-13 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11191)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -25056,11 +25182,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT. Pangan Mahkota Emas",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-09-13 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11188)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -25266,11 +25392,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT Hania Natura Indonesia",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-09-12 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11173)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -25490,11 +25616,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT ARTHA KARYA UTAMA (AKUFOOD)",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "4 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-09-09 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11157)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -27086,11 +27212,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT Hania Natura Indonesia",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-08-21 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11043)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -27198,11 +27324,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "MALINDO FOOD DELIGHT, PT.",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "4 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-08-20 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11035)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -27282,11 +27408,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "SANJAYA, UD",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "5 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-08-18 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11029)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -27324,11 +27450,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "BINTANG KREASI AROMA, PT",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-08-18 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11026)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -27576,11 +27702,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "MALINDO FOOD DELIGHT, PT.",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-08-14 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11008)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -27590,11 +27716,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT.Santhai Indonesia",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "4 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-08-14 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11007)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -27618,11 +27744,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "ANUGERAH ADIBOGA ABADI, PT",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-08-14 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(11005)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -28220,11 +28346,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "MALINDO FOOD DELIGHT, PT.",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "5 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-08-09 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10962)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -28374,11 +28500,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT. ABHINAYA MAPAN NUSANTARA",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-08-07 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10951)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -28388,11 +28514,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT. Leon Boga Sentosa ( Yummy Bites)",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-08-07 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10950)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -28752,11 +28878,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT.Santhai Indonesia",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-08-04 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10924)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -28766,11 +28892,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT.Santhai Indonesia",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "4 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-08-04 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10923)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -28822,11 +28948,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT. GODAY FOOD BUKIT INDAH",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-08-01 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10919)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -29144,11 +29270,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "ISI JAKARTA",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "4 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-07-29 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10896)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -29340,11 +29466,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "MALINDO FOOD DELIGHT, PT.",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-07-25 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10882)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -29382,11 +29508,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "SANJAYA, UD",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-07-25 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10879)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -29634,11 +29760,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "MALINDO FOOD DELIGHT, PT.",
       "sr_srtype": "Duplication Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-07-23 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10861)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -29648,11 +29774,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "CV. Palmy Globe Nusantara",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-07-23 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10860)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -30698,11 +30824,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT. ABHINAYA MAPAN NUSANTARA",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-07-14 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10785)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -30880,11 +31006,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "IVAN KURNIAWAN",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-07-11 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10772)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -30992,11 +31118,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "IVAN KURNIAWAN",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-07-10 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10764)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -31020,11 +31146,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "PT. ABHINAYA MAPAN NUSANTARA",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-07-10 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10762)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -31174,11 +31300,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "CV. BOGA RINSET INDONESIA",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-07-08 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10751)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -31706,11 +31832,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "IVAN KURNIAWAN",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "3 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-07-02 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10713)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -31720,11 +31846,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "IVAN KURNIAWAN",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-07-02 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10712)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -31734,11 +31860,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "CV. Palmy Globe Nusantara",
       "sr_srtype": "Special Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "1 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-07-02 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10711)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -31944,11 +32070,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "BINTANG KREASI AROMA, PT",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "5 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-07-01 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10696)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -33246,11 +33372,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "IVAN KURNIAWAN",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "2 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-06-14 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10603)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
@@ -34044,11 +34170,11 @@
       "sr_pic": "Budhiarto Halim",
       "sr_customer": "IVAN KURNIAWAN",
       "sr_srtype": "General Request",
-      "sr_status": "WAITING FEEDBACK",
+      "sr_status": "COMPLETED",
       "tot_item": "4 Items",
       "sr_statkirimbarang": "Ready",
       "sr_created_at": "2025-06-05 00:00:00",
-      "sr_statfeedback": "BLANK",
+      "sr_statfeedback": "OKE",
       "view": "<button class=\"btn btn-primary btn-xs\" onclick=\"detailData(10546)\" ><span class=\"txt-white fa fa-chevron-right\"></span> Detail</button>"
     },
     {
