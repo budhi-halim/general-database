@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 20335,
-  "recordsFiltered": 20335,
+  "recordsTotal": 20340,
+  "recordsFiltered": 20340,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -284688,10 +284688,80 @@
       "so_po_no": "08/IX/FKO/SBY/2026",
       "so_sales": "Ferry",
       "so_total_spb": "3191250",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20420\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-09-16 13:29:08",
+      "so_id": "20421",
+      "so_no": "128/ISI/SPB/IX/2026",
+      "so_date": "2026-09-16",
+      "so_customer": "PT.DUTA PANGAN NUSANTARA ",
+      "so_po_no": "",
+      "so_sales": "Lily",
+      "so_total_spb": "23532000",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20421\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-09-17 10:43:05",
+      "so_id": "20422",
+      "so_no": "129/ISI/SPB/IX/2026",
+      "so_date": "2026-09-17",
+      "so_customer": "SENTRA SAVORI SEJAHTERA, PT.",
+      "so_po_no": "006/09/2026",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "4856250",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20422\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-09-17 10:52:53",
+      "so_id": "20423",
+      "so_no": "130/ISI/SPB/IX/2026",
+      "so_date": "2026-09-17",
+      "so_customer": "NISSIN FOODS INDONESIA.PT",
+      "so_po_no": "RMD00000251",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "39791280",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20423\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-09-17 10:54:57",
+      "so_id": "20424",
+      "so_no": "131/ISI/SPB/IX/2026",
+      "so_date": "2026-09-17",
+      "so_customer": "CIPTA SELERA SEMESTA, PT",
+      "so_po_no": "CSS/PO/26090138",
+      "so_sales": "Angel (Sales)",
+      "so_total_spb": "184330401.75",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20424\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-09-17 10:58:48",
+      "so_id": "20425",
+      "so_no": "132/ISI/SPB/IX/2026",
+      "so_date": "2026-09-17",
+      "so_customer": "Varion Cuan Corpora International ",
+      "so_po_no": "4507426332",
+      "so_sales": "Angel (Sales)",
+      "so_total_spb": "847446150",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20425\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
