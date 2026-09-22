@@ -90,8 +90,8 @@
     "product_code": "06-0037 A"
   },
   {
-    "date": "2026-09-21",
-    "customer": "SANITAS,PT",
+    "date": "2026-09-22",
+    "customer": "BRATA ADI LAKSANA, PT",
     "product_code": "06-0091"
   },
   {
@@ -135,8 +135,8 @@
     "product_code": "22538 R "
   },
   {
-    "date": "2026-09-04",
-    "customer": "KOKI SEHAT SEJAHTERA ",
+    "date": "2026-09-21",
+    "customer": "INTI MEGAH INDONESIA, CV",
     "product_code": "2422"
   },
   {
@@ -290,8 +290,8 @@
     "product_code": "31102928"
   },
   {
-    "date": "2026-08-27",
-    "customer": "PT. Selera Pangan Interfood",
+    "date": "2026-09-21",
+    "customer": "ELSON BERNARDI,PT",
     "product_code": "31102942"
   },
   {
@@ -520,8 +520,8 @@
     "product_code": "31301094"
   },
   {
-    "date": "2026-08-31",
-    "customer": "PT. Rukun Mitra Sentosa",
+    "date": "2026-09-22",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "31301156"
   },
   {
@@ -555,8 +555,8 @@
     "product_code": "31301300"
   },
   {
-    "date": "2026-09-02",
-    "customer": "ANUGERAH ADIBOGA ABADI, PT",
+    "date": "2026-09-22",
+    "customer": "PT. Maxindo Nusantara Abadi ",
     "product_code": "31301351"
   },
   {
@@ -1180,6 +1180,11 @@
     "product_code": "31406899"
   },
   {
+    "date": "2026-09-22",
+    "customer": "WILLY HARSONO",
+    "product_code": "31406915"
+  },
+  {
     "date": "2022-11-28",
     "customer": "Teun  Kornelis Van Der Laan",
     "product_code": "31406922"
@@ -1250,13 +1255,13 @@
     "product_code": "31407069"
   },
   {
-    "date": "2026-08-28",
+    "date": "2026-09-21",
     "customer": "PT.DUTA PANGAN NUSANTARA ",
     "product_code": "31407070"
   },
   {
-    "date": "2026-07-07",
-    "customer": "AHMAD FAUZI",
+    "date": "2026-09-22",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "31407081"
   },
   {
@@ -1463,6 +1468,11 @@
     "date": "2026-03-31",
     "customer": "CV.TIGA ANUGERAH PANGAN",
     "product_code": "31407877"
+  },
+  {
+    "date": "2026-09-22",
+    "customer": "WILLY HARSONO",
+    "product_code": "31407886"
   },
   {
     "date": "2026-06-09",
@@ -2200,7 +2210,7 @@
     "product_code": "31603045"
   },
   {
-    "date": "2026-09-04",
+    "date": "2026-09-21",
     "customer": "SURABAYA TOP",
     "product_code": "31603065"
   },
@@ -2415,7 +2425,7 @@
     "product_code": "31802333"
   },
   {
-    "date": "2026-09-01",
+    "date": "2026-09-21",
     "customer": "PT.DUTA PANGAN NUSANTARA ",
     "product_code": "31802364"
   },
@@ -3210,8 +3220,8 @@
     "product_code": "GMS-2090"
   },
   {
-    "date": "2026-08-14",
-    "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
+    "date": "2026-09-21",
+    "customer": "Golden Powder Drink ",
     "product_code": "GMS-21031"
   },
   {
@@ -3226,7 +3236,7 @@
   },
   {
     "date": "2026-09-21",
-    "customer": " PT. Niaga Multi Pangan ",
+    "customer": "PT.DUTA PANGAN NUSANTARA ",
     "product_code": "HVP WCI"
   },
   {
@@ -3235,8 +3245,8 @@
     "product_code": "IS-3624"
   },
   {
-    "date": "2026-09-18",
-    "customer": "SARICO FOOD",
+    "date": "2026-09-21",
+    "customer": "AGUS SYARIFFUDIN",
     "product_code": "KA-544"
   },
   {
@@ -3350,7 +3360,7 @@
     "product_code": "MT-108711"
   },
   {
-    "date": "2026-07-06",
+    "date": "2026-09-21",
     "customer": "Golden Powder Drink ",
     "product_code": "MT-1100084-2"
   },
@@ -3380,7 +3390,7 @@
     "product_code": "MT-1100576-0"
   },
   {
-    "date": "2026-07-06",
+    "date": "2026-09-21",
     "customer": "Golden Powder Drink ",
     "product_code": "MT-1100694-1"
   },
@@ -3765,8 +3775,8 @@
     "product_code": "MT-169214"
   },
   {
-    "date": "2026-09-03",
-    "customer": "HAMDI ISMANI / HJ. RUMSARI ( isteri )",
+    "date": "2026-09-21",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-169214 N"
   },
   {
@@ -3830,8 +3840,8 @@
     "product_code": "MT-279654"
   },
   {
-    "date": "2026-07-30",
-    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "date": "2026-09-21",
+    "customer": "Golden Powder Drink ",
     "product_code": "MT-283914"
   },
   {
@@ -3895,8 +3905,8 @@
     "product_code": "MT-363813 F"
   },
   {
-    "date": "2026-08-24",
-    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
+    "date": "2026-09-21",
+    "customer": "Golden Powder Drink ",
     "product_code": "MT-365718"
   },
   {
@@ -4085,7 +4095,7 @@
     "product_code": "MT-604616"
   },
   {
-    "date": "2026-07-30",
+    "date": "2026-09-21",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-605812 A"
   },
@@ -4285,7 +4295,7 @@
     "product_code": "MT-766433"
   },
   {
-    "date": "2026-09-08",
+    "date": "2026-09-22",
     "customer": "MACROPRIMA PANGAN UTAMA, PT",
     "product_code": "MT-766631"
   },
@@ -4455,8 +4465,8 @@
     "product_code": "SP-3715"
   },
   {
-    "date": "2026-09-16",
-    "customer": "RASDIYANTO",
+    "date": "2026-09-21",
+    "customer": "AIDA ARTAN",
     "product_code": "SP-52416 C"
   },
   {
