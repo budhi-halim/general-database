@@ -140,7 +140,7 @@
     "product_code": "2422"
   },
   {
-    "date": "2026-09-22",
+    "date": "2026-09-30",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31102194"
   },
@@ -480,7 +480,7 @@
     "product_code": "31201655"
   },
   {
-    "date": "2026-08-18",
+    "date": "2026-09-30",
     "customer": "ANEKA SARIVITA, PT.",
     "product_code": "31201682"
   },
@@ -505,7 +505,7 @@
     "product_code": "31301041"
   },
   {
-    "date": "2026-08-28",
+    "date": "2026-10-01",
     "customer": "JADI ABADI CORAK BISCUIT,PT",
     "product_code": "31301043"
   },
@@ -1035,7 +1035,7 @@
     "product_code": "31406552"
   },
   {
-    "date": "2026-07-06",
+    "date": "2026-10-01",
     "customer": "AMERTA INDAH OTSUKA, PT",
     "product_code": "31406564"
   },
@@ -1095,7 +1095,7 @@
     "product_code": "31406641"
   },
   {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "customer": "PT. TRIO RASA MAS",
     "product_code": "31406642"
   },
@@ -1365,7 +1365,7 @@
     "product_code": "31407470"
   },
   {
-    "date": "2026-09-22",
+    "date": "2026-09-30",
     "customer": "RAJA JEVA NISI, PT ( PELITA  FOOD TECH )",
     "product_code": "31407477"
   },
@@ -2085,7 +2085,7 @@
     "product_code": "31602758"
   },
   {
-    "date": "2026-09-15",
+    "date": "2026-10-01",
     "customer": "SENTRAL MULTIRASA UTAMA, PT",
     "product_code": "31602765"
   },
@@ -2095,7 +2095,7 @@
     "product_code": "31602766"
   },
   {
-    "date": "2026-09-10",
+    "date": "2026-09-30",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31602769"
   },
@@ -2180,7 +2180,7 @@
     "product_code": "31602932"
   },
   {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31602950"
   },
@@ -2223,6 +2223,11 @@
     "date": "2026-04-06",
     "customer": "SINAR KENCANA AGUNG, PT",
     "product_code": "31603070"
+  },
+  {
+    "date": "2026-10-01",
+    "customer": "BRATA ADI LAKSANA, PT",
+    "product_code": "31603097"
   },
   {
     "date": "2025-09-23",
@@ -2470,8 +2475,8 @@
     "product_code": "31802451"
   },
   {
-    "date": "2026-08-12",
-    "customer": "NANA ABADI, CV ",
+    "date": "2026-10-01",
+    "customer": "PT.Lautan Mitra Kreasi",
     "product_code": "31802453"
   },
   {
@@ -2880,7 +2885,7 @@
     "product_code": "35800040"
   },
   {
-    "date": "2026-08-20",
+    "date": "2026-10-01",
     "customer": "DUA KELINCI, PT.",
     "product_code": "35800050"
   },
@@ -3020,7 +3025,7 @@
     "product_code": "62900001"
   },
   {
-    "date": "2026-09-10",
+    "date": "2026-10-01",
     "customer": "HEINZ ABC INDONESIA, PT",
     "product_code": "881"
   },
@@ -3235,8 +3240,8 @@
     "product_code": "GMS-3028"
   },
   {
-    "date": "2026-09-23",
-    "customer": "UNILEVER INDONESIA TBK, PT",
+    "date": "2026-10-01",
+    "customer": "PT.INDOMAS JAYA",
     "product_code": "HVP WCI"
   },
   {
@@ -4110,8 +4115,8 @@
     "product_code": "MT-614318"
   },
   {
-    "date": "2026-09-09",
-    "customer": "LASALLE FOOD INDONESIA, PT.",
+    "date": "2026-10-01",
+    "customer": "KERRY INGREDIENTS INDONESIA, PT.",
     "product_code": "MT-625237"
   },
   {
