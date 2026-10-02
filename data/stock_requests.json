@@ -1,8 +1,178 @@
 {
   "draw": 0,
-  "recordsTotal": 24367,
-  "recordsFiltered": 24367,
+  "recordsTotal": 24377,
+  "recordsFiltered": 24377,
   "data": [
+    {
+      "srs_id": "24492",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2343/X/2026/SRS",
+      "srs_date": "2026-10-02",
+      "srs_customer": "PT.Yadi Ninik Putra Food",
+      "srs_product": "TENGGIRI POWDER",
+      "kode_produk": "31301587",
+      "srs_total_qty": "1",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24491",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2342/X/2026/SRS",
+      "srs_date": "2026-10-02",
+      "srs_customer": "SOFYAN ARDIANTO",
+      "srs_product": "BALADO SEASONING",
+      "kode_produk": "31404495",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24490",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2341/X/2026/SRS",
+      "srs_date": "2026-10-02",
+      "srs_customer": "SOFYAN ARDIANTO",
+      "srs_product": "SAMBAL BALADO SEASONING",
+      "kode_produk": "MT-779914",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24489",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2340/X/2026/SRS",
+      "srs_date": "2026-10-02",
+      "srs_customer": "GUSYUNAS SUTRIANI",
+      "srs_product": "KALDU AYAM SEASONING",
+      "kode_produk": "31102618",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "yanah",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24488",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "1256/V/2026/SRJ",
+      "kode_customer": "",
+      "srs_no": "2339/X/2026/SRJ",
+      "srs_date": "2026-10-02",
+      "srs_customer": "KOKI SEHAT SEJAHTERA ",
+      "srs_product": "JELLY POWDER",
+      "kode_produk": "2422",
+      "srs_total_qty": "675",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Iwan",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24487",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "2011/VIII/2026/SRI",
+      "kode_customer": "UNILE",
+      "srs_no": "2338/X/2026/SRI",
+      "srs_date": "2026-10-02",
+      "srs_customer": "UNILEVER INDONESIA TBK, PT",
+      "srs_product": "HVP WCI",
+      "kode_produk": "HVP WCI",
+      "srs_total_qty": "6000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24486",
+      "is_replacement": "YES",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2337/X/2026/SRS",
+      "srs_date": "2026-10-01",
+      "srs_customer": "SEKAR BUMI TBK, PT",
+      "srs_product": "RICA-RICA PASTA",
+      "kode_produk": "34400506",
+      "srs_total_qty": "300",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24485",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2336/X/2026/SRS",
+      "srs_date": "2026-10-01",
+      "srs_customer": "TAMAN SAFARI INDONESIA",
+      "srs_product": "MARINATION SEASONING",
+      "kode_produk": "31407984",
+      "srs_total_qty": "100",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24484",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SURNU",
+      "srs_no": "2335/X/2026/SRS",
+      "srs_date": "2026-10-01",
+      "srs_customer": "CV.SURYA MANDIRI",
+      "srs_product": "SRIRACHA SEASONING",
+      "kode_produk": "31407070",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ferry",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24483",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2334/X/2026/SRS",
+      "srs_date": "2026-10-01",
+      "srs_customer": "ANUGERAH ADIBOGA ABADI, PT",
+      "srs_product": "CUMI SEASONING",
+      "kode_produk": "31301351",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "complete"
+    },
     {
       "srs_id": "24482",
       "is_replacement": "NO",
@@ -18,7 +188,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24481",
@@ -33,9 +203,9 @@
       "kode_produk": "31802453",
       "srs_total_qty": "25",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24480",
@@ -52,7 +222,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24479",
@@ -67,9 +237,9 @@
       "kode_produk": "31301043",
       "srs_total_qty": "50",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24478",
@@ -86,7 +256,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24477",
@@ -103,7 +273,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24476",
@@ -120,7 +290,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24475",
@@ -137,7 +307,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24474",
@@ -154,7 +324,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24473",
@@ -171,7 +341,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24472",
@@ -188,7 +358,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24471",
@@ -205,7 +375,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24470",
@@ -256,7 +426,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24467",
