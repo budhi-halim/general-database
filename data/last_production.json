@@ -1325,6 +1325,11 @@
     "product_code": "31407282"
   },
   {
+    "date": "2026-10-02",
+    "customer": "PT Cibadak Indah Sari Farm",
+    "product_code": "31407302"
+  },
+  {
     "date": "2024-09-17",
     "customer": "PT. TRIO MAHA JAYA",
     "product_code": "31407316"
@@ -2283,6 +2288,11 @@
     "date": "2023-01-26",
     "customer": "CV. HARCO JAYA SNACK",
     "product_code": "31801667"
+  },
+  {
+    "date": "2026-10-02",
+    "customer": "PT Cibadak Indah Sari Farm",
+    "product_code": "31801718"
   },
   {
     "date": "2026-09-16",
@@ -3770,7 +3780,7 @@
     "product_code": "MT-162553"
   },
   {
-    "date": "2026-09-11",
+    "date": "2026-10-02",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-1644 P5"
   },
@@ -3915,7 +3925,7 @@
     "product_code": "MT-365718"
   },
   {
-    "date": "2026-08-14",
+    "date": "2026-10-02",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-373438"
   },
@@ -4130,8 +4140,8 @@
     "product_code": "MT-626737"
   },
   {
-    "date": "2026-09-18",
-    "customer": "PT. KRISPI INDUSTRI INDONESIA ",
+    "date": "2026-10-03",
+    "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-627037"
   },
   {
@@ -4450,7 +4460,7 @@
     "product_code": "P-200"
   },
   {
-    "date": "2026-08-03",
+    "date": "2026-10-03",
     "customer": "SARI MURNI ABADI, PT.",
     "product_code": "P-2000"
   },
