@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 20518,
-  "recordsFiltered": 20518,
+  "recordsTotal": 20523,
+  "recordsFiltered": 20523,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -286578,7 +286578,7 @@
       "so_po_no": "2026-01-12288",
       "so_sales": "Budhiarto Halim",
       "so_total_spb": "3545062.5",
-      "so_status": "pending",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20555\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -287250,10 +287250,80 @@
       "so_po_no": "14/IX/FKO/SBY/2026",
       "so_sales": "Lily",
       "so_total_spb": "4853475",
-      "so_status": "waiting approval",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20603\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-10-07 13:54:38",
+      "so_id": "20604",
+      "so_no": "62/ISI/SPB/X/2026",
+      "so_date": "2026-10-07",
+      "so_customer": "SEKAR BUMI TBK, PT",
+      "so_po_no": "PO-26-07-00124/FOODCKP",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "15286564.8",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20604\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-10-08 09:04:13",
+      "so_id": "20605",
+      "so_no": "63/ISI/SPB/X/2026",
+      "so_date": "2026-10-08",
+      "so_customer": "PT. Selera Pangan Interfood",
+      "so_po_no": "POSPI/T/26/10-022",
+      "so_sales": "Marchelina",
+      "so_total_spb": "3663000",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20605\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-10-08 09:12:23",
+      "so_id": "20606",
+      "so_no": "64/ISI/SPB/X/2026",
+      "so_date": "2026-10-08",
+      "so_customer": "PONDAN PANGAN MAKMUR INDONESIA, PT",
+      "so_po_no": "1425/10/PDN/26",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "6754683",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20606\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-10-08 11:37:09",
+      "so_id": "20607",
+      "so_no": "65/ISI/SPB/X/2026",
+      "so_date": "2026-10-08",
+      "so_customer": "PT. TRIO RASA MAS",
+      "so_po_no": "P00249",
+      "so_sales": "Bernard Abielius Sugiardja",
+      "so_total_spb": "94877916",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20607\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-10-08 13:28:06",
+      "so_id": "20608",
+      "so_no": "66/ISI/SPB/X/2026",
+      "so_date": "2026-10-08",
+      "so_customer": "YAHYA HARIADI YUDANA",
+      "so_po_no": "",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "3643641.6",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20608\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
