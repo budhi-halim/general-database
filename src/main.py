@@ -3,7 +3,7 @@
 Data fetcher for Islandsun Indonesia JSON endpoints.
 
 Responsibilities:
-- Fetch three JSON endpoints (sample requests, stock requests, sales orders)
+- Fetch four JSON endpoints (sample requests, stock requests, sales orders, technical information)
 - Store each JSON response into its corresponding file under data/
 - Produce an additional derived file last_production.json derived from stock_requests.json
   containing only the latest production record per product with keys:
@@ -30,11 +30,13 @@ DATA_DIR: Path = Path("data")
 SAMPLE_BASE_URL: str = "http://apps.islandsunindonesia.com:81/islandsun/samplerequest/json"
 STOCK_BASE_URL: str = "http://apps.islandsunindonesia.com:81/islandsun/stock-request/json-srs"
 SALES_BASE_URL: str = "http://apps.islandsunindonesia.com:81/islandsun/sales-order/json"
+TECHNICAL_INFORMATION_BASE_URL: str = "http://apps.islandsunindonesia.com:81/islandsun/master/Tir/json"
 
 SAMPLE_REQUEST_FILE: Path = DATA_DIR / "sample_requests.json"
 STOCK_REQUEST_FILE: Path = DATA_DIR / "stock_requests.json"
 SALES_ORDER_FILE: Path = DATA_DIR / "sales_orders.json"
 LAST_PRODUCTION_FILE: Path = DATA_DIR / "last_production.json"
+TECHNICAL_INFORMATION_FILE: Path = DATA_DIR / "technical_information.json"
 
 HTTP_TIMEOUT: int = 90          # seconds
 RETRY_LIMIT: int = 3            # number of retry attempts
@@ -104,6 +106,29 @@ def get_sales_order_url() -> str:
         "orderData": "",
     }
     return f"{SALES_BASE_URL}?{urlencode(params)}"
+
+
+def get_technical_information_url() -> str:
+    """Request all technical information through today's Jakarta date."""
+    params: dict[str, str] = {
+        "dari": "0001-01-01",
+        "sampai": jakarta_today_date_str(),
+        "fil_status": "",
+        "tipe": "",
+        "fil_lock": "",
+    }
+    return f"{TECHNICAL_INFORMATION_BASE_URL}?{urlencode(params)}"
+
+
+def is_technical_information_payload(payload: object) -> bool:
+    """Reject malformed or truncated snapshots before replacing saved information."""
+    if not isinstance(payload, dict) or not isinstance(payload.get("data"), list):
+        return False
+    entries = payload["data"]
+    if not all(isinstance(entry, dict) and "id_tir" in entry and "tir_no" in entry for entry in entries):
+        return False
+    count = payload.get("recordsFiltered")
+    return isinstance(count, int) and not isinstance(count, bool) and count == len(entries)
 
 
 # ----------------------------
@@ -208,12 +233,14 @@ def build_last_production_from_stock(stock_json: Any) -> list:
 # MAIN FLOW
 # ----------------------------
 def main() -> int:
+    """Refresh the four source snapshots and existing production summary."""
     ensure_data_dir()
 
     urls: dict[str, Path] = {
         get_sample_request_url(): SAMPLE_REQUEST_FILE,
         get_stock_request_url(): STOCK_REQUEST_FILE,
         get_sales_order_url(): SALES_ORDER_FILE,
+        get_technical_information_url(): TECHNICAL_INFORMATION_FILE,
     }
 
     all_ok: bool = True
@@ -222,6 +249,10 @@ def main() -> int:
         print(f"Fetching {url}")
         data = fetch_json(url)
         if data is not None:
+            if path == TECHNICAL_INFORMATION_FILE and not is_technical_information_payload(data):
+                print("Technical information has an unsupported or incomplete format; keeping the saved file.")
+                all_ok = False
+                continue
             write_json(path, data)
             print(f"Saved {path}")
 

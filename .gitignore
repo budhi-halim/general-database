@@ -12,3 +12,26 @@
 !/data/stock_requests.json
 !/data/sales_orders.json
 !/data/last_production.json
+!/data/technical_information.json
+# Shared family assets
+!/assets/
+!/assets/family/
+!/assets/family/**
+
+# Read-only viewer pages
+!/*.html
+!/js/
+!/js/*.js
+!/tests/
+!/tests/*.py
+!/tests/*.mjs
+!/TECHNICAL-INFORMATION.md
+
+!/tools/
+!/tools/site-build/
+!/tools/site-build/**
+!/site-build.json
+!/.github/workflows/pages.yml
+/dist/
+/.site-build-*/
+/tools/site-build/node_modules/

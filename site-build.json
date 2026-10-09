@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "include": [
+    "index.html",
+    "js",
+    "assets",
+    "sales-orders.html",
+    "stock-requests.html",
+    "sample-requests.html",
+    "last-production.html",
+    "technical-information.html",
+    "data/sales_orders.json",
+    "data/stock_requests.json",
+    "data/sample_requests.json",
+    "data/last_production.json",
+    "data/technical_information.json"
+  ]
+}
