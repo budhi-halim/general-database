@@ -1,8 +1,76 @@
 {
   "draw": 0,
-  "recordsTotal": 24493,
-  "recordsFiltered": 24493,
+  "recordsTotal": 24501,
+  "recordsFiltered": 24501,
   "data": [
+    {
+      "srs_id": "24616",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "2244/IX/2025/SRS",
+      "kode_customer": "DWIKE",
+      "srs_no": "2467/X/2026/SRS",
+      "srs_date": "2026-10-16",
+      "srs_customer": "DUA KELINCI, PT.",
+      "srs_product": "SPICY PEANUT SEASONING",
+      "kode_produk": "31802413",
+      "srs_total_qty": "100",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24615",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "2894/XI/2025/SRS",
+      "kode_customer": "DWIKE",
+      "srs_no": "2466/X/2026/SRS",
+      "srs_date": "2026-10-16",
+      "srs_customer": "DUA KELINCI, PT.",
+      "srs_product": "ROASTED CORN PREMIX",
+      "kode_produk": "31602950",
+      "srs_total_qty": "50",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24614",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "0999/IV/2025/SRS",
+      "kode_customer": "",
+      "srs_no": "2465/X/2026/SRS",
+      "srs_date": "2026-10-15",
+      "srs_customer": "YAHYA HARIADI YUDANA",
+      "srs_product": "GARLIC OIL",
+      "kode_produk": "KA-544",
+      "srs_total_qty": "40",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24613",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2464/X/2026/SRS",
+      "srs_date": "2026-10-15",
+      "srs_customer": "PONDASI INTI SEJAHTERA, PT",
+      "srs_product": "BALADO SEASONING",
+      "kode_produk": "MT-169214 N",
+      "srs_total_qty": "250",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
     {
       "srs_id": "24608",
       "is_replacement": "NO",
@@ -18,7 +86,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24607",
@@ -35,7 +103,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24606",
@@ -52,7 +120,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24605",
@@ -69,7 +137,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24604",
@@ -84,9 +152,9 @@
       "kode_produk": "31602637",
       "srs_total_qty": "300",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24603",
@@ -101,9 +169,77 @@
       "kode_produk": "MT-159316 D",
       "srs_total_qty": "2500",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24609",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "1005/IV/2026/SRI",
+      "kode_customer": "CITAR",
+      "srs_no": "2460/X/2026/SRI",
+      "srs_date": "2026-10-15",
+      "srs_customer": "CITA RASA SUKSES,PT",
+      "srs_product": "HVP POWDER",
+      "kode_produk": "MT-627037",
+      "srs_total_qty": "2400",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Sucie",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24610",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "CITAR",
+      "srs_no": "2461/X/2026/SRS",
+      "srs_date": "2026-10-15",
+      "srs_customer": "CITA RASA SUKSES,PT",
+      "srs_product": "SOY SAUCE POWDER",
+      "kode_produk": "MT-625337",
+      "srs_total_qty": "1300",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Sucie",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24611",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "CITAR",
+      "srs_no": "2462/X/2026/SRS",
+      "srs_date": "2026-10-15",
+      "srs_customer": "CITA RASA SUKSES,PT",
+      "srs_product": "AYAM BAWANG SEASONING",
+      "kode_produk": "MT-21118 A",
+      "srs_total_qty": "100",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Sucie",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24612",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "CITAR",
+      "srs_no": "2463/X/2026/SRS",
+      "srs_date": "2026-10-15",
+      "srs_customer": "CITA RASA SUKSES,PT",
+      "srs_product": "GARLIC OIL",
+      "kode_produk": "MT-608558",
+      "srs_total_qty": "105",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Sucie",
+      "status_next": "complete"
     },
     {
       "srs_id": "24602",
@@ -120,7 +256,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24601",
@@ -137,7 +273,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24600",
@@ -154,7 +290,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24599",
@@ -171,7 +307,7 @@
       "srs_remarks": "Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24598",
@@ -188,7 +324,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24597",
@@ -205,7 +341,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24596",
