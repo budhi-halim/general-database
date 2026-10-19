@@ -1400,6 +1400,11 @@
     "product_code": "31407584"
   },
   {
+    "date": "2026-10-19",
+    "customer": "CHITARASA MEGAH JAYA",
+    "product_code": "31407594"
+  },
+  {
     "date": "2024-07-31",
     "customer": "AMERTA INDAH OTSUKA, PT",
     "product_code": "31407596"
@@ -1545,6 +1550,11 @@
     "product_code": "31408113"
   },
   {
+    "date": "2026-10-19",
+    "customer": "CHITARASA MEGAH JAYA",
+    "product_code": "31408210"
+  },
+  {
     "date": "2026-07-07",
     "customer": "PT. TRIO RASA MAS",
     "product_code": "31501862"
@@ -1615,7 +1625,7 @@
     "product_code": "31502530 "
   },
   {
-    "date": "2025-01-28",
+    "date": "2026-10-19",
     "customer": "Iing Suliyah",
     "product_code": "31502549"
   },
@@ -2450,7 +2460,7 @@
     "product_code": "31802405"
   },
   {
-    "date": "2026-10-16",
+    "date": "2026-10-19",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31802413"
   },
@@ -4140,8 +4150,8 @@
     "product_code": "MT-626737"
   },
   {
-    "date": "2026-10-15",
-    "customer": "CITA RASA SUKSES,PT",
+    "date": "2026-10-19",
+    "customer": "PT. KRISPI INDUSTRI INDONESIA ",
     "product_code": "MT-627037"
   },
   {
