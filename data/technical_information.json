@@ -1,8 +1,31 @@
 {
   "draw": 0,
-  "recordsTotal": 5938,
-  "recordsFiltered": 5938,
+  "recordsTotal": 5939,
+  "recordsFiltered": 5939,
   "data": [
+    {
+      "id_tir": "5939",
+      "tir_cetak": "1",
+      "tir_no": "820/X/2026/TIR",
+      "tir_id_srf": "-",
+      "tir_no_srf": "0",
+      "tir_pic": "78",
+      "id": "78",
+      "pic": "Bernard Abielius Sugiardja",
+      "tir_telp": "081212800480",
+      "tir_ir": "[\"General Product Spesification\",\"Halal Certification\",\"Material Safety Data Sheet\",\"\"]",
+      "date_tir": "21-Oct-2026",
+      "tir_additional_remark": "BBQ powder D-109 menjadi BQG990\r\nRoasted powder MT-632434 menjadi RTO275\r\nMohon COA dilampirkan setiap pengiriman barang.\r\nCoding internal customer, pengkodean tersebut dilakukan terhadap semua dokumen (Spec, MSDS, COA, Sertifikat Halal, Surat Jalan, Label Kemasan, Invoice, Faktur Pajak). Mohon lampirkan coa pada setiap pengiriman barang.\r\nNote PM: internal memo terlampir.",
+      "stat": "APPROVE",
+      "kat": "ENABLE",
+      "tir_jenis": "-",
+      "customer": "GANDUM MAS KENCANA, PT",
+      "customer_code": "",
+      "tujuan_jenis": "RND AND QA/QC",
+      "tir_locked_status": "OPEN",
+      "view": "<div class=\"btn-group\"><button type=\"button\" class=\"btn btn-xs btn-info\" onclick=\"edit(5939)\">Detail</button></div>",
+      "view2": "<div class=\"btn-group\"><button type=\"button\" class=\"btn btn-sm btn-primary\" onclick=\"edit(5939)\"><i class=\"fa fa-pencil\"></i> Edit</button><button type=\"button\" onclick=\"hapus(5939)\" class=\"btn btn-sm btn-danger\"><i class=\"fa fa-trash-o\"></i> Hapus</button></div>"
+    },
     {
       "id_tir": "5938",
       "tir_cetak": "1",
