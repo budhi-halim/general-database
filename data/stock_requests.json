@@ -1,8 +1,161 @@
 {
   "draw": 0,
-  "recordsTotal": 24565,
-  "recordsFiltered": 24565,
+  "recordsTotal": 24574,
+  "recordsFiltered": 24574,
   "data": [
+    {
+      "srs_id": "24689",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "MEGAH",
+      "srs_no": "2540/X/2026/SRS",
+      "srs_date": "2026-10-23",
+      "srs_customer": "MEGAHPUTRA SEJAHTERA, PT",
+      "srs_product": "BBQ SEASONING",
+      "kode_produk": "31405856",
+      "srs_total_qty": "200",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ferry",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24688",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2539/X/2026/SRS",
+      "srs_date": "2026-10-23",
+      "srs_customer": "PANEN KEBAIKAN BERSAMA",
+      "srs_product": "CHEESE SEASONING",
+      "kode_produk": "31502559",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24687",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2538/X/2026/SRS",
+      "srs_date": "2026-10-23",
+      "srs_customer": "TAMADDUN INTI PERKASA",
+      "srs_product": "YEAST EXTRACT POWDER",
+      "kode_produk": "MT-105737",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ferry",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24686",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2537/X/2026/SRS",
+      "srs_date": "2026-10-23",
+      "srs_customer": "TAMADDUN INTI PERKASA",
+      "srs_product": "SOY SAUCE POWDER",
+      "kode_produk": "MT-625337",
+      "srs_total_qty": "60",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ferry",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24685",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2536/X/2026/SRS",
+      "srs_date": "2026-10-23",
+      "srs_customer": "TAMADDUN INTI PERKASA",
+      "srs_product": "JAMUR EXTRACT POWDER",
+      "kode_produk": "31802333",
+      "srs_total_qty": "100",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ferry",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24684",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2535/X/2026/SRS",
+      "srs_date": "2026-10-23",
+      "srs_customer": "TAMADDUN INTI PERKASA",
+      "srs_product": "SHALLOT POWDER",
+      "kode_produk": "MT-3987",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ferry",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24683",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2534/X/2026/SRI",
+      "srs_date": "2026-10-23",
+      "srs_customer": "TAMADDUN INTI PERKASA",
+      "srs_product": "ONION POWDER",
+      "kode_produk": "881",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ferry",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24682",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2533/X/2026/SRS",
+      "srs_date": "2026-10-23",
+      "srs_customer": "TAMADDUN INTI PERKASA",
+      "srs_product": "GARLIC POWDER",
+      "kode_produk": "31801931",
+      "srs_total_qty": "200",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ferry",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24681",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2532/X/2026/SRS",
+      "srs_date": "2026-10-23",
+      "srs_customer": "Fisnack Inovasi Pangan",
+      "srs_product": "SALTED EGG SEASONING",
+      "kode_produk": "31102701",
+      "srs_total_qty": "40",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "complete"
+    },
     {
       "srs_id": "24680",
       "is_replacement": "NO",
@@ -16,9 +169,9 @@
       "kode_produk": "MT-632434",
       "srs_total_qty": "200",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24679",
@@ -33,9 +186,9 @@
       "kode_produk": "MT-105737",
       "srs_total_qty": "400",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24678",
@@ -50,9 +203,9 @@
       "kode_produk": "MT-1201316-0",
       "srs_total_qty": "100",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24677",
@@ -67,9 +220,9 @@
       "kode_produk": "MT-1201326-2",
       "srs_total_qty": "600",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24676",
@@ -84,9 +237,9 @@
       "kode_produk": "MT-1201326-2",
       "srs_total_qty": "2400",
       "srs_remarks": "Open Special Remark",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24675",
@@ -101,9 +254,9 @@
       "kode_produk": "D-113",
       "srs_total_qty": "50",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24674",
@@ -120,7 +273,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24673",
@@ -137,7 +290,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24672",
