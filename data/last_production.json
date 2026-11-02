@@ -65,7 +65,7 @@
     "product_code": "04-0025"
   },
   {
-    "date": "2026-09-07",
+    "date": "2026-11-02",
     "customer": "MAMAT RAHMAT",
     "product_code": "04-0122"
   },
@@ -105,7 +105,7 @@
     "product_code": "06-0091 F"
   },
   {
-    "date": "2026-10-05",
+    "date": "2026-10-30",
     "customer": "CV Rejo Makmur Jaya",
     "product_code": "08-0127"
   },
@@ -135,7 +135,7 @@
     "product_code": "22538 R "
   },
   {
-    "date": "2026-10-09",
+    "date": "2026-10-26",
     "customer": "INTI MEGAH INDONESIA, CV",
     "product_code": "2422"
   },
@@ -210,7 +210,7 @@
     "product_code": "31102707"
   },
   {
-    "date": "2026-09-23",
+    "date": "2026-10-31",
     "customer": "INTI SARI INTERNATIONAL, PT",
     "product_code": "31102720"
   },
@@ -260,7 +260,7 @@
     "product_code": "31102845"
   },
   {
-    "date": "2026-08-27",
+    "date": "2026-10-27",
     "customer": "UNITECH SUKSES MULIA, PT",
     "product_code": "31102873"
   },
@@ -270,7 +270,7 @@
     "product_code": "31102879"
   },
   {
-    "date": "2026-10-12",
+    "date": "2026-10-31",
     "customer": "CV. BINTANG WALET",
     "product_code": "31102885"
   },
@@ -305,7 +305,7 @@
     "product_code": "31102992"
   },
   {
-    "date": "2026-09-23",
+    "date": "2026-10-28",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "31102997"
   },
@@ -425,7 +425,7 @@
     "product_code": "31201542"
   },
   {
-    "date": "2026-08-31",
+    "date": "2026-10-28",
     "customer": "PT. Rukun Mitra Sentosa",
     "product_code": "31201573"
   },
@@ -680,8 +680,8 @@
     "product_code": "31404491"
   },
   {
-    "date": "2026-10-02",
-    "customer": "SOFYAN ARDIANTO",
+    "date": "2026-10-26",
+    "customer": "GITA, PT.",
     "product_code": "31404495"
   },
   {
@@ -835,8 +835,8 @@
     "product_code": "31405576"
   },
   {
-    "date": "2026-02-02",
-    "customer": "WILLY HARSONO",
+    "date": "2026-10-30",
+    "customer": "PT. Selera Hast Indonesia",
     "product_code": "31405713"
   },
   {
@@ -965,7 +965,7 @@
     "product_code": "31406352"
   },
   {
-    "date": "2026-09-23",
+    "date": "2026-10-28",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "31406355"
   },
@@ -980,8 +980,8 @@
     "product_code": "31406393"
   },
   {
-    "date": "2026-09-23",
-    "customer": "CV.TIGA ANUGERAH PANGAN",
+    "date": "2026-10-28",
+    "customer": "PRIMASARI,CV",
     "product_code": "31406427"
   },
   {
@@ -1110,7 +1110,7 @@
     "product_code": "31406689"
   },
   {
-    "date": "2026-10-14",
+    "date": "2026-10-28",
     "customer": "ARIRA PANGINDO, CV.",
     "product_code": "31406700"
   },
@@ -1255,8 +1255,8 @@
     "product_code": "31407069"
   },
   {
-    "date": "2026-10-01",
-    "customer": "CV.SURYA MANDIRI",
+    "date": "2026-10-27",
+    "customer": "PT.DUTA PANGAN NUSANTARA ",
     "product_code": "31407070"
   },
   {
@@ -1325,7 +1325,7 @@
     "product_code": "31407282"
   },
   {
-    "date": "2026-10-02",
+    "date": "2026-10-29",
     "customer": "PT Cibadak Indah Sari Farm",
     "product_code": "31407302"
   },
@@ -1345,7 +1345,7 @@
     "product_code": "31407333"
   },
   {
-    "date": "2026-04-21",
+    "date": "2026-10-28",
     "customer": "PT. TRIO RASA MAS",
     "product_code": "31407357"
   },
@@ -1395,7 +1395,7 @@
     "product_code": "31407519"
   },
   {
-    "date": "2026-09-23",
+    "date": "2026-10-28",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "31407584"
   },
@@ -1420,7 +1420,7 @@
     "product_code": "31407605"
   },
   {
-    "date": "2026-09-15",
+    "date": "2026-10-30",
     "customer": "PT. Selera Hast Indonesia",
     "product_code": "31407614"
   },
@@ -1440,8 +1440,8 @@
     "product_code": "31407627"
   },
   {
-    "date": "2025-05-20",
-    "customer": "DIANA SAFITRI",
+    "date": "2026-10-26",
+    "customer": "PT. TOBA SAMBAL INDONESIA",
     "product_code": "31407668"
   },
   {
@@ -1725,12 +1725,12 @@
     "product_code": "31503006"
   },
   {
-    "date": "2026-09-23",
+    "date": "2026-10-31",
     "customer": "INTI SARI INTERNATIONAL, PT",
     "product_code": "31503011"
   },
   {
-    "date": "2026-09-23",
+    "date": "2026-10-31",
     "customer": "INTI SARI INTERNATIONAL, PT",
     "product_code": "31503061"
   },
@@ -1820,7 +1820,12 @@
     "product_code": "31503339"
   },
   {
-    "date": "2026-09-14",
+    "date": "2026-10-26",
+    "customer": "PT. TOBA SAMBAL INDONESIA",
+    "product_code": "31503377"
+  },
+  {
+    "date": "2026-10-30",
     "customer": "MIRASA FOOD INDUSTRY.PT",
     "product_code": "31503380"
   },
@@ -1865,7 +1870,7 @@
     "product_code": "31602013"
   },
   {
-    "date": "2026-01-09",
+    "date": "2026-11-02",
     "customer": "RIZAL ADI SAPUTRO",
     "product_code": "31602017"
   },
@@ -1925,7 +1930,7 @@
     "product_code": "31602176"
   },
   {
-    "date": "2026-01-07",
+    "date": "2026-10-29",
     "customer": "Mulia Inti Pangan, PT",
     "product_code": "31602192"
   },
@@ -1990,7 +1995,7 @@
     "product_code": "31602480"
   },
   {
-    "date": "2026-09-23",
+    "date": "2026-10-31",
     "customer": "INTI SARI INTERNATIONAL, PT",
     "product_code": "31602487"
   },
@@ -2055,7 +2060,7 @@
     "product_code": "31602622"
   },
   {
-    "date": "2026-10-21",
+    "date": "2026-10-29",
     "customer": "MANOHARA ASRI, PT",
     "product_code": "31602637"
   },
@@ -2095,8 +2100,8 @@
     "product_code": "31602756"
   },
   {
-    "date": "2026-10-07",
-    "customer": "SARI MURNI JAYA, PT.",
+    "date": "2026-11-02",
+    "customer": "SARI MURNI ABADI, PT.",
     "product_code": "31602758"
   },
   {
@@ -2120,7 +2125,7 @@
     "product_code": "31602784"
   },
   {
-    "date": "2026-10-05",
+    "date": "2026-10-26",
     "customer": "GITA, PT.",
     "product_code": "31602794"
   },
@@ -2200,7 +2205,7 @@
     "product_code": "31602950"
   },
   {
-    "date": "2026-10-20",
+    "date": "2026-10-28",
     "customer": "INDOFOOD FORTUNA MAKMUR",
     "product_code": "31602989"
   },
@@ -2210,7 +2215,7 @@
     "product_code": "31602990"
   },
   {
-    "date": "2026-10-20",
+    "date": "2026-10-28",
     "customer": "INDOFOOD FORTUNA MAKMUR",
     "product_code": "31602992"
   },
@@ -2225,7 +2230,7 @@
     "product_code": "31603045"
   },
   {
-    "date": "2026-09-21",
+    "date": "2026-10-30",
     "customer": "SURABAYA TOP",
     "product_code": "31603065"
   },
@@ -2270,7 +2275,7 @@
     "product_code": "31700490"
   },
   {
-    "date": "2026-10-15",
+    "date": "2026-10-29",
     "customer": "INDOFOOD CBP SUKSES MAKMUR TBK, PT.",
     "product_code": "31700492"
   },
@@ -2300,7 +2305,7 @@
     "product_code": "31801667"
   },
   {
-    "date": "2026-10-02",
+    "date": "2026-10-29",
     "customer": "PT Cibadak Indah Sari Farm",
     "product_code": "31801718"
   },
@@ -2420,7 +2425,7 @@
     "product_code": "31802251"
   },
   {
-    "date": "2026-09-17",
+    "date": "2026-10-26",
     "customer": "CIPTA SELERA SEMESTA, PT",
     "product_code": "31802256"
   },
@@ -2465,12 +2470,12 @@
     "product_code": "31802413"
   },
   {
-    "date": "2026-09-23",
+    "date": "2026-10-31",
     "customer": "INTI SARI INTERNATIONAL, PT",
     "product_code": "31802422"
   },
   {
-    "date": "2026-09-22",
+    "date": "2026-10-28",
     "customer": "SUMBER INTI PANGAN, PT.",
     "product_code": "31802435"
   },
@@ -2690,7 +2695,7 @@
     "product_code": "31900628"
   },
   {
-    "date": "2026-09-23",
+    "date": "2026-10-31",
     "customer": "INTI SARI INTERNATIONAL, PT",
     "product_code": "31900640"
   },
@@ -3050,8 +3055,8 @@
     "product_code": "62900001"
   },
   {
-    "date": "2026-10-23",
-    "customer": "TAMADDUN INTI PERKASA",
+    "date": "2026-11-02",
+    "customer": "HEINZ ABC INDONESIA, PT",
     "product_code": "881"
   },
   {
@@ -3215,7 +3220,7 @@
     "product_code": "FW-276"
   },
   {
-    "date": "2026-10-06",
+    "date": "2026-10-28",
     "customer": "NISSIN FOODS INDONESIA.PT",
     "product_code": "GMS-1010 E"
   },
@@ -3250,7 +3255,7 @@
     "product_code": "GMS-2090"
   },
   {
-    "date": "2026-09-23",
+    "date": "2026-10-28",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "GMS-21031"
   },
@@ -3265,7 +3270,7 @@
     "product_code": "GMS-3028"
   },
   {
-    "date": "2026-10-13",
+    "date": "2026-11-02",
     "customer": "PT.INDOMAS JAYA",
     "product_code": "HVP WCI"
   },
@@ -3325,8 +3330,8 @@
     "product_code": "MS-0804"
   },
   {
-    "date": "2026-10-14",
-    "customer": "ARIRA PANGINDO, CV.",
+    "date": "2026-10-31",
+    "customer": "INTI SARI INTERNATIONAL, PT",
     "product_code": "MS-0806"
   },
   {
@@ -3375,8 +3380,8 @@
     "product_code": "MT-101759"
   },
   {
-    "date": "2026-10-23",
-    "customer": "TAMADDUN INTI PERKASA",
+    "date": "2026-10-29",
+    "customer": "SINAR KENCANA AGUNG, PT",
     "product_code": "MT-105737"
   },
   {
@@ -3390,7 +3395,7 @@
     "product_code": "MT-108711"
   },
   {
-    "date": "2026-09-21",
+    "date": "2026-10-28",
     "customer": "Golden Powder Drink ",
     "product_code": "MT-1100084-2"
   },
@@ -3420,7 +3425,7 @@
     "product_code": "MT-1100576-0"
   },
   {
-    "date": "2026-09-21",
+    "date": "2026-10-28",
     "customer": "Golden Powder Drink ",
     "product_code": "MT-1100694-1"
   },
@@ -3485,7 +3490,7 @@
     "product_code": "MT-1105124-0"
   },
   {
-    "date": "2026-09-23",
+    "date": "2026-10-28",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "MT-1105124-3"
   },
@@ -3585,12 +3590,12 @@
     "product_code": "MT-1200805-0"
   },
   {
-    "date": "2026-10-23",
+    "date": "2026-10-29",
     "customer": "SINAR KENCANA AGUNG, PT",
     "product_code": "MT-1201316-0"
   },
   {
-    "date": "2026-10-23",
+    "date": "2026-10-29",
     "customer": "SINAR KENCANA AGUNG, PT",
     "product_code": "MT-1201326-2"
   },
@@ -3805,8 +3810,8 @@
     "product_code": "MT-169214"
   },
   {
-    "date": "2026-10-22",
-    "customer": "REAL FOOD WINTA ASIA",
+    "date": "2026-10-30",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-169214 N"
   },
   {
@@ -3815,8 +3820,8 @@
     "product_code": "MT-169214 R"
   },
   {
-    "date": "2026-09-23",
-    "customer": "SEKAR BUMI TBK, PT",
+    "date": "2026-10-30",
+    "customer": "PT.SEKAR BUMI INDUSTRI",
     "product_code": "MT-171331 C"
   },
   {
@@ -3825,7 +3830,7 @@
     "product_code": "MT-180516"
   },
   {
-    "date": "2026-09-07",
+    "date": "2026-10-28",
     "customer": "PT. TRIO MAHA JAYA",
     "product_code": "MT-180516 I"
   },
@@ -3935,7 +3940,7 @@
     "product_code": "MT-363813 F"
   },
   {
-    "date": "2026-09-21",
+    "date": "2026-10-28",
     "customer": "Golden Powder Drink ",
     "product_code": "MT-365718"
   },
@@ -3945,8 +3950,8 @@
     "product_code": "MT-373438"
   },
   {
-    "date": "2026-10-05",
-    "customer": "NUTRIFOOD INDONESIA, PT",
+    "date": "2026-10-29",
+    "customer": "GRAHAINMA SINARTRIKARSA,PT.(PT GIST",
     "product_code": "MT-3779 A"
   },
   {
@@ -4000,7 +4005,7 @@
     "product_code": "MT-500"
   },
   {
-    "date": "2026-04-17",
+    "date": "2026-11-02",
     "customer": "FA. SEMPANA",
     "product_code": "MT-50511 A"
   },
@@ -4095,8 +4100,8 @@
     "product_code": "MT-579914"
   },
   {
-    "date": "2026-10-20",
-    "customer": "USMAN",
+    "date": "2026-10-26",
+    "customer": "DUA KELINCI, PT.",
     "product_code": "MT-585016 A"
   },
   {
@@ -4155,8 +4160,8 @@
     "product_code": "MT-626737"
   },
   {
-    "date": "2026-10-19",
-    "customer": "PT. KRISPI INDUSTRI INDONESIA ",
+    "date": "2026-10-30",
+    "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-627037"
   },
   {
@@ -4175,7 +4180,7 @@
     "product_code": "MT-631618 C"
   },
   {
-    "date": "2026-10-23",
+    "date": "2026-10-29",
     "customer": "SINAR KENCANA AGUNG, PT",
     "product_code": "MT-632434"
   },
@@ -4325,7 +4330,7 @@
     "product_code": "MT-766433"
   },
   {
-    "date": "2026-10-08",
+    "date": "2026-11-02",
     "customer": "MACROPRIMA PANGAN UTAMA, PT",
     "product_code": "MT-766631"
   },
@@ -4340,7 +4345,7 @@
     "product_code": "MT-774131"
   },
   {
-    "date": "2026-09-08",
+    "date": "2026-10-30",
     "customer": "CREATIVE CULINARY (BOGA GROUP)",
     "product_code": "MT-777738 B"
   },
@@ -4490,8 +4495,8 @@
     "product_code": "SBF-8693"
   },
   {
-    "date": "2026-09-23",
-    "customer": "KONG KIE MALINDO JAYA",
+    "date": "2026-10-29",
+    "customer": "GRAHAINMA SINARTRIKARSA,PT.(PT GIST",
     "product_code": "SP-3715"
   },
   {
