@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 20737,
-  "recordsFiltered": 20737,
+  "recordsTotal": 20742,
+  "recordsFiltered": 20742,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -290203,7 +290203,7 @@
       "so_customer": "PT.SEKAR BUMI INDUSTRI",
       "so_po_no": "PO-26-10-00172/FOOD",
       "so_sales": "Bernard Abielius Sugiardja",
-      "so_total_spb": "21231414",
+      "so_total_spb": "28874723.04",
       "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
@@ -290320,6 +290320,76 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20822\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-11-02 14:28:27",
+      "so_id": "20823",
+      "so_no": "12/ISI/SPB/XI/2026",
+      "so_date": "2026-11-02",
+      "so_customer": "INDOFOOD FORTUNA MAKMUR",
+      "so_po_no": "4507484121",
+      "so_sales": "Angel (Sales)",
+      "so_total_spb": "12299791230",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20823\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-11-02 15:02:25",
+      "so_id": "20824",
+      "so_no": "13/ISI/SPB/XI/2026",
+      "so_date": "2026-11-02",
+      "so_customer": "INDOFOOD FORTUNA MAKMUR",
+      "so_po_no": "4507484121",
+      "so_sales": "Angel (Sales)",
+      "so_total_spb": "6063171870",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20824\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-11-03 10:04:56",
+      "so_id": "20825",
+      "so_no": "14/ISI/SPB/XI/2026",
+      "so_date": "2026-11-03",
+      "so_customer": "INDOFOOD CBP SUKSES MAKMUR, PT",
+      "so_po_no": "4507485187",
+      "so_sales": "Angel (Sales)",
+      "so_total_spb": "610950660",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20825\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-11-03 10:13:37",
+      "so_id": "20826",
+      "so_no": "15/ISI/SPB/XI/2026",
+      "so_date": "2026-11-03",
+      "so_customer": "CV.TIGA ANUGERAH PANGAN",
+      "so_po_no": "22/X/FKO/SBY/2026",
+      "so_sales": "Ferry",
+      "so_total_spb": "2922075",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20826\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-11-03 12:56:43",
+      "so_id": "20827",
+      "so_no": "16/ISI/SPB/XI/2026",
+      "so_date": "2026-11-03",
+      "so_customer": "Lidya Sulistyo",
+      "so_po_no": "23/X/FKO/SBY/2026",
+      "so_sales": "Lily",
+      "so_total_spb": "1984125",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20827\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
