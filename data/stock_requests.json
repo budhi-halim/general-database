@@ -1,8 +1,195 @@
 {
   "draw": 0,
-  "recordsTotal": 24655,
-  "recordsFiltered": 24655,
+  "recordsTotal": 24666,
+  "recordsFiltered": 24666,
   "data": [
+    {
+      "srs_id": "24781",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2632/XI/2026/SRS",
+      "srs_date": "2026-11-04",
+      "srs_customer": "TAMAN SAFARI INDONESIA",
+      "srs_product": "MARINATION SEASONING",
+      "kode_produk": "31407984",
+      "srs_total_qty": "150",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24780",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2631/XI/2026/SRS",
+      "srs_date": "2026-11-04",
+      "srs_customer": "TAMAN SAFARI INDONESIA",
+      "srs_product": "BREADING PREMIX",
+      "kode_produk": "31802690",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24779",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2630/XI/2026/SRS",
+      "srs_date": "2026-11-04",
+      "srs_customer": "TAMAN SAFARI INDONESIA",
+      "srs_product": "BREADING PREMIX",
+      "kode_produk": "31802690",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24778",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2629/XI/2026/SRS",
+      "srs_date": "2026-11-04",
+      "srs_customer": "FRANKY SETIAWAN, BP",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "MT-585016 A",
+      "srs_total_qty": "500",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Era Gresia Octavia",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24777",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2628/XI/2026/SRS",
+      "srs_date": "2026-11-04",
+      "srs_customer": "CV.TIGA ANUGERAH PANGAN",
+      "srs_product": "MALA SEASONING",
+      "kode_produk": "31407282",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ferry",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24776",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2627/XI/2026/SRS",
+      "srs_date": "2026-11-04",
+      "srs_customer": "CV.TIGA ANUGERAH PANGAN",
+      "srs_product": "SMOKE SAUSAGE POWDER",
+      "kode_produk": "31201539",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ferry",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24775",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2626/XI/2026/SRS",
+      "srs_date": "2026-11-04",
+      "srs_customer": "CV.TIGA ANUGERAH PANGAN",
+      "srs_product": "SAPI PANGGANG SEASONING",
+      "kode_produk": "MT-706412",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ferry",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24774",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "ANESA",
+      "srs_no": "2625/XI/2026/SRS",
+      "srs_date": "2026-11-04",
+      "srs_customer": "ANEKA SARIVITA, PT.",
+      "srs_product": "BEEF POWDER",
+      "kode_produk": "31201247",
+      "srs_total_qty": "25",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24773",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "UNILE",
+      "srs_no": "2624/XI/2026/SRI",
+      "srs_date": "2026-11-04",
+      "srs_customer": "UNILEVER INDONESIA TBK, PT",
+      "srs_product": "HVP WCI",
+      "kode_produk": "HVP WCI",
+      "srs_total_qty": "10000",
+      "srs_remarks": "Special Remark",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24772",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2623/XI/2026/SRS",
+      "srs_date": "2026-11-03",
+      "srs_customer": "PT.Siumang Teman Sukses (SAIKHO INDO KREATIF, PT.)",
+      "srs_product": "BALADO 3 GB",
+      "kode_produk": "31407519",
+      "srs_total_qty": "1000",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24771",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "1256/V/2026/SRJ",
+      "kode_customer": "",
+      "srs_no": "2622/XI/2026/SRJ",
+      "srs_date": "2026-11-03",
+      "srs_customer": "KOKI SEHAT SEJAHTERA ",
+      "srs_product": "JELLY POWDER",
+      "kode_produk": "2422",
+      "srs_total_qty": "600",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Era Gresia Octavia",
+      "status_next": "blank"
+    },
     {
       "srs_id": "24770",
       "is_replacement": "NO",
@@ -18,7 +205,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24769",
@@ -35,7 +222,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24768",
@@ -52,7 +239,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24767",
@@ -86,7 +273,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24765",
@@ -103,7 +290,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ferry",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24764",
@@ -120,7 +307,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24763",
@@ -137,7 +324,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24762",
@@ -154,7 +341,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24761",
@@ -171,7 +358,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24760",
@@ -188,7 +375,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24759",
@@ -205,7 +392,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Angel (Sales)",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24758",
@@ -222,7 +409,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24757",
