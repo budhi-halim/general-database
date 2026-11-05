@@ -1,8 +1,76 @@
 {
   "draw": 0,
-  "recordsTotal": 24666,
-  "recordsFiltered": 24666,
+  "recordsTotal": 24670,
+  "recordsFiltered": 24670,
   "data": [
+    {
+      "srs_id": "24785",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SADA",
+      "srs_no": "2636/XI/2026/SRS",
+      "srs_date": "2026-11-05",
+      "srs_customer": "SADANG JAYA MAKMUR",
+      "srs_product": "BALADO SEASONING",
+      "kode_produk": "31404495",
+      "srs_total_qty": "150",
+      "srs_remarks": "Advance",
+      "srs_status": "Waiting Approval",
+      "name": "Ferry",
+      "status_next": "blank"
+    },
+    {
+      "srs_id": "24784",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": "2924/XI/2025/SRS",
+      "kode_customer": "",
+      "srs_no": "2635/XI/2026/SRS",
+      "srs_date": "2026-11-05",
+      "srs_customer": "PT.DUTA PANGAN NUSANTARA ",
+      "srs_product": "TOMATO POWDER",
+      "kode_produk": "31802364",
+      "srs_total_qty": "3000",
+      "srs_remarks": "Open Special Remark",
+      "srs_status": "complete",
+      "name": "Lily",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24783",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "HANS",
+      "srs_no": "2634/XI/2026/SRS",
+      "srs_date": "2026-11-05",
+      "srs_customer": "HANS CHRISTIAN",
+      "srs_product": "SOY SAUCE",
+      "kode_produk": "MT-626737",
+      "srs_total_qty": "150",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Bernard Abielius Sugiardja",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24782",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "DWIKE",
+      "srs_no": "2633/XI/2026/SRS",
+      "srs_date": "2026-11-04",
+      "srs_customer": "DUA KELINCI, PT.",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "31602769",
+      "srs_total_qty": "700",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
     {
       "srs_id": "24781",
       "is_replacement": "NO",
@@ -18,7 +86,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24780",
@@ -35,7 +103,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24779",
@@ -52,7 +120,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24778",
@@ -69,7 +137,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Era Gresia Octavia",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24777",
@@ -86,7 +154,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ferry",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24776",
@@ -103,7 +171,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ferry",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24775",
@@ -120,7 +188,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ferry",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24774",
@@ -137,7 +205,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Bernard Abielius Sugiardja",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24773",
@@ -154,7 +222,7 @@
       "srs_remarks": "Special Remark",
       "srs_status": "complete",
       "name": "Budhiarto Halim",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24772",
@@ -171,7 +239,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24771",
@@ -188,7 +256,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Era Gresia Octavia",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24770",
