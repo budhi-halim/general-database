@@ -305,7 +305,7 @@
     "product_code": "31102992"
   },
   {
-    "date": "2026-10-28",
+    "date": "2026-11-12",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "31102997"
   },
@@ -510,8 +510,8 @@
     "product_code": "31301043"
   },
   {
-    "date": "2026-11-03",
-    "customer": "SITI MAESAROH",
+    "date": "2026-11-12",
+    "customer": "Ultima Rasa Global,CV",
     "product_code": "31301078"
   },
   {
@@ -915,8 +915,8 @@
     "product_code": "31406197"
   },
   {
-    "date": "2026-11-09",
-    "customer": "REAL FOOD WINTA ASIA",
+    "date": "2026-11-12",
+    "customer": "CHITARASA MEGAH JAYA",
     "product_code": "31406198"
   },
   {
@@ -965,7 +965,7 @@
     "product_code": "31406352"
   },
   {
-    "date": "2026-10-28",
+    "date": "2026-11-12",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "31406355"
   },
@@ -1015,7 +1015,7 @@
     "product_code": "31406486"
   },
   {
-    "date": "2026-01-30",
+    "date": "2026-11-12",
     "customer": "CV.TOOIT JAYA SEJAHTERA",
     "product_code": "31406510"
   },
@@ -1055,7 +1055,7 @@
     "product_code": "31406590"
   },
   {
-    "date": "2026-11-10",
+    "date": "2026-11-12",
     "customer": "INDOFOOD FORTUNA MAKMUR",
     "product_code": "31406591"
   },
@@ -1260,8 +1260,8 @@
     "product_code": "31407070"
   },
   {
-    "date": "2026-11-06",
-    "customer": "AHMAD FAUZI",
+    "date": "2026-11-12",
+    "customer": "PT. LEBLE BOGA ADIPERKASA",
     "product_code": "31407081"
   },
   {
@@ -1390,12 +1390,12 @@
     "product_code": "31407504"
   },
   {
-    "date": "2026-11-03",
+    "date": "2026-11-12",
     "customer": "PT.Siumang Teman Sukses (SAIKHO INDO KREATIF, PT.)",
     "product_code": "31407519"
   },
   {
-    "date": "2026-10-28",
+    "date": "2026-11-12",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "31407584"
   },
@@ -1835,7 +1835,7 @@
     "product_code": "31503387"
   },
   {
-    "date": "2026-11-10",
+    "date": "2026-11-12",
     "customer": "SENTRAL MULTIRASA UTAMA, PT",
     "product_code": "31601841"
   },
@@ -2145,7 +2145,7 @@
     "product_code": "31602831"
   },
   {
-    "date": "2026-06-19",
+    "date": "2026-11-12",
     "customer": "DUA KELINCI, PT.",
     "product_code": "31602847"
   },
@@ -2190,7 +2190,7 @@
     "product_code": "31602919"
   },
   {
-    "date": "2026-11-11",
+    "date": "2026-11-10",
     "customer": "SARI MURNI ABADI, PT.",
     "product_code": "31602922"
   },
@@ -2245,7 +2245,7 @@
     "product_code": "31603070"
   },
   {
-    "date": "2026-10-01",
+    "date": "2026-11-12",
     "customer": "BRATA ADI LAKSANA, PT",
     "product_code": "31603097"
   },
@@ -2265,7 +2265,7 @@
     "product_code": "31700433"
   },
   {
-    "date": "2026-10-07",
+    "date": "2026-11-12",
     "customer": "MEIJI FOOD INDONESIA, PT",
     "product_code": "31700465"
   },
@@ -2275,7 +2275,7 @@
     "product_code": "31700490"
   },
   {
-    "date": "2026-11-10",
+    "date": "2026-11-12",
     "customer": "INDOFOOD CBP SUKSES MAKMUR TBK, PT.",
     "product_code": "31700492"
   },
@@ -2305,7 +2305,7 @@
     "product_code": "31801667"
   },
   {
-    "date": "2026-10-29",
+    "date": "2026-11-11",
     "customer": "PT Cibadak Indah Sari Farm",
     "product_code": "31801718"
   },
@@ -2475,8 +2475,8 @@
     "product_code": "31802422"
   },
   {
-    "date": "2026-10-28",
-    "customer": "SUMBER INTI PANGAN, PT.",
+    "date": "2026-11-12",
+    "customer": "SANITA SELOK JAYA,CV",
     "product_code": "31802435"
   },
   {
@@ -2520,7 +2520,7 @@
     "product_code": "31802480"
   },
   {
-    "date": "2026-06-08",
+    "date": "2026-11-12",
     "customer": "PT. LEBLE BOGA ADIPERKASA",
     "product_code": "31802488"
   },
@@ -2643,6 +2643,11 @@
     "date": "2026-08-11",
     "customer": "PT. JAMAN SEHAT SEMPURNA ",
     "product_code": "31802709"
+  },
+  {
+    "date": "2026-11-12",
+    "customer": "CHITARASA MEGAH JAYA",
+    "product_code": "31802734"
   },
   {
     "date": "2025-02-10",
@@ -3145,8 +3150,8 @@
     "product_code": "CAI-3779 A"
   },
   {
-    "date": "2026-10-08",
-    "customer": "Super Rasa",
+    "date": "2026-11-12",
+    "customer": "SANITA SELOK JAYA,CV",
     "product_code": "CM-01"
   },
   {
@@ -3215,8 +3220,8 @@
     "product_code": "E-505"
   },
   {
-    "date": "2026-09-28",
-    "customer": "KOKI SEHAT SEJAHTERA ",
+    "date": "2026-11-12",
+    "customer": "EVERFRESH INDOBEVERAGE",
     "product_code": "FW-276"
   },
   {
@@ -3255,7 +3260,7 @@
     "product_code": "GMS-2090"
   },
   {
-    "date": "2026-10-28",
+    "date": "2026-11-12",
     "customer": "CV. GLOBALINDO PANGAN NUSANTARA",
     "product_code": "GMS-21031"
   },
@@ -3415,8 +3420,8 @@
     "product_code": "MT-1100334-1"
   },
   {
-    "date": "2026-09-07",
-    "customer": "CV. Tiga Beruang Makmur",
+    "date": "2026-11-12",
+    "customer": "PT. LEBLE BOGA ADIPERKASA",
     "product_code": "MT-1100524-1"
   },
   {
@@ -3875,8 +3880,8 @@
     "product_code": "MT-279654"
   },
   {
-    "date": "2026-09-21",
-    "customer": "Golden Powder Drink ",
+    "date": "2026-11-12",
+    "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-283914"
   },
   {
@@ -4145,7 +4150,7 @@
     "product_code": "MT-614318"
   },
   {
-    "date": "2026-10-08",
+    "date": "2026-11-11",
     "customer": "LASALLE FOOD INDONESIA, PT.",
     "product_code": "MT-625237"
   },
@@ -4220,7 +4225,7 @@
     "product_code": "MT-636313 A"
   },
   {
-    "date": "2026-10-21",
+    "date": "2026-11-12",
     "customer": "PT.GOLDEN LEAVES JAYA ABADI",
     "product_code": "MT-645916 E"
   },
@@ -4295,8 +4300,8 @@
     "product_code": "MT-730614"
   },
   {
-    "date": "2023-12-08",
-    "customer": "PONDASI INTI SEJAHTERA, PT",
+    "date": "2026-11-12",
+    "customer": "CHITARASA MEGAH JAYA",
     "product_code": "MT-733511"
   },
   {
@@ -4450,8 +4455,8 @@
     "product_code": "MT-92159"
   },
   {
-    "date": "2026-09-23",
-    "customer": "SUMBER PANGAN SUKSES, CV",
+    "date": "2026-11-12",
+    "customer": "PT. DAMARUS FOOD INDUSTRI",
     "product_code": "MT-92959"
   },
   {
