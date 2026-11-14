@@ -1,8 +1,31 @@
 {
   "draw": 0,
-  "recordsTotal": 5983,
-  "recordsFiltered": 5983,
+  "recordsTotal": 5984,
+  "recordsFiltered": 5984,
   "data": [
+    {
+      "id_tir": "5984",
+      "tir_cetak": "0",
+      "tir_no": "865/XI/2026/TIR",
+      "tir_id_srf": "-",
+      "tir_no_srf": "0",
+      "tir_pic": "45",
+      "id": "45",
+      "pic": "Lily",
+      "tir_telp": "FAX (031) 7884242",
+      "tir_ir": "[\"Mohon bisa dicekkan , apakah produk tersebut dibawah comply untuk negara Palestine , email dari Customer sudah saya teruskan ke mbak Arum \"]",
+      "date_tir": "13-Nov-2026",
+      "tir_additional_remark": "",
+      "stat": "PROCESSPM",
+      "kat": "ENABLE",
+      "tir_jenis": "-",
+      "customer": "MANOHARA ASRI, PT",
+      "customer_code": "MANOA",
+      "tujuan_jenis": "RND",
+      "tir_locked_status": "OPEN",
+      "view": "<div class=\"btn-group\"><button type=\"button\" class=\"btn btn-xs btn-info\" onclick=\"edit(5984)\">Detail</button></div>",
+      "view2": "<div class=\"btn-group\"><button type=\"button\" class=\"btn btn-sm btn-primary\" onclick=\"edit(5984)\"><i class=\"fa fa-pencil\"></i> Edit</button><button type=\"button\" onclick=\"hapus(5984)\" class=\"btn btn-sm btn-danger\"><i class=\"fa fa-trash-o\"></i> Hapus</button></div>"
+    },
     {
       "id_tir": "5983",
       "tir_cetak": "1",

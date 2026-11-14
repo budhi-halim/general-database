@@ -1,8 +1,25 @@
 {
   "draw": 0,
-  "recordsTotal": 24777,
-  "recordsFiltered": 24777,
+  "recordsTotal": 24778,
+  "recordsFiltered": 24778,
   "data": [
+    {
+      "srs_id": "24893",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2744/XI/2026/SRS",
+      "srs_date": "2026-11-13",
+      "srs_customer": "PT.INDOFOOD CBP SUKSES MAKMUR ( Food Seasoning Division )",
+      "srs_product": "ROASTED POWDER",
+      "kode_produk": "MT-632434",
+      "srs_total_qty": "1800",
+      "srs_remarks": "Special Remark",
+      "srs_status": "Waiting Approval",
+      "name": "Angel (Sales)",
+      "status_next": "blank"
+    },
     {
       "srs_id": "24892",
       "is_replacement": "NO",
