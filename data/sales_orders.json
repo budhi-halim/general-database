@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 20863,
-  "recordsFiltered": 20863,
+  "recordsTotal": 20869,
+  "recordsFiltered": 20869,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -291548,7 +291548,7 @@
       "so_po_no": "2026-000598",
       "so_sales": "Marchelina",
       "so_total_spb": "128736734.39999998",
-      "so_status": "pending",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20910\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
@@ -292084,6 +292084,90 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20948\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-11-16 15:50:50",
+      "so_id": "20949",
+      "so_no": "138/ISI/SPB/XI/2026",
+      "so_date": "2026-11-16",
+      "so_customer": "KOKI SEHAT SEJAHTERA ",
+      "so_po_no": "0073/V/BHN-KSS",
+      "so_sales": "Era Gresia Octavia",
+      "so_total_spb": "63461475",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20949\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-11-17 10:19:51",
+      "so_id": "20950",
+      "so_no": "139/ISI/SPB/XI/2026",
+      "so_date": "2026-11-17",
+      "so_customer": "WINARTO",
+      "so_po_no": "",
+      "so_sales": "Budhiarto Halim",
+      "so_total_spb": "12114540",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20950\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-11-17 11:08:01",
+      "so_id": "20951",
+      "so_no": "140/ISI/SPB/XI/2026",
+      "so_date": "2026-11-17",
+      "so_customer": "CV.TIGA ANUGERAH PANGAN",
+      "so_po_no": "06/XI/FKO/SBY/2026",
+      "so_sales": "Ferry",
+      "so_total_spb": "1398600",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20951\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-11-17 11:14:43",
+      "so_id": "20952",
+      "so_no": "141/ISI/SPB/XI/2026",
+      "so_date": "2026-11-17",
+      "so_customer": "SANITAS,PT",
+      "so_po_no": "PO-FD-2026-006286",
+      "so_sales": "Era Gresia Octavia",
+      "so_total_spb": "76045711.5",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20952\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-11-17 11:17:37",
+      "so_id": "20953",
+      "so_no": "142/ISI/SPB/XI/2026",
+      "so_date": "2026-11-17",
+      "so_customer": "KOKI SEHAT SEJAHTERA ",
+      "so_po_no": "0073/V/BHN-KSS",
+      "so_sales": "Era Gresia Octavia",
+      "so_total_spb": "63461475",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20953\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-11-17 13:22:02",
+      "so_id": "20954",
+      "so_no": "143/ISI/SPB/XI/2026",
+      "so_date": "2026-11-17",
+      "so_customer": "Fisnack Inovasi Pangan",
+      "so_po_no": "",
+      "so_sales": "Marchelina",
+      "so_total_spb": "10771440",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20954\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
