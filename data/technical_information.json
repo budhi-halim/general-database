@@ -1,8 +1,31 @@
 {
   "draw": 0,
-  "recordsTotal": 5987,
-  "recordsFiltered": 5987,
+  "recordsTotal": 5988,
+  "recordsFiltered": 5988,
   "data": [
+    {
+      "id_tir": "5988",
+      "tir_cetak": "0",
+      "tir_no": "869/XI/2026/TIR",
+      "tir_id_srf": "1460/X/2026/SRF",
+      "tir_no_srf": "13226",
+      "tir_pic": "45",
+      "id": "45",
+      "pic": "Lily",
+      "tir_telp": "0341-352512",
+      "tir_ir": "[\"General Product Spesification\",\"Minta spec dan IL lengkap % nya \"]",
+      "date_tir": "18-Nov-2026",
+      "tir_additional_remark": "",
+      "stat": "PROCESSPM",
+      "kat": "ENABLE",
+      "tir_jenis": "Sample Request",
+      "customer": "SINAR KENCANA AGUNG, PT",
+      "customer_code": "SIKAG",
+      "tujuan_jenis": "RND",
+      "tir_locked_status": "OPEN",
+      "view": "<div class=\"btn-group\"><button type=\"button\" class=\"btn btn-xs btn-info\" onclick=\"edit(5988)\">Detail</button></div>",
+      "view2": "<div class=\"btn-group\"><button type=\"button\" class=\"btn btn-sm btn-primary\" onclick=\"edit(5988)\"><i class=\"fa fa-pencil\"></i> Edit</button><button type=\"button\" onclick=\"hapus(5988)\" class=\"btn btn-sm btn-danger\"><i class=\"fa fa-trash-o\"></i> Hapus</button></div>"
+    },
     {
       "id_tir": "5987",
       "tir_cetak": "1",
