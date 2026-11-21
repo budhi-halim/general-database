@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 20914,
-  "recordsFiltered": 20914,
+  "recordsTotal": 20915,
+  "recordsFiltered": 20915,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -292798,6 +292798,20 @@
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/20999\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-11-21 11:19:24",
+      "so_id": "21000",
+      "so_no": "189/ISI/SPB/XI/2026",
+      "so_date": "2026-11-21",
+      "so_customer": "SIANTAR TOP TBK, PT",
+      "so_po_no": "PO1-00158/11/26",
+      "so_sales": "Sucie",
+      "so_total_spb": "145414440",
+      "so_status": "pending",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/21000\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
