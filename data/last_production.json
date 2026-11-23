@@ -340,6 +340,11 @@
     "product_code": "31103093"
   },
   {
+    "date": "2026-11-23",
+    "customer": "SUGIJANTORO",
+    "product_code": "31103113"
+  },
+  {
     "date": "2022-08-25",
     "customer": "Lilis Suryani",
     "product_code": "31201245"
@@ -2295,7 +2300,7 @@
     "product_code": "31801642 (NON TBHQ)"
   },
   {
-    "date": "2026-08-14",
+    "date": "2026-11-23",
     "customer": "CV.SURYA MANDIRI",
     "product_code": "31801649"
   },
@@ -3165,8 +3170,8 @@
     "product_code": "CT-581"
   },
   {
-    "date": "2026-11-17",
-    "customer": "SANITAS,PT",
+    "date": "2026-11-23",
+    "customer": "SUGIJANTORO",
     "product_code": "D-101"
   },
   {
@@ -3280,8 +3285,8 @@
     "product_code": "GMS-3028"
   },
   {
-    "date": "2026-11-18",
-    "customer": "PT.DUTA PANGAN NUSANTARA ",
+    "date": "2026-11-23",
+    "customer": "SUGIJANTORO",
     "product_code": "HVP WCI"
   },
   {
@@ -3810,7 +3815,7 @@
     "product_code": "MT-162553"
   },
   {
-    "date": "2026-10-02",
+    "date": "2026-11-23",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-1644 P5"
   },
@@ -3855,7 +3860,7 @@
     "product_code": "MT-193256"
   },
   {
-    "date": "2026-10-15",
+    "date": "2026-11-23",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-21118 A"
   },
@@ -3955,7 +3960,7 @@
     "product_code": "MT-365718"
   },
   {
-    "date": "2026-10-02",
+    "date": "2026-11-23",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-373438"
   },
@@ -4145,7 +4150,7 @@
     "product_code": "MT-605812 A"
   },
   {
-    "date": "2026-10-15",
+    "date": "2026-11-23",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-608558"
   },
@@ -4160,8 +4165,8 @@
     "product_code": "MT-625237"
   },
   {
-    "date": "2026-11-18",
-    "customer": "ABC PRESIDENT INDONESIA, PT",
+    "date": "2026-11-23",
+    "customer": "CHITARASA MEGAH JAYA",
     "product_code": "MT-625337"
   },
   {
@@ -4170,7 +4175,7 @@
     "product_code": "MT-626737"
   },
   {
-    "date": "2026-11-21",
+    "date": "2026-11-23",
     "customer": "CITA RASA SUKSES,PT",
     "product_code": "MT-627037"
   },
