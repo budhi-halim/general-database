@@ -1,8 +1,76 @@
 {
   "draw": 0,
-  "recordsTotal": 24876,
-  "recordsFiltered": 24876,
+  "recordsTotal": 24880,
+  "recordsFiltered": 24880,
   "data": [
+    {
+      "srs_id": "24995",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2846/XI/2026/SRS",
+      "srs_date": "2026-11-26",
+      "srs_customer": "ANUGERAH ADIBOGA ABADI, PT",
+      "srs_product": "CUMI SEASONING",
+      "kode_produk": "31301351",
+      "srs_total_qty": "50",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Budhiarto Halim",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24994",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "SMP",
+      "srs_no": "2845/XI/2026/SRS",
+      "srs_date": "2026-11-26",
+      "srs_customer": "SARI MURNI ABADI, PT.",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "31602922",
+      "srs_total_qty": "200",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24993",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "DWIKE",
+      "srs_no": "2844/XI/2026/SRS",
+      "srs_date": "2026-11-26",
+      "srs_customer": "DUA KELINCI, PT.",
+      "srs_product": "SAVOURY SEASONING",
+      "kode_produk": "31102194",
+      "srs_total_qty": "175",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Ary Joko Priyanto",
+      "status_next": "complete"
+    },
+    {
+      "srs_id": "24992",
+      "is_replacement": "NO",
+      "is_olddata": "0",
+      "srs_srs_no": null,
+      "kode_customer": "",
+      "srs_no": "2843/XI/2026/SRS",
+      "srs_date": "2026-11-26",
+      "srs_customer": "CV.Nusantara Sehat Mandiri",
+      "srs_product": "CHILLI POWDER",
+      "kode_produk": "31406197",
+      "srs_total_qty": "20",
+      "srs_remarks": "Advance",
+      "srs_status": "complete",
+      "name": "Marchelina",
+      "status_next": "complete"
+    },
     {
       "srs_id": "24991",
       "is_replacement": "NO",
@@ -16,9 +84,9 @@
       "kode_produk": "31802440",
       "srs_total_qty": "50",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Era Gresia Octavia",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24990",
@@ -33,9 +101,9 @@
       "kode_produk": "W-800",
       "srs_total_qty": "100",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Era Gresia Octavia",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24989",
@@ -50,9 +118,9 @@
       "kode_produk": "HVP WCI",
       "srs_total_qty": "200",
       "srs_remarks": "Advance",
-      "srs_status": "Waiting Approval",
+      "srs_status": "complete",
       "name": "Era Gresia Octavia",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24988",
@@ -69,7 +137,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24987",
@@ -86,7 +154,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24986",
@@ -188,7 +256,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24980",
@@ -212,17 +280,17 @@
       "is_replacement": "NO",
       "is_olddata": "0",
       "srs_srs_no": null,
-      "kode_customer": "",
+      "kode_customer": "SARMS",
       "srs_no": "2830/XI/2026/SRS",
       "srs_date": "2026-11-25",
-      "srs_customer": "Fisnack Inovasi Pangan",
-      "srs_product": "SALTED EGG SEASONING",
-      "kode_produk": "31102701",
-      "srs_total_qty": "40",
+      "srs_customer": "SARI MURNI JAYA, PT.",
+      "srs_product": "ROASTED CORN SEASONING",
+      "kode_produk": "31602758",
+      "srs_total_qty": "1000",
       "srs_remarks": "Advance",
-      "srs_status": "NEW",
+      "srs_status": "complete",
       "name": "Marchelina",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24978",
@@ -324,7 +392,7 @@
       "srs_remarks": "Open Special Remark",
       "srs_status": "complete",
       "name": "Lily",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24972",
@@ -579,7 +647,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "partial"
     },
     {
       "srs_id": "24954",
@@ -1089,7 +1157,7 @@
       "srs_remarks": "Advance",
       "srs_status": "complete",
       "name": "Ary Joko Priyanto",
-      "status_next": "blank"
+      "status_next": "complete"
     },
     {
       "srs_id": "24932",

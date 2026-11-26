@@ -1,7 +1,7 @@
 {
   "draw": 0,
-  "recordsTotal": 20956,
-  "recordsFiltered": 20956,
+  "recordsTotal": 20959,
+  "recordsFiltered": 20959,
   "data": [
     {
       "so_created_at": "2020-01-08 09:49:00",
@@ -293381,11 +293381,53 @@
       "so_customer": "CV Wahana Pangan Lestari",
       "so_po_no": "DK26-1202264",
       "so_sales": "Era Gresia Octavia",
-      "so_total_spb": "20230499.749500003",
-      "so_status": "pending",
+      "so_total_spb": "20680498.8555",
+      "so_status": "approve",
       "so_jenis": "REGULER",
       "tax_stat": "TAXABLE",
       "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/21041\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-11-26 11:26:09",
+      "so_id": "21042",
+      "so_no": "230/ISI/SPB/XI/2026",
+      "so_date": "2026-11-26",
+      "so_customer": "DUA KELINCI, PT.",
+      "so_po_no": "26102291",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "10983477.75",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/21042\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-11-26 11:28:39",
+      "so_id": "21043",
+      "so_no": "231/ISI/SPB/XI/2026",
+      "so_date": "2026-11-26",
+      "so_customer": "DUA KELINCI, PT.",
+      "so_po_no": "26040680",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "22813830",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/21043\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
+    },
+    {
+      "so_created_at": "2026-11-26 11:31:19",
+      "so_id": "21044",
+      "so_no": "232/ISI/SPB/XI/2026",
+      "so_date": "2026-11-26",
+      "so_customer": "DUA KELINCI, PT.",
+      "so_po_no": "26111556",
+      "so_sales": "Ary Joko Priyanto",
+      "so_total_spb": "7276993.5",
+      "so_status": "approve",
+      "so_jenis": "REGULER",
+      "tax_stat": "TAXABLE",
+      "view": "<div class=\"btn-group\"> <a href=\"http://apps.islandsunindonesia.com:81/islandsun/sales-order/edit/21044\" class=\"btn btn-info btn-xs\"><span class=\"txt-white fa fa-eye\"></span> Detail</a>"
     }
   ]
 }
